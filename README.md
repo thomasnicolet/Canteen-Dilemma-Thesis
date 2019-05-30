@@ -1,2 +1,2 @@
 # canteen_dilemma_thesis
-This repository contains the python code used for data analysis of the canteen dilemma experiment related to Thomas S. Nicolet's masters thesis in philosophy.  The canteen dilemma was an experiment conducted at the Center for Information and Bubble Studies.
+This repository contains the python code used for data analysis of the canteen dilemma experiment related to Thomas S. Nicolet's masters thesis in philosophy.  The canteen dilemma was an experiment conducted at the Center for Information and Bubble Studies (CIBS). Data is excluded but required to compile plots, and access to data is decided by CIBS. In order for plots to run, the repository needs a folder called "Data" containing 3 csv datafiles.
