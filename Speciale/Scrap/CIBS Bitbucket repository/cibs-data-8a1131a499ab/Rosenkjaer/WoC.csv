@@ -1,0 +1,826 @@
+participant.id_in_session,participant.code,participant.payoff,player.id_in_group,player.answer,player.reason,player.certainty,player.payoff,group.id_in_subsession,group.question_number,group.question_round,group.start_round_for_question,group.end_round_for_question,group.question_type,group.question_name,group.correct_answer,group.average,group.best_answer,subsession.round_number
+1,6lamhe53,13,1,9,,,0,2,1,1,1,3,objective_subjective,Alcohol,,11.2,,1
+2,o94nz35c,13.5,3,7,,,0,2,1,1,1,3,objective_subjective,Alcohol,,11.2,,1
+3,4iblv6uf,7.5,2,21,,,0,2,1,1,1,3,objective_subjective,Alcohol,,11.2,,1
+4,445x4xqn,13,4,9,,,0,2,1,1,1,3,objective_subjective,Alcohol,,11.2,,1
+5,hgesum5h,10.5,1,85,,,0,3,1,1,1,3,subjective,Rate the Painting,,56.2,,1
+6,fwo1nm5j,13,5,10,,,0,2,1,1,1,3,objective_subjective,Alcohol,,11.2,,1
+7,cfshrnv2,15.5,3,69,,,0,3,1,1,1,3,subjective,Rate the Painting,,56.2,,1
+8,qck7b3d8,12.5,2,9,,,0,3,1,1,1,3,subjective,Rate the Painting,,56.2,,1
+9,z5i2sd4h,11,4,50,,,0,3,1,1,1,3,subjective,Rate the Painting,,56.2,,1
+10,58jd0wja,10.5,5,68,,,0,3,1,1,1,3,subjective,Rate the Painting,,56.2,,1
+11,hi0514hp,9.5,2,10,,,0,4,1,1,1,3,subjective,Thirst,,29.6,,1
+12,tiz3qse6,13.5,1,40,,,0,4,1,1,1,3,subjective,Thirst,,29.6,,1
+13,7ddvv1y8,19,1,40,,,0,5,1,1,1,3,objective,Grand Theft Auto 2015,24,45,,1
+14,c1m77a16,13.5,4,25,,,0,4,1,1,1,3,subjective,Thirst,,29.6,,1
+15,81zmzsqk,14,5,50,,,0,5,1,1,1,3,objective,Grand Theft Auto 2015,24,45,,1
+16,420yijoy,4,3,55,,,0,5,1,1,1,3,objective,Grand Theft Auto 2015,24,45,,1
+17,103s11he,11,3,58,,,0,4,1,1,1,3,subjective,Thirst,,29.6,,1
+18,t8hw0qs5,12.5,5,15,,,0,4,1,1,1,3,subjective,Thirst,,29.6,,1
+19,at4i1bkp,12,2,45,,,0,5,1,1,1,3,objective,Grand Theft Auto 2015,24,45,,1
+20,o7kn0d5q,11,4,35,,,0,5,1,1,1,3,objective,Grand Theft Auto 2015,24,45,,1
+21,ium8u4yn,13.5,1,900,,,0,6,1,1,1,3,objective,The Weight of an Ox,1233,891.4,,1
+22,uzg56stl,14,2,775,,Neutral,0,6,1,1,1,3,objective,The Weight of an Ox,1233,891.4,,1
+23,jliixcgf,4.5,4,650,,Certain,0,6,1,1,1,3,objective,The Weight of an Ox,1233,891.4,,1
+24,m8vk9e2o,16,5,1332,,,0,6,1,1,1,3,objective,The Weight of an Ox,1233,891.4,,1
+25,5551u6hb,12,3,800,,Uncertain,0,6,1,1,1,3,objective,The Weight of an Ox,1233,891.4,,1
+1,6lamhe53,13,1,9,,,0,2,1,2,1,3,objective_subjective,Alcohol,,11.6,,2
+2,o94nz35c,13.5,3,9,,,0,2,1,2,1,3,objective_subjective,Alcohol,,11.6,,2
+3,4iblv6uf,7.5,2,21,,,0,2,1,2,1,3,objective_subjective,Alcohol,,11.6,,2
+4,445x4xqn,13,4,9,,,0,2,1,2,1,3,objective_subjective,Alcohol,,11.6,,2
+5,hgesum5h,10.5,1,90,,,0,3,1,2,1,3,subjective,Rate the Painting,,57.2,,2
+6,fwo1nm5j,13,5,10,,,0,2,1,2,1,3,objective_subjective,Alcohol,,11.6,,2
+7,cfshrnv2,15.5,3,69,,,0,3,1,2,1,3,subjective,Rate the Painting,,57.2,,2
+8,qck7b3d8,12.5,2,9,,,0,3,1,2,1,3,subjective,Rate the Painting,,57.2,,2
+9,z5i2sd4h,11,4,50,,,0,3,1,2,1,3,subjective,Rate the Painting,,57.2,,2
+10,58jd0wja,10.5,5,68,,,0,3,1,2,1,3,subjective,Rate the Painting,,57.2,,2
+11,hi0514hp,9.5,2,10,,,0,4,1,2,1,3,subjective,Thirst,,30.6,,2
+12,tiz3qse6,13.5,1,40,,,0,4,1,2,1,3,subjective,Thirst,,30.6,,2
+13,7ddvv1y8,19,1,40,"Im very sure that the average went down, as the police have gotten better and more effective",Neutral,0,5,1,2,1,3,objective,Grand Theft Auto 2015,24,235,,2
+14,c1m77a16,13.5,4,25,,,0,4,1,2,1,3,subjective,Thirst,,30.6,,2
+15,81zmzsqk,14,5,45,1000,,0,5,1,2,1,3,objective,Grand Theft Auto 2015,24,235,,2
+16,420yijoy,4,3,55,,,0,5,1,2,1,3,objective,Grand Theft Auto 2015,24,235,,2
+17,103s11he,11,3,58,,,0,4,1,2,1,3,subjective,Thirst,,30.6,,2
+18,t8hw0qs5,12.5,5,20,,,0,4,1,2,1,3,subjective,Thirst,,30.6,,2
+19,at4i1bkp,12,2,45,,,0,5,1,2,1,3,objective,Grand Theft Auto 2015,24,235,,2
+20,o7kn0d5q,11,4,35,,,0,5,1,2,1,3,objective,Grand Theft Auto 2015,24,235,,2
+21,ium8u4yn,13.5,1,900,,,0,6,1,2,1,3,objective,The Weight of an Ox,1233,859.4,,2
+22,uzg56stl,14,2,800,,,0,6,1,2,1,3,objective,The Weight of an Ox,1233,859.4,,2
+23,jliixcgf,4.5,4,750,,,0,6,1,2,1,3,objective,The Weight of an Ox,1233,859.4,,2
+24,m8vk9e2o,16,5,1047,,,0,6,1,2,1,3,objective,The Weight of an Ox,1233,859.4,,2
+25,5551u6hb,12,3,800,,,0,6,1,2,1,3,objective,The Weight of an Ox,1233,859.4,,2
+1,6lamhe53,13,1,9,,,0,2,1,3,1,3,objective_subjective,Alcohol,,9.8,,3
+2,o94nz35c,13.5,3,7,,,0,2,1,3,1,3,objective_subjective,Alcohol,,9.8,,3
+3,4iblv6uf,7.5,2,14,,,0,2,1,3,1,3,objective_subjective,Alcohol,,9.8,,3
+4,445x4xqn,13,4,9,,,0,2,1,3,1,3,objective_subjective,Alcohol,,9.8,,3
+5,hgesum5h,10.5,1,90,,,0,3,1,3,1,3,subjective,Rate the Painting,,58.64,,3
+6,fwo1nm5j,13,5,10,,,0,2,1,3,1,3,objective_subjective,Alcohol,,9.8,,3
+7,cfshrnv2,15.5,3,69,,,0,3,1,3,1,3,subjective,Rate the Painting,,58.64,,3
+8,qck7b3d8,12.5,2,9,,,0,3,1,3,1,3,subjective,Rate the Painting,,58.64,,3
+9,z5i2sd4h,11,4,57.2,,,0,3,1,3,1,3,subjective,Rate the Painting,,58.64,,3
+10,58jd0wja,10.5,5,68,,,0,3,1,3,1,3,subjective,Rate the Painting,,58.64,,3
+11,hi0514hp,9.5,2,10,,,0,4,1,3,1,3,subjective,Thirst,,29.6,,3
+12,tiz3qse6,13.5,1,45,,,0,4,1,3,1,3,subjective,Thirst,,29.6,,3
+13,7ddvv1y8,19,1,40,"My opinion was not changed, as i havent been presented with any reasoning for the others answers",Neutral,5,5,1,3,1,3,objective,Grand Theft Auto 2015,24,37,40,3
+14,c1m77a16,13.5,4,25,,,0,4,1,3,1,3,subjective,Thirst,,29.6,,3
+15,81zmzsqk,14,5,45,,,3.5,5,1,3,1,3,objective,Grand Theft Auto 2015,24,37,40,3
+16,420yijoy,4,3,55,,,1,5,1,3,1,3,objective,Grand Theft Auto 2015,24,37,40,3
+17,103s11he,11,3,48,,,0,4,1,3,1,3,subjective,Thirst,,29.6,,3
+18,t8hw0qs5,12.5,5,20,,,0,4,1,3,1,3,subjective,Thirst,,29.6,,3
+19,at4i1bkp,12,2,45,,,3.5,5,1,3,1,3,objective,Grand Theft Auto 2015,24,37,40,3
+20,o7kn0d5q,11,4,0,,,2,5,1,3,1,3,objective,Grand Theft Auto 2015,24,37,40,3
+21,ium8u4yn,13.5,1,900,,,4,6,1,3,1,3,objective,The Weight of an Ox,1233,832.6,913,3
+22,uzg56stl,14,2,800,,,2.5,6,1,3,1,3,objective,The Weight of an Ox,1233,832.6,913,3
+23,jliixcgf,4.5,4,750,,,1,6,1,3,1,3,objective,The Weight of an Ox,1233,832.6,913,3
+24,m8vk9e2o,16,5,913,,,5,6,1,3,1,3,objective,The Weight of an Ox,1233,832.6,913,3
+25,5551u6hb,12,3,800,,Neutral,2.5,6,1,3,1,3,objective,The Weight of an Ox,1233,832.6,913,3
+1,6lamhe53,13,1,450,,,0,2,2,1,4,6,objective,Carbon Dioxide over Hawaii,409.01,464.16,,4
+2,o94nz35c,13.5,3,600,,,0,2,2,1,4,6,objective,Carbon Dioxide over Hawaii,409.01,464.16,,4
+3,4iblv6uf,7.5,2,510,,,0,2,2,1,4,6,objective,Carbon Dioxide over Hawaii,409.01,464.16,,4
+4,445x4xqn,13,4,300,"I would assume that the amount of carbondioxide has went down, seeing as iour enviorment is a major concern to many",Very Uncertain,0,2,2,1,4,6,objective,Carbon Dioxide over Hawaii,409.01,464.16,,4
+5,hgesum5h,10.5,1,95,,,0,3,2,1,4,6,objective_subjective,Following the News,,73.4,,4
+6,fwo1nm5j,13,5,460.82,,,0,2,2,1,4,6,objective,Carbon Dioxide over Hawaii,409.01,464.16,,4
+7,cfshrnv2,15.5,3,42,,,0,3,2,1,4,6,objective_subjective,Following the News,,73.4,,4
+8,qck7b3d8,12.5,2,90,,,0,3,2,1,4,6,objective_subjective,Following the News,,73.4,,4
+9,z5i2sd4h,11,4,50,,,0,3,2,1,4,6,objective_subjective,Following the News,,73.4,,4
+10,58jd0wja,10.5,5,90,,,0,3,2,1,4,6,objective_subjective,Following the News,,73.4,,4
+11,hi0514hp,9.5,2,475,,,0,4,2,1,4,6,objective,Carbon Dioxide over Hawaii,409.01,461.53,,4
+12,tiz3qse6,13.5,1,450,,Neutral,0,4,2,1,4,6,objective,Carbon Dioxide over Hawaii,409.01,461.53,,4
+13,7ddvv1y8,19,1,10,,,0,5,2,1,4,6,subjective,Thirst,,228.8,,4
+14,c1m77a16,13.5,4,414.39,,Neutral,0,4,2,1,4,6,objective,Carbon Dioxide over Hawaii,409.01,461.53,,4
+15,81zmzsqk,14,5,70,,,0,5,2,1,4,6,subjective,Thirst,,228.8,,4
+16,420yijoy,4,3,20,,,0,5,2,1,4,6,subjective,Thirst,,228.8,,4
+17,103s11he,11,3,513.25,,,0,4,2,1,4,6,objective,Carbon Dioxide over Hawaii,409.01,461.53,,4
+18,t8hw0qs5,12.5,5,455,,Uncertain,0,4,2,1,4,6,objective,Carbon Dioxide over Hawaii,409.01,461.53,,4
+19,at4i1bkp,12,2,45,,,0,5,2,1,4,6,subjective,Thirst,,228.8,,4
+20,o7kn0d5q,11,4,NaN,999,,0,5,2,1,4,6,subjective,Thirst,,228.8,,4
+21,ium8u4yn,13.5,1,457,,,0,6,2,1,4,6,objective,Carbon Dioxide over Hawaii,409.01,467.09,,4
+22,uzg56stl,14,2,409,,,0,6,2,1,4,6,objective,Carbon Dioxide over Hawaii,409.01,467.09,,4
+23,jliixcgf,4.5,4,507.67,,,0,6,2,1,4,6,objective,Carbon Dioxide over Hawaii,409.01,467.09,,4
+24,m8vk9e2o,16,5,543.8,,,0,6,2,1,4,6,objective,Carbon Dioxide over Hawaii,409.01,467.09,,4
+25,5551u6hb,12,3,418,,,0,6,2,1,4,6,objective,Carbon Dioxide over Hawaii,409.01,467.09,,4
+1,6lamhe53,13,1,460,,,0,2,2,2,4,6,objective,Carbon Dioxide over Hawaii,409.01,477.33,,5
+2,o94nz35c,13.5,3,470,,,0,2,2,2,4,6,objective,Carbon Dioxide over Hawaii,409.01,477.33,,5
+3,4iblv6uf,7.5,2,510,Der udledes flere giftstoffer - tænker at den stiger ,Uncertain,0,2,2,2,4,6,objective,Carbon Dioxide over Hawaii,409.01,477.33,,5
+4,445x4xqn,13,4,464.16,,,0,2,2,2,4,6,objective,Carbon Dioxide over Hawaii,409.01,477.33,,5
+5,hgesum5h,10.5,1,100,,,0,3,2,2,4,6,objective_subjective,Following the News,,66,,5
+6,fwo1nm5j,13,5,482.47,,,0,2,2,2,4,6,objective,Carbon Dioxide over Hawaii,409.01,477.33,,5
+7,cfshrnv2,15.5,3,0,,,0,3,2,2,4,6,objective_subjective,Following the News,,66,,5
+8,qck7b3d8,12.5,2,90,,,0,3,2,2,4,6,objective_subjective,Following the News,,66,,5
+9,z5i2sd4h,11,4,50,,,0,3,2,2,4,6,objective_subjective,Following the News,,66,,5
+10,58jd0wja,10.5,5,90,,,0,3,2,2,4,6,objective_subjective,Following the News,,66,,5
+11,hi0514hp,9.5,2,450,,,0,4,2,2,4,6,objective,Carbon Dioxide over Hawaii,409.01,453.77,,5
+12,tiz3qse6,13.5,1,440,,,0,4,2,2,4,6,objective,Carbon Dioxide over Hawaii,409.01,453.77,,5
+13,7ddvv1y8,19,1,10,,,0,5,2,2,4,6,subjective,Thirst,,33.2,,5
+14,c1m77a16,13.5,4,435,"I remembered a statistic stating the levels increases by 40% from 1990, and I adjusted my answer accordingly. ",Certain,0,4,2,2,4,6,objective,Carbon Dioxide over Hawaii,409.01,453.77,,5
+15,81zmzsqk,14,5,70,,,0,5,2,2,4,6,subjective,Thirst,,33.2,,5
+16,420yijoy,4,3,25,,,0,5,2,2,4,6,subjective,Thirst,,33.2,,5
+17,103s11he,11,3,488.83,,,0,4,2,2,4,6,objective,Carbon Dioxide over Hawaii,409.01,453.77,,5
+18,t8hw0qs5,12.5,5,455,,,0,4,2,2,4,6,objective,Carbon Dioxide over Hawaii,409.01,453.77,,5
+19,at4i1bkp,12,2,45,,,0,5,2,2,4,6,subjective,Thirst,,33.2,,5
+20,o7kn0d5q,11,4,16,,,0,5,2,2,4,6,subjective,Thirst,,33.2,,5
+21,ium8u4yn,13.5,1,448,,Uncertain,0,6,2,2,4,6,objective,Carbon Dioxide over Hawaii,409.01,453.4,,5
+22,uzg56stl,14,2,409,,Certain,0,6,2,2,4,6,objective,Carbon Dioxide over Hawaii,409.01,453.4,,5
+23,jliixcgf,4.5,4,487,,,0,6,2,2,4,6,objective,Carbon Dioxide over Hawaii,409.01,453.4,,5
+24,m8vk9e2o,16,5,503,,Certain,0,6,2,2,4,6,objective,Carbon Dioxide over Hawaii,409.01,453.4,,5
+25,5551u6hb,12,3,420,,,0,6,2,2,4,6,objective,Carbon Dioxide over Hawaii,409.01,453.4,,5
+1,6lamhe53,13,1,460,,,5,2,2,3,4,6,objective,Carbon Dioxide over Hawaii,409.01,477.33,460,6
+2,o94nz35c,13.5,3,470,,Very Uncertain,3,2,2,3,4,6,objective,Carbon Dioxide over Hawaii,409.01,477.33,460,6
+3,4iblv6uf,7.5,2,510,,,1,2,2,3,4,6,objective,Carbon Dioxide over Hawaii,409.01,477.33,460,6
+4,445x4xqn,13,4,464.16,,,4,2,2,3,4,6,objective,Carbon Dioxide over Hawaii,409.01,477.33,460,6
+5,hgesum5h,10.5,1,100,,,0,3,2,3,4,6,objective_subjective,Following the News,,85,,6
+6,fwo1nm5j,13,5,482.47,"1. Svar er for det meste et vildt gæt, medmindre man ved noget om det pågældende spørgsmål.   2. Svar kunne jeg så ændre mit gæt i tilfælde af at det lå langt fra resten af min gruppes.  3. Svar er for det meste det samme som 1.",Neutral,2,2,2,3,4,6,objective,Carbon Dioxide over Hawaii,409.01,477.33,460,6
+7,cfshrnv2,15.5,3,90,,,0,3,2,3,4,6,objective_subjective,Following the News,,85,,6
+8,qck7b3d8,12.5,2,90,,,0,3,2,3,4,6,objective_subjective,Following the News,,85,,6
+9,z5i2sd4h,11,4,50,,,0,3,2,3,4,6,objective_subjective,Following the News,,85,,6
+10,58jd0wja,10.5,5,95,,,0,3,2,3,4,6,objective_subjective,Following the News,,85,,6
+11,hi0514hp,9.5,2,450,,,3,4,2,3,4,6,objective,Carbon Dioxide over Hawaii,409.01,450.39,435,6
+12,tiz3qse6,13.5,1,445,,,4,4,2,3,4,6,objective,Carbon Dioxide over Hawaii,409.01,450.39,435,6
+13,7ddvv1y8,19,1,10,,,0,5,2,3,4,6,subjective,Thirst,,33.4,,6
+14,c1m77a16,13.5,4,435,,,5,4,2,3,4,6,objective,Carbon Dioxide over Hawaii,409.01,450.39,435,6
+15,81zmzsqk,14,5,70,,,0,5,2,3,4,6,subjective,Thirst,,33.4,,6
+16,420yijoy,4,3,25,,,0,5,2,3,4,6,subjective,Thirst,,33.4,,6
+17,103s11he,11,3,466.95,,,1,4,2,3,4,6,objective,Carbon Dioxide over Hawaii,409.01,450.39,435,6
+18,t8hw0qs5,12.5,5,455,,,2,4,2,3,4,6,objective,Carbon Dioxide over Hawaii,409.01,450.39,435,6
+19,at4i1bkp,12,2,46,,,0,5,2,3,4,6,subjective,Thirst,,33.4,,6
+20,o7kn0d5q,11,4,16,,,0,5,2,3,4,6,subjective,Thirst,,33.4,,6
+21,ium8u4yn,13.5,1,427,,,2,6,2,3,4,6,objective,Carbon Dioxide over Hawaii,409.01,429,409,6
+22,uzg56stl,14,2,409,,Certain,5,6,2,3,4,6,objective,Carbon Dioxide over Hawaii,409.01,429,409,6
+23,jliixcgf,4.5,4,480,,,1,6,2,3,4,6,objective,Carbon Dioxide over Hawaii,409.01,429,409,6
+24,m8vk9e2o,16,5,414,,,4,6,2,3,4,6,objective,Carbon Dioxide over Hawaii,409.01,429,409,6
+25,5551u6hb,12,3,415,,,3,6,2,3,4,6,objective,Carbon Dioxide over Hawaii,409.01,429,409,6
+1,6lamhe53,13,1,50,,,0,2,3,1,7,9,subjective,Star Wars,,66.6,,7
+2,o94nz35c,13.5,3,50,,,0,2,3,1,7,9,subjective,Star Wars,,66.6,,7
+3,4iblv6uf,7.5,2,80,,,0,2,3,1,7,9,subjective,Star Wars,,66.6,,7
+4,445x4xqn,13,4,69,,,0,2,3,1,7,9,subjective,Star Wars,,66.6,,7
+5,hgesum5h,10.5,1,800,,,0,3,3,1,7,9,objective,The Weight of an Ox,1233,710,,7
+6,fwo1nm5j,13,5,84,,,0,2,3,1,7,9,subjective,Star Wars,,66.6,,7
+7,cfshrnv2,15.5,3,1000,,,0,3,3,1,7,9,objective,The Weight of an Ox,1233,710,,7
+8,qck7b3d8,12.5,2,500,Jeg svarede 500 kg eftersom udfra gennemsnitspris for kød på 30 kroner for en bakke med 500 gram og og prisen på en okse på en hel okse på 30000,Certain,0,3,3,1,7,9,objective,The Weight of an Ox,1233,710,,7
+9,z5i2sd4h,11,4,750,,Neutral,0,3,3,1,7,9,objective,The Weight of an Ox,1233,710,,7
+10,58jd0wja,10.5,5,500,,,0,3,3,1,7,9,objective,The Weight of an Ox,1233,710,,7
+11,hi0514hp,9.5,2,42,,,0,4,3,1,7,9,objective,Grand Theft Auto 2015,24,39.2,,7
+12,tiz3qse6,13.5,1,40,,,0,4,3,1,7,9,objective,Grand Theft Auto 2015,24,39.2,,7
+13,7ddvv1y8,19,1,27,,,0,5,3,1,7,9,objective_subjective,Picnic,,25.6,,7
+14,c1m77a16,13.5,4,36,,,0,4,3,1,7,9,objective,Grand Theft Auto 2015,24,39.2,,7
+15,81zmzsqk,14,5,25,,,0,5,3,1,7,9,objective_subjective,Picnic,,25.6,,7
+16,420yijoy,4,3,23,,,0,5,3,1,7,9,objective_subjective,Picnic,,25.6,,7
+17,103s11he,11,3,42,,,0,4,3,1,7,9,objective,Grand Theft Auto 2015,24,39.2,,7
+18,t8hw0qs5,12.5,5,36,,Uncertain,0,4,3,1,7,9,objective,Grand Theft Auto 2015,24,39.2,,7
+19,at4i1bkp,12,2,28,,,0,5,3,1,7,9,objective_subjective,Picnic,,25.6,,7
+20,o7kn0d5q,11,4,25,,,0,5,3,1,7,9,objective_subjective,Picnic,,25.6,,7
+21,ium8u4yn,13.5,1,62,,,0,6,3,1,7,9,subjective,Rate the Painting,,67.4,,7
+22,uzg56stl,14,2,58,,,0,6,3,1,7,9,subjective,Rate the Painting,,67.4,,7
+23,jliixcgf,4.5,4,79,,,0,6,3,1,7,9,subjective,Rate the Painting,,67.4,,7
+24,m8vk9e2o,16,5,53,,,0,6,3,1,7,9,subjective,Rate the Painting,,67.4,,7
+25,5551u6hb,12,3,85,,,0,6,3,1,7,9,subjective,Rate the Painting,,67.4,,7
+1,6lamhe53,13,1,50,,,0,2,3,2,7,9,subjective,Star Wars,,67.8,,8
+2,o94nz35c,13.5,3,50,,,0,2,3,2,7,9,subjective,Star Wars,,67.8,,8
+3,4iblv6uf,7.5,2,80,,,0,2,3,2,7,9,subjective,Star Wars,,67.8,,8
+4,445x4xqn,13,4,67,,,0,2,3,2,7,9,subjective,Star Wars,,67.8,,8
+5,hgesum5h,10.5,1,800,The ox looked heavy,Certain,0,3,3,2,7,9,objective,The Weight of an Ox,1233,770,,8
+6,fwo1nm5j,13,5,92,,,0,2,3,2,7,9,subjective,Star Wars,,67.8,,8
+7,cfshrnv2,15.5,3,900,,,0,3,3,2,7,9,objective,The Weight of an Ox,1233,770,,8
+8,qck7b3d8,12.5,2,700,,,0,3,3,2,7,9,objective,The Weight of an Ox,1233,770,,8
+9,z5i2sd4h,11,4,750,,,0,3,3,2,7,9,objective,The Weight of an Ox,1233,770,,8
+10,58jd0wja,10.5,5,700,,,0,3,3,2,7,9,objective,The Weight of an Ox,1233,770,,8
+11,hi0514hp,9.5,2,40,,,0,4,3,2,7,9,objective,Grand Theft Auto 2015,24,39.2,,8
+12,tiz3qse6,13.5,1,40,,,0,4,3,2,7,9,objective,Grand Theft Auto 2015,24,39.2,,8
+13,7ddvv1y8,19,1,27,,,0,5,3,2,7,9,objective_subjective,Picnic,,25.8,,8
+14,c1m77a16,13.5,4,37,,,0,4,3,2,7,9,objective,Grand Theft Auto 2015,24,39.2,,8
+15,81zmzsqk,14,5,26,,,0,5,3,2,7,9,objective_subjective,Picnic,,25.8,,8
+16,420yijoy,4,3,24,,,0,5,3,2,7,9,objective_subjective,Picnic,,25.8,,8
+17,103s11he,11,3,42,,,0,4,3,2,7,9,objective,Grand Theft Auto 2015,24,39.2,,8
+18,t8hw0qs5,12.5,5,37,,,0,4,3,2,7,9,objective,Grand Theft Auto 2015,24,39.2,,8
+19,at4i1bkp,12,2,27,,,0,5,3,2,7,9,objective_subjective,Picnic,,25.8,,8
+20,o7kn0d5q,11,4,25,,,0,5,3,2,7,9,objective_subjective,Picnic,,25.8,,8
+21,ium8u4yn,13.5,1,70,,,0,6,3,2,7,9,subjective,Rate the Painting,,73,,8
+22,uzg56stl,14,2,60,,,0,6,3,2,7,9,subjective,Rate the Painting,,73,,8
+23,jliixcgf,4.5,4,79,,,0,6,3,2,7,9,subjective,Rate the Painting,,73,,8
+24,m8vk9e2o,16,5,71,,,0,6,3,2,7,9,subjective,Rate the Painting,,73,,8
+25,5551u6hb,12,3,85,,,0,6,3,2,7,9,subjective,Rate the Painting,,73,,8
+1,6lamhe53,13,1,50,,,0,2,3,3,7,9,subjective,Star Wars,,67.8,,9
+2,o94nz35c,13.5,3,50,,,0,2,3,3,7,9,subjective,Star Wars,,67.8,,9
+3,4iblv6uf,7.5,2,80,,,0,2,3,3,7,9,subjective,Star Wars,,67.8,,9
+4,445x4xqn,13,4,67,,,0,2,3,3,7,9,subjective,Star Wars,,67.8,,9
+5,hgesum5h,10.5,1,825,,,4,3,3,3,7,9,objective,The Weight of an Ox,1233,765,850,9
+6,fwo1nm5j,13,5,92,,,0,2,3,3,7,9,subjective,Star Wars,,67.8,,9
+7,cfshrnv2,15.5,3,850,,,5,3,3,3,7,9,objective,The Weight of an Ox,1233,765,850,9
+8,qck7b3d8,12.5,2,700,,,1.5,3,3,3,7,9,objective,The Weight of an Ox,1233,765,850,9
+9,z5i2sd4h,11,4,750,,,3,3,3,3,7,9,objective,The Weight of an Ox,1233,765,850,9
+10,58jd0wja,10.5,5,700,,,1.5,3,3,3,7,9,objective,The Weight of an Ox,1233,765,850,9
+11,hi0514hp,9.5,2,40,,,2.5,4,3,3,7,9,objective,Grand Theft Auto 2015,24,39.2,37,9
+12,tiz3qse6,13.5,1,40,,,2.5,4,3,3,7,9,objective,Grand Theft Auto 2015,24,39.2,37,9
+13,7ddvv1y8,19,1,27,,,0,5,3,3,7,9,objective_subjective,Picnic,,25.8,,9
+14,c1m77a16,13.5,4,37,"The game has an increasing focus on guns, violence and explosions, and has moved from a car-oriented game towards a more FPS type of game. Therefore, I chose a lower amount.",Certain,4.5,4,3,3,7,9,objective,Grand Theft Auto 2015,24,39.2,37,9
+15,81zmzsqk,14,5,26,,,0,5,3,3,7,9,objective_subjective,Picnic,,25.8,,9
+16,420yijoy,4,3,24,,,0,5,3,3,7,9,objective_subjective,Picnic,,25.8,,9
+17,103s11he,11,3,42,,,1,4,3,3,7,9,objective,Grand Theft Auto 2015,24,39.2,37,9
+18,t8hw0qs5,12.5,5,37,,,4.5,4,3,3,7,9,objective,Grand Theft Auto 2015,24,39.2,37,9
+19,at4i1bkp,12,2,27,,,0,5,3,3,7,9,objective_subjective,Picnic,,25.8,,9
+20,o7kn0d5q,11,4,25,,,0,5,3,3,7,9,objective_subjective,Picnic,,25.8,,9
+21,ium8u4yn,13.5,1,70,,,0,6,3,3,7,9,subjective,Rate the Painting,,72.4,,9
+22,uzg56stl,14,2,60,,,0,6,3,3,7,9,subjective,Rate the Painting,,72.4,,9
+23,jliixcgf,4.5,4,79,,,0,6,3,3,7,9,subjective,Rate the Painting,,72.4,,9
+24,m8vk9e2o,16,5,68,,,0,6,3,3,7,9,subjective,Rate the Painting,,72.4,,9
+25,5551u6hb,12,3,85,,,0,6,3,3,7,9,subjective,Rate the Painting,,72.4,,9
+1,6lamhe53,13,1,65,,,0,2,4,1,10,12,objective,Grand Theft Auto 2015,24,2043,,10
+2,o94nz35c,13.5,3,40,,,0,2,4,1,10,12,objective,Grand Theft Auto 2015,24,2043,,10
+3,4iblv6uf,7.5,2,10000,,Neutral,0,2,4,1,10,12,objective,Grand Theft Auto 2015,24,2043,,10
+4,445x4xqn,13,4,60,,,0,2,4,1,10,12,objective,Grand Theft Auto 2015,24,2043,,10
+5,hgesum5h,10.5,1,10,,,0,3,4,1,10,12,objective_subjective,Alcohol,,7.4,,10
+6,fwo1nm5j,13,5,50,,,0,2,4,1,10,12,objective,Grand Theft Auto 2015,24,2043,,10
+7,cfshrnv2,15.5,3,14,,,0,3,4,1,10,12,objective_subjective,Alcohol,,7.4,,10
+8,qck7b3d8,12.5,2,5,,,0,3,4,1,10,12,objective_subjective,Alcohol,,7.4,,10
+9,z5i2sd4h,11,4,0,,,0,3,4,1,10,12,objective_subjective,Alcohol,,7.4,,10
+10,58jd0wja,10.5,5,8,,,0,3,4,1,10,12,objective_subjective,Alcohol,,7.4,,10
+11,hi0514hp,9.5,2,475,,,0,4,4,1,10,12,objective,The Weight of an Ox,1233,641,,10
+12,tiz3qse6,13.5,1,1000,,,0,4,4,1,10,12,objective,The Weight of an Ox,1233,641,,10
+13,7ddvv1y8,19,1,60,,,0,5,4,1,10,12,subjective,Star Wars,,76.4,,10
+14,c1m77a16,13.5,4,350,,,0,4,4,1,10,12,objective,The Weight of an Ox,1233,641,,10
+15,81zmzsqk,14,5,85,,,0,5,4,1,10,12,subjective,Star Wars,,76.4,,10
+16,420yijoy,4,3,50,,,0,5,4,1,10,12,subjective,Star Wars,,76.4,,10
+17,103s11he,11,3,780,,,0,4,4,1,10,12,objective,The Weight of an Ox,1233,641,,10
+18,t8hw0qs5,12.5,5,600,,,0,4,4,1,10,12,objective,The Weight of an Ox,1233,641,,10
+19,at4i1bkp,12,2,87,,,0,5,4,1,10,12,subjective,Star Wars,,76.4,,10
+20,o7kn0d5q,11,4,100,,,0,5,4,1,10,12,subjective,Star Wars,,76.4,,10
+21,ium8u4yn,13.5,1,75,,,0,6,4,1,10,12,subjective,Star Wars,,66.4,,10
+22,uzg56stl,14,2,95,,,0,6,4,1,10,12,subjective,Star Wars,,66.4,,10
+23,jliixcgf,4.5,4,10,,,0,6,4,1,10,12,subjective,Star Wars,,66.4,,10
+24,m8vk9e2o,16,5,62,,,0,6,4,1,10,12,subjective,Star Wars,,66.4,,10
+25,5551u6hb,12,3,90,,,0,6,4,1,10,12,subjective,Star Wars,,66.4,,10
+1,6lamhe53,13,1,54,,,0,2,4,2,10,12,objective,Grand Theft Auto 2015,24,51,,11
+2,o94nz35c,13.5,3,40,,,0,2,4,2,10,12,objective,Grand Theft Auto 2015,24,51,,11
+3,4iblv6uf,7.5,2,47,,,0,2,4,2,10,12,objective,Grand Theft Auto 2015,24,51,,11
+4,445x4xqn,13,4,60,,,0,2,4,2,10,12,objective,Grand Theft Auto 2015,24,51,,11
+5,hgesum5h,10.5,1,7,,,0,3,4,2,10,12,objective_subjective,Alcohol,,6.4,,11
+6,fwo1nm5j,13,5,54,,,0,2,4,2,10,12,objective,Grand Theft Auto 2015,24,51,,11
+7,cfshrnv2,15.5,3,14,,,0,3,4,2,10,12,objective_subjective,Alcohol,,6.4,,11
+8,qck7b3d8,12.5,2,3,,,0,3,4,2,10,12,objective_subjective,Alcohol,,6.4,,11
+9,z5i2sd4h,11,4,0,,,0,3,4,2,10,12,objective_subjective,Alcohol,,6.4,,11
+10,58jd0wja,10.5,5,8,,,0,3,4,2,10,12,objective_subjective,Alcohol,,6.4,,11
+11,hi0514hp,9.5,2,650,,,0,4,4,2,10,12,objective,The Weight of an Ox,1233,684,,11
+12,tiz3qse6,13.5,1,900,,,0,4,4,2,10,12,objective,The Weight of an Ox,1233,684,,11
+13,7ddvv1y8,19,1,60,,,0,5,4,2,10,12,subjective,Star Wars,,67.4,,11
+14,c1m77a16,13.5,4,450,,,0,4,4,2,10,12,objective,The Weight of an Ox,1233,684,,11
+15,81zmzsqk,14,5,80,,,0,5,4,2,10,12,subjective,Star Wars,,67.4,,11
+16,420yijoy,4,3,60,,,0,5,4,2,10,12,subjective,Star Wars,,67.4,,11
+17,103s11he,11,3,780,,,0,4,4,2,10,12,objective,The Weight of an Ox,1233,684,,11
+18,t8hw0qs5,12.5,5,640,,,0,4,4,2,10,12,objective,The Weight of an Ox,1233,684,,11
+19,at4i1bkp,12,2,87,,,0,5,4,2,10,12,subjective,Star Wars,,67.4,,11
+20,o7kn0d5q,11,4,50,,,0,5,4,2,10,12,subjective,Star Wars,,67.4,,11
+21,ium8u4yn,13.5,1,75,,,0,6,4,2,10,12,subjective,Star Wars,,67.4,,11
+22,uzg56stl,14,2,95,,,0,6,4,2,10,12,subjective,Star Wars,,67.4,,11
+23,jliixcgf,4.5,4,10,,,0,6,4,2,10,12,subjective,Star Wars,,67.4,,11
+24,m8vk9e2o,16,5,67,,,0,6,4,2,10,12,subjective,Star Wars,,67.4,,11
+25,5551u6hb,12,3,90,,,0,6,4,2,10,12,subjective,Star Wars,,67.4,,11
+1,6lamhe53,13,1,52,,,3,2,4,3,10,12,objective,Grand Theft Auto 2015,24,49.4,40,12
+2,o94nz35c,13.5,3,40,,,5,2,4,3,10,12,objective,Grand Theft Auto 2015,24,49.4,40,12
+3,4iblv6uf,7.5,2,47,,,4,2,4,3,10,12,objective,Grand Theft Auto 2015,24,49.4,40,12
+4,445x4xqn,13,4,55,,,1,2,4,3,10,12,objective,Grand Theft Auto 2015,24,49.4,40,12
+5,hgesum5h,10.5,1,8,,,0,3,4,3,10,12,objective_subjective,Alcohol,,6.8,,12
+6,fwo1nm5j,13,5,53,"Det var forholdsvist neutralt, og indikerede ikke nogen synderlig stigning i biltyverier ",Uncertain,2,2,4,3,10,12,objective,Grand Theft Auto 2015,24,49.4,40,12
+7,cfshrnv2,15.5,3,14,,,0,3,4,3,10,12,objective_subjective,Alcohol,,6.8,,12
+8,qck7b3d8,12.5,2,5,,,0,3,4,3,10,12,objective_subjective,Alcohol,,6.8,,12
+9,z5i2sd4h,11,4,0,,,0,3,4,3,10,12,objective_subjective,Alcohol,,6.8,,12
+10,58jd0wja,10.5,5,7,,,0,3,4,3,10,12,objective_subjective,Alcohol,,6.8,,12
+11,hi0514hp,9.5,2,700,,,3,4,4,3,10,12,objective,The Weight of an Ox,1233,754,1100,12
+12,tiz3qse6,13.5,1,1100,,Certain,5,4,4,3,10,12,objective,The Weight of an Ox,1233,754,1100,12
+13,7ddvv1y8,19,1,60,,,0,5,4,3,10,12,subjective,Star Wars,,70.88,,12
+14,c1m77a16,13.5,4,550,,,1,4,4,3,10,12,objective,The Weight of an Ox,1233,754,1100,12
+15,81zmzsqk,14,5,90,,,0,5,4,3,10,12,subjective,Star Wars,,70.88,,12
+16,420yijoy,4,3,50,,,0,5,4,3,10,12,subjective,Star Wars,,70.88,,12
+17,103s11he,11,3,780,,,4,4,4,3,10,12,objective,The Weight of an Ox,1233,754,1100,12
+18,t8hw0qs5,12.5,5,640,,Neutral,2,4,4,3,10,12,objective,The Weight of an Ox,1233,754,1100,12
+19,at4i1bkp,12,2,87,,,0,5,4,3,10,12,subjective,Star Wars,,70.88,,12
+20,o7kn0d5q,11,4,67.4,,,0,5,4,3,10,12,subjective,Star Wars,,70.88,,12
+21,ium8u4yn,13.5,1,75,,,0,6,4,3,10,12,subjective,Star Wars,,67.4,,12
+22,uzg56stl,14,2,95,,,0,6,4,3,10,12,subjective,Star Wars,,67.4,,12
+23,jliixcgf,4.5,4,10,,,0,6,4,3,10,12,subjective,Star Wars,,67.4,,12
+24,m8vk9e2o,16,5,67,,,0,6,4,3,10,12,subjective,Star Wars,,67.4,,12
+25,5551u6hb,12,3,90,,,0,6,4,3,10,12,subjective,Star Wars,,67.4,,12
+1,6lamhe53,13,1,15,,,0,2,5,1,13,15,objective_subjective,Price of Beer,,20.8,,13
+2,o94nz35c,13.5,3,15,,,0,2,5,1,13,15,objective_subjective,Price of Beer,,20.8,,13
+3,4iblv6uf,7.5,2,20,,,0,2,5,1,13,15,objective_subjective,Price of Beer,,20.8,,13
+4,445x4xqn,13,4,24,,,0,2,5,1,13,15,objective_subjective,Price of Beer,,20.8,,13
+5,hgesum5h,10.5,1,35,,,0,3,5,1,13,15,subjective,Star Wars,,243.32,,13
+6,fwo1nm5j,13,5,30,,,0,2,5,1,13,15,objective_subjective,Price of Beer,,20.8,,13
+7,cfshrnv2,15.5,3,NaN,1000,,0,3,5,1,13,15,subjective,Star Wars,,243.32,,13
+8,qck7b3d8,12.5,2,25,,,0,3,5,1,13,15,subjective,Star Wars,,243.32,,13
+9,z5i2sd4h,11,4,66.6,,,0,3,5,1,13,15,subjective,Star Wars,,243.32,,13
+10,58jd0wja,10.5,5,90,,,0,3,5,1,13,15,subjective,Star Wars,,243.32,,13
+11,hi0514hp,9.5,2,90,,,0,4,5,1,13,15,objective_subjective,Following the News,,88,,13
+12,tiz3qse6,13.5,1,80,,,0,4,5,1,13,15,objective_subjective,Following the News,,88,,13
+13,7ddvv1y8,19,1,400,,,0,5,5,1,13,15,objective,Carbon Dioxide over Hawaii,409.01,1115.82,,13
+14,c1m77a16,13.5,4,80,,,0,4,5,1,13,15,objective_subjective,Following the News,,88,,13
+15,81zmzsqk,14,5,420,,,0,5,5,1,13,15,objective,Carbon Dioxide over Hawaii,409.01,1115.82,,13
+16,420yijoy,4,3,250.09,,Uncertain,0,5,5,1,13,15,objective,Carbon Dioxide over Hawaii,409.01,1115.82,,13
+17,103s11he,11,3,95,,,0,4,5,1,13,15,objective_subjective,Following the News,,88,,13
+18,t8hw0qs5,12.5,5,95,,,0,4,5,1,13,15,objective_subjective,Following the News,,88,,13
+19,at4i1bkp,12,2,409,,,0,5,5,1,13,15,objective,Carbon Dioxide over Hawaii,409.01,1115.82,,13
+20,o7kn0d5q,11,4,NaN,var 4100,,0,5,5,1,13,15,objective,Carbon Dioxide over Hawaii,409.01,1115.82,,13
+21,ium8u4yn,13.5,1,87,,,0,6,5,1,13,15,objective_subjective,Following the News,,84.8,,13
+22,uzg56stl,14,2,90,,,0,6,5,1,13,15,objective_subjective,Following the News,,84.8,,13
+23,jliixcgf,4.5,4,95,,,0,6,5,1,13,15,objective_subjective,Following the News,,84.8,,13
+24,m8vk9e2o,16,5,57,,,0,6,5,1,13,15,objective_subjective,Following the News,,84.8,,13
+25,5551u6hb,12,3,95,,,0,6,5,1,13,15,objective_subjective,Following the News,,84.8,,13
+1,6lamhe53,13,1,15,,,0,2,5,2,13,15,objective_subjective,Price of Beer,,17.8,,14
+2,o94nz35c,13.5,3,15,,,0,2,5,2,13,15,objective_subjective,Price of Beer,,17.8,,14
+3,4iblv6uf,7.5,2,20,,,0,2,5,2,13,15,objective_subjective,Price of Beer,,17.8,,14
+4,445x4xqn,13,4,24,,,0,2,5,2,13,15,objective_subjective,Price of Beer,,17.8,,14
+5,hgesum5h,10.5,1,45,,,0,3,5,2,13,15,subjective,Star Wars,,186.2,,14
+6,fwo1nm5j,13,5,15,,,0,2,5,2,13,15,objective_subjective,Price of Beer,,17.8,,14
+7,cfshrnv2,15.5,3,100,,,0,3,5,2,13,15,subjective,Star Wars,,186.2,,14
+8,qck7b3d8,12.5,2,30,,,0,3,5,2,13,15,subjective,Star Wars,,186.2,,14
+9,z5i2sd4h,11,4,66.6,666,,0,3,5,2,13,15,subjective,Star Wars,,186.2,,14
+10,58jd0wja,10.5,5,90,,,0,3,5,2,13,15,subjective,Star Wars,,186.2,,14
+11,hi0514hp,9.5,2,90,,,0,4,5,2,13,15,objective_subjective,Following the News,,87.35,,14
+12,tiz3qse6,13.5,1,79.75,,,0,4,5,2,13,15,objective_subjective,Following the News,,87.35,,14
+13,7ddvv1y8,19,1,400,,,0,5,5,2,13,15,objective,Carbon Dioxide over Hawaii,409.01,394.89,,14
+14,c1m77a16,13.5,4,80,,,0,4,5,2,13,15,objective_subjective,Following the News,,87.35,,14
+15,81zmzsqk,14,5,410,,,0,5,5,2,13,15,objective,Carbon Dioxide over Hawaii,409.01,394.89,,14
+16,420yijoy,4,3,346.47,,,0,5,5,2,13,15,objective,Carbon Dioxide over Hawaii,409.01,394.89,,14
+17,103s11he,11,3,95,,,0,4,5,2,13,15,objective_subjective,Following the News,,87.35,,14
+18,t8hw0qs5,12.5,5,92,,,0,4,5,2,13,15,objective_subjective,Following the News,,87.35,,14
+19,at4i1bkp,12,2,408,,Certain,0,5,5,2,13,15,objective,Carbon Dioxide over Hawaii,409.01,394.89,,14
+20,o7kn0d5q,11,4,410,,,0,5,5,2,13,15,objective,Carbon Dioxide over Hawaii,409.01,394.89,,14
+21,ium8u4yn,13.5,1,90,,,0,6,5,2,13,15,objective_subjective,Following the News,,88.2,,14
+22,uzg56stl,14,2,90,,,0,6,5,2,13,15,objective_subjective,Following the News,,88.2,,14
+23,jliixcgf,4.5,4,95,,,0,6,5,2,13,15,objective_subjective,Following the News,,88.2,,14
+24,m8vk9e2o,16,5,71,,,0,6,5,2,13,15,objective_subjective,Following the News,,88.2,,14
+25,5551u6hb,12,3,95,,,0,6,5,2,13,15,objective_subjective,Following the News,,88.2,,14
+1,6lamhe53,13,1,15,,,0,2,5,3,13,15,objective_subjective,Price of Beer,,17.8,,15
+2,o94nz35c,13.5,3,15,,,0,2,5,3,13,15,objective_subjective,Price of Beer,,17.8,,15
+3,4iblv6uf,7.5,2,20,,,0,2,5,3,13,15,objective_subjective,Price of Beer,,17.8,,15
+4,445x4xqn,13,4,24,,,0,2,5,3,13,15,objective_subjective,Price of Beer,,17.8,,15
+5,hgesum5h,10.5,1,30,,,0,3,5,3,13,15,subjective,Star Wars,,183.33,,15
+6,fwo1nm5j,13,5,15,,,0,2,5,3,13,15,objective_subjective,Price of Beer,,17.8,,15
+7,cfshrnv2,15.5,3,100,,,0,3,5,3,13,15,subjective,Star Wars,,183.33,,15
+8,qck7b3d8,12.5,2,30,,,0,3,5,3,13,15,subjective,Star Wars,,183.33,,15
+9,z5i2sd4h,11,4,NaN,666.666,,0,3,5,3,13,15,subjective,Star Wars,,183.33,,15
+10,58jd0wja,10.5,5,90,,,0,3,5,3,13,15,subjective,Star Wars,,183.33,,15
+11,hi0514hp,9.5,2,90,,,0,4,5,3,13,15,objective_subjective,Following the News,,90.4,,15
+12,tiz3qse6,13.5,1,95,,,0,4,5,3,13,15,objective_subjective,Following the News,,90.4,,15
+13,7ddvv1y8,19,1,410,,,5,5,5,3,13,15,objective,Carbon Dioxide over Hawaii,409.01,399.58,410,15
+14,c1m77a16,13.5,4,80,,,0,4,5,3,13,15,objective_subjective,Following the News,,90.4,,15
+15,81zmzsqk,14,5,415,,,3,5,5,3,13,15,objective,Carbon Dioxide over Hawaii,409.01,399.58,410,15
+16,420yijoy,4,3,369.99,,,1,5,5,3,13,15,objective,Carbon Dioxide over Hawaii,409.01,399.58,410,15
+17,103s11he,11,3,95,,,0,4,5,3,13,15,objective_subjective,Following the News,,90.4,,15
+18,t8hw0qs5,12.5,5,92,,,0,4,5,3,13,15,objective_subjective,Following the News,,90.4,,15
+19,at4i1bkp,12,2,408,,,4,5,5,3,13,15,objective,Carbon Dioxide over Hawaii,409.01,399.58,410,15
+20,o7kn0d5q,11,4,394.89,,,2,5,5,3,13,15,objective,Carbon Dioxide over Hawaii,409.01,399.58,410,15
+21,ium8u4yn,13.5,1,90,,,0,6,5,3,13,15,objective_subjective,Following the News,,88.2,,15
+22,uzg56stl,14,2,90,,,0,6,5,3,13,15,objective_subjective,Following the News,,88.2,,15
+23,jliixcgf,4.5,4,95,,,0,6,5,3,13,15,objective_subjective,Following the News,,88.2,,15
+24,m8vk9e2o,16,5,71,,,0,6,5,3,13,15,objective_subjective,Following the News,,88.2,,15
+25,5551u6hb,12,3,95,,,0,6,5,3,13,15,objective_subjective,Following the News,,88.2,,15
+1,6lamhe53,13,1,25,,,0,2,6,1,16,18,objective_subjective,Picnic,,23.6,,16
+2,o94nz35c,13.5,3,22,,,0,2,6,1,16,18,objective_subjective,Picnic,,23.6,,16
+3,4iblv6uf,7.5,2,24,,,0,2,6,1,16,18,objective_subjective,Picnic,,23.6,,16
+4,445x4xqn,13,4,23,,,0,2,6,1,16,18,objective_subjective,Picnic,,23.6,,16
+5,hgesum5h,10.5,1,950,,,0,3,6,1,16,18,objective,Dots,734,542,,16
+6,fwo1nm5j,13,5,24,,,0,2,6,1,16,18,objective_subjective,Picnic,,23.6,,16
+7,cfshrnv2,15.5,3,150,,,0,3,6,1,16,18,objective,Dots,734,542,,16
+8,qck7b3d8,12.5,2,200,,,0,3,6,1,16,18,objective,Dots,734,542,,16
+9,z5i2sd4h,11,4,410,,,0,3,6,1,16,18,objective,Dots,734,542,,16
+10,58jd0wja,10.5,5,1000,,,0,3,6,1,16,18,objective,Dots,734,542,,16
+11,hi0514hp,9.5,2,40,,,0,4,6,1,16,18,objective_subjective,Price of Beer,,29,,16
+12,tiz3qse6,13.5,1,30,,,0,4,6,1,16,18,objective_subjective,Price of Beer,,29,,16
+13,7ddvv1y8,19,1,600,,,0,5,6,1,16,18,objective,Dots,734,4520,,16
+14,c1m77a16,13.5,4,30,,,0,4,6,1,16,18,objective_subjective,Price of Beer,,29,,16
+15,81zmzsqk,14,5,1000,,,0,5,6,1,16,18,objective,Dots,734,4520,,16
+16,420yijoy,4,3,20000,,,0,5,6,1,16,18,objective,Dots,734,4520,,16
+17,103s11he,11,3,20,,,0,4,6,1,16,18,objective_subjective,Price of Beer,,29,,16
+18,t8hw0qs5,12.5,5,25,,,0,4,6,1,16,18,objective_subjective,Price of Beer,,29,,16
+19,at4i1bkp,12,2,1000,,,0,5,6,1,16,18,objective,Dots,734,4520,,16
+20,o7kn0d5q,11,4,0,,Very Certain,0,5,6,1,16,18,objective,Dots,734,4520,,16
+21,ium8u4yn,13.5,1,25,,,0,6,6,1,16,18,objective_subjective,Picnic,,23.8,,16
+22,uzg56stl,14,2,21,,,0,6,6,1,16,18,objective_subjective,Picnic,,23.8,,16
+23,jliixcgf,4.5,4,26,,,0,6,6,1,16,18,objective_subjective,Picnic,,23.8,,16
+24,m8vk9e2o,16,5,24,,,0,6,6,1,16,18,objective_subjective,Picnic,,23.8,,16
+25,5551u6hb,12,3,23,,,0,6,6,1,16,18,objective_subjective,Picnic,,23.8,,16
+1,6lamhe53,13,1,26,,,0,2,6,2,16,18,objective_subjective,Picnic,,24,,17
+2,o94nz35c,13.5,3,23,,,0,2,6,2,16,18,objective_subjective,Picnic,,24,,17
+3,4iblv6uf,7.5,2,24,,,0,2,6,2,16,18,objective_subjective,Picnic,,24,,17
+4,445x4xqn,13,4,23,,,0,2,6,2,16,18,objective_subjective,Picnic,,24,,17
+5,hgesum5h,10.5,1,1250,,Certain,0,3,6,2,16,18,objective,Dots,734,1.00E+18,,17
+6,fwo1nm5j,13,5,24,,,0,2,6,2,16,18,objective_subjective,Picnic,,24,,17
+7,cfshrnv2,15.5,3,550,,,0,3,6,2,16,18,objective,Dots,734,1.00E+18,,17
+8,qck7b3d8,12.5,2,600,,,0,3,6,2,16,18,objective,Dots,734,1.00E+18,,17
+9,z5i2sd4h,11,4,NaN,5.00E+18,Very Uncertain,0,3,6,2,16,18,objective,Dots,734,1.00E+18,,17
+10,58jd0wja,10.5,5,850,,Neutral,0,3,6,2,16,18,objective,Dots,734,1.00E+18,,17
+11,hi0514hp,9.5,2,35,,,0,4,6,2,16,18,objective_subjective,Price of Beer,,28.6,,17
+12,tiz3qse6,13.5,1,28,,,0,4,6,2,16,18,objective_subjective,Price of Beer,,28.6,,17
+13,7ddvv1y8,19,1,570,,,0,5,6,2,16,18,objective,Dots,734,1994,,17
+14,c1m77a16,13.5,4,30,,,0,4,6,2,16,18,objective_subjective,Price of Beer,,28.6,,17
+15,81zmzsqk,14,5,900,,,0,5,6,2,16,18,objective,Dots,734,1994,,17
+16,420yijoy,4,3,7000,,,0,5,6,2,16,18,objective,Dots,734,1994,,17
+17,103s11he,11,3,20,,,0,4,6,2,16,18,objective_subjective,Price of Beer,,28.6,,17
+18,t8hw0qs5,12.5,5,30,,,0,4,6,2,16,18,objective_subjective,Price of Beer,,28.6,,17
+19,at4i1bkp,12,2,1000,,,0,5,6,2,16,18,objective,Dots,734,1994,,17
+20,o7kn0d5q,11,4,500,,,0,5,6,2,16,18,objective,Dots,734,1994,,17
+21,ium8u4yn,13.5,1,25,,,0,6,6,2,16,18,objective_subjective,Picnic,,23.8,,17
+22,uzg56stl,14,2,21,,,0,6,6,2,16,18,objective_subjective,Picnic,,23.8,,17
+23,jliixcgf,4.5,4,26,,,0,6,6,2,16,18,objective_subjective,Picnic,,23.8,,17
+24,m8vk9e2o,16,5,24,,,0,6,6,2,16,18,objective_subjective,Picnic,,23.8,,17
+25,5551u6hb,12,3,23,,,0,6,6,2,16,18,objective_subjective,Picnic,,23.8,,17
+1,6lamhe53,13,1,28.5,,,0,2,6,3,16,18,objective_subjective,Picnic,,24.5,,18
+2,o94nz35c,13.5,3,23,,,0,2,6,3,16,18,objective_subjective,Picnic,,24.5,,18
+3,4iblv6uf,7.5,2,24,,,0,2,6,3,16,18,objective_subjective,Picnic,,24.5,,18
+4,445x4xqn,13,4,23,,,0,2,6,3,16,18,objective_subjective,Picnic,,24.5,,18
+5,hgesum5h,10.5,1,1200,Counted dots in rows and columns and multiplied. ,Very Certain,1,3,6,3,16,18,objective,Dots,734,740.6,600,18
+6,fwo1nm5j,13,5,24,,,0,2,6,3,16,18,objective_subjective,Picnic,,24.5,,18
+7,cfshrnv2,15.5,3,500,,,3,3,6,3,16,18,objective,Dots,734,740.6,600,18
+8,qck7b3d8,12.5,2,600,,Neutral,5,3,6,3,16,18,objective,Dots,734,740.6,600,18
+9,z5i2sd4h,11,4,450,,,2,3,6,3,16,18,objective,Dots,734,740.6,600,18
+10,58jd0wja,10.5,5,953,,,4,3,6,3,16,18,objective,Dots,734,740.6,600,18
+11,hi0514hp,9.5,2,35,,,0,4,6,3,16,18,objective_subjective,Price of Beer,,29.6,,18
+12,tiz3qse6,13.5,1,28,,,0,4,6,3,16,18,objective_subjective,Price of Beer,,29.6,,18
+13,7ddvv1y8,19,1,550,,,5,5,6,3,16,18,objective,Dots,734,1165.4,550,18
+14,c1m77a16,13.5,4,30,,,0,4,6,3,16,18,objective_subjective,Price of Beer,,29.6,,18
+15,81zmzsqk,14,5,1001,,,2.5,5,6,3,16,18,objective,Dots,734,1165.4,550,18
+16,420yijoy,4,3,2775,,,1,5,6,3,16,18,objective,Dots,734,1165.4,550,18
+17,103s11he,11,3,25,,,0,4,6,3,16,18,objective_subjective,Price of Beer,,29.6,,18
+18,t8hw0qs5,12.5,5,30,,,0,4,6,3,16,18,objective_subjective,Price of Beer,,29.6,,18
+19,at4i1bkp,12,2,1001,,,2.5,5,6,3,16,18,objective,Dots,734,1165.4,550,18
+20,o7kn0d5q,11,4,500,,Uncertain,4,5,6,3,16,18,objective,Dots,734,1165.4,550,18
+21,ium8u4yn,13.5,1,25,,,0,6,6,3,16,18,objective_subjective,Picnic,,23.8,,18
+22,uzg56stl,14,2,21,,,0,6,6,3,16,18,objective_subjective,Picnic,,23.8,,18
+23,jliixcgf,4.5,4,26,,,0,6,6,3,16,18,objective_subjective,Picnic,,23.8,,18
+24,m8vk9e2o,16,5,24,,,0,6,6,3,16,18,objective_subjective,Picnic,,23.8,,18
+25,5551u6hb,12,3,23,,,0,6,6,3,16,18,objective_subjective,Picnic,,23.8,,18
+1,6lamhe53,13,1,500,,,0,2,7,1,19,21,objective,The Weight of an Ox,1233,485,,19
+2,o94nz35c,13.5,3,400,,,0,2,7,1,19,21,objective,The Weight of an Ox,1233,485,,19
+3,4iblv6uf,7.5,2,400,,Uncertain,0,2,7,1,19,21,objective,The Weight of an Ox,1233,485,,19
+4,445x4xqn,13,4,375,,,0,2,7,1,19,21,objective,The Weight of an Ox,1233,485,,19
+5,hgesum5h,10.5,1,450,,,0,3,7,1,19,21,objective,Carbon Dioxide over Hawaii,409.01,949,,19
+6,fwo1nm5j,13,5,750,"En okse ser ud til at veje ret meget, og 750kg virker som en del vægt",Very Uncertain,0,2,7,1,19,21,objective,The Weight of an Ox,1233,485,,19
+7,cfshrnv2,15.5,3,405,,,0,3,7,1,19,21,objective,Carbon Dioxide over Hawaii,409.01,949,,19
+8,qck7b3d8,12.5,2,440,,,0,3,7,1,19,21,objective,Carbon Dioxide over Hawaii,409.01,949,,19
+9,z5i2sd4h,11,4,3000,,,0,3,7,1,19,21,objective,Carbon Dioxide over Hawaii,409.01,949,,19
+10,58jd0wja,10.5,5,450,,Uncertain,0,3,7,1,19,21,objective,Carbon Dioxide over Hawaii,409.01,949,,19
+11,hi0514hp,9.5,2,0,,,0,4,7,1,19,21,subjective,Star Wars,,60,,19
+12,tiz3qse6,13.5,1,80,,,0,4,7,1,19,21,subjective,Star Wars,,60,,19
+13,7ddvv1y8,19,1,1000,,,0,5,7,1,19,21,objective,The Weight of an Ox,1233,1080,,19
+14,c1m77a16,13.5,4,70,,,0,4,7,1,19,21,subjective,Star Wars,,60,,19
+15,81zmzsqk,14,5,1200,My man Asmus said it to me,Very Certain,0,5,7,1,19,21,objective,The Weight of an Ox,1233,1080,,19
+16,420yijoy,4,3,2000,,,0,5,7,1,19,21,objective,The Weight of an Ox,1233,1080,,19
+17,103s11he,11,3,80,,,0,4,7,1,19,21,subjective,Star Wars,,60,,19
+18,t8hw0qs5,12.5,5,70,,,0,4,7,1,19,21,subjective,Star Wars,,60,,19
+19,at4i1bkp,12,2,900,,,0,5,7,1,19,21,objective,The Weight of an Ox,1233,1080,,19
+20,o7kn0d5q,11,4,300,,,0,5,7,1,19,21,objective,The Weight of an Ox,1233,1080,,19
+21,ium8u4yn,13.5,1,25,,,0,6,7,1,19,21,subjective,Thirst,,33.4,,19
+22,uzg56stl,14,2,45,,,0,6,7,1,19,21,subjective,Thirst,,33.4,,19
+23,jliixcgf,4.5,4,50,,,0,6,7,1,19,21,subjective,Thirst,,33.4,,19
+24,m8vk9e2o,16,5,37,,,0,6,7,1,19,21,subjective,Thirst,,33.4,,19
+25,5551u6hb,12,3,10,,,0,6,7,1,19,21,subjective,Thirst,,33.4,,19
+1,6lamhe53,13,1,500,,Certain,0,2,7,2,19,21,objective,The Weight of an Ox,1233,558,,20
+2,o94nz35c,13.5,3,400,,,0,2,7,2,19,21,objective,The Weight of an Ox,1233,558,,20
+3,4iblv6uf,7.5,2,450,,,0,2,7,2,19,21,objective,The Weight of an Ox,1233,558,,20
+4,445x4xqn,13,4,800,,,0,2,7,2,19,21,objective,The Weight of an Ox,1233,558,,20
+5,hgesum5h,10.5,1,435,,Neutral,0,3,7,2,19,21,objective,Carbon Dioxide over Hawaii,409.01,600000345,,20
+6,fwo1nm5j,13,5,640,,,0,2,7,2,19,21,objective,The Weight of an Ox,1233,558,,20
+7,cfshrnv2,15.5,3,420,,Uncertain,0,3,7,2,19,21,objective,Carbon Dioxide over Hawaii,409.01,600000345,,20
+8,qck7b3d8,12.5,2,440,,,0,3,7,2,19,21,objective,Carbon Dioxide over Hawaii,409.01,600000345,,20
+9,z5i2sd4h,11,4,NaN,3000000000,,0,3,7,2,19,21,objective,Carbon Dioxide over Hawaii,409.01,600000345,,20
+10,58jd0wja,10.5,5,430,,,0,3,7,2,19,21,objective,Carbon Dioxide over Hawaii,409.01,600000345,,20
+11,hi0514hp,9.5,2,20,,,0,4,7,2,19,21,subjective,Star Wars,,62,,20
+12,tiz3qse6,13.5,1,75,,,0,4,7,2,19,21,subjective,Star Wars,,62,,20
+13,7ddvv1y8,19,1,1100,,,0,5,7,2,19,21,objective,The Weight of an Ox,1233,1210,,20
+14,c1m77a16,13.5,4,70,,,0,4,7,2,19,21,subjective,Star Wars,,62,,20
+15,81zmzsqk,14,5,1250,,,0,5,7,2,19,21,objective,The Weight of an Ox,1233,1210,,20
+16,420yijoy,4,3,1500,,,0,5,7,2,19,21,objective,The Weight of an Ox,1233,1210,,20
+17,103s11he,11,3,80,,,0,4,7,2,19,21,subjective,Star Wars,,62,,20
+18,t8hw0qs5,12.5,5,65,,,0,4,7,2,19,21,subjective,Star Wars,,62,,20
+19,at4i1bkp,12,2,1200,,,0,5,7,2,19,21,objective,The Weight of an Ox,1233,1210,,20
+20,o7kn0d5q,11,4,1000,,,0,5,7,2,19,21,objective,The Weight of an Ox,1233,1210,,20
+21,ium8u4yn,13.5,1,25,,,0,6,7,2,19,21,subjective,Thirst,,34.4,,20
+22,uzg56stl,14,2,50,,,0,6,7,2,19,21,subjective,Thirst,,34.4,,20
+23,jliixcgf,4.5,4,50,,,0,6,7,2,19,21,subjective,Thirst,,34.4,,20
+24,m8vk9e2o,16,5,37,,,0,6,7,2,19,21,subjective,Thirst,,34.4,,20
+25,5551u6hb,12,3,10,,,0,6,7,2,19,21,subjective,Thirst,,34.4,,20
+1,6lamhe53,13,1,500,,,3,2,7,3,19,21,objective,The Weight of an Ox,1233,563,775,21
+2,o94nz35c,13.5,3,450,,,1.5,2,7,3,19,21,objective,The Weight of an Ox,1233,563,775,21
+3,4iblv6uf,7.5,2,450,,Neutral,1.5,2,7,3,19,21,objective,The Weight of an Ox,1233,563,775,21
+4,445x4xqn,13,4,775,,,5,2,7,3,19,21,objective,The Weight of an Ox,1233,563,775,21
+5,hgesum5h,10.5,1,430,,,2,3,7,3,19,21,objective,Carbon Dioxide over Hawaii,409.01,425,410,21
+6,fwo1nm5j,13,5,640,,,4,2,7,3,19,21,objective,The Weight of an Ox,1233,563,775,21
+7,cfshrnv2,15.5,3,420,,,4,3,7,3,19,21,objective,Carbon Dioxide over Hawaii,409.01,425,410,21
+8,qck7b3d8,12.5,2,440,,,1,3,7,3,19,21,objective,Carbon Dioxide over Hawaii,409.01,425,410,21
+9,z5i2sd4h,11,4,410,,,5,3,7,3,19,21,objective,Carbon Dioxide over Hawaii,409.01,425,410,21
+10,58jd0wja,10.5,5,425,,,3,3,7,3,19,21,objective,Carbon Dioxide over Hawaii,409.01,425,410,21
+11,hi0514hp,9.5,2,20,,,0,4,7,3,19,21,subjective,Star Wars,,61.6,,21
+12,tiz3qse6,13.5,1,70,,,0,4,7,3,19,21,subjective,Star Wars,,61.6,,21
+13,7ddvv1y8,19,1,1240,,,4,5,7,3,19,21,objective,The Weight of an Ox,1233,1339,1230,21
+14,c1m77a16,13.5,4,70,,,0,4,7,3,19,21,subjective,Star Wars,,61.6,,21
+15,81zmzsqk,14,5,1230,,,5,5,7,3,19,21,objective,The Weight of an Ox,1233,1339,1230,21
+16,420yijoy,4,3,1775,,Neutral,1,5,7,3,19,21,objective,The Weight of an Ox,1233,1339,1230,21
+17,103s11he,11,3,83,,,0,4,7,3,19,21,subjective,Star Wars,,61.6,,21
+18,t8hw0qs5,12.5,5,65,,,0,4,7,3,19,21,subjective,Star Wars,,61.6,,21
+19,at4i1bkp,12,2,1200,,,2,5,7,3,19,21,objective,The Weight of an Ox,1233,1339,1230,21
+20,o7kn0d5q,11,4,1250,,,3,5,7,3,19,21,objective,The Weight of an Ox,1233,1339,1230,21
+21,ium8u4yn,13.5,1,25,,,0,6,7,3,19,21,subjective,Thirst,,34.4,,21
+22,uzg56stl,14,2,50,,,0,6,7,3,19,21,subjective,Thirst,,34.4,,21
+23,jliixcgf,4.5,4,50,,,0,6,7,3,19,21,subjective,Thirst,,34.4,,21
+24,m8vk9e2o,16,5,37,,,0,6,7,3,19,21,subjective,Thirst,,34.4,,21
+25,5551u6hb,12,3,10,,,0,6,7,3,19,21,subjective,Thirst,,34.4,,21
+1,6lamhe53,13,1,100,,,0,2,8,1,22,24,objective_subjective,Following the News,,84.8,,22
+2,o94nz35c,13.5,3,80,,,0,2,8,1,22,24,objective_subjective,Following the News,,84.8,,22
+3,4iblv6uf,7.5,2,100,,,0,2,8,1,22,24,objective_subjective,Following the News,,84.8,,22
+4,445x4xqn,13,4,60,,,0,2,8,1,22,24,objective_subjective,Following the News,,84.8,,22
+5,hgesum5h,10.5,1,40,,,0,3,8,1,22,24,objective,Grand Theft Auto 2015,24,1.00E+47,,22
+6,fwo1nm5j,13,5,84,,,0,2,8,1,22,24,objective_subjective,Following the News,,84.8,,22
+7,cfshrnv2,15.5,3,50,,,0,3,8,1,22,24,objective,Grand Theft Auto 2015,24,1.00E+47,,22
+8,qck7b3d8,12.5,2,35,,,0,3,8,1,22,24,objective,Grand Theft Auto 2015,24,1.00E+47,,22
+9,z5i2sd4h,11,4,NaN,5.00E+47,Very Certain,0,3,8,1,22,24,objective,Grand Theft Auto 2015,24,1.00E+47,,22
+10,58jd0wja,10.5,5,40,,,0,3,8,1,22,24,objective,Grand Theft Auto 2015,24,1.00E+47,,22
+11,hi0514hp,9.5,2,50,,,0,4,8,1,22,24,subjective,Rate the Painting,,51,,22
+12,tiz3qse6,13.5,1,60,,,0,4,8,1,22,24,subjective,Rate the Painting,,51,,22
+13,7ddvv1y8,19,1,30,,,0,5,8,1,22,24,objective_subjective,Price of Beer,,30.4,,22
+14,c1m77a16,13.5,4,65,,,0,4,8,1,22,24,subjective,Rate the Painting,,51,,22
+15,81zmzsqk,14,5,35,,,0,5,8,1,22,24,objective_subjective,Price of Beer,,30.4,,22
+16,420yijoy,4,3,22,,,0,5,8,1,22,24,objective_subjective,Price of Beer,,30.4,,22
+17,103s11he,11,3,25,,,0,4,8,1,22,24,subjective,Rate the Painting,,51,,22
+18,t8hw0qs5,12.5,5,55,,,0,4,8,1,22,24,subjective,Rate the Painting,,51,,22
+19,at4i1bkp,12,2,30,,,0,5,8,1,22,24,objective_subjective,Price of Beer,,30.4,,22
+20,o7kn0d5q,11,4,35,,,0,5,8,1,22,24,objective_subjective,Price of Beer,,30.4,,22
+21,ium8u4yn,13.5,1,30,,,0,6,8,1,22,24,objective_subjective,Price of Beer,,32,,22
+22,uzg56stl,14,2,30,,,0,6,8,1,22,24,objective_subjective,Price of Beer,,32,,22
+23,jliixcgf,4.5,4,30,,,0,6,8,1,22,24,objective_subjective,Price of Beer,,32,,22
+24,m8vk9e2o,16,5,40,,,0,6,8,1,22,24,objective_subjective,Price of Beer,,32,,22
+25,5551u6hb,12,3,30,,,0,6,8,1,22,24,objective_subjective,Price of Beer,,32,,22
+1,6lamhe53,13,1,100,,,0,2,8,2,22,24,objective_subjective,Following the News,,89.4,,23
+2,o94nz35c,13.5,3,90,,,0,2,8,2,22,24,objective_subjective,Following the News,,89.4,,23
+3,4iblv6uf,7.5,2,100,,,0,2,8,2,22,24,objective_subjective,Following the News,,89.4,,23
+4,445x4xqn,13,4,65,,,0,2,8,2,22,24,objective_subjective,Following the News,,89.4,,23
+5,hgesum5h,10.5,1,40,,,0,3,8,2,22,24,objective,Grand Theft Auto 2015,24,19,,23
+6,fwo1nm5j,13,5,92,,,0,2,8,2,22,24,objective_subjective,Following the News,,89.4,,23
+7,cfshrnv2,15.5,3,42,,,0,3,8,2,22,24,objective,Grand Theft Auto 2015,24,19,,23
+8,qck7b3d8,12.5,2,38,,,0,3,8,2,22,24,objective,Grand Theft Auto 2015,24,19,,23
+9,z5i2sd4h,11,4,65,-65,,0,3,8,2,22,24,objective,Grand Theft Auto 2015,24,19,,23
+10,58jd0wja,10.5,5,40,,,0,3,8,2,22,24,objective,Grand Theft Auto 2015,24,19,,23
+11,hi0514hp,9.5,2,50,,,0,4,8,2,22,24,subjective,Rate the Painting,,52,,23
+12,tiz3qse6,13.5,1,60,,,0,4,8,2,22,24,subjective,Rate the Painting,,52,,23
+13,7ddvv1y8,19,1,30,,,0,5,8,2,22,24,objective_subjective,Price of Beer,,33,,23
+14,c1m77a16,13.5,4,65,,,0,4,8,2,22,24,subjective,Rate the Painting,,52,,23
+15,81zmzsqk,14,5,40,,,0,5,8,2,22,24,objective_subjective,Price of Beer,,33,,23
+16,420yijoy,4,3,30,,,0,5,8,2,22,24,objective_subjective,Price of Beer,,33,,23
+17,103s11he,11,3,30,,,0,4,8,2,22,24,subjective,Rate the Painting,,52,,23
+18,t8hw0qs5,12.5,5,55,,,0,4,8,2,22,24,subjective,Rate the Painting,,52,,23
+19,at4i1bkp,12,2,30,,,0,5,8,2,22,24,objective_subjective,Price of Beer,,33,,23
+20,o7kn0d5q,11,4,35,,,0,5,8,2,22,24,objective_subjective,Price of Beer,,33,,23
+21,ium8u4yn,13.5,1,30,,,0,6,8,2,22,24,objective_subjective,Price of Beer,,32,,23
+22,uzg56stl,14,2,30,,,0,6,8,2,22,24,objective_subjective,Price of Beer,,32,,23
+23,jliixcgf,4.5,4,30,,,0,6,8,2,22,24,objective_subjective,Price of Beer,,32,,23
+24,m8vk9e2o,16,5,40,,,0,6,8,2,22,24,objective_subjective,Price of Beer,,32,,23
+25,5551u6hb,12,3,30,,,0,6,8,2,22,24,objective_subjective,Price of Beer,,32,,23
+1,6lamhe53,13,1,100,,,0,2,8,3,22,24,objective_subjective,Following the News,,87.4,,24
+2,o94nz35c,13.5,3,90,,,0,2,8,3,22,24,objective_subjective,Following the News,,87.4,,24
+3,4iblv6uf,7.5,2,90,,,0,2,8,3,22,24,objective_subjective,Following the News,,87.4,,24
+4,445x4xqn,13,4,65,,,0,2,8,3,22,24,objective_subjective,Following the News,,87.4,,24
+5,hgesum5h,10.5,1,40,Crime rate fell in most of the world,Neutral,3.5,3,8,3,22,24,objective,Grand Theft Auto 2015,24,41.2,39,24
+6,fwo1nm5j,13,5,92,,,0,2,8,3,22,24,objective_subjective,Following the News,,87.4,,24
+7,cfshrnv2,15.5,3,40,,,3.5,3,8,3,22,24,objective,Grand Theft Auto 2015,24,41.2,39,24
+8,qck7b3d8,12.5,2,39,I Want to be the person with the lowest answer While still being close to the original amount,Certain,5,3,8,3,22,24,objective,Grand Theft Auto 2015,24,41.2,39,24
+9,z5i2sd4h,11,4,45,,,1,3,8,3,22,24,objective,Grand Theft Auto 2015,24,41.2,39,24
+10,58jd0wja,10.5,5,42,,,2,3,8,3,22,24,objective,Grand Theft Auto 2015,24,41.2,39,24
+11,hi0514hp,9.5,2,50,,,0,4,8,3,22,24,subjective,Rate the Painting,,52,,24
+12,tiz3qse6,13.5,1,60,,,0,4,8,3,22,24,subjective,Rate the Painting,,52,,24
+13,7ddvv1y8,19,1,30,,,0,5,8,3,22,24,objective_subjective,Price of Beer,,33,,24
+14,c1m77a16,13.5,4,65,,,0,4,8,3,22,24,subjective,Rate the Painting,,52,,24
+15,81zmzsqk,14,5,40,,,0,5,8,3,22,24,objective_subjective,Price of Beer,,33,,24
+16,420yijoy,4,3,30,,,0,5,8,3,22,24,objective_subjective,Price of Beer,,33,,24
+17,103s11he,11,3,30,,,0,4,8,3,22,24,subjective,Rate the Painting,,52,,24
+18,t8hw0qs5,12.5,5,55,,,0,4,8,3,22,24,subjective,Rate the Painting,,52,,24
+19,at4i1bkp,12,2,30,,,0,5,8,3,22,24,objective_subjective,Price of Beer,,33,,24
+20,o7kn0d5q,11,4,35,,,0,5,8,3,22,24,objective_subjective,Price of Beer,,33,,24
+21,ium8u4yn,13.5,1,30,,,0,6,8,3,22,24,objective_subjective,Price of Beer,,32,,24
+22,uzg56stl,14,2,30,,,0,6,8,3,22,24,objective_subjective,Price of Beer,,32,,24
+23,jliixcgf,4.5,4,30,,,0,6,8,3,22,24,objective_subjective,Price of Beer,,32,,24
+24,m8vk9e2o,16,5,40,,,0,6,8,3,22,24,objective_subjective,Price of Beer,,32,,24
+25,5551u6hb,12,3,30,,,0,6,8,3,22,24,objective_subjective,Price of Beer,,32,,24
+1,6lamhe53,13,1,80,,,0,2,9,1,25,27,subjective,Thirst,,52.6,,25
+2,o94nz35c,13.5,3,10,,,0,2,9,1,25,27,subjective,Thirst,,52.6,,25
+3,4iblv6uf,7.5,2,25,,,0,2,9,1,25,27,subjective,Thirst,,52.6,,25
+4,445x4xqn,13,4,48,,,0,2,9,1,25,27,subjective,Thirst,,52.6,,25
+5,hgesum5h,10.5,1,85,,,0,3,9,1,25,27,subjective,Thirst,,77,,25
+6,fwo1nm5j,13,5,100,,,0,2,9,1,25,27,subjective,Thirst,,52.6,,25
+7,cfshrnv2,15.5,3,100,,,0,3,9,1,25,27,subjective,Thirst,,77,,25
+8,qck7b3d8,12.5,2,20,,,0,3,9,1,25,27,subjective,Thirst,,77,,25
+9,z5i2sd4h,11,4,99.999999,,,0,3,9,1,25,27,subjective,Thirst,,77,,25
+10,58jd0wja,10.5,5,80,,,0,3,9,1,25,27,subjective,Thirst,,77,,25
+11,hi0514hp,9.5,2,50000,,,0,4,9,1,25,27,objective,Dots,734,10590,,25
+12,tiz3qse6,13.5,1,1200,,,0,4,9,1,25,27,objective,Dots,734,10590,,25
+13,7ddvv1y8,19,1,14,,,0,5,9,1,25,27,objective_subjective,Alcohol,,218.8,,25
+14,c1m77a16,13.5,4,350,,,0,4,9,1,25,27,objective,Dots,734,10590,,25
+15,81zmzsqk,14,5,NaN,1000,,0,5,9,1,25,27,objective_subjective,Alcohol,,218.8,,25
+16,420yijoy,4,3,1,,,0,5,9,1,25,27,objective_subjective,Alcohol,,218.8,,25
+17,103s11he,11,3,750,,,0,4,9,1,25,27,objective,Dots,734,10590,,25
+18,t8hw0qs5,12.5,5,650,,,0,4,9,1,25,27,objective,Dots,734,10590,,25
+19,at4i1bkp,12,2,12,,,0,5,9,1,25,27,objective_subjective,Alcohol,,218.8,,25
+20,o7kn0d5q,11,4,67,,,0,5,9,1,25,27,objective_subjective,Alcohol,,218.8,,25
+21,ium8u4yn,13.5,1,400,,Uncertain,0,6,9,1,25,27,objective,Dots,734,454.6,,25
+22,uzg56stl,14,2,250,,,0,6,9,1,25,27,objective,Dots,734,454.6,,25
+23,jliixcgf,4.5,4,300,,,0,6,9,1,25,27,objective,Dots,734,454.6,,25
+24,m8vk9e2o,16,5,1123,,Uncertain,0,6,9,1,25,27,objective,Dots,734,454.6,,25
+25,5551u6hb,12,3,200,,,0,6,9,1,25,27,objective,Dots,734,454.6,,25
+1,6lamhe53,13,1,60,,,0,2,9,2,25,27,subjective,Thirst,,48.4,,26
+2,o94nz35c,13.5,3,10,,,0,2,9,2,25,27,subjective,Thirst,,48.4,,26
+3,4iblv6uf,7.5,2,25,,,0,2,9,2,25,27,subjective,Thirst,,48.4,,26
+4,445x4xqn,13,4,48,,,0,2,9,2,25,27,subjective,Thirst,,48.4,,26
+5,hgesum5h,10.5,1,85,,,0,3,9,2,25,27,subjective,Thirst,,78,,26
+6,fwo1nm5j,13,5,99,,,0,2,9,2,25,27,subjective,Thirst,,48.4,,26
+7,cfshrnv2,15.5,3,100,,,0,3,9,2,25,27,subjective,Thirst,,78,,26
+8,qck7b3d8,12.5,2,25,,,0,3,9,2,25,27,subjective,Thirst,,78,,26
+9,z5i2sd4h,11,4,100,,,0,3,9,2,25,27,subjective,Thirst,,78,,26
+10,58jd0wja,10.5,5,80,,,0,3,9,2,25,27,subjective,Thirst,,78,,26
+11,hi0514hp,9.5,2,40000,,,0,4,9,2,25,27,objective,Dots,734,8700,,26
+12,tiz3qse6,13.5,1,1500,,,0,4,9,2,25,27,objective,Dots,734,8700,,26
+13,7ddvv1y8,19,1,14,,,0,5,9,2,25,27,objective_subjective,Alcohol,,4000000007,,26
+14,c1m77a16,13.5,4,600,,,0,4,9,2,25,27,objective,Dots,734,8700,,26
+15,81zmzsqk,14,5,NaN,20000000000,,0,5,9,2,25,27,objective_subjective,Alcohol,,4000000007,,26
+16,420yijoy,4,3,13,,,0,5,9,2,25,27,objective_subjective,Alcohol,,4000000007,,26
+17,103s11he,11,3,750,,,0,4,9,2,25,27,objective,Dots,734,8700,,26
+18,t8hw0qs5,12.5,5,650,,,0,4,9,2,25,27,objective,Dots,734,8700,,26
+19,at4i1bkp,12,2,12,,,0,5,9,2,25,27,objective_subjective,Alcohol,,4000000007,,26
+20,o7kn0d5q,11,4,NaN,-3.141592,,0,5,9,2,25,27,objective_subjective,Alcohol,,4000000007,,26
+21,ium8u4yn,13.5,1,450,,Uncertain,0,6,9,2,25,27,objective,Dots,734,453.2,,26
+22,uzg56stl,14,2,325,,,0,6,9,2,25,27,objective,Dots,734,453.2,,26
+23,jliixcgf,4.5,4,280,,,0,6,9,2,25,27,objective,Dots,734,453.2,,26
+24,m8vk9e2o,16,5,911,,,0,6,9,2,25,27,objective,Dots,734,453.2,,26
+25,5551u6hb,12,3,300,,Uncertain,0,6,9,2,25,27,objective,Dots,734,453.2,,26
+1,6lamhe53,13,1,50,,,0,2,9,3,25,27,subjective,Thirst,,46.4,,27
+2,o94nz35c,13.5,3,10,,,0,2,9,3,25,27,subjective,Thirst,,46.4,,27
+3,4iblv6uf,7.5,2,25,,,0,2,9,3,25,27,subjective,Thirst,,46.4,,27
+4,445x4xqn,13,4,48,,,0,2,9,3,25,27,subjective,Thirst,,46.4,,27
+5,hgesum5h,10.5,1,80,,,0,3,9,3,25,27,subjective,Thirst,,79,,27
+6,fwo1nm5j,13,5,99,,,0,2,9,3,25,27,subjective,Thirst,,46.4,,27
+7,cfshrnv2,15.5,3,100,,,0,3,9,3,25,27,subjective,Thirst,,79,,27
+8,qck7b3d8,12.5,2,25,,,0,3,9,3,25,27,subjective,Thirst,,79,,27
+9,z5i2sd4h,11,4,NaN,110,,0,3,9,3,25,27,subjective,Thirst,,79,,27
+10,58jd0wja,10.5,5,80,,,0,3,9,3,25,27,subjective,Thirst,,79,,27
+11,hi0514hp,9.5,2,25000,,,1,4,9,3,25,27,objective,Dots,734,5781,750,27
+12,tiz3qse6,13.5,1,1900,,Uncertain,2,4,9,3,25,27,objective,Dots,734,5781,750,27
+13,7ddvv1y8,19,1,14,,,0,5,9,3,25,27,objective_subjective,Alcohol,,12.43,,27
+14,c1m77a16,13.5,4,600,,,3,4,9,3,25,27,objective,Dots,734,5781,750,27
+15,81zmzsqk,14,5,20,,,0,5,9,3,25,27,objective_subjective,Alcohol,,12.43,,27
+16,420yijoy,4,3,13,,,0,5,9,3,25,27,objective_subjective,Alcohol,,12.43,,27
+17,103s11he,11,3,750,Just doesn't seem like there are over 1000 but not sure. Pure guess,Neutral,5,4,9,3,25,27,objective,Dots,734,5781,750,27
+18,t8hw0qs5,12.5,5,655,,,4,4,9,3,25,27,objective,Dots,734,5781,750,27
+19,at4i1bkp,12,2,12.1415926,,,0,5,9,3,25,27,objective_subjective,Alcohol,,12.43,,27
+20,o7kn0d5q,11,4,3,,,0,5,9,3,25,27,objective_subjective,Alcohol,,12.43,,27
+21,ium8u4yn,13.5,1,450,,,4,6,9,3,25,27,objective,Dots,734,451.8,889,27
+22,uzg56stl,14,2,320,,,3,6,9,3,25,27,objective,Dots,734,451.8,889,27
+23,jliixcgf,4.5,4,300,,,1.5,6,9,3,25,27,objective,Dots,734,451.8,889,27
+24,m8vk9e2o,16,5,889,,,5,6,9,3,25,27,objective,Dots,734,451.8,889,27
+25,5551u6hb,12,3,300,,,1.5,6,9,3,25,27,objective,Dots,734,451.8,889,27
+1,6lamhe53,13,1,800,,,0,2,10,1,28,30,objective,Dots,734,880,,28
+2,o94nz35c,13.5,3,300,,,0,2,10,1,28,30,objective,Dots,734,880,,28
+3,4iblv6uf,7.5,2,2500,,Very Uncertain,0,2,10,1,28,30,objective,Dots,734,880,,28
+4,445x4xqn,13,4,300,,,0,2,10,1,28,30,objective,Dots,734,880,,28
+5,hgesum5h,10.5,1,30,,,0,3,10,1,28,30,objective_subjective,Price of Beer,,21.2,,28
+6,fwo1nm5j,13,5,500,Et tilfældigt gæt,Uncertain,0,2,10,1,28,30,objective,Dots,734,880,,28
+7,cfshrnv2,15.5,3,1,,,0,3,10,1,28,30,objective_subjective,Price of Beer,,21.2,,28
+8,qck7b3d8,12.5,2,25,,,0,3,10,1,28,30,objective_subjective,Price of Beer,,21.2,,28
+9,z5i2sd4h,11,4,25,,,0,3,10,1,28,30,objective_subjective,Price of Beer,,21.2,,28
+10,58jd0wja,10.5,5,25,,,0,3,10,1,28,30,objective_subjective,Price of Beer,,21.2,,28
+11,hi0514hp,9.5,2,14,,,0,4,10,1,28,30,objective_subjective,Alcohol,,10.6,,28
+12,tiz3qse6,13.5,1,11,,,0,4,10,1,28,30,objective_subjective,Alcohol,,10.6,,28
+13,7ddvv1y8,19,1,90,,,0,5,10,1,28,30,objective_subjective,Following the News,,91.98,,28
+14,c1m77a16,13.5,4,14,,,0,4,10,1,28,30,objective_subjective,Alcohol,,10.6,,28
+15,81zmzsqk,14,5,100,,,0,5,10,1,28,30,objective_subjective,Following the News,,91.98,,28
+16,420yijoy,4,3,80,,,0,5,10,1,28,30,objective_subjective,Following the News,,91.98,,28
+17,103s11he,11,3,10,,,0,4,10,1,28,30,objective_subjective,Alcohol,,10.6,,28
+18,t8hw0qs5,12.5,5,4,,,0,4,10,1,28,30,objective_subjective,Alcohol,,10.6,,28
+19,at4i1bkp,12,2,90,,,0,5,10,1,28,30,objective_subjective,Following the News,,91.98,,28
+20,o7kn0d5q,11,4,99.9,,,0,5,10,1,28,30,objective_subjective,Following the News,,91.98,,28
+21,ium8u4yn,13.5,1,50,,,0,6,10,1,28,30,objective,Grand Theft Auto 2015,24,69.8,,28
+22,uzg56stl,14,2,50,,,0,6,10,1,28,30,objective,Grand Theft Auto 2015,24,69.8,,28
+23,jliixcgf,4.5,4,141,,,0,6,10,1,28,30,objective,Grand Theft Auto 2015,24,69.8,,28
+24,m8vk9e2o,16,5,63,,,0,6,10,1,28,30,objective,Grand Theft Auto 2015,24,69.8,,28
+25,5551u6hb,12,3,45,,,0,6,10,1,28,30,objective,Grand Theft Auto 2015,24,69.8,,28
+1,6lamhe53,13,1,1200,,,0,2,10,2,28,30,objective,Dots,734,909.2,,29
+2,o94nz35c,13.5,3,450,,,0,2,10,2,28,30,objective,Dots,734,909.2,,29
+3,4iblv6uf,7.5,2,2000,,,0,2,10,2,28,30,objective,Dots,734,909.2,,29
+4,445x4xqn,13,4,356,,,0,2,10,2,28,30,objective,Dots,734,909.2,,29
+5,hgesum5h,10.5,1,35,,,0,3,10,2,28,30,objective_subjective,Price of Beer,,22.2,,29
+6,fwo1nm5j,13,5,540,,Very Uncertain,0,2,10,2,28,30,objective,Dots,734,909.2,,29
+7,cfshrnv2,15.5,3,1,,,0,3,10,2,28,30,objective_subjective,Price of Beer,,22.2,,29
+8,qck7b3d8,12.5,2,25,,,0,3,10,2,28,30,objective_subjective,Price of Beer,,22.2,,29
+9,z5i2sd4h,11,4,25,,,0,3,10,2,28,30,objective_subjective,Price of Beer,,22.2,,29
+10,58jd0wja,10.5,5,25,,,0,3,10,2,28,30,objective_subjective,Price of Beer,,22.2,,29
+11,hi0514hp,9.5,2,10,,,0,4,10,2,28,30,objective_subjective,Alcohol,,10.4,,29
+12,tiz3qse6,13.5,1,14,,,0,4,10,2,28,30,objective_subjective,Alcohol,,10.4,,29
+13,7ddvv1y8,19,1,90,,,0,5,10,2,28,30,objective_subjective,Following the News,,92.96,,29
+14,c1m77a16,13.5,4,14,,,0,4,10,2,28,30,objective_subjective,Alcohol,,10.4,,29
+15,81zmzsqk,14,5,90,,,0,5,10,2,28,30,objective_subjective,Following the News,,92.96,,29
+16,420yijoy,4,3,95,,,0,5,10,2,28,30,objective_subjective,Following the News,,92.96,,29
+17,103s11he,11,3,7,,,0,4,10,2,28,30,objective_subjective,Alcohol,,10.4,,29
+18,t8hw0qs5,12.5,5,7,,,0,4,10,2,28,30,objective_subjective,Alcohol,,10.4,,29
+19,at4i1bkp,12,2,90,,,0,5,10,2,28,30,objective_subjective,Following the News,,92.96,,29
+20,o7kn0d5q,11,4,99.8,,,0,5,10,2,28,30,objective_subjective,Following the News,,92.96,,29
+21,ium8u4yn,13.5,1,50,,,0,6,10,2,28,30,objective,Grand Theft Auto 2015,24,65.6,,29
+22,uzg56stl,14,2,50,,,0,6,10,2,28,30,objective,Grand Theft Auto 2015,24,65.6,,29
+23,jliixcgf,4.5,4,120,Der er kommer flere tyve til København i løbet af de sidste tre år og jeg synes det virker fornuftigt at tallet er steget okay meget ,Certain,0,6,10,2,28,30,objective,Grand Theft Auto 2015,24,65.6,,29
+24,m8vk9e2o,16,5,63,,,0,6,10,2,28,30,objective,Grand Theft Auto 2015,24,65.6,,29
+25,5551u6hb,12,3,45,Jeg håber lidt på at der er færre tyverier i dag end i 2011. Ellers ville det da være lidt ærgerligt. De andre tror dog at der er flere,Uncertain,0,6,10,2,28,30,objective,Grand Theft Auto 2015,24,65.6,,29
+1,6lamhe53,13,1,1200,,,2,2,10,3,28,30,objective,Dots,734,861,680,30
+2,o94nz35c,13.5,3,580,,Very Uncertain,4,2,10,3,28,30,objective,Dots,734,861,680,30
+3,4iblv6uf,7.5,2,1500,,,1,2,10,3,28,30,objective,Dots,734,861,680,30
+4,445x4xqn,13,4,345,,,3,2,10,3,28,30,objective,Dots,734,861,680,30
+5,hgesum5h,10.5,1,35,,,0,3,10,3,28,30,objective_subjective,Price of Beer,,27,,30
+6,fwo1nm5j,13,5,680,,,5,2,10,3,28,30,objective,Dots,734,861,680,30
+7,cfshrnv2,15.5,3,25,,,0,3,10,3,28,30,objective_subjective,Price of Beer,,27,,30
+8,qck7b3d8,12.5,2,25,,,0,3,10,3,28,30,objective_subjective,Price of Beer,,27,,30
+9,z5i2sd4h,11,4,25,,,0,3,10,3,28,30,objective_subjective,Price of Beer,,27,,30
+10,58jd0wja,10.5,5,25,,,0,3,10,3,28,30,objective_subjective,Price of Beer,,27,,30
+11,hi0514hp,9.5,2,12,,,0,4,10,3,28,30,objective_subjective,Alcohol,,9.4,,30
+12,tiz3qse6,13.5,1,7,,,0,4,10,3,28,30,objective_subjective,Alcohol,,9.4,,30
+13,7ddvv1y8,19,1,90,,,0,5,10,3,28,30,objective_subjective,Following the News,,92.94,,30
+14,c1m77a16,13.5,4,14,,,0,4,10,3,28,30,objective_subjective,Alcohol,,9.4,,30
+15,81zmzsqk,14,5,90,,,0,5,10,3,28,30,objective_subjective,Following the News,,92.94,,30
+16,420yijoy,4,3,95,,,0,5,10,3,28,30,objective_subjective,Following the News,,92.94,,30
+17,103s11he,11,3,7,,,0,4,10,3,28,30,objective_subjective,Alcohol,,9.4,,30
+18,t8hw0qs5,12.5,5,7,,,0,4,10,3,28,30,objective_subjective,Alcohol,,9.4,,30
+19,at4i1bkp,12,2,90,,,0,5,10,3,28,30,objective_subjective,Following the News,,92.94,,30
+20,o7kn0d5q,11,4,99.7,,,0,5,10,3,28,30,objective_subjective,Following the News,,92.94,,30
+21,ium8u4yn,13.5,1,50,,Very Uncertain,3.5,6,10,3,28,30,objective,Grand Theft Auto 2015,24,65.6,45,30
+22,uzg56stl,14,2,50,,,3.5,6,10,3,28,30,objective,Grand Theft Auto 2015,24,65.6,45,30
+23,jliixcgf,4.5,4,120,,Certain,1,6,10,3,28,30,objective,Grand Theft Auto 2015,24,65.6,45,30
+24,m8vk9e2o,16,5,63,,,2,6,10,3,28,30,objective,Grand Theft Auto 2015,24,65.6,45,30
+25,5551u6hb,12,3,45,,,5,6,10,3,28,30,objective,Grand Theft Auto 2015,24,65.6,45,30
+1,6lamhe53,13,1,6,,,0,2,11,1,31,33,subjective,Rate the Painting,,30.7,,31
+2,o94nz35c,13.5,3,50,,,0,2,11,1,31,33,subjective,Rate the Painting,,30.7,,31
+3,4iblv6uf,7.5,2,15,,,0,2,11,1,31,33,subjective,Rate the Painting,,30.7,,31
+4,445x4xqn,13,4,8.5,,,0,2,11,1,31,33,subjective,Rate the Painting,,30.7,,31
+5,hgesum5h,10.5,1,24,,,0,3,11,1,31,33,objective_subjective,Picnic,,26.2,,31
+6,fwo1nm5j,13,5,74,,,0,2,11,1,31,33,subjective,Rate the Painting,,30.7,,31
+7,cfshrnv2,15.5,3,35,,,0,3,11,1,31,33,objective_subjective,Picnic,,26.2,,31
+8,qck7b3d8,12.5,2,20,,,0,3,11,1,31,33,objective_subjective,Picnic,,26.2,,31
+9,z5i2sd4h,11,4,25,,,0,3,11,1,31,33,objective_subjective,Picnic,,26.2,,31
+10,58jd0wja,10.5,5,27,,,0,3,11,1,31,33,objective_subjective,Picnic,,26.2,,31
+11,hi0514hp,9.5,2,20,,,0,4,11,1,31,33,objective_subjective,Picnic,,23.2,,31
+12,tiz3qse6,13.5,1,20,,,0,4,11,1,31,33,objective_subjective,Picnic,,23.2,,31
+13,7ddvv1y8,19,1,40,,,0,5,11,1,31,33,subjective,Rate the Painting,,175.2,,31
+14,c1m77a16,13.5,4,24,,,0,4,11,1,31,33,objective_subjective,Picnic,,23.2,,31
+15,81zmzsqk,14,5,80,,,0,5,11,1,31,33,subjective,Rate the Painting,,175.2,,31
+16,420yijoy,4,3,55,,,0,5,11,1,31,33,subjective,Rate the Painting,,175.2,,31
+17,103s11he,11,3,25,,,0,4,11,1,31,33,objective_subjective,Picnic,,23.2,,31
+18,t8hw0qs5,12.5,5,27,,,0,4,11,1,31,33,objective_subjective,Picnic,,23.2,,31
+19,at4i1bkp,12,2,35,,,0,5,11,1,31,33,subjective,Rate the Painting,,175.2,,31
+20,o7kn0d5q,11,4,NaN,666,,0,5,11,1,31,33,subjective,Rate the Painting,,175.2,,31
+21,ium8u4yn,13.5,1,11,,,0,6,11,1,31,33,objective_subjective,Alcohol,,14,,31
+22,uzg56stl,14,2,10,,,0,6,11,1,31,33,objective_subjective,Alcohol,,14,,31
+23,jliixcgf,4.5,4,21,,,0,6,11,1,31,33,objective_subjective,Alcohol,,14,,31
+24,m8vk9e2o,16,5,14,,,0,6,11,1,31,33,objective_subjective,Alcohol,,14,,31
+25,5551u6hb,12,3,14,,,0,6,11,1,31,33,objective_subjective,Alcohol,,14,,31
+1,6lamhe53,13,1,60,,,0,2,11,2,31,33,subjective,Rate the Painting,,41.5,,32
+2,o94nz35c,13.5,3,50,,,0,2,11,2,31,33,subjective,Rate the Painting,,41.5,,32
+3,4iblv6uf,7.5,2,15,,,0,2,11,2,31,33,subjective,Rate the Painting,,41.5,,32
+4,445x4xqn,13,4,8.5,,,0,2,11,2,31,33,subjective,Rate the Painting,,41.5,,32
+5,hgesum5h,10.5,1,26,,,0,3,11,2,31,33,objective_subjective,Picnic,,154.8,,32
+6,fwo1nm5j,13,5,74,,,0,2,11,2,31,33,subjective,Rate the Painting,,41.5,,32
+7,cfshrnv2,15.5,3,35,,,0,3,11,2,31,33,objective_subjective,Picnic,,154.8,,32
+8,qck7b3d8,12.5,2,20,,,0,3,11,2,31,33,objective_subjective,Picnic,,154.8,,32
+9,z5i2sd4h,11,4,NaN,666,,0,3,11,2,31,33,objective_subjective,Picnic,,154.8,,32
+10,58jd0wja,10.5,5,27,,,0,3,11,2,31,33,objective_subjective,Picnic,,154.8,,32
+11,hi0514hp,9.5,2,21,,,0,4,11,2,31,33,objective_subjective,Picnic,,23.6,,32
+12,tiz3qse6,13.5,1,22,,,0,4,11,2,31,33,objective_subjective,Picnic,,23.6,,32
+13,7ddvv1y8,19,1,40,,,0,5,11,2,31,33,subjective,Rate the Painting,,28,,32
+14,c1m77a16,13.5,4,24,,,0,4,11,2,31,33,objective_subjective,Picnic,,23.6,,32
+15,81zmzsqk,14,5,0,,,0,5,11,2,31,33,subjective,Rate the Painting,,28,,32
+16,420yijoy,4,3,55,,,0,5,11,2,31,33,subjective,Rate the Painting,,28,,32
+17,103s11he,11,3,25,,,0,4,11,2,31,33,objective_subjective,Picnic,,23.6,,32
+18,t8hw0qs5,12.5,5,26,,,0,4,11,2,31,33,objective_subjective,Picnic,,23.6,,32
+19,at4i1bkp,12,2,35,,,0,5,11,2,31,33,subjective,Rate the Painting,,28,,32
+20,o7kn0d5q,11,4,10,,,0,5,11,2,31,33,subjective,Rate the Painting,,28,,32
+21,ium8u4yn,13.5,1,14,,,0,6,11,2,31,33,objective_subjective,Alcohol,,14.8,,32
+22,uzg56stl,14,2,14,,,0,6,11,2,31,33,objective_subjective,Alcohol,,14.8,,32
+23,jliixcgf,4.5,4,18,,,0,6,11,2,31,33,objective_subjective,Alcohol,,14.8,,32
+24,m8vk9e2o,16,5,14,,,0,6,11,2,31,33,objective_subjective,Alcohol,,14.8,,32
+25,5551u6hb,12,3,14,,,0,6,11,2,31,33,objective_subjective,Alcohol,,14.8,,32
+1,6lamhe53,13,1,60,,,0,2,11,3,31,33,subjective,Rate the Painting,,56.82,,33
+2,o94nz35c,13.5,3,50,,,0,2,11,3,31,33,subjective,Rate the Painting,,56.82,,33
+3,4iblv6uf,7.5,2,15,,,0,2,11,3,31,33,subjective,Rate the Painting,,56.82,,33
+4,445x4xqn,13,4,85,,,0,2,11,3,31,33,subjective,Rate the Painting,,56.82,,33
+5,hgesum5h,10.5,1,26,,,0,3,11,3,31,33,objective_subjective,Picnic,,26.6,,33
+6,fwo1nm5j,13,5,74.1,,,0,2,11,3,31,33,subjective,Rate the Painting,,56.82,,33
+7,cfshrnv2,15.5,3,35,,,0,3,11,3,31,33,objective_subjective,Picnic,,26.6,,33
+8,qck7b3d8,12.5,2,20,,,0,3,11,3,31,33,objective_subjective,Picnic,,26.6,,33
+9,z5i2sd4h,11,4,25,,,0,3,11,3,31,33,objective_subjective,Picnic,,26.6,,33
+10,58jd0wja,10.5,5,27,,,0,3,11,3,31,33,objective_subjective,Picnic,,26.6,,33
+11,hi0514hp,9.5,2,22,,,0,4,11,3,31,33,objective_subjective,Picnic,,23.8,,33
+12,tiz3qse6,13.5,1,22,,,0,4,11,3,31,33,objective_subjective,Picnic,,23.8,,33
+13,7ddvv1y8,19,1,40,,,0,5,11,3,31,33,subjective,Rate the Painting,,26.63,,33
+14,c1m77a16,13.5,4,24,,,0,4,11,3,31,33,objective_subjective,Picnic,,23.8,,33
+15,81zmzsqk,14,5,50,,,0,5,11,3,31,33,subjective,Rate the Painting,,26.63,,33
+16,420yijoy,4,3,5,,,0,5,11,3,31,33,subjective,Rate the Painting,,26.63,,33
+17,103s11he,11,3,25,,,0,4,11,3,31,33,objective_subjective,Picnic,,23.8,,33
+18,t8hw0qs5,12.5,5,26,,,0,4,11,3,31,33,objective_subjective,Picnic,,23.8,,33
+19,at4i1bkp,12,2,35,,,0,5,11,3,31,33,subjective,Rate the Painting,,26.63,,33
+20,o7kn0d5q,11,4,3.14159265,,,0,5,11,3,31,33,subjective,Rate the Painting,,26.63,,33
+21,ium8u4yn,13.5,1,14,,,0,6,11,3,31,33,objective_subjective,Alcohol,,14.8,,33
+22,uzg56stl,14,2,14,,,0,6,11,3,31,33,objective_subjective,Alcohol,,14.8,,33
+23,jliixcgf,4.5,4,18,,,0,6,11,3,31,33,objective_subjective,Alcohol,,14.8,,33
+24,m8vk9e2o,16,5,14,,,0,6,11,3,31,33,objective_subjective,Alcohol,,14.8,,33
+25,5551u6hb,12,3,14,,,0,6,11,3,31,33,objective_subjective,Alcohol,,14.8,,33

@@ -1,0 +1,34 @@
+{% extends "global/Base.html" %}
+{% load otree %}
+
+{% block title %}Thank you for participating in the Canteen Dilemma{% endblock %}
+{% block content %}
+<div>
+    <p>
+        The Canteen Dilemma intends to show what happens when people try to coordinate their actions
+        without common knowledge. 'Common knowledge', as defined in the research literature,
+        is much more than simply saying that something is known by all.
+        It also implies that the fact that it is known is also known by all, a sort of agreement to the infinite degree.
+    </p>
+    <p>
+        Even if your colleague knows your arrival time (+/- 5 minutes), it still is unclear what you
+        know she knows about what you know about what she knows about your arrival time. She might
+        arrive at 8:40 and know that you cannot arrive any later than 8:45. But if this is the case,
+        you might think she arrived at 8:50, making her think that you arrived at 8:55, making you
+        think that she arrived at 9:00. Bam! //
+
+    </p>
+    <p>
+
+        Even if you know your colleagues arrival time (+/- 10 minutes), it is still unclear what you know about what she knows about what you know and so on. If you arrive at 8:50, your know your colleague could arrive at 8:40, where she could go either to the canteen or the office, or at 9:00 where she has to go to the office. If you go to the canteen, you might risk she arrived at 9:00 and went to the office. If you really don't want to risk going to the canteen while your partner goes to the office, you have to go to the office at 8:50 as well. If you arrive at 8:40, your colleague could have arrived at 8:50 at the latest. If she reasons like you, she would go to the office, meaning you should do the same - even though you both arrived before 9:00. But even if you arrived at 8:30, where your colleague could have arrived at 8:40 at the latest, if your colleague reasons like you, she would go to the office at 8:40, meaning you should go to the office as well. The same line of reasoning can be repeated infinitely through backwards deduction. This means that if you don't want to risk going to the canteen while you colleague goes to the office, you have to go to the office even if you arrive at 8:00!
+    </p>
+    <p>
+        Thus, Common Knowledge - in its ultimate sense - implies not only that people know some piece of information,
+        but also that you can be absolutely confident that everybody knows that everybody know it, and so on.
+        The canteen dilemma shows that without Common Knowledge you
+        must eventually conclude that you never can meet in the canteen! At least if you do not
+        want to risk losing any hard earned bonuses.
+    </p>
+</div>
+{% next_button %}
+{% endblock %}

@@ -1,0 +1,21 @@
+{% extends "global/Base.html" %}
+{% load staticfiles otree_tags %}
+
+
+
+{% block content %}
+    <p>
+        On a scale from 1=very uncertain to 6=very certain, how certain are you that your colleague has made the same choice as you?
+    </p>
+    <div class="choice-button-wrapper">
+        <button name="certainty" value="1" class="btn btn-primary btn-large">1</button>
+        <button name="certainty" value="2" class="btn btn-primary btn-large">2</button>
+        <button name="certainty" value="3" class="btn btn-primary btn-large">3</button>
+        <button name="certainty" value="4" class="btn btn-primary btn-large">4</button>
+        <button name="certainty" value="5" class="btn btn-primary btn-large">5</button>
+        <button name="certainty" value="6" class="btn btn-primary btn-large">6</button>
+    </div>
+
+    {% include Constants.instructions_template %}
+
+{% endblock %}

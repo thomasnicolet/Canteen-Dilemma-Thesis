@@ -1,0 +1,22 @@
+,UA,UB,UA,UA,UB,UA
+0,A,B,A,A,B,A
+1,A,A,B,B,B,A
+2,A,B,A,A,B,A
+3,A,B,A,A,B,A
+4,A,B,A,A,B,A
+5,A,B,A,A,B,B
+6,A,B,A,A,B,A
+7,A,B,A,A,B,A
+8,A,B,A,,B,A
+9,A,B,A,,B,A
+,Urn A,Urn B,Urn A,Urn A,Urn B,Urn A
+0,red,blue,red,blue,blue,red
+1,red,red,blue,blue,blue,red
+2,blue,blue,red,red,red,red
+3,blue,blue,red,red,blue,red
+4,red,red,red,red,blue,blue
+5,red,blue,blue,blue,blue,blue
+6,red,blue,red,red,blue,red
+7,red,blue,red,red,blue,red
+8,red,red,blue,,blue,blue
+9,red,blue,red,,red,blue

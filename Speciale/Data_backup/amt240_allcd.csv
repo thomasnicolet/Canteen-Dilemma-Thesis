@@ -1,0 +1,1183 @@
+,session,code,turker,group,id_in_group,round,arrival,choice,certainty,bonus,strategy,simple,cutoff,fault,payoff
+0,a5eo1u66,cwjc9wrz,A2KK5BSM1BR0WR,2,1,1,8.1,1.0,0.99,-0.01,,,,,0.0
+1,a5eo1u66,teo5lzkv,A2WYCY1FMQOD5F,2,2,1,8.2,1.0,0.99,-0.01,,,,,0.0
+2,a5eo1u66,cwjc9wrz,A2KK5BSM1BR0WR,2,1,2,9.0,0.0,0.99,-0.02,,,,,0.0
+3,a5eo1u66,teo5lzkv,A2WYCY1FMQOD5F,2,2,2,8.5,0.0,0.99,-0.02,,,,,0.0
+4,a5eo1u66,cwjc9wrz,A2KK5BSM1BR0WR,2,1,3,8.2,1.0,0.99,-0.01,,,,,0.0
+5,a5eo1u66,teo5lzkv,A2WYCY1FMQOD5F,2,2,3,8.3,1.0,0.99,-0.01,,,,,0.0
+6,a5eo1u66,cwjc9wrz,A2KK5BSM1BR0WR,2,1,4,8.2,1.0,0.99,-0.01,,,,,0.0
+7,a5eo1u66,teo5lzkv,A2WYCY1FMQOD5F,2,2,4,8.1,1.0,0.99,-0.01,,,,,0.0
+8,a5eo1u66,cwjc9wrz,A2KK5BSM1BR0WR,2,1,5,8.1,1.0,0.99,-0.01,,,,,0.0
+9,a5eo1u66,teo5lzkv,A2WYCY1FMQOD5F,2,2,5,8.2,1.0,0.99,-0.01,,,,,0.0
+10,a5eo1u66,cwjc9wrz,A2KK5BSM1BR0WR,2,1,6,8.5,0.0,0.875,-4.16,,,,,0.0
+11,a5eo1u66,teo5lzkv,A2WYCY1FMQOD5F,2,2,6,8.4,1.0,0.99,-9.21,,,,,0.0
+12,a5eo1u66,cwjc9wrz,A2KK5BSM1BR0WR,2,1,7,9.0,0.0,0.99,-0.02,,,,,0.0
+13,a5eo1u66,teo5lzkv,A2WYCY1FMQOD5F,2,2,7,9.1,0.0,0.99,-0.02,,,,,0.0
+14,a5eo1u66,cwjc9wrz,A2KK5BSM1BR0WR,2,1,8,8.2,1.0,0.99,-0.01,,,,,0.0
+15,a5eo1u66,teo5lzkv,A2WYCY1FMQOD5F,2,2,8,8.1,1.0,0.99,-0.01,,,,,0.0
+16,a5eo1u66,cwjc9wrz,A2KK5BSM1BR0WR,2,1,9,8.5,1.0,0.99,-9.21,I just went with my gut. I chose answers based on what I would really do.,1.0,8.4,1.0,0.0
+17,a5eo1u66,teo5lzkv,A2WYCY1FMQOD5F,2,2,9,9.0,0.0,0.99,-9.21,to try and pick the right answer,1.0,8.1,1.0,0.0
+18,a5eo1u66,uf0tmwsu,AP9WIQ4P78XLH,3,1,1,9.0,1.0,0.625,-1.96,,,,,0.0
+19,a5eo1u66,aztsroyf,A1HN2W2M73O741,3,2,1,9.1,0.0,0.75,-2.77,,,,,3.49
+20,a5eo1u66,uf0tmwsu,AP9WIQ4P78XLH,3,1,2,8.3,1.0,0.625,-0.47,,,,,0.0
+21,a5eo1u66,aztsroyf,A1HN2W2M73O741,3,2,2,8.4,1.0,0.75,-0.29,,,,,3.49
+22,a5eo1u66,uf0tmwsu,AP9WIQ4P78XLH,3,1,3,8.4,1.0,0.625,-0.47,,,,,0.0
+23,a5eo1u66,aztsroyf,A1HN2W2M73O741,3,2,3,8.3,1.0,0.875,-0.13,,,,,3.49
+24,a5eo1u66,uf0tmwsu,AP9WIQ4P78XLH,3,1,4,8.3,1.0,0.75,-0.29,,,,,0.0
+25,a5eo1u66,aztsroyf,A1HN2W2M73O741,3,2,4,8.4,1.0,0.875,-0.13,,,,,3.49
+26,a5eo1u66,uf0tmwsu,AP9WIQ4P78XLH,3,1,5,8.2,1.0,0.875,-0.13,,,,,0.0
+27,a5eo1u66,aztsroyf,A1HN2W2M73O741,3,2,5,8.3,1.0,0.875,-0.13,,,,,3.49
+28,a5eo1u66,uf0tmwsu,AP9WIQ4P78XLH,3,1,6,8.5,1.0,0.99,-0.01,,,,,0.0
+29,a5eo1u66,aztsroyf,A1HN2W2M73O741,3,2,6,8.4,1.0,0.75,-0.29,,,,,3.49
+30,a5eo1u66,uf0tmwsu,AP9WIQ4P78XLH,3,1,7,8.5,1.0,0.99,-9.21,"When it looked like my colleague was consistently going to the canteen, I chose very certain so as to retain my money. That was when my colleague decided to go elsewhere. I lost everything as a result. I should have stayed uncertain throughout.",2.0,8.4,2.0,0.0
+31,a5eo1u66,aztsroyf,A1HN2W2M73O741,3,2,7,9.0,0.0,0.75,-2.77,I tried to assume that the person would do what I would have done.,1.0,8.3,3.0,3.49
+32,a5eo1u66,jjjybwjn,AMPMTF5IAAMK8,4,1,1,8.3,1.0,0.75,-0.29,,,,,5.28
+33,a5eo1u66,piz44rmz,A9YN0N476F6PR,4,2,1,8.4,1.0,0.75,-0.29,,,,,0.0
+34,a5eo1u66,jjjybwjn,AMPMTF5IAAMK8,4,1,2,8.1,1.0,0.99,-0.01,,,,,5.28
+35,a5eo1u66,piz44rmz,A9YN0N476F6PR,4,2,2,8.2,1.0,0.875,-0.13,,,,,0.0
+36,a5eo1u66,jjjybwjn,AMPMTF5IAAMK8,4,1,3,8.5,1.0,0.75,-2.77,,,,,5.28
+37,a5eo1u66,piz44rmz,A9YN0N476F6PR,4,2,3,9.0,0.0,0.99,-9.21,,,,,0.0
+38,a5eo1u66,jjjybwjn,AMPMTF5IAAMK8,4,1,4,8.5,1.0,0.5,-0.69,,,,,5.28
+39,a5eo1u66,piz44rmz,A9YN0N476F6PR,4,2,4,8.4,1.0,0.99,-0.01,,,,,0.0
+40,a5eo1u66,jjjybwjn,AMPMTF5IAAMK8,4,1,5,8.2,1.0,0.99,-0.01,,,,,5.28
+41,a5eo1u66,piz44rmz,A9YN0N476F6PR,4,2,5,8.1,1.0,0.99,-0.01,,,,,0.0
+42,a5eo1u66,jjjybwjn,AMPMTF5IAAMK8,4,1,6,8.1,1.0,0.99,-0.01,,,,,5.28
+43,a5eo1u66,piz44rmz,A9YN0N476F6PR,4,2,6,8.0,1.0,0.99,-0.01,,,,,0.0
+44,a5eo1u66,jjjybwjn,AMPMTF5IAAMK8,4,1,7,8.5,0.0,0.625,-0.94,I mostly tried to go to the canteen,1.0,8.5,3.0,5.28
+45,a5eo1u66,piz44rmz,A9YN0N476F6PR,4,2,7,9.0,0.0,0.75,-0.58,I based my decisions off of my arrival time.,1.0,8.4,3.0,0.0
+46,a5eo1u66,ythna08i,A157L6Z8QU3SDE,6,1,1,8.2,1.0,0.875,-0.13,,,,,7.12
+47,a5eo1u66,393r3x6l,A1WJU1IQ3UTRC6,6,2,1,8.1,1.0,0.99,-0.01,,,,,9.63
+48,a5eo1u66,ythna08i,A157L6Z8QU3SDE,6,1,2,9.0,0.0,0.75,-0.58,,,,,7.12
+49,a5eo1u66,393r3x6l,A1WJU1IQ3UTRC6,6,2,2,8.5,0.0,0.875,-0.27,,,,,9.63
+50,a5eo1u66,ythna08i,A157L6Z8QU3SDE,6,1,3,8.4,1.0,0.75,-0.29,,,,,7.12
+51,a5eo1u66,393r3x6l,A1WJU1IQ3UTRC6,6,2,3,8.3,1.0,0.99,-0.01,,,,,9.63
+52,a5eo1u66,ythna08i,A157L6Z8QU3SDE,6,1,4,8.1,1.0,0.99,-0.01,,,,,7.12
+53,a5eo1u66,393r3x6l,A1WJU1IQ3UTRC6,6,2,4,8.2,1.0,0.99,-0.01,,,,,9.63
+54,a5eo1u66,ythna08i,A157L6Z8QU3SDE,6,1,5,8.3,1.0,0.75,-0.29,,,,,7.12
+55,a5eo1u66,393r3x6l,A1WJU1IQ3UTRC6,6,2,5,8.2,1.0,0.99,-0.01,,,,,9.63
+56,a5eo1u66,ythna08i,A157L6Z8QU3SDE,6,1,6,8.2,1.0,0.75,-0.29,,,,,7.12
+57,a5eo1u66,393r3x6l,A1WJU1IQ3UTRC6,6,2,6,8.3,1.0,0.99,-0.01,,,,,9.63
+58,a5eo1u66,ythna08i,A157L6Z8QU3SDE,6,1,7,8.5,0.0,0.75,-0.58,,,,,7.12
+59,a5eo1u66,393r3x6l,A1WJU1IQ3UTRC6,6,2,7,9.0,0.0,0.99,-0.02,,,,,9.63
+60,a5eo1u66,ythna08i,A157L6Z8QU3SDE,6,1,8,8.4,1.0,0.75,-0.29,,,,,7.12
+61,a5eo1u66,393r3x6l,A1WJU1IQ3UTRC6,6,2,8,8.3,1.0,0.99,-0.01,,,,,9.63
+62,a5eo1u66,ythna08i,A157L6Z8QU3SDE,6,1,9,8.2,1.0,0.875,-0.13,,,,,7.12
+63,a5eo1u66,393r3x6l,A1WJU1IQ3UTRC6,6,2,9,8.3,1.0,0.99,-0.01,,,,,9.63
+64,a5eo1u66,ythna08i,A157L6Z8QU3SDE,6,1,10,8.4,1.0,0.75,-0.29,Go to the canteen if I arrived early and don't go if I arrived late.,1.0,8.3,,7.12
+65,a5eo1u66,393r3x6l,A1WJU1IQ3UTRC6,6,2,10,8.3,1.0,0.99,-0.01,"I was pretty confident and made sure I used the arrival times to my advantage and made educated guesses,",1.0,8.4,,9.63
+66,a5eo1u66,uly29bgk,ABMPX2Y2IRBMG,7,1,1,8.3,1.0,0.875,-0.13,,,,,0.0
+67,a5eo1u66,xnuocav6,A25JCKN3DMCYA0,7,2,1,8.4,1.0,0.75,-0.29,,,,,0.0
+68,a5eo1u66,uly29bgk,ABMPX2Y2IRBMG,7,1,2,8.5,1.0,0.99,-9.21,,,,,0.0
+69,a5eo1u66,xnuocav6,A25JCKN3DMCYA0,7,2,2,9.0,0.0,0.99,-9.21,,,,,0.0
+70,a5eo1u66,uly29bgk,ABMPX2Y2IRBMG,7,1,3,9.0,0.0,0.99,-9.21,I tried to figure out what time they cut off going to the canteen. I was wrong.,2.0,8.3,3.0,0.0
+71,a5eo1u66,xnuocav6,A25JCKN3DMCYA0,7,2,3,8.5,1.0,0.99,-9.21,"I thought my colleague was arriving at the same time as me, and that was not the case.",1.0,8.0,2.0,0.0
+72,a5eo1u66,zgmn5r7a,A2UC2ETY8N8W6Y,8,1,1,8.3,1.0,0.99,-0.01,,,,,0.55
+73,a5eo1u66,5pf0p0sz,ARHBT4K14I7U,8,2,1,8.2,1.0,0.99,-0.01,,,,,0.39
+74,a5eo1u66,zgmn5r7a,A2UC2ETY8N8W6Y,8,1,2,8.5,0.0,0.99,-0.02,,,,,0.55
+75,a5eo1u66,5pf0p0sz,ARHBT4K14I7U,8,2,2,9.0,0.0,0.99,-0.02,,,,,0.39
+76,a5eo1u66,zgmn5r7a,A2UC2ETY8N8W6Y,8,1,3,8.4,1.0,0.99,-0.01,,,,,0.55
+77,a5eo1u66,5pf0p0sz,ARHBT4K14I7U,8,2,3,8.3,1.0,0.99,-0.01,,,,,0.39
+78,a5eo1u66,zgmn5r7a,A2UC2ETY8N8W6Y,8,1,4,8.4,1.0,0.99,-9.21,,,,,0.55
+79,a5eo1u66,5pf0p0sz,ARHBT4K14I7U,8,2,4,8.5,0.0,0.99,-9.21,,,,,0.39
+80,a5eo1u66,zgmn5r7a,A2UC2ETY8N8W6Y,8,1,5,8.2,1.0,0.99,-0.01,,,,,0.55
+81,a5eo1u66,5pf0p0sz,ARHBT4K14I7U,8,2,5,8.3,1.0,0.99,-0.01,,,,,0.39
+82,a5eo1u66,zgmn5r7a,A2UC2ETY8N8W6Y,8,1,6,8.1,1.0,0.99,-0.01,,,,,0.55
+83,a5eo1u66,5pf0p0sz,ARHBT4K14I7U,8,2,6,8.2,1.0,0.99,-0.01,,,,,0.39
+84,a5eo1u66,zgmn5r7a,A2UC2ETY8N8W6Y,8,1,7,8.4,1.0,0.875,-0.13,,,,,0.55
+85,a5eo1u66,5pf0p0sz,ARHBT4K14I7U,8,2,7,8.3,1.0,0.99,-0.01,,,,,0.39
+86,a5eo1u66,zgmn5r7a,A2UC2ETY8N8W6Y,8,1,8,8.3,1.0,0.99,-0.01,,,,,0.55
+87,a5eo1u66,5pf0p0sz,ARHBT4K14I7U,8,2,8,8.4,1.0,0.75,-0.29,,,,,0.39
+88,a5eo1u66,zgmn5r7a,A2UC2ETY8N8W6Y,8,1,9,8.5,0.0,0.99,-0.02,,,,,0.55
+89,a5eo1u66,5pf0p0sz,ARHBT4K14I7U,8,2,9,9.0,0.0,0.99,-0.02,,,,,0.39
+90,a5eo1u66,zgmn5r7a,A2UC2ETY8N8W6Y,8,1,10,9.0,0.0,0.99,-0.02,I tried to measure how much time they had mostly and made my decision based on that.,1.0,8.4,,0.55
+91,a5eo1u66,5pf0p0sz,ARHBT4K14I7U,8,2,10,8.5,0.0,0.99,-0.02,If I felt like there was plenty of time to get coffee before work I went and assume the partner would too,1.0,8.3,,0.39
+92,a5eo1u66,plm59xl2,A3LJEDYJGSRF1G,9,1,1,8.5,0.0,0.5,-1.39,,,,,0.0
+93,a5eo1u66,u5jbxspw,A3RX72PACI0RG4,9,2,1,8.4,0.0,0.99,-0.02,,,,,0.74
+94,a5eo1u66,plm59xl2,A3LJEDYJGSRF1G,9,1,2,8.2,1.0,0.99,-0.01,,,,,0.0
+95,a5eo1u66,u5jbxspw,A3RX72PACI0RG4,9,2,2,8.3,1.0,0.99,-0.01,,,,,0.74
+96,a5eo1u66,plm59xl2,A3LJEDYJGSRF1G,9,1,3,8.4,1.0,0.75,-0.29,,,,,0.0
+97,a5eo1u66,u5jbxspw,A3RX72PACI0RG4,9,2,3,8.3,1.0,0.99,-0.01,,,,,0.74
+98,a5eo1u66,plm59xl2,A3LJEDYJGSRF1G,9,1,4,8.2,1.0,0.99,-0.01,,,,,0.0
+99,a5eo1u66,u5jbxspw,A3RX72PACI0RG4,9,2,4,8.1,1.0,0.99,-0.01,,,,,0.74
+100,a5eo1u66,plm59xl2,A3LJEDYJGSRF1G,9,1,5,8.3,1.0,0.99,-9.21,I just chose by how much time I had before 9am,1.0,8.2,1.0,0.0
+101,a5eo1u66,u5jbxspw,A3RX72PACI0RG4,9,2,5,8.4,0.0,0.99,-9.21,"I imagined that my colleague was like me and then ""thought like them""",1.0,8.2,2.0,0.74
+102,a5eo1u66,y02w1591,AT53IAFG8BTZO,10,1,1,8.4,1.0,0.99,-9.21,,,,,0.0
+103,a5eo1u66,etvzd6pr,A2F0FKEX6WR4AM,10,2,1,8.5,0.0,0.5,-1.39,,,,,7.22
+104,a5eo1u66,y02w1591,AT53IAFG8BTZO,10,1,2,8.4,1.0,0.875,-4.16,I would think if we had time to make it to the canteen why wouldn't we go.,1.0,8.4,2.0,0.0
+105,a5eo1u66,etvzd6pr,A2F0FKEX6WR4AM,10,2,2,8.5,0.0,0.5,-1.39,I did not feel that either of us should go to the canteen with the time allowed prior to needing to be in the office.,1.0,8.3,2.0,7.22
+106,a5eo1u66,uz3sydse,A2ODH6HV36EP88,11,1,1,8.5,1.0,0.99,-9.21,,,,,0.0
+107,a5eo1u66,fdqjpwwa,A3LFB7XLW00Q61,11,2,1,9.0,1.0,0.875,-4.16,,,,,3.88
+108,a5eo1u66,uz3sydse,A2ODH6HV36EP88,11,1,2,8.5,1.0,0.875,-4.16,I assessed the time and if it seemed there was enough of it I thought we would go,1.0,8.4,3.0,0.0
+109,a5eo1u66,fdqjpwwa,A3LFB7XLW00Q61,11,2,2,9.0,0.0,0.625,-1.96,I just thought of what my partner was likely to do.,1.0,8.3,2.0,3.88
+110,a5eo1u66,vw4avove,A1ZD9SJXQ9C6EW,12,1,1,9.0,0.0,0.99,-0.02,,,,,0.6
+111,a5eo1u66,h1d32hol,A1OZPLHNIU1519,12,2,1,9.1,0.0,0.99,-0.02,,,,,0.0
+112,a5eo1u66,vw4avove,A1ZD9SJXQ9C6EW,12,1,2,9.0,0.0,0.99,-0.02,,,,,0.6
+113,a5eo1u66,h1d32hol,A1OZPLHNIU1519,12,2,2,9.1,0.0,0.99,-0.02,,,,,0.0
+114,a5eo1u66,vw4avove,A1ZD9SJXQ9C6EW,12,1,3,8.5,1.0,0.875,-0.13,,,,,0.6
+115,a5eo1u66,h1d32hol,A1OZPLHNIU1519,12,2,3,8.4,1.0,0.99,-0.01,,,,,0.0
+116,a5eo1u66,vw4avove,A1ZD9SJXQ9C6EW,12,1,4,9.0,0.0,0.99,-0.02,,,,,0.6
+117,a5eo1u66,h1d32hol,A1OZPLHNIU1519,12,2,4,8.5,0.0,0.625,-0.94,,,,,0.0
+118,a5eo1u66,vw4avove,A1ZD9SJXQ9C6EW,12,1,5,8.4,1.0,0.99,-9.21,How to get cheated out of a huge bonus.,1.0,8.5,3.0,0.6
+119,a5eo1u66,h1d32hol,A1OZPLHNIU1519,12,2,5,8.3,0.0,0.99,-9.21,I just went by the time that I arrived at work and estimated when my colleague would arrive.,1.0,8.4,3.0,0.0
+120,a5eo1u66,bnuz8mna,A1USDMJVT10CE4,13,1,1,8.5,1.0,0.75,-0.29,,,,,0.0
+121,a5eo1u66,qg2t1zcn,ANB3WGF84QUUB,13,2,1,8.4,1.0,0.99,-0.01,,,,,0.0
+122,a5eo1u66,bnuz8mna,A1USDMJVT10CE4,13,1,2,8.3,0.0,0.99,-9.21,,,,,0.0
+123,a5eo1u66,qg2t1zcn,ANB3WGF84QUUB,13,2,2,8.2,1.0,0.99,-9.21,,,,,0.0
+124,a5eo1u66,bnuz8mna,A1USDMJVT10CE4,13,1,3,8.3,0.0,0.99,-9.21,I did not have one.,3.0,8.1,1.0,0.0
+125,a5eo1u66,qg2t1zcn,ANB3WGF84QUUB,13,2,3,8.2,1.0,0.99,-9.21,I chose the canteen,1.0,8.4,2.0,0.0
+126,a5eo1u66,yi7p2win,AYXDE087J2KO,14,1,1,8.1,1.0,0.99,-0.01,,,,,0.0
+127,a5eo1u66,9uuzcesu,A5CMNI7B03XL,14,2,1,8.0,1.0,0.75,-0.29,,,,,1.34
+128,a5eo1u66,yi7p2win,AYXDE087J2KO,14,1,2,8.1,1.0,0.99,-0.01,,,,,0.0
+129,a5eo1u66,9uuzcesu,A5CMNI7B03XL,14,2,2,8.0,1.0,0.99,-0.01,,,,,1.34
+130,a5eo1u66,yi7p2win,AYXDE087J2KO,14,1,3,8.5,0.0,0.75,-0.58,,,,,0.0
+131,a5eo1u66,9uuzcesu,A5CMNI7B03XL,14,2,3,9.0,0.0,0.99,-0.02,,,,,1.34
+132,a5eo1u66,yi7p2win,AYXDE087J2KO,14,1,4,8.4,1.0,0.99,-9.21,,,,,0.0
+133,a5eo1u66,9uuzcesu,A5CMNI7B03XL,14,2,4,8.5,0.0,0.875,-4.16,,,,,1.34
+134,a5eo1u66,yi7p2win,AYXDE087J2KO,14,1,5,9.0,0.0,0.99,-0.02,,,,,0.0
+135,a5eo1u66,9uuzcesu,A5CMNI7B03XL,14,2,5,9.1,0.0,0.99,-0.02,,,,,1.34
+136,a5eo1u66,yi7p2win,AYXDE087J2KO,14,1,6,8.5,0.0,0.99,-9.21,Anytime that fell at 8:50 or 9 AM I opted to select going to the office.,1.0,8.4,1.0,0.0
+137,a5eo1u66,9uuzcesu,A5CMNI7B03XL,14,2,6,8.4,1.0,0.875,-4.16,"It was hard, I guessed mostly depending on when I arrived.",1.0,8.4,3.0,1.34
+138,a5eo1u66,qw7ez644,A13GGKMPBDKWX6,15,1,1,9.0,1.0,0.99,-9.21,,,,,0.0
+139,a5eo1u66,wm8mmo0t,A320BT7PLIQVZT,15,2,1,9.1,1.0,0.75,-2.77,,,,,0.0
+140,a5eo1u66,qw7ez644,A13GGKMPBDKWX6,15,1,2,8.2,1.0,0.99,-0.01,,,,,0.0
+141,a5eo1u66,wm8mmo0t,A320BT7PLIQVZT,15,2,2,8.3,1.0,0.99,-0.01,,,,,0.0
+142,a5eo1u66,qw7ez644,A13GGKMPBDKWX6,15,1,3,8.5,1.0,0.99,-0.01,,,,,0.0
+143,a5eo1u66,wm8mmo0t,A320BT7PLIQVZT,15,2,3,8.4,1.0,0.99,-0.01,,,,,0.0
+144,a5eo1u66,qw7ez644,A13GGKMPBDKWX6,15,1,4,8.4,1.0,0.99,-0.01,,,,,0.0
+145,a5eo1u66,wm8mmo0t,A320BT7PLIQVZT,15,2,4,8.5,1.0,0.875,-0.13,,,,,0.0
+146,a5eo1u66,qw7ez644,A13GGKMPBDKWX6,15,1,5,9.0,1.0,0.99,-9.21,just the best of my ability :),1.0,8.0,3.0,0.0
+147,a5eo1u66,wm8mmo0t,A320BT7PLIQVZT,15,2,5,8.5,1.0,0.99,-9.21,I did not have one,3.0,8.2,2.0,0.0
+148,a5eo1u66,j68gvqqf,A1OUUZSD5DD4ZN,16,1,1,8.5,0.0,0.75,-2.77,,,,,0.0
+149,a5eo1u66,661popsh,A1V91Z2CQKMR55,16,2,1,8.4,1.0,0.875,-4.16,,,,,2.78
+150,a5eo1u66,j68gvqqf,A1OUUZSD5DD4ZN,16,1,2,8.2,1.0,0.99,-0.01,,,,,0.0
+151,a5eo1u66,661popsh,A1V91Z2CQKMR55,16,2,2,8.1,1.0,0.75,-0.29,,,,,2.78
+152,a5eo1u66,j68gvqqf,A1OUUZSD5DD4ZN,16,1,3,8.2,1.0,0.99,-9.21,Didn't get to play enough rounds to develop one.,1.0,8.2,2.0,0.0
+153,a5eo1u66,661popsh,A1V91Z2CQKMR55,16,2,3,8.3,0.0,0.75,-2.77,I went with my gut reaction.,1.0,8.3,3.0,2.78
+154,a5eo1u66,jctk6x5v,AAIRYP2HKB7IK,17,1,1,8.5,1.0,0.625,-0.47,,,,,0.0
+155,a5eo1u66,gurvfwo4,A2UTV66F2E69A6,17,2,1,8.4,1.0,0.75,-0.29,,,,,0.0
+156,a5eo1u66,jctk6x5v,AAIRYP2HKB7IK,17,1,2,9.0,0.0,0.99,-0.02,,,,,0.0
+157,a5eo1u66,gurvfwo4,A2UTV66F2E69A6,17,2,2,9.1,0.0,0.75,-0.58,,,,,0.0
+158,a5eo1u66,jctk6x5v,AAIRYP2HKB7IK,17,1,3,9.0,0.0,0.99,-9.21,,,,,0.0
+159,a5eo1u66,gurvfwo4,A2UTV66F2E69A6,17,2,3,8.5,1.0,0.875,-4.16,,,,,0.0
+160,a5eo1u66,jctk6x5v,AAIRYP2HKB7IK,17,1,4,8.4,1.0,0.99,-9.21,I gauged the time and how much time we had to get back to the office. I believe my coworker has no appreciation of time whatsoever.,1.0,8.5,2.0,0.0
+161,a5eo1u66,gurvfwo4,A2UTV66F2E69A6,17,2,4,8.3,0.0,0.99,-9.21,I chose what i thought my participate would choose.,1.0,9.0,3.0,0.0
+162,a5eo1u66,n9c0nz4w,A3UN1F1EOHKKE6,18,1,1,8.1,1.0,0.99,-0.01,,,,,9.85
+163,a5eo1u66,btk9gawm,A53S7J4JGWG38,18,2,1,8.0,1.0,0.75,-0.29,,,,,8.53
+164,a5eo1u66,n9c0nz4w,A3UN1F1EOHKKE6,18,1,2,8.5,0.0,0.99,-0.02,,,,,9.85
+165,a5eo1u66,btk9gawm,A53S7J4JGWG38,18,2,2,9.0,0.0,0.99,-0.02,,,,,8.53
+166,a5eo1u66,n9c0nz4w,A3UN1F1EOHKKE6,18,1,3,8.5,0.0,0.99,-0.02,,,,,9.85
+167,a5eo1u66,btk9gawm,A53S7J4JGWG38,18,2,3,9.0,0.0,0.99,-0.02,,,,,8.53
+168,a5eo1u66,n9c0nz4w,A3UN1F1EOHKKE6,18,1,4,8.5,0.0,0.99,-0.02,,,,,9.85
+169,a5eo1u66,btk9gawm,A53S7J4JGWG38,18,2,4,9.0,0.0,0.99,-0.02,,,,,8.53
+170,a5eo1u66,n9c0nz4w,A3UN1F1EOHKKE6,18,1,5,8.2,1.0,0.99,-0.01,,,,,9.85
+171,a5eo1u66,btk9gawm,A53S7J4JGWG38,18,2,5,8.3,1.0,0.875,-0.13,,,,,8.53
+172,a5eo1u66,n9c0nz4w,A3UN1F1EOHKKE6,18,1,6,8.1,1.0,0.99,-0.01,,,,,9.85
+173,a5eo1u66,btk9gawm,A53S7J4JGWG38,18,2,6,8.0,1.0,0.99,-0.01,,,,,8.53
+174,a5eo1u66,n9c0nz4w,A3UN1F1EOHKKE6,18,1,7,8.2,1.0,0.99,-0.01,,,,,9.85
+175,a5eo1u66,btk9gawm,A53S7J4JGWG38,18,2,7,8.1,1.0,0.99,-0.01,,,,,8.53
+176,a5eo1u66,n9c0nz4w,A3UN1F1EOHKKE6,18,1,8,8.4,0.0,0.99,-0.02,,,,,9.85
+177,a5eo1u66,btk9gawm,A53S7J4JGWG38,18,2,8,8.5,0.0,0.625,-0.94,,,,,8.53
+178,a5eo1u66,n9c0nz4w,A3UN1F1EOHKKE6,18,1,9,9.0,0.0,0.99,-0.02,,,,,9.85
+179,a5eo1u66,btk9gawm,A53S7J4JGWG38,18,2,9,9.1,0.0,0.99,-0.02,,,,,8.53
+180,a5eo1u66,n9c0nz4w,A3UN1F1EOHKKE6,18,1,10,8.2,1.0,0.99,-0.01,I used the information about my time to guess if my partner would go to the canteen or office based on what I thought their time would be.,1.0,8.3,,9.85
+181,a5eo1u66,btk9gawm,A53S7J4JGWG38,18,2,10,8.3,1.0,0.99,-0.01,"Based on time. If it was before 8:30, was certain that it was the canteen. After 8:50 or 9, and certain it was the office. Also looked at past results.",1.0,8.4,,8.53
+182,a5eo1u66,jyjikhkl,A30EI064NHQEQO,19,1,1,8.3,1.0,0.625,-1.96,,,,,0.0
+183,a5eo1u66,hw957gvh,A17X8C19LZ0065,19,2,1,8.4,0.0,0.99,-9.21,,,,,0.0
+184,a5eo1u66,jyjikhkl,A30EI064NHQEQO,19,1,2,9.0,0.0,0.99,-9.21,First one I used the time because it said 8:30 so I knew that we both had time to go to canteen by the instructions. Then when it said 9 I knew that I had to go to the office.,1.0,8.4,3.0,0.0
+185,a5eo1u66,hw957gvh,A17X8C19LZ0065,19,2,2,9.1,1.0,0.875,-4.16,I just learned all instructions and i followed all instructions.,2.0,9.0,1.0,0.0
+186,a5eo1u66,izlrycsx,A2RW3D2X07UKO3,20,1,1,8.2,1.0,0.875,-0.13,,,,,0.0
+187,a5eo1u66,wgygiyv8,A3SIVBFZ3A501B,20,2,1,8.3,1.0,0.875,-0.13,,,,,0.0
+188,a5eo1u66,izlrycsx,A2RW3D2X07UKO3,20,1,2,8.2,1.0,0.875,-0.13,,,,,0.0
+189,a5eo1u66,wgygiyv8,A3SIVBFZ3A501B,20,2,2,8.1,1.0,0.99,-0.01,,,,,0.0
+190,a5eo1u66,izlrycsx,A2RW3D2X07UKO3,20,1,3,9.0,0.0,0.99,-9.21,,,,,0.0
+191,a5eo1u66,wgygiyv8,A3SIVBFZ3A501B,20,2,3,8.5,1.0,0.99,-9.21,,,,,0.0
+192,a5eo1u66,izlrycsx,A2RW3D2X07UKO3,20,1,4,8.5,1.0,0.99,-0.01,,,,,0.0
+193,a5eo1u66,wgygiyv8,A3SIVBFZ3A501B,20,2,4,8.4,1.0,0.99,-0.01,,,,,0.0
+194,a5eo1u66,izlrycsx,A2RW3D2X07UKO3,20,1,5,8.2,1.0,0.99,-0.01,,,,,0.0
+195,a5eo1u66,wgygiyv8,A3SIVBFZ3A501B,20,2,5,8.3,1.0,0.99,-0.01,,,,,0.0
+196,a5eo1u66,izlrycsx,A2RW3D2X07UKO3,20,1,6,9.0,0.0,0.99,-9.21,I read the instructions.,1.0,8.4,2.0,0.0
+197,a5eo1u66,wgygiyv8,A3SIVBFZ3A501B,20,2,6,9.1,1.0,0.99,-9.21,I hoped my partner would choose the same thing I did once a pattern formed,1.0,8.0,2.0,0.0
+198,a5eo1u66,og4fq63t,AEIIVFPRTDGMK,21,1,1,9.0,1.0,0.99,-9.21,,,,,0.0
+199,a5eo1u66,vjyofbc4,A13OHDWN9XSCIG,21,2,1,9.1,0.0,0.99,-9.21,,,,,0.0
+200,a5eo1u66,og4fq63t,AEIIVFPRTDGMK,21,1,2,8.2,0.0,0.99,-9.21,My bad :(,2.0,8.4,3.0,0.0
+201,a5eo1u66,vjyofbc4,A13OHDWN9XSCIG,21,2,2,8.1,1.0,0.99,-9.21,"If I had enough time before 9, i chose the canteen",1.0,8.1,2.0,0.0
+202,a5eo1u66,ey3gc678,A1I72NHC21347A,22,1,1,8.5,1.0,0.5,-0.69,,,,,0.08
+203,a5eo1u66,sacz1ru8,A2Q1BZPQ1BFPSM,22,2,1,8.4,1.0,0.5,-0.69,,,,,0.0
+204,a5eo1u66,ey3gc678,A1I72NHC21347A,22,1,2,8.5,1.0,0.99,-0.01,,,,,0.08
+205,a5eo1u66,sacz1ru8,A2Q1BZPQ1BFPSM,22,2,2,8.4,1.0,0.875,-0.13,,,,,0.0
+206,a5eo1u66,ey3gc678,A1I72NHC21347A,22,1,3,8.2,1.0,0.99,-0.01,,,,,0.08
+207,a5eo1u66,sacz1ru8,A2Q1BZPQ1BFPSM,22,2,3,8.1,1.0,0.99,-0.01,,,,,0.0
+208,a5eo1u66,ey3gc678,A1I72NHC21347A,22,1,4,9.0,0.0,0.99,-9.21,simply went to canteen if I arrived early enough to do so,1.0,8.5,3.0,0.08
+209,a5eo1u66,sacz1ru8,A2Q1BZPQ1BFPSM,22,2,4,8.5,1.0,0.99,-9.21,"I tried to follow the instructions, while guessing what my partner would do.",1.0,8.3,3.0,0.0
+210,a5eo1u66,q96x1m4l,A14SEFVPXYZ9TN,24,1,1,8.4,0.0,0.75,-0.58,,,,,0.0
+211,a5eo1u66,tyzrssu0,A2HDK3ZI4R4VJV,24,2,1,8.5,0.0,0.625,-0.94,,,,,-2.0
+212,a5eo1u66,caxcvurq,ARR5S0BHQWBGZ,25,1,1,9.0,0.0,0.99,-0.02,,,,,0.0
+213,a5eo1u66,bx150fsy,A2GA29WTMFW2W,25,2,1,8.5,0.0,0.99,-0.02,,,,,0.0
+214,a5eo1u66,caxcvurq,ARR5S0BHQWBGZ,25,1,2,8.1,1.0,0.99,-0.01,,,,,0.0
+215,a5eo1u66,bx150fsy,A2GA29WTMFW2W,25,2,2,8.2,1.0,0.625,-0.47,,,,,0.0
+216,a5eo1u66,caxcvurq,ARR5S0BHQWBGZ,25,1,3,8.5,1.0,0.75,-2.77,,,,,0.0
+217,a5eo1u66,bx150fsy,A2GA29WTMFW2W,25,2,3,9.0,0.0,0.99,-9.21,,,,,0.0
+218,a5eo1u66,caxcvurq,ARR5S0BHQWBGZ,25,1,4,8.3,1.0,0.99,-9.21,I tried to guess the likelyhood that the other person playing would arrive at 8:50 or earlier. Depending on how likely it was would determine how certain I said I was about my decision. I always assumed that would go to the canteen if they could arrive at 8:50 or earlier.,1.0,8.4,1.0,0.0
+219,a5eo1u66,bx150fsy,A2GA29WTMFW2W,25,2,4,8.2,0.0,0.99,-9.21,I didn't aware of any strategy until it was already too late. The strategy was to base on the chart on how to make the answers. Choose the smallest deduction on the certainty level as the choice will guarantee the smallest amount of losses.,1.0,7.0,1.0,0.0
+220,a5eo1u66,p36x144p,A2RMJNF6IPI42F,26,1,1,8.4,1.0,0.875,-0.13,,,,,9.14
+221,a5eo1u66,zd891w8c,ALF9AAZGQP4K5,26,2,1,8.5,1.0,0.875,-0.13,,,,,8.59
+222,a5eo1u66,p36x144p,A2RMJNF6IPI42F,26,1,2,8.1,1.0,0.99,-0.01,,,,,9.14
+223,a5eo1u66,zd891w8c,ALF9AAZGQP4K5,26,2,2,8.2,1.0,0.875,-0.13,,,,,8.59
+224,a5eo1u66,p36x144p,A2RMJNF6IPI42F,26,1,3,8.4,1.0,0.875,-0.13,,,,,9.14
+225,a5eo1u66,zd891w8c,ALF9AAZGQP4K5,26,2,3,8.5,1.0,0.875,-0.13,,,,,8.59
+226,a5eo1u66,p36x144p,A2RMJNF6IPI42F,26,1,4,8.4,1.0,0.99,-0.01,,,,,9.14
+227,a5eo1u66,zd891w8c,ALF9AAZGQP4K5,26,2,4,8.5,1.0,0.875,-0.13,,,,,8.59
+228,a5eo1u66,p36x144p,A2RMJNF6IPI42F,26,1,5,8.4,1.0,0.99,-0.01,,,,,9.14
+229,a5eo1u66,zd891w8c,ALF9AAZGQP4K5,26,2,5,8.3,1.0,0.99,-0.01,,,,,8.59
+230,a5eo1u66,p36x144p,A2RMJNF6IPI42F,26,1,6,8.4,1.0,0.99,-0.01,,,,,9.14
+231,a5eo1u66,zd891w8c,ALF9AAZGQP4K5,26,2,6,8.3,1.0,0.99,-0.01,,,,,8.59
+232,a5eo1u66,p36x144p,A2RMJNF6IPI42F,26,1,7,9.0,0.0,0.875,-0.27,,,,,9.14
+233,a5eo1u66,zd891w8c,ALF9AAZGQP4K5,26,2,7,9.1,0.0,0.75,-0.58,,,,,8.59
+234,a5eo1u66,p36x144p,A2RMJNF6IPI42F,26,1,8,9.0,0.0,0.875,-0.27,,,,,9.14
+235,a5eo1u66,zd891w8c,ALF9AAZGQP4K5,26,2,8,9.1,0.0,0.875,-0.27,,,,,8.59
+236,a5eo1u66,p36x144p,A2RMJNF6IPI42F,26,1,9,8.3,1.0,0.99,-0.01,,,,,9.14
+237,a5eo1u66,zd891w8c,ALF9AAZGQP4K5,26,2,9,8.2,1.0,0.99,-0.01,,,,,8.59
+238,a5eo1u66,p36x144p,A2RMJNF6IPI42F,26,1,10,8.2,1.0,0.99,-0.01,trusted they'd do the same as me,1.0,8.4,,9.14
+239,a5eo1u66,zd891w8c,ALF9AAZGQP4K5,26,2,10,8.3,1.0,0.99,-0.01,"I remembered about 2 rounds in that my partner always arrives within ten minutes of me, so that basically guarantees we both go to the canteen if I arrived at or before 8:50.  Anything later than that and I had to be more cautious",1.0,8.5,,8.59
+240,a5eo1u66,lpuwei5z,A1EN3FW93BSXQQ,27,1,1,8.3,1.0,0.625,-0.47,,,,,4.49
+241,a5eo1u66,dvs0rvim,A36IYIE23IO4HE,27,2,1,8.4,1.0,0.5,-0.69,,,,,4.86
+242,a5eo1u66,lpuwei5z,A1EN3FW93BSXQQ,27,1,2,9.0,0.0,0.625,-0.94,,,,,4.49
+243,a5eo1u66,dvs0rvim,A36IYIE23IO4HE,27,2,2,9.1,0.0,0.75,-0.58,,,,,4.86
+244,a5eo1u66,lpuwei5z,A1EN3FW93BSXQQ,27,1,3,8.3,1.0,0.625,-0.47,,,,,4.49
+245,a5eo1u66,dvs0rvim,A36IYIE23IO4HE,27,2,3,8.4,1.0,0.5,-0.69,,,,,4.86
+246,a5eo1u66,lpuwei5z,A1EN3FW93BSXQQ,27,1,4,8.4,1.0,0.875,-0.13,,,,,4.49
+247,a5eo1u66,dvs0rvim,A36IYIE23IO4HE,27,2,4,8.5,1.0,0.5,-0.69,,,,,4.86
+248,a5eo1u66,lpuwei5z,A1EN3FW93BSXQQ,27,1,5,8.5,0.0,0.5,-1.39,,,,,4.49
+249,a5eo1u66,dvs0rvim,A36IYIE23IO4HE,27,2,5,9.0,0.0,0.625,-0.94,,,,,4.86
+250,a5eo1u66,lpuwei5z,A1EN3FW93BSXQQ,27,1,6,8.5,0.0,0.5,-1.39,,,,,4.49
+251,a5eo1u66,dvs0rvim,A36IYIE23IO4HE,27,2,6,9.0,0.0,0.5,-1.39,,,,,4.86
+252,a5eo1u66,lpuwei5z,A1EN3FW93BSXQQ,27,1,7,8.1,1.0,0.99,-0.01,,,,,4.49
+253,a5eo1u66,dvs0rvim,A36IYIE23IO4HE,27,2,7,8.0,1.0,0.875,-0.13,,,,,4.86
+254,a5eo1u66,lpuwei5z,A1EN3FW93BSXQQ,27,1,8,8.1,1.0,0.99,-0.01,,,,,4.49
+255,a5eo1u66,dvs0rvim,A36IYIE23IO4HE,27,2,8,8.0,1.0,0.99,-0.01,,,,,4.86
+256,a5eo1u66,lpuwei5z,A1EN3FW93BSXQQ,27,1,9,8.1,1.0,0.99,-0.01,,,,,4.49
+257,a5eo1u66,dvs0rvim,A36IYIE23IO4HE,27,2,9,8.2,1.0,0.99,-0.01,,,,,4.86
+258,a5eo1u66,lpuwei5z,A1EN3FW93BSXQQ,27,1,10,8.4,1.0,0.5,-0.69,I paid attention to the time.,1.0,8.5,,4.49
+259,a5eo1u66,dvs0rvim,A36IYIE23IO4HE,27,2,10,8.3,1.0,0.99,-0.01,based on time  anything before 9 went to the canteen,1.0,8.5,,4.86
+260,a6jek5h6,atrygqzb,A3EOBVZ13L64O5,2,1,1,8.5,0.0,0.75,-0.58,,,,,1.59
+261,a6jek5h6,o1pkixlb,AMKU7YXM3RZ8I,2,2,1,9.0,0.0,0.99,-0.02,,,,,0.0
+262,a6jek5h6,atrygqzb,A3EOBVZ13L64O5,2,1,2,8.3,1.0,0.875,-0.13,,,,,1.59
+263,a6jek5h6,o1pkixlb,AMKU7YXM3RZ8I,2,2,2,8.4,1.0,0.875,-0.13,,,,,0.0
+264,a6jek5h6,atrygqzb,A3EOBVZ13L64O5,2,1,3,8.5,0.0,0.75,-0.58,,,,,1.59
+265,a6jek5h6,o1pkixlb,AMKU7YXM3RZ8I,2,2,3,9.0,0.0,0.99,-0.02,,,,,0.0
+266,a6jek5h6,atrygqzb,A3EOBVZ13L64O5,2,1,4,8.4,1.0,0.875,-4.16,,,,,1.59
+267,a6jek5h6,o1pkixlb,AMKU7YXM3RZ8I,2,2,4,8.5,0.0,0.99,-9.21,,,,,0.0
+268,a6jek5h6,atrygqzb,A3EOBVZ13L64O5,2,1,5,9.0,0.0,0.99,-0.02,,,,,1.59
+269,a6jek5h6,o1pkixlb,AMKU7YXM3RZ8I,2,2,5,9.1,0.0,0.99,-0.02,,,,,0.0
+270,a6jek5h6,atrygqzb,A3EOBVZ13L64O5,2,1,6,8.2,1.0,0.99,-0.01,,,,,1.59
+271,a6jek5h6,o1pkixlb,AMKU7YXM3RZ8I,2,2,6,8.3,1.0,0.99,-0.01,,,,,0.0
+272,a6jek5h6,atrygqzb,A3EOBVZ13L64O5,2,1,7,8.4,1.0,0.875,-0.13,,,,,1.59
+273,a6jek5h6,o1pkixlb,AMKU7YXM3RZ8I,2,2,7,8.5,1.0,0.99,-0.01,,,,,0.0
+274,a6jek5h6,atrygqzb,A3EOBVZ13L64O5,2,1,8,9.0,0.0,0.99,-0.02,,,,,1.59
+275,a6jek5h6,o1pkixlb,AMKU7YXM3RZ8I,2,2,8,8.5,0.0,0.99,-0.02,,,,,0.0
+276,a6jek5h6,atrygqzb,A3EOBVZ13L64O5,2,1,9,8.2,1.0,0.99,-0.01,,,,,1.59
+277,a6jek5h6,o1pkixlb,AMKU7YXM3RZ8I,2,2,9,8.3,1.0,0.99,-0.01,,,,,0.0
+278,a6jek5h6,atrygqzb,A3EOBVZ13L64O5,2,1,10,8.5,0.0,0.75,-2.77,Deciding if I had enough time to go to the canteen,1.0,8.4,3.0,1.59
+279,a6jek5h6,o1pkixlb,AMKU7YXM3RZ8I,2,2,10,8.4,1.0,0.99,-9.21,"Playing the odds of my coworker coming in ten minutes after me vs ten minutes before, trying to choose the safer option between the two. A lot of it seemed like chance, though.",1.0,8.4,3.0,0.0
+280,a6jek5h6,0ixfbhsr,A1NGXQMOBCXDC3,4,1,1,8.5,1.0,0.99,-0.01,,,,,0.7
+281,a6jek5h6,zo2hhn2q,AYY7JSAD0SGXL,4,2,1,8.4,1.0,0.75,-0.29,,,,,6.86
+282,a6jek5h6,0ixfbhsr,A1NGXQMOBCXDC3,4,1,2,8.4,1.0,0.99,-0.01,,,,,0.7
+283,a6jek5h6,zo2hhn2q,AYY7JSAD0SGXL,4,2,2,8.5,1.0,0.99,-0.01,,,,,6.86
+284,a6jek5h6,0ixfbhsr,A1NGXQMOBCXDC3,4,1,3,8.5,1.0,0.99,-9.21,,,,,0.7
+285,a6jek5h6,zo2hhn2q,AYY7JSAD0SGXL,4,2,3,9.0,0.0,0.75,-2.77,,,,,6.86
+286,a6jek5h6,0ixfbhsr,A1NGXQMOBCXDC3,4,1,4,8.5,1.0,0.99,-0.01,,,,,0.7
+287,a6jek5h6,zo2hhn2q,AYY7JSAD0SGXL,4,2,4,8.4,1.0,0.99,-0.01,,,,,6.86
+288,a6jek5h6,0ixfbhsr,A1NGXQMOBCXDC3,4,1,5,8.4,1.0,0.99,-0.01,,,,,0.7
+289,a6jek5h6,zo2hhn2q,AYY7JSAD0SGXL,4,2,5,8.3,1.0,0.99,-0.01,,,,,6.86
+290,a6jek5h6,0ixfbhsr,A1NGXQMOBCXDC3,4,1,6,8.1,1.0,0.99,-0.01,,,,,0.7
+291,a6jek5h6,zo2hhn2q,AYY7JSAD0SGXL,4,2,6,8.0,1.0,0.99,-0.01,,,,,6.86
+292,a6jek5h6,0ixfbhsr,A1NGXQMOBCXDC3,4,1,7,8.2,1.0,0.99,-0.01,,,,,0.7
+293,a6jek5h6,zo2hhn2q,AYY7JSAD0SGXL,4,2,7,8.1,1.0,0.99,-0.01,,,,,6.86
+294,a6jek5h6,0ixfbhsr,A1NGXQMOBCXDC3,4,1,8,8.1,1.0,0.99,-0.01,,,,,0.7
+295,a6jek5h6,zo2hhn2q,AYY7JSAD0SGXL,4,2,8,8.0,1.0,0.99,-0.01,,,,,6.86
+296,a6jek5h6,0ixfbhsr,A1NGXQMOBCXDC3,4,1,9,8.3,1.0,0.99,-0.01,,,,,0.7
+297,a6jek5h6,zo2hhn2q,AYY7JSAD0SGXL,4,2,9,8.2,1.0,0.99,-0.01,,,,,6.86
+298,a6jek5h6,0ixfbhsr,A1NGXQMOBCXDC3,4,1,10,8.3,1.0,0.99,-0.01,always went to canteen,1.0,9.0,,0.7
+299,a6jek5h6,zo2hhn2q,AYY7JSAD0SGXL,4,2,10,8.2,1.0,0.99,-0.01,I decided to go to the canteen irregardless of what time it was.,1.0,9.0,,6.86
+300,a6jek5h6,r8hynbda,A3F90N8YVKJ4I7,5,1,1,8.4,1.0,0.99,-0.01,,,,,0.0
+301,a6jek5h6,1ouizqu5,A1GOT0DXTYCM4E,5,2,1,8.3,1.0,0.99,-0.01,,,,,3.02
+302,a6jek5h6,r8hynbda,A3F90N8YVKJ4I7,5,1,2,8.4,1.0,0.99,-9.21,,,,,0.0
+303,a6jek5h6,1ouizqu5,A1GOT0DXTYCM4E,5,2,2,8.5,0.0,0.875,-4.16,,,,,3.02
+304,a6jek5h6,r8hynbda,A3F90N8YVKJ4I7,5,1,3,8.5,0.0,0.99,-0.02,,,,,0.0
+305,a6jek5h6,1ouizqu5,A1GOT0DXTYCM4E,5,2,3,9.0,0.0,0.99,-0.02,,,,,3.02
+306,a6jek5h6,r8hynbda,A3F90N8YVKJ4I7,5,1,4,8.4,1.0,0.99,-0.01,,,,,0.0
+307,a6jek5h6,1ouizqu5,A1GOT0DXTYCM4E,5,2,4,8.3,1.0,0.99,-0.01,,,,,3.02
+308,a6jek5h6,r8hynbda,A3F90N8YVKJ4I7,5,1,5,8.4,1.0,0.99,-0.01,,,,,0.0
+309,a6jek5h6,1ouizqu5,A1GOT0DXTYCM4E,5,2,5,8.3,1.0,0.99,-0.01,,,,,3.02
+310,a6jek5h6,r8hynbda,A3F90N8YVKJ4I7,5,1,6,8.4,1.0,0.99,-9.21,"If I got to the office at 8:40 or earlier, I chose the canteen. The strategy failed since sometimes the other person went to the office.",1.0,8.4,3.0,0.0
+311,a6jek5h6,1ouizqu5,A1GOT0DXTYCM4E,5,2,6,8.5,0.0,0.75,-2.77,I figured if they had at least 20 minutes whey would go to canteen.,1.0,8.4,3.0,3.02
+312,a6jek5h6,bf205eii,A1C0R9LZ0K51N0,6,1,1,8.5,1.0,0.625,-1.96,,,,,5.96
+313,a6jek5h6,ykxj5zt1,A3OMORMMKTV694,6,2,1,9.0,0.0,0.99,-9.21,,,,,0.0
+314,a6jek5h6,bf205eii,A1C0R9LZ0K51N0,6,1,2,8.4,1.0,0.5,-0.69,,,,,5.96
+315,a6jek5h6,ykxj5zt1,A3OMORMMKTV694,6,2,2,8.3,1.0,0.99,-0.01,,,,,0.0
+316,a6jek5h6,bf205eii,A1C0R9LZ0K51N0,6,1,3,8.2,0.0,0.5,-1.39,Tried to think of how my week would be going timewise,1.0,8.4,3.0,5.96
+317,a6jek5h6,ykxj5zt1,A3OMORMMKTV694,6,2,3,8.3,1.0,0.99,-9.21,"As long as I was 15 minutes before 9, I would pick go to canteen and be certain about it. I have no idea what my partner was thinking. Their choices didn't make sense!",1.0,8.5,2.0,0.0
+318,a6jek5h6,69ghv9rz,A2FARB7LA24AU8,7,1,1,8.5,1.0,0.99,-9.21,,,,,0.0
+319,a6jek5h6,x1caee3v,A1TARNH07A75CG,7,2,1,9.0,1.0,0.875,-4.16,,,,,0.0
+320,a6jek5h6,69ghv9rz,A2FARB7LA24AU8,7,1,2,8.4,1.0,0.99,-0.01,,,,,0.0
+321,a6jek5h6,x1caee3v,A1TARNH07A75CG,7,2,2,8.5,1.0,0.625,-0.47,,,,,0.0
+322,a6jek5h6,69ghv9rz,A2FARB7LA24AU8,7,1,3,8.5,0.0,0.75,-0.58,,,,,0.0
+323,a6jek5h6,x1caee3v,A1TARNH07A75CG,7,2,3,9.0,0.0,0.75,-0.58,,,,,0.0
+324,a6jek5h6,69ghv9rz,A2FARB7LA24AU8,7,1,4,8.2,1.0,0.99,-9.21,I tried to see if we would have enough time to go to the canteen even if it was just for a short time.,1.0,8.3,1.0,0.0
+325,a6jek5h6,x1caee3v,A1TARNH07A75CG,7,2,4,8.1,0.0,0.99,-9.21,If it was too early I went straight to  the office,3.0,9.1,1.0,0.0
+326,a6jek5h6,lb302tkt,A2BIH4XUWQKM0W,8,1,1,8.2,1.0,0.875,-0.13,,,,,8.22
+327,a6jek5h6,2p4s7n6i,A1Q68M0X4YXHKH,8,2,1,8.3,1.0,0.99,-0.01,,,,,8.01
+328,a6jek5h6,lb302tkt,A2BIH4XUWQKM0W,8,1,2,8.2,1.0,0.99,-0.01,,,,,8.22
+329,a6jek5h6,2p4s7n6i,A1Q68M0X4YXHKH,8,2,2,8.3,1.0,0.99,-0.01,,,,,8.01
+330,a6jek5h6,lb302tkt,A2BIH4XUWQKM0W,8,1,3,8.1,1.0,0.99,-0.01,,,,,8.22
+331,a6jek5h6,2p4s7n6i,A1Q68M0X4YXHKH,8,2,3,8.2,1.0,0.99,-0.01,,,,,8.01
+332,a6jek5h6,lb302tkt,A2BIH4XUWQKM0W,8,1,4,9.0,0.0,0.75,-0.58,,,,,8.22
+333,a6jek5h6,2p4s7n6i,A1Q68M0X4YXHKH,8,2,4,9.1,0.0,0.99,-0.02,,,,,8.01
+334,a6jek5h6,lb302tkt,A2BIH4XUWQKM0W,8,1,5,8.4,1.0,0.75,-0.29,,,,,8.22
+335,a6jek5h6,2p4s7n6i,A1Q68M0X4YXHKH,8,2,5,8.3,1.0,0.99,-0.01,,,,,8.01
+336,a6jek5h6,lb302tkt,A2BIH4XUWQKM0W,8,1,6,8.2,1.0,0.99,-0.01,,,,,8.22
+337,a6jek5h6,2p4s7n6i,A1Q68M0X4YXHKH,8,2,6,8.1,1.0,0.99,-0.01,,,,,8.01
+338,a6jek5h6,lb302tkt,A2BIH4XUWQKM0W,8,1,7,8.4,1.0,0.875,-0.13,,,,,8.22
+339,a6jek5h6,2p4s7n6i,A1Q68M0X4YXHKH,8,2,7,8.5,1.0,0.5,-0.69,,,,,8.01
+340,a6jek5h6,lb302tkt,A2BIH4XUWQKM0W,8,1,8,8.5,0.0,0.75,-0.58,,,,,8.22
+341,a6jek5h6,2p4s7n6i,A1Q68M0X4YXHKH,8,2,8,9.0,0.0,0.875,-0.27,,,,,8.01
+342,a6jek5h6,lb302tkt,A2BIH4XUWQKM0W,8,1,9,8.5,0.0,0.99,-0.02,,,,,8.22
+343,a6jek5h6,2p4s7n6i,A1Q68M0X4YXHKH,8,2,9,9.0,0.0,0.625,-0.94,,,,,8.01
+344,a6jek5h6,lb302tkt,A2BIH4XUWQKM0W,8,1,10,8.5,0.0,0.99,-0.02,"I tried to gauge about how long it would take to head to the canteen and grab a coffee and I also tried to pay attention to my partner's patterns of decision making. Both of us seemed to agree that 20 minutes or more was best for going to the canteen, but 10 minutes or fewer meant that we should head straight to the office.",1.0,8.4,,8.22
+345,a6jek5h6,2p4s7n6i,A1Q68M0X4YXHKH,8,2,10,9.0,0.0,0.99,-0.02,I tried to use the option that I thought gave me the best odds. I tried to play it more safe towards the end,1.0,8.5,,8.01
+346,a6jek5h6,8rqmz0z3,A9MGD6PRW1N7K,9,1,1,9.0,0.0,0.99,-0.02,,,,,0.72
+347,a6jek5h6,bab644jv,A2IC4IMH7G9UKU,9,2,1,9.1,0.0,0.99,-0.02,,,,,0.0
+348,a6jek5h6,8rqmz0z3,A9MGD6PRW1N7K,9,1,2,8.3,0.0,0.99,-9.21,,,,,0.72
+349,a6jek5h6,bab644jv,A2IC4IMH7G9UKU,9,2,2,8.4,1.0,0.99,-9.21,,,,,0.0
+350,a6jek5h6,8rqmz0z3,A9MGD6PRW1N7K,9,1,3,8.1,1.0,0.99,-0.01,,,,,0.72
+351,a6jek5h6,bab644jv,A2IC4IMH7G9UKU,9,2,3,8.2,1.0,0.99,-0.01,,,,,0.0
+352,a6jek5h6,8rqmz0z3,A9MGD6PRW1N7K,9,1,4,8.2,1.0,0.99,-0.01,,,,,0.72
+353,a6jek5h6,bab644jv,A2IC4IMH7G9UKU,9,2,4,8.1,1.0,0.99,-0.01,,,,,0.0
+354,a6jek5h6,8rqmz0z3,A9MGD6PRW1N7K,9,1,5,8.3,1.0,0.99,-0.01,,,,,0.72
+355,a6jek5h6,bab644jv,A2IC4IMH7G9UKU,9,2,5,8.2,1.0,0.99,-0.01,,,,,0.0
+356,a6jek5h6,8rqmz0z3,A9MGD6PRW1N7K,9,1,6,8.4,0.0,0.99,-0.02,I tried to guess what would make the best sense to my partner and go with that.,1.0,8.4,3.0,0.72
+357,a6jek5h6,bab644jv,A2IC4IMH7G9UKU,9,2,6,8.5,0.0,0.625,-0.94,If I had 20 minutes or more before 9:00 a.m. I went to the canteen and was very certain they did too.,1.0,8.4,2.0,0.0
+358,a6jek5h6,d7x3gt9x,A2ZL5GAZK6S0H1,10,1,1,8.1,0.0,0.75,-2.77,,,,,3.07
+359,a6jek5h6,zunxws8y,A3VK0QKMLPJ2CI,10,2,1,8.0,1.0,0.99,-9.21,,,,,0.0
+360,a6jek5h6,d7x3gt9x,A2ZL5GAZK6S0H1,10,1,2,8.2,1.0,0.875,-4.16,i tried to make the decision that would maximize my payoff,1.0,8.3,2.0,3.07
+361,a6jek5h6,zunxws8y,A3VK0QKMLPJ2CI,10,2,2,8.3,0.0,0.99,-9.21,"1st Step, I choose canteen. but other participant choose Office. so next time I choose Office. this time participant choose canteen.   that's all.",1.0,8.3,3.0,0.0
+362,a6jek5h6,qsmbfv8s,A10YS8AVLQWUZZ,11,1,1,8.2,1.0,0.875,-0.13,,,,,6.82
+363,a6jek5h6,r6kwrka8,A2MYB6MLQW0IGN,11,2,1,8.1,1.0,0.75,-0.29,,,,,0.0
+364,a6jek5h6,qsmbfv8s,A10YS8AVLQWUZZ,11,1,2,8.4,1.0,0.99,-0.01,,,,,6.82
+365,a6jek5h6,r6kwrka8,A2MYB6MLQW0IGN,11,2,2,8.3,1.0,0.75,-0.29,,,,,0.0
+366,a6jek5h6,qsmbfv8s,A10YS8AVLQWUZZ,11,1,3,9.0,0.0,0.875,-0.27,,,,,6.82
+367,a6jek5h6,r6kwrka8,A2MYB6MLQW0IGN,11,2,3,8.5,0.0,0.875,-0.27,,,,,0.0
+368,a6jek5h6,qsmbfv8s,A10YS8AVLQWUZZ,11,1,4,8.5,1.0,0.75,-2.77,I tried to imagine it was a real life.,1.0,8.5,2.0,6.82
+369,a6jek5h6,r6kwrka8,A2MYB6MLQW0IGN,11,2,4,9.0,0.0,0.99,-9.21,"I did not have one, at first i tried to stay in the middle of the certainty scale but I felt I was losing too much. But the game ended right away when i strayed away from the middle bc it is riskier",1.0,8.4,1.0,0.0
+370,a6jek5h6,gbi0451r,A38OPVI04AH4JG,12,1,1,8.5,0.0,0.99,-0.02,,,,,0.0
+371,a6jek5h6,0o1xrhcz,A1B1SU3H13QZ1X,12,2,1,9.0,0.0,0.99,-0.02,,,,,0.0
+372,a6jek5h6,gbi0451r,A38OPVI04AH4JG,12,1,2,8.3,1.0,0.99,-0.01,,,,,0.0
+373,a6jek5h6,0o1xrhcz,A1B1SU3H13QZ1X,12,2,2,8.2,1.0,0.99,-0.01,,,,,0.0
+374,a6jek5h6,gbi0451r,A38OPVI04AH4JG,12,1,3,9.0,0.0,0.99,-0.02,,,,,0.0
+375,a6jek5h6,0o1xrhcz,A1B1SU3H13QZ1X,12,2,3,9.1,0.0,0.99,-0.02,,,,,0.0
+376,a6jek5h6,gbi0451r,A38OPVI04AH4JG,12,1,4,8.1,1.0,0.99,-9.21,,,,,0.0
+377,a6jek5h6,0o1xrhcz,A1B1SU3H13QZ1X,12,2,4,8.0,0.0,0.99,-9.21,,,,,0.0
+378,a6jek5h6,gbi0451r,A38OPVI04AH4JG,12,1,5,8.5,0.0,0.99,-9.21,I did what i'd do in real life,1.0,8.4,3.0,0.0
+379,a6jek5h6,0o1xrhcz,A1B1SU3H13QZ1X,12,2,5,8.4,1.0,0.99,-9.21,very intresting this game,1.0,8.5,1.0,0.0
+380,a6jek5h6,jqwoutwz,A23KAJRDVCVGOE,14,1,1,8.5,1.0,0.625,-1.96,,,,,5.25
+381,a6jek5h6,nm8bpak6,AYW62R027PUT1,14,2,1,9.0,0.0,0.99,-9.21,,,,,0.0
+382,a6jek5h6,jqwoutwz,A23KAJRDVCVGOE,14,1,2,8.3,1.0,0.99,-0.01,,,,,5.25
+383,a6jek5h6,nm8bpak6,AYW62R027PUT1,14,2,2,8.4,1.0,0.99,-0.01,,,,,0.0
+384,a6jek5h6,jqwoutwz,A23KAJRDVCVGOE,14,1,3,8.3,1.0,0.99,-0.01,,,,,5.25
+385,a6jek5h6,nm8bpak6,AYW62R027PUT1,14,2,3,8.4,1.0,0.99,-0.01,,,,,0.0
+386,a6jek5h6,jqwoutwz,A23KAJRDVCVGOE,14,1,4,8.4,0.0,0.75,-2.77,depending on the time if i had enough time i would go to the canteen which were most of the rounds,1.0,8.4,2.0,5.25
+387,a6jek5h6,nm8bpak6,AYW62R027PUT1,14,2,4,8.3,1.0,0.99,-9.21,Choose canteen if we both had time.,1.0,8.4,1.0,0.0
+388,a6jek5h6,mghjd2xs,A1GRPIBHW72HDU,15,1,1,8.5,0.0,0.625,-0.94,,,,,4.28
+389,a6jek5h6,8ry7jppk,A3CF8ULBSE8MTL,15,2,1,9.0,0.0,0.99,-0.02,,,,,0.65
+390,a6jek5h6,mghjd2xs,A1GRPIBHW72HDU,15,1,2,8.1,1.0,0.99,-0.01,,,,,4.28
+391,a6jek5h6,8ry7jppk,A3CF8ULBSE8MTL,15,2,2,8.2,1.0,0.99,-0.01,,,,,0.65
+392,a6jek5h6,mghjd2xs,A1GRPIBHW72HDU,15,1,3,8.5,0.0,0.875,-4.16,,,,,4.28
+393,a6jek5h6,8ry7jppk,A3CF8ULBSE8MTL,15,2,3,8.4,1.0,0.99,-9.21,,,,,0.65
+394,a6jek5h6,mghjd2xs,A1GRPIBHW72HDU,15,1,4,8.4,1.0,0.99,-0.01,,,,,4.28
+395,a6jek5h6,8ry7jppk,A3CF8ULBSE8MTL,15,2,4,8.3,1.0,0.99,-0.01,,,,,0.65
+396,a6jek5h6,mghjd2xs,A1GRPIBHW72HDU,15,1,5,9.0,0.0,0.875,-0.27,,,,,4.28
+397,a6jek5h6,8ry7jppk,A3CF8ULBSE8MTL,15,2,5,8.5,0.0,0.99,-0.02,,,,,0.65
+398,a6jek5h6,mghjd2xs,A1GRPIBHW72HDU,15,1,6,9.0,0.0,0.99,-0.02,,,,,4.28
+399,a6jek5h6,8ry7jppk,A3CF8ULBSE8MTL,15,2,6,9.1,0.0,0.99,-0.02,,,,,0.65
+400,a6jek5h6,mghjd2xs,A1GRPIBHW72HDU,15,1,7,9.0,0.0,0.99,-0.02,,,,,4.28
+401,a6jek5h6,8ry7jppk,A3CF8ULBSE8MTL,15,2,7,9.1,0.0,0.99,-0.02,,,,,0.65
+402,a6jek5h6,mghjd2xs,A1GRPIBHW72HDU,15,1,8,8.1,1.0,0.99,-0.01,,,,,4.28
+403,a6jek5h6,8ry7jppk,A3CF8ULBSE8MTL,15,2,8,8.0,1.0,0.99,-0.01,,,,,0.65
+404,a6jek5h6,mghjd2xs,A1GRPIBHW72HDU,15,1,9,9.0,0.0,0.875,-0.27,,,,,4.28
+405,a6jek5h6,8ry7jppk,A3CF8ULBSE8MTL,15,2,9,9.1,0.0,0.99,-0.02,,,,,0.65
+406,a6jek5h6,mghjd2xs,A1GRPIBHW72HDU,15,1,10,8.1,1.0,0.99,-0.01,"I tried to look at the time and calculate forward and backward 10 minutes. If it were possible to be 9am for one of those times, I always went to the office",1.0,8.4,,4.28
+407,a6jek5h6,8ry7jppk,A3CF8ULBSE8MTL,15,2,10,8.0,1.0,0.99,-0.01,tried to be cautious,1.0,8.5,,0.65
+408,a6jek5h6,66fb092o,A27ZE20JZ3VDUP,16,1,1,8.2,1.0,0.99,-0.01,,,,,7.43
+409,a6jek5h6,d53q7kqg,A2U5DWGXEAIWYE,16,2,1,8.3,1.0,0.5,-0.69,,,,,0.0
+410,a6jek5h6,66fb092o,A27ZE20JZ3VDUP,16,1,2,8.3,0.0,0.99,-0.02,,,,,7.43
+411,a6jek5h6,d53q7kqg,A2U5DWGXEAIWYE,16,2,2,8.2,0.0,0.875,-0.27,,,,,0.0
+412,a6jek5h6,66fb092o,A27ZE20JZ3VDUP,16,1,3,8.1,0.0,0.75,-0.58,,,,,7.43
+413,a6jek5h6,d53q7kqg,A2U5DWGXEAIWYE,16,2,3,8.2,0.0,0.75,-0.58,,,,,0.0
+414,a6jek5h6,66fb092o,A27ZE20JZ3VDUP,16,1,4,8.1,1.0,0.99,-0.01,,,,,7.43
+415,a6jek5h6,d53q7kqg,A2U5DWGXEAIWYE,16,2,4,8.2,1.0,0.99,-0.01,,,,,0.0
+416,a6jek5h6,66fb092o,A27ZE20JZ3VDUP,16,1,5,8.3,0.0,0.875,-0.27,,,,,7.43
+417,a6jek5h6,d53q7kqg,A2U5DWGXEAIWYE,16,2,5,8.4,0.0,0.99,-0.02,,,,,0.0
+418,a6jek5h6,66fb092o,A27ZE20JZ3VDUP,16,1,6,9.0,0.0,0.99,-0.02,,,,,7.43
+419,a6jek5h6,d53q7kqg,A2U5DWGXEAIWYE,16,2,6,8.5,0.0,0.99,-0.02,,,,,0.0
+420,a6jek5h6,66fb092o,A27ZE20JZ3VDUP,16,1,7,8.3,0.0,0.875,-0.27,,,,,7.43
+421,a6jek5h6,d53q7kqg,A2U5DWGXEAIWYE,16,2,7,8.2,0.0,0.875,-0.27,,,,,0.0
+422,a6jek5h6,66fb092o,A27ZE20JZ3VDUP,16,1,8,8.3,0.0,0.5,-1.39,i wanted to be smart and make educated guesses for what I could do.,2.0,8.4,1.0,7.43
+423,a6jek5h6,d53q7kqg,A2U5DWGXEAIWYE,16,2,8,8.2,1.0,0.99,-9.21,i tried to make guesses like my partner did.,3.0,8.3,2.0,0.0
+424,a6jek5h6,tefl8tk4,A1EXO9HRNQYHWC,17,1,1,8.4,0.0,0.625,-1.96,,,,,0.0
+425,a6jek5h6,0bpf1389,A3GAQNTZ1V1VO,17,2,1,8.5,1.0,0.625,-1.96,,,,,0.0
+426,a6jek5h6,tefl8tk4,A1EXO9HRNQYHWC,17,1,2,8.4,1.0,0.75,-2.77,,,,,0.0
+427,a6jek5h6,0bpf1389,A3GAQNTZ1V1VO,17,2,2,8.5,0.0,0.625,-1.96,,,,,0.0
+428,a6jek5h6,tefl8tk4,A1EXO9HRNQYHWC,17,1,3,8.5,0.0,0.75,-0.58,,,,,0.0
+429,a6jek5h6,0bpf1389,A3GAQNTZ1V1VO,17,2,3,9.0,0.0,0.75,-0.58,,,,,0.0
+430,a6jek5h6,tefl8tk4,A1EXO9HRNQYHWC,17,1,4,8.3,1.0,0.625,-0.47,,,,,0.0
+431,a6jek5h6,0bpf1389,A3GAQNTZ1V1VO,17,2,4,8.4,1.0,0.75,-0.29,,,,,0.0
+432,a6jek5h6,tefl8tk4,A1EXO9HRNQYHWC,17,1,5,8.2,1.0,0.625,-0.47,,,,,0.0
+433,a6jek5h6,0bpf1389,A3GAQNTZ1V1VO,17,2,5,8.3,1.0,0.75,-0.29,,,,,0.0
+434,a6jek5h6,tefl8tk4,A1EXO9HRNQYHWC,17,1,6,8.4,0.0,0.625,-0.94,,,,,0.0
+435,a6jek5h6,0bpf1389,A3GAQNTZ1V1VO,17,2,6,8.5,0.0,0.625,-0.94,,,,,0.0
+436,a6jek5h6,tefl8tk4,A1EXO9HRNQYHWC,17,1,7,8.3,1.0,0.75,-0.29,,,,,0.0
+437,a6jek5h6,0bpf1389,A3GAQNTZ1V1VO,17,2,7,8.2,1.0,0.75,-0.29,,,,,0.0
+438,a6jek5h6,tefl8tk4,A1EXO9HRNQYHWC,17,1,8,8.1,1.0,0.75,-0.29,,,,,0.0
+439,a6jek5h6,0bpf1389,A3GAQNTZ1V1VO,17,2,8,8.0,1.0,0.875,-0.13,,,,,0.0
+440,a6jek5h6,tefl8tk4,A1EXO9HRNQYHWC,17,1,9,8.2,1.0,0.75,-0.29,,,,,0.0
+441,a6jek5h6,0bpf1389,A3GAQNTZ1V1VO,17,2,9,8.3,1.0,0.875,-0.13,,,,,0.0
+442,a6jek5h6,tefl8tk4,A1EXO9HRNQYHWC,17,1,10,8.4,0.0,0.625,-1.96,went with my gut,3.0,6.0,3.0,0.0
+443,a6jek5h6,0bpf1389,A3GAQNTZ1V1VO,17,2,10,8.3,1.0,0.875,-4.16,I guessed based on the time before 9 AM.,1.0,8.4,1.0,0.0
+444,a6jek5h6,rw7awhn6,A281ASP4WWAN3E,18,1,1,8.3,1.0,0.5,-0.69,,,,,0.0
+445,a6jek5h6,xowwz0yj,A3DY78Q4FCWTXX,18,2,1,8.4,1.0,0.99,-0.01,,,,,0.0
+446,a6jek5h6,rw7awhn6,A281ASP4WWAN3E,18,1,2,9.0,1.0,0.99,-9.21,,,,,0.0
+447,a6jek5h6,xowwz0yj,A3DY78Q4FCWTXX,18,2,2,9.1,0.0,0.99,-9.21,,,,,0.0
+448,a6jek5h6,rw7awhn6,A281ASP4WWAN3E,18,1,3,8.1,1.0,0.99,-0.01,,,,,0.0
+449,a6jek5h6,xowwz0yj,A3DY78Q4FCWTXX,18,2,3,8.0,1.0,0.99,-0.01,,,,,0.0
+450,a6jek5h6,rw7awhn6,A281ASP4WWAN3E,18,1,4,8.2,1.0,0.99,-0.01,,,,,0.0
+451,a6jek5h6,xowwz0yj,A3DY78Q4FCWTXX,18,2,4,8.3,1.0,0.99,-0.01,,,,,0.0
+452,a6jek5h6,rw7awhn6,A281ASP4WWAN3E,18,1,5,8.3,0.0,0.875,-4.16,I tried to go to the canteen when it was early and the office when it was later,1.0,8.2,1.0,0.0
+453,a6jek5h6,xowwz0yj,A3DY78Q4FCWTXX,18,2,5,8.2,1.0,0.99,-9.21,If my arrival time was prior to 9am I went to the canteen. If my arrival time was after 9am I went to the office.,1.0,8.5,2.0,0.0
+454,a6jek5h6,9erdb9pk,A3BXT78QXFC6F3,19,1,1,8.4,1.0,0.625,-0.47,,,,,0.0
+455,a6jek5h6,ocwyxx8v,AZOF6QSSWG98H,19,2,1,8.3,1.0,0.875,-0.13,,,,,0.0
+456,a6jek5h6,9erdb9pk,A3BXT78QXFC6F3,19,1,2,8.2,0.0,0.99,-9.21,,,,,0.0
+457,a6jek5h6,ocwyxx8v,AZOF6QSSWG98H,19,2,2,8.1,1.0,0.99,-9.21,,,,,0.0
+458,a6jek5h6,9erdb9pk,A3BXT78QXFC6F3,19,1,3,8.3,0.0,0.875,-4.16,I thought about what I would do in real life comparexd to the scenario.,3.0,8.3,1.0,0.0
+459,a6jek5h6,ocwyxx8v,AZOF6QSSWG98H,19,2,3,8.2,1.0,0.5,-1.39,"I thought if we arrived early it would be more likely to go to the canteen, but it doesn't look like that happened.",1.0,8.1,3.0,0.0
+460,a6jek5h6,qevvpt43,A36MOV8E6SYHCR,20,1,1,8.3,0.0,0.75,-0.58,,,,,0.0
+461,a6jek5h6,73ak7zcv,A25R2OI9L2Q1OW,20,2,1,8.4,0.0,0.99,-0.02,,,,,0.17
+462,a6jek5h6,qevvpt43,A36MOV8E6SYHCR,20,1,2,8.4,0.0,0.99,-0.02,,,,,0.0
+463,a6jek5h6,73ak7zcv,A25R2OI9L2Q1OW,20,2,2,8.5,0.0,0.75,-0.58,,,,,0.17
+464,a6jek5h6,qevvpt43,A36MOV8E6SYHCR,20,1,3,8.1,1.0,0.99,-9.21,,,,,0.0
+465,a6jek5h6,73ak7zcv,A25R2OI9L2Q1OW,20,2,3,8.0,0.0,0.99,-9.21,,,,,0.17
+466,a6jek5h6,qevvpt43,A36MOV8E6SYHCR,20,1,4,8.1,0.0,0.75,-0.58,i used logic mostly based on the time mentioned.,1.0,8.2,1.0,0.0
+467,a6jek5h6,73ak7zcv,A25R2OI9L2Q1OW,20,2,4,8.2,0.0,0.99,-0.02,"For the most part, I made the assumption that I would go in and start work, in the office.",1.0,7.0,3.0,0.17
+468,a6jek5h6,w4m2hepg,A154X03NKVZZL1,21,1,1,8.2,1.0,0.99,-0.01,,,,,4.47
+469,a6jek5h6,n17mg60l,A2FXD55FJV1RSV,21,2,1,8.1,1.0,0.99,-0.01,,,,,0.0
+470,a6jek5h6,w4m2hepg,A154X03NKVZZL1,21,1,2,8.1,1.0,0.625,-0.47,,,,,4.47
+471,a6jek5h6,n17mg60l,A2FXD55FJV1RSV,21,2,2,8.2,1.0,0.99,-0.01,,,,,0.0
+472,a6jek5h6,w4m2hepg,A154X03NKVZZL1,21,1,3,8.2,1.0,0.875,-0.13,,,,,4.47
+473,a6jek5h6,n17mg60l,A2FXD55FJV1RSV,21,2,3,8.3,1.0,0.99,-0.01,,,,,0.0
+474,a6jek5h6,w4m2hepg,A154X03NKVZZL1,21,1,4,8.5,0.0,0.99,-0.02,,,,,4.47
+475,a6jek5h6,n17mg60l,A2FXD55FJV1RSV,21,2,4,9.0,0.0,0.75,-0.58,,,,,0.0
+476,a6jek5h6,w4m2hepg,A154X03NKVZZL1,21,1,5,8.5,0.0,0.75,-0.58,,,,,4.47
+477,a6jek5h6,n17mg60l,A2FXD55FJV1RSV,21,2,5,9.0,0.0,0.75,-0.58,,,,,0.0
+478,a6jek5h6,w4m2hepg,A154X03NKVZZL1,21,1,6,8.3,1.0,0.875,-0.13,,,,,4.47
+479,a6jek5h6,n17mg60l,A2FXD55FJV1RSV,21,2,6,8.4,1.0,0.99,-0.01,,,,,0.0
+480,a6jek5h6,w4m2hepg,A154X03NKVZZL1,21,1,7,9.0,0.0,0.99,-0.02,,,,,4.47
+481,a6jek5h6,n17mg60l,A2FXD55FJV1RSV,21,2,7,8.5,0.0,0.75,-0.58,,,,,0.0
+482,a6jek5h6,w4m2hepg,A154X03NKVZZL1,21,1,8,8.3,1.0,0.99,-0.01,,,,,4.47
+483,a6jek5h6,n17mg60l,A2FXD55FJV1RSV,21,2,8,8.2,1.0,0.99,-0.01,,,,,0.0
+484,a6jek5h6,w4m2hepg,A154X03NKVZZL1,21,1,9,8.5,1.0,0.875,-4.16,i trried to put myself in the position of my colleague and do the same thing based on t he schedule in the instructionns,1.0,8.2,3.0,4.47
+485,a6jek5h6,n17mg60l,A2FXD55FJV1RSV,21,2,9,9.0,0.0,0.99,-9.21,Going to the office if either participant could possibly arrive at 9. Go to the canteen only if I arrived at 8:40 or earlier.,1.0,8.4,2.0,0.0
+486,a6jek5h6,7r6u4kgj,A1Y82LKWQQP90M,22,1,1,8.1,1.0,0.99,-0.01,,,,,7.6
+487,a6jek5h6,hvza183g,A3TUV36R7RR04T,22,2,1,8.2,1.0,0.99,-0.01,,,,,0.0
+488,a6jek5h6,7r6u4kgj,A1Y82LKWQQP90M,22,1,2,8.4,1.0,0.75,-0.29,,,,,7.6
+489,a6jek5h6,hvza183g,A3TUV36R7RR04T,22,2,2,8.3,1.0,0.5,-0.69,,,,,0.0
+490,a6jek5h6,7r6u4kgj,A1Y82LKWQQP90M,22,1,3,8.2,1.0,0.875,-0.13,,,,,7.6
+491,a6jek5h6,hvza183g,A3TUV36R7RR04T,22,2,3,8.3,1.0,0.5,-0.69,,,,,0.0
+492,a6jek5h6,7r6u4kgj,A1Y82LKWQQP90M,22,1,4,8.2,1.0,0.99,-0.01,,,,,7.6
+493,a6jek5h6,hvza183g,A3TUV36R7RR04T,22,2,4,8.3,1.0,0.625,-0.47,,,,,0.0
+494,a6jek5h6,7r6u4kgj,A1Y82LKWQQP90M,22,1,5,8.5,0.0,0.625,-1.96,If it was a decent amount of time before 9 i went to the canteen.,1.0,8.3,3.0,7.6
+495,a6jek5h6,hvza183g,A3TUV36R7RR04T,22,2,5,9.0,1.0,0.99,-9.21,"I ended up pressing the wrong certainty by accident a few times, otherwise just went to the canteen if there was enough time.",1.0,8.4,1.0,0.0
+496,a6jek5h6,t8vmebhj,A3MMLCBV2W3BP9,23,1,1,9.0,1.0,0.75,-2.77,,,,,0.0
+497,a6jek5h6,k7mq8gxs,A279YSE7NB16M0,23,2,1,9.1,0.0,0.875,-4.16,,,,,0.87
+498,a6jek5h6,t8vmebhj,A3MMLCBV2W3BP9,23,1,2,8.2,1.0,0.99,-0.01,,,,,0.0
+499,a6jek5h6,k7mq8gxs,A279YSE7NB16M0,23,2,2,8.1,1.0,0.75,-0.29,,,,,0.87
+500,a6jek5h6,t8vmebhj,A3MMLCBV2W3BP9,23,1,3,8.3,1.0,0.99,-0.01,,,,,0.0
+501,a6jek5h6,k7mq8gxs,A279YSE7NB16M0,23,2,3,8.2,1.0,0.875,-0.13,,,,,0.87
+502,a6jek5h6,t8vmebhj,A3MMLCBV2W3BP9,23,1,4,8.2,1.0,0.99,-0.01,,,,,0.0
+503,a6jek5h6,k7mq8gxs,A279YSE7NB16M0,23,2,4,8.3,1.0,0.875,-0.13,,,,,0.87
+504,a6jek5h6,t8vmebhj,A3MMLCBV2W3BP9,23,1,5,8.3,1.0,0.99,-0.01,,,,,0.0
+505,a6jek5h6,k7mq8gxs,A279YSE7NB16M0,23,2,5,8.2,1.0,0.875,-0.13,,,,,0.87
+506,a6jek5h6,t8vmebhj,A3MMLCBV2W3BP9,23,1,6,8.3,1.0,0.99,-0.01,,,,,0.0
+507,a6jek5h6,k7mq8gxs,A279YSE7NB16M0,23,2,6,8.2,1.0,0.875,-0.13,,,,,0.87
+508,a6jek5h6,t8vmebhj,A3MMLCBV2W3BP9,23,1,7,8.5,0.0,0.99,-9.21,Tried to predict my partners moves. Didn't go as planned.,1.0,8.3,1.0,0.0
+509,a6jek5h6,k7mq8gxs,A279YSE7NB16M0,23,2,7,8.4,1.0,0.875,-4.16,based on time for decision,1.0,9.0,2.0,0.87
+510,a6jek5h6,ijyha6lg,AKYXQY5IP7S0Z,24,1,1,8.4,1.0,0.99,-9.21,,,,,0.0
+511,a6jek5h6,hd0uyku3,AFCMHQWCV6N02,24,2,1,8.3,0.0,0.99,-9.21,,,,,-2.0
+512,a6jek5h6,opvs97gw,ASUYD8BPYM85M,25,1,1,8.3,1.0,0.99,-0.01,,,,,0.0
+513,a6jek5h6,6xb2dkpa,A18QU0YQB6Q8DF,25,2,1,8.2,1.0,0.625,-0.47,,,,,4.95
+514,a6jek5h6,opvs97gw,ASUYD8BPYM85M,25,1,2,8.4,1.0,0.875,-0.13,,,,,0.0
+515,a6jek5h6,6xb2dkpa,A18QU0YQB6Q8DF,25,2,2,8.3,1.0,0.875,-0.13,,,,,4.95
+516,a6jek5h6,opvs97gw,ASUYD8BPYM85M,25,1,3,8.2,1.0,0.99,-0.01,,,,,0.0
+517,a6jek5h6,6xb2dkpa,A18QU0YQB6Q8DF,25,2,3,8.1,1.0,0.75,-0.29,,,,,4.95
+518,a6jek5h6,opvs97gw,ASUYD8BPYM85M,25,1,4,8.2,1.0,0.99,-9.21,,,,,0.0
+519,a6jek5h6,6xb2dkpa,A18QU0YQB6Q8DF,25,2,4,8.1,0.0,0.75,-2.77,,,,,4.95
+520,a6jek5h6,opvs97gw,ASUYD8BPYM85M,25,1,5,9.0,0.0,0.99,-9.21,If there are twenty minutes or more I went to the canteen. But was only certain if there were 30 minutes at least.,1.0,8.4,2.0,0.0
+521,a6jek5h6,6xb2dkpa,A18QU0YQB6Q8DF,25,2,5,9.1,1.0,0.5,-1.39,I just guessed and tried to look at the times listed.,1.0,8.4,3.0,4.95
+522,a6jek5h6,wkatpsvx,A3W2YF5RJ6R01N,26,1,1,8.3,1.0,0.99,-0.01,,,,,0.0
+523,a6jek5h6,k8aamt3i,A2M926W9I0CP93,26,2,1,8.2,1.0,0.99,-0.01,,,,,0.0
+524,a6jek5h6,wkatpsvx,A3W2YF5RJ6R01N,26,1,2,8.5,1.0,0.99,-0.01,,,,,0.0
+525,a6jek5h6,k8aamt3i,A2M926W9I0CP93,26,2,2,8.4,1.0,0.99,-0.01,,,,,0.0
+526,a6jek5h6,wkatpsvx,A3W2YF5RJ6R01N,26,1,3,8.5,1.0,0.99,-9.21,,,,,0.0
+527,a6jek5h6,k8aamt3i,A2M926W9I0CP93,26,2,3,9.0,0.0,0.99,-9.21,,,,,0.0
+528,a6jek5h6,wkatpsvx,A3W2YF5RJ6R01N,26,1,4,8.2,1.0,0.99,-0.01,,,,,0.0
+529,a6jek5h6,k8aamt3i,A2M926W9I0CP93,26,2,4,8.1,1.0,0.99,-0.01,,,,,0.0
+530,a6jek5h6,wkatpsvx,A3W2YF5RJ6R01N,26,1,5,8.5,1.0,0.99,-0.01,,,,,0.0
+531,a6jek5h6,k8aamt3i,A2M926W9I0CP93,26,2,5,8.4,1.0,0.99,-0.01,,,,,0.0
+532,a6jek5h6,wkatpsvx,A3W2YF5RJ6R01N,26,1,6,8.2,1.0,0.99,-0.01,,,,,0.0
+533,a6jek5h6,k8aamt3i,A2M926W9I0CP93,26,2,6,8.3,1.0,0.99,-0.01,,,,,0.0
+534,a6jek5h6,wkatpsvx,A3W2YF5RJ6R01N,26,1,7,8.2,1.0,0.99,-0.01,,,,,0.0
+535,a6jek5h6,k8aamt3i,A2M926W9I0CP93,26,2,7,8.1,1.0,0.99,-0.01,,,,,0.0
+536,a6jek5h6,wkatpsvx,A3W2YF5RJ6R01N,26,1,8,8.4,1.0,0.99,-0.01,,,,,0.0
+537,a6jek5h6,k8aamt3i,A2M926W9I0CP93,26,2,8,8.5,1.0,0.99,-0.01,,,,,0.0
+538,a6jek5h6,wkatpsvx,A3W2YF5RJ6R01N,26,1,9,8.4,1.0,0.99,-0.01,,,,,0.0
+539,a6jek5h6,k8aamt3i,A2M926W9I0CP93,26,2,9,8.3,1.0,0.99,-0.01,,,,,0.0
+540,a6jek5h6,wkatpsvx,A3W2YF5RJ6R01N,26,1,10,9.0,1.0,0.99,-9.21,I tried to go with the choice that offered the least amount of reduction in bonus should my partner choose the same.  Not sure I was playing with a person or bot however.,1.0,8.5,3.0,0.0
+541,a6jek5h6,k8aamt3i,A2M926W9I0CP93,26,2,10,9.1,0.0,0.625,-1.96,none,1.0,9.0,1.0,0.0
+542,a6jek5h6,du5qzurk,A203C9REA20IT3,27,1,1,8.3,1.0,0.875,-0.13,,,,,0.0
+543,a6jek5h6,yhu9qt6z,A2CHDWKAYZ3P3E,27,2,1,8.2,1.0,0.99,-0.01,,,,,0.0
+544,a6jek5h6,du5qzurk,A203C9REA20IT3,27,1,2,9.0,1.0,0.99,-9.21,,,,,0.0
+545,a6jek5h6,yhu9qt6z,A2CHDWKAYZ3P3E,27,2,2,9.1,0.0,0.99,-9.21,,,,,0.0
+546,a6jek5h6,du5qzurk,A203C9REA20IT3,27,1,3,8.2,0.0,0.99,-9.21,"It did not go very well, I thought I was certain, and I was wrong.",3.0,9.0,1.0,0.0
+547,a6jek5h6,yhu9qt6z,A2CHDWKAYZ3P3E,27,2,3,8.3,1.0,0.99,-9.21,"I couldn't use any strategy, really, because my partner clearly didn't read the direction or understand the task at all. It seems they were just clicking anything.",1.0,8.5,2.0,0.0
+548,a6jek5h6,8ao8fxfq,A1QX1RYLCFXZJ9,28,1,1,9.0,0.0,0.875,-0.27,,,,,0.0
+549,a6jek5h6,6vudeua8,A1PLQGQ95NICAF,28,2,1,8.5,0.0,0.99,-0.02,,,,,0.0
+550,a6jek5h6,8ao8fxfq,A1QX1RYLCFXZJ9,28,1,2,8.2,1.0,0.99,-9.21,,,,,0.0
+551,a6jek5h6,6vudeua8,A1PLQGQ95NICAF,28,2,2,8.1,0.0,0.875,-4.16,,,,,0.0
+552,a6jek5h6,8ao8fxfq,A1QX1RYLCFXZJ9,28,1,3,8.4,1.0,0.625,-1.96,I imagined that if we arrived early we would both go to the canteen and was certain that it would be like that.,1.0,8.4,2.0,0.0
+553,a6jek5h6,6vudeua8,A1PLQGQ95NICAF,28,2,3,8.5,0.0,0.99,-9.21,I tried to predict my partners move but I did poorly,2.0,6.0,2.0,0.0
+554,h32patv0,w1cmek0t,AOIK8K4X34LGR,2,1,1,9.0,0.0,0.625,-1.96,,,,,1.27
+555,h32patv0,p726wi8w,A1PMZUBGXFANCI,2,2,1,9.1,1.0,0.625,-1.96,,,,,0.0
+556,h32patv0,w1cmek0t,AOIK8K4X34LGR,2,1,2,8.1,1.0,0.875,-0.13,,,,,1.27
+557,h32patv0,p726wi8w,A1PMZUBGXFANCI,2,2,2,8.0,1.0,0.5,-0.69,,,,,0.0
+558,h32patv0,w1cmek0t,AOIK8K4X34LGR,2,1,3,8.1,1.0,0.99,-0.01,,,,,1.27
+559,h32patv0,p726wi8w,A1PMZUBGXFANCI,2,2,3,8.0,1.0,0.625,-0.47,,,,,0.0
+560,h32patv0,w1cmek0t,AOIK8K4X34LGR,2,1,4,8.2,1.0,0.99,-0.01,,,,,1.27
+561,h32patv0,p726wi8w,A1PMZUBGXFANCI,2,2,4,8.1,1.0,0.75,-0.29,,,,,0.0
+562,h32patv0,w1cmek0t,AOIK8K4X34LGR,2,1,5,8.5,1.0,0.625,-0.47,,,,,1.27
+563,h32patv0,p726wi8w,A1PMZUBGXFANCI,2,2,5,8.4,1.0,0.875,-0.13,,,,,0.0
+564,h32patv0,w1cmek0t,AOIK8K4X34LGR,2,1,6,8.1,1.0,0.99,-0.01,,,,,1.27
+565,h32patv0,p726wi8w,A1PMZUBGXFANCI,2,2,6,8.2,1.0,0.875,-0.13,,,,,0.0
+566,h32patv0,w1cmek0t,AOIK8K4X34LGR,2,1,7,8.5,1.0,0.625,-1.96,,,,,1.27
+567,h32patv0,p726wi8w,A1PMZUBGXFANCI,2,2,7,9.0,1.0,0.875,-4.16,,,,,0.0
+568,h32patv0,w1cmek0t,AOIK8K4X34LGR,2,1,8,8.4,1.0,0.99,-0.01,,,,,1.27
+569,h32patv0,p726wi8w,A1PMZUBGXFANCI,2,2,8,8.3,1.0,0.5,-0.69,,,,,0.0
+570,h32patv0,w1cmek0t,AOIK8K4X34LGR,2,1,9,9.0,0.0,0.875,-4.16,,,,,1.27
+571,h32patv0,p726wi8w,A1PMZUBGXFANCI,2,2,9,8.5,1.0,0.5,-1.39,,,,,0.0
+572,h32patv0,w1cmek0t,AOIK8K4X34LGR,2,1,10,8.3,1.0,0.99,-0.01,Went to canteen but was less certain if coworker might arrive after 9.,1.0,8.4,3.0,1.27
+573,h32patv0,p726wi8w,A1PMZUBGXFANCI,2,2,10,8.2,1.0,0.5,-0.69,The strategy of losing.,1.0,8.1,2.0,0.0
+574,h32patv0,rml58kcr,A20MUNY2OLDCLC,3,1,1,8.1,1.0,0.99,-0.01,,,,,0.0
+575,h32patv0,5657xrbr,AZ69TBTDH7AZS,3,2,1,8.0,1.0,0.99,-0.01,,,,,0.0
+576,h32patv0,rml58kcr,A20MUNY2OLDCLC,3,1,2,9.0,0.0,0.99,-9.21,,,,,0.0
+577,h32patv0,5657xrbr,AZ69TBTDH7AZS,3,2,2,8.5,1.0,0.99,-9.21,,,,,0.0
+578,h32patv0,rml58kcr,A20MUNY2OLDCLC,3,1,3,9.0,1.0,0.5,-1.39,IF I GOT THERE LATE I WENT TO THE OFFICE.,1.0,8.5,2.0,0.0
+579,h32patv0,5657xrbr,AZ69TBTDH7AZS,3,2,3,9.1,0.0,0.99,-9.21,I mainly used the strategy of thinking for myself if I had time to get to the canteen before work or not. Unfortunately this strategy did not work as well as planned.,1.0,8.5,3.0,0.0
+580,h32patv0,8jshcbh2,A3W45HZQTHG0E5,4,1,1,8.3,1.0,0.99,-0.01,,,,,0.0
+581,h32patv0,so9q8yrg,A222NJED4XM6ZZ,4,2,1,8.2,1.0,0.99,-0.01,,,,,2.46
+582,h32patv0,8jshcbh2,A3W45HZQTHG0E5,4,1,2,8.4,1.0,0.99,-0.01,,,,,0.0
+583,h32patv0,so9q8yrg,A222NJED4XM6ZZ,4,2,2,8.5,1.0,0.75,-0.29,,,,,2.46
+584,h32patv0,8jshcbh2,A3W45HZQTHG0E5,4,1,3,8.5,0.0,0.99,-0.02,,,,,0.0
+585,h32patv0,so9q8yrg,A222NJED4XM6ZZ,4,2,3,9.0,0.0,0.875,-0.27,,,,,2.46
+586,h32patv0,8jshcbh2,A3W45HZQTHG0E5,4,1,4,8.4,1.0,0.99,-0.01,,,,,0.0
+587,h32patv0,so9q8yrg,A222NJED4XM6ZZ,4,2,4,8.3,1.0,0.99,-0.01,,,,,2.46
+588,h32patv0,8jshcbh2,A3W45HZQTHG0E5,4,1,5,8.1,1.0,0.99,-0.01,,,,,0.0
+589,h32patv0,so9q8yrg,A222NJED4XM6ZZ,4,2,5,8.2,1.0,0.99,-0.01,,,,,2.46
+590,h32patv0,8jshcbh2,A3W45HZQTHG0E5,4,1,6,8.2,1.0,0.99,-0.01,,,,,0.0
+591,h32patv0,so9q8yrg,A222NJED4XM6ZZ,4,2,6,8.1,1.0,0.99,-0.01,,,,,2.46
+592,h32patv0,8jshcbh2,A3W45HZQTHG0E5,4,1,7,8.5,0.0,0.99,-9.21,,,,,0.0
+593,h32patv0,so9q8yrg,A222NJED4XM6ZZ,4,2,7,8.4,1.0,0.75,-2.77,,,,,2.46
+594,h32patv0,8jshcbh2,A3W45HZQTHG0E5,4,1,8,8.2,1.0,0.99,-0.01,,,,,0.0
+595,h32patv0,so9q8yrg,A222NJED4XM6ZZ,4,2,8,8.1,1.0,0.99,-0.01,,,,,2.46
+596,h32patv0,8jshcbh2,A3W45HZQTHG0E5,4,1,9,8.4,1.0,0.99,-9.21,Trying not to arrive late to work.,1.0,8.5,2.0,0.0
+597,h32patv0,so9q8yrg,A222NJED4XM6ZZ,4,2,9,8.5,0.0,0.875,-4.16,"If the time was 8:30 or earlier, always go to canteen with high certainty. If it was after that, then the certainty decreased.",1.0,8.4,2.0,2.46
+598,h32patv0,9lk16qru,A11Q8U6QTT8KGF,5,1,1,8.2,1.0,0.99,-0.01,,,,,9.88
+599,h32patv0,slphrqhm,A3S5508012UDW3,5,2,1,8.1,1.0,0.99,-0.01,,,,,9.88
+600,h32patv0,9lk16qru,A11Q8U6QTT8KGF,5,1,2,8.3,1.0,0.99,-0.01,,,,,9.88
+601,h32patv0,slphrqhm,A3S5508012UDW3,5,2,2,8.2,1.0,0.99,-0.01,,,,,9.88
+602,h32patv0,9lk16qru,A11Q8U6QTT8KGF,5,1,3,8.4,1.0,0.99,-0.01,,,,,9.88
+603,h32patv0,slphrqhm,A3S5508012UDW3,5,2,3,8.3,1.0,0.99,-0.01,,,,,9.88
+604,h32patv0,9lk16qru,A11Q8U6QTT8KGF,5,1,4,8.3,1.0,0.99,-0.01,,,,,9.88
+605,h32patv0,slphrqhm,A3S5508012UDW3,5,2,4,8.4,1.0,0.99,-0.01,,,,,9.88
+606,h32patv0,9lk16qru,A11Q8U6QTT8KGF,5,1,5,8.3,1.0,0.99,-0.01,,,,,9.88
+607,h32patv0,slphrqhm,A3S5508012UDW3,5,2,5,8.2,1.0,0.99,-0.01,,,,,9.88
+608,h32patv0,9lk16qru,A11Q8U6QTT8KGF,5,1,6,8.5,0.0,0.99,-0.02,,,,,9.88
+609,h32patv0,slphrqhm,A3S5508012UDW3,5,2,6,9.0,0.0,0.99,-0.02,,,,,9.88
+610,h32patv0,9lk16qru,A11Q8U6QTT8KGF,5,1,7,8.4,1.0,0.99,-0.01,,,,,9.88
+611,h32patv0,slphrqhm,A3S5508012UDW3,5,2,7,8.3,1.0,0.99,-0.01,,,,,9.88
+612,h32patv0,9lk16qru,A11Q8U6QTT8KGF,5,1,8,8.2,1.0,0.99,-0.01,,,,,9.88
+613,h32patv0,slphrqhm,A3S5508012UDW3,5,2,8,8.3,1.0,0.99,-0.01,,,,,9.88
+614,h32patv0,9lk16qru,A11Q8U6QTT8KGF,5,1,9,8.4,1.0,0.99,-0.01,,,,,9.88
+615,h32patv0,slphrqhm,A3S5508012UDW3,5,2,9,8.3,1.0,0.99,-0.01,,,,,9.88
+616,h32patv0,9lk16qru,A11Q8U6QTT8KGF,5,1,10,8.5,0.0,0.99,-0.02,There was a 10 minute difference and I assumed if it was going to be 9 with the 10 minute difference that it would be straight to the office.  Otherwise it was to the canteen.,1.0,8.4,,9.88
+617,h32patv0,slphrqhm,A3S5508012UDW3,5,2,10,9.0,0.0,0.99,-0.02,I trusted my partner and only went to the canteen when it was 100% safe for both of us,1.0,8.4,,9.88
+618,h32patv0,jglhjbkz,AU849EHZNGV2Z,6,1,1,8.1,1.0,0.75,-0.29,,,,,4.68
+619,h32patv0,oy1hqdfs,ATPULVNPYPFZG,6,2,1,8.2,1.0,0.99,-0.01,,,,,0.0
+620,h32patv0,jglhjbkz,AU849EHZNGV2Z,6,1,2,8.3,1.0,0.875,-0.13,,,,,4.68
+621,h32patv0,oy1hqdfs,ATPULVNPYPFZG,6,2,2,8.2,1.0,0.99,-0.01,,,,,0.0
+622,h32patv0,jglhjbkz,AU849EHZNGV2Z,6,1,3,8.3,1.0,0.875,-0.13,,,,,4.68
+623,h32patv0,oy1hqdfs,ATPULVNPYPFZG,6,2,3,8.2,1.0,0.99,-0.01,,,,,0.0
+624,h32patv0,jglhjbkz,AU849EHZNGV2Z,6,1,4,8.4,1.0,0.99,-0.01,,,,,4.68
+625,h32patv0,oy1hqdfs,ATPULVNPYPFZG,6,2,4,8.5,1.0,0.99,-0.01,,,,,0.0
+626,h32patv0,jglhjbkz,AU849EHZNGV2Z,6,1,5,8.2,1.0,0.99,-0.01,,,,,4.68
+627,h32patv0,oy1hqdfs,ATPULVNPYPFZG,6,2,5,8.1,1.0,0.99,-0.01,,,,,0.0
+628,h32patv0,jglhjbkz,AU849EHZNGV2Z,6,1,6,8.2,1.0,0.99,-0.01,,,,,4.68
+629,h32patv0,oy1hqdfs,ATPULVNPYPFZG,6,2,6,8.1,1.0,0.99,-0.01,,,,,0.0
+630,h32patv0,jglhjbkz,AU849EHZNGV2Z,6,1,7,8.2,1.0,0.99,-0.01,,,,,4.68
+631,h32patv0,oy1hqdfs,ATPULVNPYPFZG,6,2,7,8.1,1.0,0.99,-0.01,,,,,0.0
+632,h32patv0,jglhjbkz,AU849EHZNGV2Z,6,1,8,8.5,1.0,0.625,-1.96,,,,,4.68
+633,h32patv0,oy1hqdfs,ATPULVNPYPFZG,6,2,8,9.0,0.0,0.99,-9.21,,,,,0.0
+634,h32patv0,jglhjbkz,AU849EHZNGV2Z,6,1,9,8.5,1.0,0.75,-2.77,I tried to anticipate what my partner would choose to do by considering what time they would likely arrive and based my certainty level on that.,1.0,8.4,3.0,4.68
+635,h32patv0,oy1hqdfs,ATPULVNPYPFZG,6,2,9,9.0,0.0,0.99,-9.21,I followed the directions.,1.0,8.5,2.0,0.0
+636,h32patv0,3wbcll4d,A1LQLIHRB3SCXN,7,1,1,8.3,1.0,0.625,-0.47,,,,,0.0
+637,h32patv0,oct78vmi,A1XUZFDVKP95VC,7,2,1,8.2,1.0,0.99,-0.01,,,,,7.09
+638,h32patv0,3wbcll4d,A1LQLIHRB3SCXN,7,1,2,9.0,0.0,0.99,-9.21,,,,,0.0
+639,h32patv0,oct78vmi,A1XUZFDVKP95VC,7,2,2,8.5,1.0,0.75,-2.77,,,,,7.09
+640,h32patv0,3wbcll4d,A1LQLIHRB3SCXN,7,1,3,8.5,1.0,0.625,-0.47,I thought about what I would do and that it's probably very similar to what the other person would do. I didn't think too hard about it.,1.0,8.4,2.0,0.0
+641,h32patv0,oct78vmi,A1XUZFDVKP95VC,7,2,3,8.4,1.0,0.875,-0.13,i thought if there was enough time i would always go to the canteen,1.0,8.4,3.0,7.09
+642,h32patv0,fghsfqys,A39Q4SNT7SRK94,8,1,1,8.1,0.0,0.875,-4.16,,,,,1.68
+643,h32patv0,2nv2xuf5,A125AOX978LDG7,8,2,1,8.2,1.0,0.99,-9.21,,,,,0.0
+644,h32patv0,fghsfqys,A39Q4SNT7SRK94,8,1,2,8.5,0.0,0.99,-0.02,,,,,1.68
+645,h32patv0,2nv2xuf5,A125AOX978LDG7,8,2,2,9.0,0.0,0.99,-0.02,,,,,0.0
+646,h32patv0,fghsfqys,A39Q4SNT7SRK94,8,1,3,8.5,0.0,0.875,-0.27,,,,,1.68
+647,h32patv0,2nv2xuf5,A125AOX978LDG7,8,2,3,9.0,0.0,0.99,-0.02,,,,,0.0
+648,h32patv0,fghsfqys,A39Q4SNT7SRK94,8,1,4,8.1,1.0,0.875,-0.13,,,,,1.68
+649,h32patv0,2nv2xuf5,A125AOX978LDG7,8,2,4,8.0,1.0,0.99,-0.01,,,,,0.0
+650,h32patv0,fghsfqys,A39Q4SNT7SRK94,8,1,5,8.4,1.0,0.75,-0.29,,,,,1.68
+651,h32patv0,2nv2xuf5,A125AOX978LDG7,8,2,5,8.3,1.0,0.99,-0.01,,,,,0.0
+652,h32patv0,fghsfqys,A39Q4SNT7SRK94,8,1,6,8.1,1.0,0.875,-0.13,,,,,1.68
+653,h32patv0,2nv2xuf5,A125AOX978LDG7,8,2,6,8.2,1.0,0.99,-0.01,,,,,0.0
+654,h32patv0,fghsfqys,A39Q4SNT7SRK94,8,1,7,8.3,1.0,0.875,-0.13,,,,,1.68
+655,h32patv0,2nv2xuf5,A125AOX978LDG7,8,2,7,8.2,1.0,0.5,-0.69,,,,,0.0
+656,h32patv0,fghsfqys,A39Q4SNT7SRK94,8,1,8,8.2,1.0,0.75,-0.29,,,,,1.68
+657,h32patv0,2nv2xuf5,A125AOX978LDG7,8,2,8,8.1,1.0,0.99,-0.01,,,,,0.0
+658,h32patv0,fghsfqys,A39Q4SNT7SRK94,8,1,9,8.2,1.0,0.875,-0.13,,,,,1.68
+659,h32patv0,2nv2xuf5,A125AOX978LDG7,8,2,9,8.1,1.0,0.99,-0.01,,,,,0.0
+660,h32patv0,fghsfqys,A39Q4SNT7SRK94,8,1,10,8.4,0.0,0.75,-2.77,Maximize my earnings,1.0,8.1,2.0,1.68
+661,h32patv0,2nv2xuf5,A125AOX978LDG7,8,2,10,8.5,1.0,0.99,-9.21,I listened to the instructions that if we arrived before 9 am we should go to the canteen. If we arrived after 9 am we went to the office.  This strategy didn't work.,1.0,8.3,3.0,0.0
+662,h32patv0,06wdjbd5,A1BIJGB7XA0GME,9,1,1,8.4,1.0,0.99,-0.01,,,,,3.72
+663,h32patv0,gmxql3wm,A38DHLB88V8DL8,9,2,1,8.5,1.0,0.99,-0.01,,,,,0.0
+664,h32patv0,06wdjbd5,A1BIJGB7XA0GME,9,1,2,8.3,1.0,0.875,-0.13,,,,,3.72
+665,h32patv0,gmxql3wm,A38DHLB88V8DL8,9,2,2,8.4,1.0,0.875,-0.13,,,,,0.0
+666,h32patv0,06wdjbd5,A1BIJGB7XA0GME,9,1,3,8.3,0.0,0.625,-1.96,,,,,3.72
+667,h32patv0,gmxql3wm,A38DHLB88V8DL8,9,2,3,8.2,1.0,0.99,-9.21,,,,,0.0
+668,h32patv0,06wdjbd5,A1BIJGB7XA0GME,9,1,4,8.3,0.0,0.99,-0.02,,,,,3.72
+669,h32patv0,gmxql3wm,A38DHLB88V8DL8,9,2,4,8.2,0.0,0.875,-0.27,,,,,0.0
+670,h32patv0,06wdjbd5,A1BIJGB7XA0GME,9,1,5,8.1,1.0,0.875,-4.16,I looked at the time and just guessed,1.0,8.3,2.0,3.72
+671,h32patv0,gmxql3wm,A38DHLB88V8DL8,9,2,5,8.2,0.0,0.99,-9.21,I tried to look at the time and decide whether there was enough time to go or to go to office.,2.0,8.4,2.0,0.0
+672,h32patv0,atupteuk,A30AGR5KF8IEL,10,1,1,8.2,1.0,0.99,-0.01,,,,,0.0
+673,h32patv0,eg18ajki,A3E8SXH0BAYG85,10,2,1,8.3,1.0,0.875,-0.13,,,,,3.57
+674,h32patv0,atupteuk,A30AGR5KF8IEL,10,1,2,9.0,0.0,0.99,-0.02,,,,,0.0
+675,h32patv0,eg18ajki,A3E8SXH0BAYG85,10,2,2,9.1,0.0,0.99,-0.02,,,,,3.57
+676,h32patv0,atupteuk,A30AGR5KF8IEL,10,1,3,8.4,1.0,0.99,-9.21,,,,,0.0
+677,h32patv0,eg18ajki,A3E8SXH0BAYG85,10,2,3,8.5,0.0,0.875,-4.16,,,,,3.57
+678,h32patv0,atupteuk,A30AGR5KF8IEL,10,1,4,8.4,1.0,0.75,-0.29,,,,,0.0
+679,h32patv0,eg18ajki,A3E8SXH0BAYG85,10,2,4,8.3,1.0,0.99,-0.01,,,,,3.57
+680,h32patv0,atupteuk,A30AGR5KF8IEL,10,1,5,8.1,1.0,0.99,-0.01,,,,,0.0
+681,h32patv0,eg18ajki,A3E8SXH0BAYG85,10,2,5,8.2,1.0,0.99,-0.01,,,,,3.57
+682,h32patv0,atupteuk,A30AGR5KF8IEL,10,1,6,8.5,0.0,0.99,-0.02,,,,,0.0
+683,h32patv0,eg18ajki,A3E8SXH0BAYG85,10,2,6,9.0,0.0,0.99,-0.02,,,,,3.57
+684,h32patv0,atupteuk,A30AGR5KF8IEL,10,1,7,8.3,1.0,0.99,-0.01,,,,,0.0
+685,h32patv0,eg18ajki,A3E8SXH0BAYG85,10,2,7,8.4,1.0,0.5,-0.69,,,,,3.57
+686,h32patv0,atupteuk,A30AGR5KF8IEL,10,1,8,8.5,0.0,0.99,-9.21,"If there was plenty of time to go to the canteen and plenty of time for my partner to go, I went.",1.0,8.4,3.0,0.0
+687,h32patv0,eg18ajki,A3E8SXH0BAYG85,10,2,8,8.4,1.0,0.5,-1.39,I tried to think like my partner.,1.0,8.3,3.0,3.57
+688,h32patv0,n8rdo0s3,A19ZWBQT8A3LIR,11,1,1,8.3,1.0,0.75,-0.29,,,,,1.27
+689,h32patv0,z2dapqqk,A3BI98I9V2FL0T,11,2,1,8.2,1.0,0.99,-0.01,,,,,0.0
+690,h32patv0,n8rdo0s3,A19ZWBQT8A3LIR,11,1,2,8.4,1.0,0.75,-2.77,,,,,1.27
+691,h32patv0,z2dapqqk,A3BI98I9V2FL0T,11,2,2,8.5,0.0,0.75,-2.77,,,,,0.0
+692,h32patv0,n8rdo0s3,A19ZWBQT8A3LIR,11,1,3,8.2,0.0,0.625,-1.96,,,,,1.27
+693,h32patv0,z2dapqqk,A3BI98I9V2FL0T,11,2,3,8.3,1.0,0.875,-4.16,,,,,0.0
+694,h32patv0,n8rdo0s3,A19ZWBQT8A3LIR,11,1,4,8.5,0.0,0.625,-0.94,,,,,1.27
+695,h32patv0,z2dapqqk,A3BI98I9V2FL0T,11,2,4,8.4,0.0,0.875,-0.27,,,,,0.0
+696,h32patv0,n8rdo0s3,A19ZWBQT8A3LIR,11,1,5,8.1,0.0,0.75,-2.77,I tried to guess what my partner would do.,3.0,8.0,2.0,1.27
+697,h32patv0,z2dapqqk,A3BI98I9V2FL0T,11,2,5,8.0,1.0,0.99,-9.21,"i tried going, i tried not going, its like i couldnt win for losing so I just gave up and said lets go to the canteen, whats the worst that can happen.",1.0,8.3,2.0,0.0
+698,h32patv0,n8xs2ec1,A2I4A4WGWII18Z,12,1,1,8.4,1.0,0.75,-2.77,,,,,4.67
+699,h32patv0,i03p7qua,A3N3GGRTTDFKLF,12,2,1,8.5,0.0,0.99,-9.21,,,,,0.0
+700,h32patv0,n8xs2ec1,A2I4A4WGWII18Z,12,1,2,8.3,1.0,0.875,-0.13,,,,,4.67
+701,h32patv0,i03p7qua,A3N3GGRTTDFKLF,12,2,2,8.4,1.0,0.99,-0.01,,,,,0.0
+702,h32patv0,n8xs2ec1,A2I4A4WGWII18Z,12,1,3,9.0,0.0,0.99,-0.02,,,,,4.67
+703,h32patv0,i03p7qua,A3N3GGRTTDFKLF,12,2,3,9.1,0.0,0.99,-0.02,,,,,0.0
+704,h32patv0,n8xs2ec1,A2I4A4WGWII18Z,12,1,4,9.0,0.0,0.875,-0.27,,,,,4.67
+705,h32patv0,i03p7qua,A3N3GGRTTDFKLF,12,2,4,8.5,0.0,0.99,-0.02,,,,,0.0
+706,h32patv0,n8xs2ec1,A2I4A4WGWII18Z,12,1,5,8.1,1.0,0.99,-0.01,,,,,4.67
+707,h32patv0,i03p7qua,A3N3GGRTTDFKLF,12,2,5,8.2,1.0,0.99,-0.01,,,,,0.0
+708,h32patv0,n8xs2ec1,A2I4A4WGWII18Z,12,1,6,9.0,0.0,0.99,-0.02,,,,,4.67
+709,h32patv0,i03p7qua,A3N3GGRTTDFKLF,12,2,6,8.5,0.0,0.99,-0.02,,,,,0.0
+710,h32patv0,n8xs2ec1,A2I4A4WGWII18Z,12,1,7,8.3,1.0,0.875,-0.13,,,,,4.67
+711,h32patv0,i03p7qua,A3N3GGRTTDFKLF,12,2,7,8.2,1.0,0.99,-0.01,,,,,0.0
+712,h32patv0,n8xs2ec1,A2I4A4WGWII18Z,12,1,8,8.2,1.0,0.99,-0.01,,,,,4.67
+713,h32patv0,i03p7qua,A3N3GGRTTDFKLF,12,2,8,8.3,1.0,0.99,-0.01,,,,,0.0
+714,h32patv0,n8xs2ec1,A2I4A4WGWII18Z,12,1,9,8.1,1.0,0.99,-0.01,,,,,4.67
+715,h32patv0,i03p7qua,A3N3GGRTTDFKLF,12,2,9,8.0,1.0,0.99,-0.01,,,,,0.0
+716,h32patv0,n8xs2ec1,A2I4A4WGWII18Z,12,1,10,8.4,1.0,0.625,-1.96,"I tried to stick with what was the most logical, hoping that the other person would do the same. It was in our best interest to do what seemed to make the most sense with whether or not we had time to go to the canteen or not.",1.0,8.4,3.0,4.67
+717,h32patv0,i03p7qua,A3N3GGRTTDFKLF,12,2,10,8.5,0.0,0.99,-9.21,I only chose to go to the canteen if I felt there was suitable time.,1.0,8.3,1.0,0.0
+718,h32patv0,tuecchng,A36KCUA7C4F21G,13,1,1,8.2,1.0,0.875,-0.13,,,,,3.8
+719,h32patv0,u9h72fsq,A1MSLM87Z8CLTK,13,2,1,8.1,1.0,0.99,-0.01,,,,,4.01
+720,h32patv0,tuecchng,A36KCUA7C4F21G,13,1,2,8.2,1.0,0.875,-0.13,,,,,3.8
+721,h32patv0,u9h72fsq,A1MSLM87Z8CLTK,13,2,2,8.1,1.0,0.875,-0.13,,,,,4.01
+722,h32patv0,tuecchng,A36KCUA7C4F21G,13,1,3,8.1,1.0,0.875,-0.13,,,,,3.8
+723,h32patv0,u9h72fsq,A1MSLM87Z8CLTK,13,2,3,8.0,1.0,0.99,-0.01,,,,,4.01
+724,h32patv0,tuecchng,A36KCUA7C4F21G,13,1,4,9.0,0.0,0.875,-0.27,,,,,3.8
+725,h32patv0,u9h72fsq,A1MSLM87Z8CLTK,13,2,4,8.5,0.0,0.625,-0.94,,,,,4.01
+726,h32patv0,tuecchng,A36KCUA7C4F21G,13,1,5,8.4,1.0,0.75,-0.29,,,,,3.8
+727,h32patv0,u9h72fsq,A1MSLM87Z8CLTK,13,2,5,8.3,1.0,0.99,-0.01,,,,,4.01
+728,h32patv0,tuecchng,A36KCUA7C4F21G,13,1,6,8.1,1.0,0.875,-0.13,,,,,3.8
+729,h32patv0,u9h72fsq,A1MSLM87Z8CLTK,13,2,6,8.2,1.0,0.875,-0.13,,,,,4.01
+730,h32patv0,tuecchng,A36KCUA7C4F21G,13,1,7,9.0,0.0,0.625,-0.94,,,,,3.8
+731,h32patv0,u9h72fsq,A1MSLM87Z8CLTK,13,2,7,8.5,0.0,0.75,-0.58,,,,,4.01
+732,h32patv0,tuecchng,A36KCUA7C4F21G,13,1,8,8.1,1.0,0.99,-0.01,,,,,3.8
+733,h32patv0,u9h72fsq,A1MSLM87Z8CLTK,13,2,8,8.0,1.0,0.99,-0.01,,,,,4.01
+734,h32patv0,tuecchng,A36KCUA7C4F21G,13,1,9,8.3,1.0,0.99,-0.01,,,,,3.8
+735,h32patv0,u9h72fsq,A1MSLM87Z8CLTK,13,2,9,8.2,1.0,0.99,-0.01,,,,,4.01
+736,h32patv0,tuecchng,A36KCUA7C4F21G,13,1,10,8.4,1.0,0.875,-4.16,Limited My risk and chose quite certain if it was close even though I knew they would be going to Canteen.,3.0,8.4,,3.8
+737,h32patv0,u9h72fsq,A1MSLM87Z8CLTK,13,2,10,8.5,0.0,0.875,-4.16,"I figured that any time before 9:50 meant that we had time to go the the canteen. So that's what I chose. If the arrival time was 9:50, I figured the safer bet was to choose to go to the office.",1.0,8.4,,4.01
+738,h32patv0,hky1rqw0,A8AG71WQHPTYN,14,1,1,8.2,1.0,0.99,-0.01,,,,,9.87
+739,h32patv0,1lhfkvck,ARJ8XLYXTWNE,14,2,1,8.1,1.0,0.875,-0.13,,,,,8.82
+740,h32patv0,hky1rqw0,A8AG71WQHPTYN,14,1,2,9.0,0.0,0.99,-0.02,,,,,9.87
+741,h32patv0,1lhfkvck,ARJ8XLYXTWNE,14,2,2,9.1,0.0,0.75,-0.58,,,,,8.82
+742,h32patv0,hky1rqw0,A8AG71WQHPTYN,14,1,3,8.2,1.0,0.99,-0.01,,,,,9.87
+743,h32patv0,1lhfkvck,ARJ8XLYXTWNE,14,2,3,8.1,1.0,0.99,-0.01,,,,,8.82
+744,h32patv0,hky1rqw0,A8AG71WQHPTYN,14,1,4,9.0,0.0,0.99,-0.02,,,,,9.87
+745,h32patv0,1lhfkvck,ARJ8XLYXTWNE,14,2,4,9.1,0.0,0.875,-0.27,,,,,8.82
+746,h32patv0,hky1rqw0,A8AG71WQHPTYN,14,1,5,8.4,1.0,0.99,-0.01,,,,,9.87
+747,h32patv0,1lhfkvck,ARJ8XLYXTWNE,14,2,5,8.3,1.0,0.99,-0.01,,,,,8.82
+748,h32patv0,hky1rqw0,A8AG71WQHPTYN,14,1,6,8.5,1.0,0.99,-0.01,,,,,9.87
+749,h32patv0,1lhfkvck,ARJ8XLYXTWNE,14,2,6,8.4,1.0,0.875,-0.13,,,,,8.82
+750,h32patv0,hky1rqw0,A8AG71WQHPTYN,14,1,7,8.1,1.0,0.99,-0.01,,,,,9.87
+751,h32patv0,1lhfkvck,ARJ8XLYXTWNE,14,2,7,8.0,1.0,0.99,-0.01,,,,,8.82
+752,h32patv0,hky1rqw0,A8AG71WQHPTYN,14,1,8,8.1,1.0,0.99,-0.01,,,,,9.87
+753,h32patv0,1lhfkvck,ARJ8XLYXTWNE,14,2,8,8.2,1.0,0.99,-0.01,,,,,8.82
+754,h32patv0,hky1rqw0,A8AG71WQHPTYN,14,1,9,9.0,0.0,0.99,-0.02,,,,,9.87
+755,h32patv0,1lhfkvck,ARJ8XLYXTWNE,14,2,9,9.1,0.0,0.99,-0.02,,,,,8.82
+756,h32patv0,hky1rqw0,A8AG71WQHPTYN,14,1,10,8.4,1.0,0.99,-0.01,I based my decision on what time my partner had and how likely it was that their time was guaranteed to arrive to work before 9:00am,1.0,8.4,,9.87
+757,h32patv0,1lhfkvck,ARJ8XLYXTWNE,14,2,10,8.3,1.0,0.99,-0.01,"I just went with my gut feeling. After a while, I kind of learned my partner and what decision they would make.",1.0,8.3,,8.82
+758,h32patv0,b1mqf3ew,A2KPT0PEUEXCC4,16,1,1,8.5,1.0,0.875,-0.13,,,,,1.96
+759,h32patv0,sudqti1u,AHPCI0X85ZUR1,16,2,1,8.4,1.0,0.875,-0.13,,,,,0.0
+760,h32patv0,b1mqf3ew,A2KPT0PEUEXCC4,16,1,2,8.1,1.0,0.99,-0.01,,,,,1.96
+761,h32patv0,sudqti1u,AHPCI0X85ZUR1,16,2,2,8.0,1.0,0.99,-0.01,,,,,0.0
+762,h32patv0,b1mqf3ew,A2KPT0PEUEXCC4,16,1,3,8.2,1.0,0.99,-0.01,,,,,1.96
+763,h32patv0,sudqti1u,AHPCI0X85ZUR1,16,2,3,8.3,1.0,0.99,-0.01,,,,,0.0
+764,h32patv0,b1mqf3ew,A2KPT0PEUEXCC4,16,1,4,9.0,0.0,0.875,-4.16,,,,,1.96
+765,h32patv0,sudqti1u,AHPCI0X85ZUR1,16,2,4,8.5,1.0,0.99,-9.21,,,,,0.0
+766,h32patv0,b1mqf3ew,A2KPT0PEUEXCC4,16,1,5,8.1,1.0,0.99,-0.01,,,,,1.96
+767,h32patv0,sudqti1u,AHPCI0X85ZUR1,16,2,5,8.2,1.0,0.75,-0.29,,,,,0.0
+768,h32patv0,b1mqf3ew,A2KPT0PEUEXCC4,16,1,6,9.0,0.0,0.625,-0.94,,,,,1.96
+769,h32patv0,sudqti1u,AHPCI0X85ZUR1,16,2,6,9.1,0.0,0.99,-0.02,,,,,0.0
+770,h32patv0,b1mqf3ew,A2KPT0PEUEXCC4,16,1,7,8.1,1.0,0.99,-0.01,,,,,1.96
+771,h32patv0,sudqti1u,AHPCI0X85ZUR1,16,2,7,8.0,1.0,0.99,-0.01,,,,,0.0
+772,h32patv0,b1mqf3ew,A2KPT0PEUEXCC4,16,1,8,8.4,1.0,0.75,-2.77,"I basically used the previous instructions, if it was exactly 9am I went to the office. Anything before I went to the canteen. I also tried to pay attention to what the other participant would select but I don't think they read the instructions very carefully as their choices seemed somewhat random.",1.0,8.5,2.0,1.96
+773,h32patv0,sudqti1u,AHPCI0X85ZUR1,16,2,8,8.5,0.0,0.875,-4.16,Assumption,1.0,8.4,1.0,0.0
+774,h32patv0,r58t64dr,A3T7N805PVNEXN,17,1,1,9.0,0.0,0.99,-0.02,,,,,0.0
+775,h32patv0,rwldbn84,AR4XFM7G1W0VQ,17,2,1,9.1,0.0,0.99,-0.02,,,,,0.74
+776,h32patv0,r58t64dr,A3T7N805PVNEXN,17,1,2,9.0,0.0,0.99,-9.21,,,,,0.0
+777,h32patv0,rwldbn84,AR4XFM7G1W0VQ,17,2,2,8.5,1.0,0.99,-9.21,,,,,0.74
+778,h32patv0,r58t64dr,A3T7N805PVNEXN,17,1,3,8.1,1.0,0.99,-0.01,,,,,0.0
+779,h32patv0,rwldbn84,AR4XFM7G1W0VQ,17,2,3,8.2,1.0,0.99,-0.01,,,,,0.74
+780,h32patv0,r58t64dr,A3T7N805PVNEXN,17,1,4,9.0,0.0,0.5,-1.39,I just went to the canteen unless I arrived at 850 or 9 AM. At that point I was not sure if I should go to the office or canteen.,1.0,8.3,1.0,0.0
+781,h32patv0,rwldbn84,AR4XFM7G1W0VQ,17,2,4,9.1,0.0,0.99,-0.02,I tried to see if there was enough time to go to the canteen.,1.0,8.4,1.0,0.74
+782,h32patv0,tbw34hr4,AJK9A8Z3AWERT,18,1,1,8.1,1.0,0.99,-0.01,,,,,6.07
+783,h32patv0,5zn2iian,A30QJ6OLAICVI7,18,2,1,8.2,1.0,0.99,-0.01,,,,,0.0
+784,h32patv0,tbw34hr4,AJK9A8Z3AWERT,18,1,2,8.1,0.0,0.625,-1.96,,,,,6.07
+785,h32patv0,5zn2iian,A30QJ6OLAICVI7,18,2,2,8.2,1.0,0.99,-9.21,,,,,0.0
+786,h32patv0,tbw34hr4,AJK9A8Z3AWERT,18,1,3,8.2,0.0,0.625,-1.96,brain power,1.0,8.3,1.0,6.07
+787,h32patv0,5zn2iian,A30QJ6OLAICVI7,18,2,3,8.1,1.0,0.99,-9.21,"I only got to play three rounds because my partner clearly didn't understand the rules, and cost us our entire bonus.",1.0,8.4,2.0,0.0
+788,h32patv0,lt65f6os,A2Z430H1S2KYRI,19,1,1,8.3,1.0,0.99,-0.01,,,,,9.88
+789,h32patv0,7nnamfnb,A1Z8AOIDT5IV43,19,2,1,8.2,1.0,0.99,-0.01,,,,,9.32
+790,h32patv0,lt65f6os,A2Z430H1S2KYRI,19,1,2,8.1,1.0,0.99,-0.01,,,,,9.88
+791,h32patv0,7nnamfnb,A1Z8AOIDT5IV43,19,2,2,8.0,1.0,0.99,-0.01,,,,,9.32
+792,h32patv0,lt65f6os,A2Z430H1S2KYRI,19,1,3,8.2,1.0,0.99,-0.01,,,,,9.88
+793,h32patv0,7nnamfnb,A1Z8AOIDT5IV43,19,2,3,8.3,1.0,0.99,-0.01,,,,,9.32
+794,h32patv0,lt65f6os,A2Z430H1S2KYRI,19,1,4,8.5,1.0,0.99,-0.01,,,,,9.88
+795,h32patv0,7nnamfnb,A1Z8AOIDT5IV43,19,2,4,8.4,1.0,0.99,-0.01,,,,,9.32
+796,h32patv0,lt65f6os,A2Z430H1S2KYRI,19,1,5,8.3,1.0,0.99,-0.01,,,,,9.88
+797,h32patv0,7nnamfnb,A1Z8AOIDT5IV43,19,2,5,8.2,1.0,0.99,-0.01,,,,,9.32
+798,h32patv0,lt65f6os,A2Z430H1S2KYRI,19,1,6,9.0,0.0,0.99,-0.02,,,,,9.88
+799,h32patv0,7nnamfnb,A1Z8AOIDT5IV43,19,2,6,8.5,0.0,0.75,-0.58,,,,,9.32
+800,h32patv0,lt65f6os,A2Z430H1S2KYRI,19,1,7,8.3,1.0,0.99,-0.01,,,,,9.88
+801,h32patv0,7nnamfnb,A1Z8AOIDT5IV43,19,2,7,8.2,1.0,0.99,-0.01,,,,,9.32
+802,h32patv0,lt65f6os,A2Z430H1S2KYRI,19,1,8,8.5,1.0,0.99,-0.01,,,,,9.88
+803,h32patv0,7nnamfnb,A1Z8AOIDT5IV43,19,2,8,8.4,1.0,0.99,-0.01,,,,,9.32
+804,h32patv0,lt65f6os,A2Z430H1S2KYRI,19,1,9,8.2,1.0,0.99,-0.01,,,,,9.88
+805,h32patv0,7nnamfnb,A1Z8AOIDT5IV43,19,2,9,8.3,1.0,0.99,-0.01,,,,,9.32
+806,h32patv0,lt65f6os,A2Z430H1S2KYRI,19,1,10,9.0,0.0,0.99,-0.02,Always go to the canteen if its before 9:00 am. And if its after always go the office.,1.0,8.3,,9.88
+807,h32patv0,7nnamfnb,A1Z8AOIDT5IV43,19,2,10,9.1,0.0,0.99,-0.02,if the variabilty of my partner overlapped with the 9 am or not.,1.0,8.5,,9.32
+808,h32patv0,tk2e6wm0,A267GLM78AMQ75,20,1,1,8.4,1.0,0.99,-9.21,,,,,0.0
+809,h32patv0,xss42sbw,AT0COJ1G23ZB0,20,2,1,8.5,0.0,0.75,-2.77,,,,,4.15
+810,h32patv0,tk2e6wm0,A267GLM78AMQ75,20,1,2,9.0,0.0,0.99,-0.02,,,,,0.0
+811,h32patv0,xss42sbw,AT0COJ1G23ZB0,20,2,2,9.1,0.0,0.875,-0.27,,,,,4.15
+812,h32patv0,tk2e6wm0,A267GLM78AMQ75,20,1,3,8.2,1.0,0.99,-0.01,,,,,0.0
+813,h32patv0,xss42sbw,AT0COJ1G23ZB0,20,2,3,8.1,1.0,0.99,-0.01,,,,,4.15
+814,h32patv0,tk2e6wm0,A267GLM78AMQ75,20,1,4,8.3,1.0,0.99,-0.01,,,,,0.0
+815,h32patv0,xss42sbw,AT0COJ1G23ZB0,20,2,4,8.2,1.0,0.99,-0.01,,,,,4.15
+816,h32patv0,tk2e6wm0,A267GLM78AMQ75,20,1,5,9.0,0.0,0.99,-0.02,,,,,0.0
+817,h32patv0,xss42sbw,AT0COJ1G23ZB0,20,2,5,9.1,0.0,0.99,-0.02,,,,,4.15
+818,h32patv0,tk2e6wm0,A267GLM78AMQ75,20,1,6,8.4,1.0,0.75,-2.77,I tried to think about what others would do at a certain time.,1.0,8.3,2.0,0.0
+819,h32patv0,xss42sbw,AT0COJ1G23ZB0,20,2,6,8.5,0.0,0.75,-2.77,"If I were 8:50 or later -> office. Otherwise, Canteen. Certainty depended on if it was even possible for colleague to do the other option.",1.0,8.5,3.0,4.15
+820,h32patv0,ivxdefbm,A002160837SWJFPIAI7L7,21,1,1,8.3,1.0,0.99,-0.01,,,,,0.0
+821,h32patv0,jvr0u496,A3A4EIML2KVC3D,21,2,1,8.4,1.0,0.75,-0.29,,,,,4.65
+822,h32patv0,ivxdefbm,A002160837SWJFPIAI7L7,21,1,2,8.5,0.0,0.625,-0.94,,,,,0.0
+823,h32patv0,jvr0u496,A3A4EIML2KVC3D,21,2,2,8.4,0.0,0.75,-0.58,,,,,4.65
+824,h32patv0,ivxdefbm,A002160837SWJFPIAI7L7,21,1,3,8.4,1.0,0.75,-0.29,,,,,0.0
+825,h32patv0,jvr0u496,A3A4EIML2KVC3D,21,2,3,8.3,1.0,0.875,-0.13,,,,,4.65
+826,h32patv0,ivxdefbm,A002160837SWJFPIAI7L7,21,1,4,8.2,1.0,0.99,-0.01,,,,,0.0
+827,h32patv0,jvr0u496,A3A4EIML2KVC3D,21,2,4,8.3,1.0,0.75,-0.29,,,,,4.65
+828,h32patv0,ivxdefbm,A002160837SWJFPIAI7L7,21,1,5,8.4,1.0,0.625,-0.47,,,,,0.0
+829,h32patv0,jvr0u496,A3A4EIML2KVC3D,21,2,5,8.3,1.0,0.75,-0.29,,,,,4.65
+830,h32patv0,ivxdefbm,A002160837SWJFPIAI7L7,21,1,6,9.0,0.0,0.99,-0.02,,,,,0.0
+831,h32patv0,jvr0u496,A3A4EIML2KVC3D,21,2,6,8.5,0.0,0.75,-0.58,,,,,4.65
+832,h32patv0,ivxdefbm,A002160837SWJFPIAI7L7,21,1,7,8.3,1.0,0.99,-0.01,,,,,0.0
+833,h32patv0,jvr0u496,A3A4EIML2KVC3D,21,2,7,8.2,1.0,0.75,-0.29,,,,,4.65
+834,h32patv0,ivxdefbm,A002160837SWJFPIAI7L7,21,1,8,8.2,1.0,0.99,-0.01,,,,,0.0
+835,h32patv0,jvr0u496,A3A4EIML2KVC3D,21,2,8,8.3,1.0,0.875,-0.13,,,,,4.65
+836,h32patv0,ivxdefbm,A002160837SWJFPIAI7L7,21,1,9,9.0,0.0,0.99,-9.21,If i arrived at 9 or later I went to the office,1.0,8.3,2.0,0.0
+837,h32patv0,jvr0u496,A3A4EIML2KVC3D,21,2,9,8.5,1.0,0.75,-2.77,I just tried to do an every other choice strategy thing.,3.0,6.0,3.0,4.65
+838,h32patv0,o4ae4ei2,A3GZYWA9S6J0K9,23,1,1,8.5,0.0,0.625,-1.96,,,,,4.69
+839,h32patv0,zittq6wn,A31FD3QCYZ28Q2,23,2,1,8.4,1.0,0.99,-9.21,,,,,0.0
+840,h32patv0,o4ae4ei2,A3GZYWA9S6J0K9,23,1,2,9.0,0.0,0.75,-0.58,,,,,4.69
+841,h32patv0,zittq6wn,A31FD3QCYZ28Q2,23,2,2,9.1,0.0,0.99,-0.02,,,,,0.0
+842,h32patv0,o4ae4ei2,A3GZYWA9S6J0K9,23,1,3,8.4,1.0,0.75,-2.77,If my arrival was within 10 minutes of 9 I assumed  a fair chance of colleague arriving around the same time and maybe not having time,1.0,8.3,2.0,4.69
+843,h32patv0,zittq6wn,A31FD3QCYZ28Q2,23,2,3,8.5,0.0,0.625,-1.96,"I followed the rules, that before 9.00am we'd have time for coffe. I arrived at 8.40, so the latest the other person could arrive was 8.50. Time for coffee and I was certain of this. When the opposite cenario happened, I followed what they did last time, and they this time went to the canteen. Inconsistent!",1.0,8.5,2.0,0.0
+844,h32patv0,m5ec0d1h,A3AY0315YWWNXY,24,1,1,9.0,0.0,0.99,-0.02,,,,,0.0
+845,h32patv0,f0g1jetq,A44GF72UX2T66,24,2,1,8.5,0.0,0.99,-0.02,,,,,0.0
+846,h32patv0,m5ec0d1h,A3AY0315YWWNXY,24,1,2,9.0,0.0,0.99,-0.02,,,,,0.0
+847,h32patv0,f0g1jetq,A44GF72UX2T66,24,2,2,8.5,0.0,0.99,-0.02,,,,,0.0
+848,h32patv0,m5ec0d1h,A3AY0315YWWNXY,24,1,3,8.2,1.0,0.99,-0.01,,,,,0.0
+849,h32patv0,f0g1jetq,A44GF72UX2T66,24,2,3,8.1,1.0,0.99,-0.01,,,,,0.0
+850,h32patv0,m5ec0d1h,A3AY0315YWWNXY,24,1,4,8.3,1.0,0.99,-0.01,,,,,0.0
+851,h32patv0,f0g1jetq,A44GF72UX2T66,24,2,4,8.4,1.0,0.99,-0.01,,,,,0.0
+852,h32patv0,m5ec0d1h,A3AY0315YWWNXY,24,1,5,8.2,1.0,0.99,-0.01,,,,,0.0
+853,h32patv0,f0g1jetq,A44GF72UX2T66,24,2,5,8.3,1.0,0.99,-0.01,,,,,0.0
+854,h32patv0,m5ec0d1h,A3AY0315YWWNXY,24,1,6,8.4,1.0,0.99,-9.21,,,,,0.0
+855,h32patv0,f0g1jetq,A44GF72UX2T66,24,2,6,8.5,0.0,0.99,-9.21,,,,,0.0
+856,h32patv0,m5ec0d1h,A3AY0315YWWNXY,24,1,7,8.5,0.0,0.99,-9.21,"If it was not 9 o clock, to always go to get coffee.",1.0,8.5,2.0,0.0
+857,h32patv0,f0g1jetq,A44GF72UX2T66,24,2,7,8.4,1.0,0.99,-9.21,"I got coffee if I arrived before 8:40. Unfortunately, I lost 9:00 because of an incompetent partner.",1.0,8.3,2.0,0.0
+858,h32patv0,7ixl4dsx,AUQ79MANVDU9B,25,1,1,8.2,1.0,0.99,-0.01,,,,,0.0
+859,h32patv0,u44kdxxp,A20VKYV1BCNFFV,25,2,1,8.1,1.0,0.75,-0.29,,,,,0.0
+860,h32patv0,7ixl4dsx,AUQ79MANVDU9B,25,1,2,8.2,1.0,0.99,-0.01,,,,,0.0
+861,h32patv0,u44kdxxp,A20VKYV1BCNFFV,25,2,2,8.1,1.0,0.625,-0.47,,,,,0.0
+862,h32patv0,7ixl4dsx,AUQ79MANVDU9B,25,1,3,8.3,1.0,0.99,-9.21,,,,,0.0
+863,h32patv0,u44kdxxp,A20VKYV1BCNFFV,25,2,3,8.4,0.0,0.875,-4.16,,,,,0.0
+864,h32patv0,7ixl4dsx,AUQ79MANVDU9B,25,1,4,8.2,1.0,0.99,-0.01,,,,,0.0
+865,h32patv0,u44kdxxp,A20VKYV1BCNFFV,25,2,4,8.3,1.0,0.875,-0.13,,,,,0.0
+866,h32patv0,7ixl4dsx,AUQ79MANVDU9B,25,1,5,8.4,1.0,0.99,-0.01,,,,,0.0
+867,h32patv0,u44kdxxp,A20VKYV1BCNFFV,25,2,5,8.5,1.0,0.875,-0.13,,,,,0.0
+868,h32patv0,7ixl4dsx,AUQ79MANVDU9B,25,1,6,8.1,0.0,0.99,-9.21,"I was just trying to predict what my partner would do, but he didn't have to seem to have a strategy to stick to what we did at the beginning for the least amount of losses.",1.0,6.0,2.0,0.0
+869,h32patv0,u44kdxxp,A20VKYV1BCNFFV,25,2,6,8.0,1.0,0.99,-9.21,I tryed to pick the same as my college.,1.0,9.0,3.0,0.0
+870,h32patv0,y0f6ekh8,A3BHRFFG75X3GO,26,1,1,9.0,0.0,0.99,-9.21,,,,,0.0
+871,h32patv0,lto1zdo6,AD21ES5UMD77U,26,2,1,8.5,1.0,0.625,-1.96,,,,,6.08
+872,h32patv0,y0f6ekh8,A3BHRFFG75X3GO,26,1,2,9.0,0.0,0.5,-1.39,"I did not really use any strategy. I just thought about what the other person's time could be, and figured that they would go to the office most of the time.",1.0,9.1,1.0,0.0
+873,h32patv0,lto1zdo6,AD21ES5UMD77U,26,2,2,8.5,1.0,0.625,-1.96,I decided I would go if I had time and hoped my partner would to,1.0,8.5,2.0,6.08
+874,h32patv0,7gl6c1ay,A26I76BUCO0LAO,27,1,1,8.3,1.0,0.99,-9.21,,,,,0.0
+875,h32patv0,uigsnjyo,A15SUPIZ05ZFCD,27,2,1,8.2,0.0,0.875,-4.16,,,,,0.0
+876,h32patv0,7gl6c1ay,A26I76BUCO0LAO,27,1,2,9.0,0.0,0.99,-0.02,,,,,0.0
+877,h32patv0,uigsnjyo,A15SUPIZ05ZFCD,27,2,2,9.1,0.0,0.5,-1.39,,,,,0.0
+878,h32patv0,7gl6c1ay,A26I76BUCO0LAO,27,1,3,8.3,1.0,0.99,-9.21,I used my own arrival time to assume when my partner would most likely arrive and guessed what there action would be based on that assumption.,1.0,6.0,1.0,0.0
+879,h32patv0,uigsnjyo,A15SUPIZ05ZFCD,27,2,3,8.4,0.0,0.99,-9.21,No strategy what so ever.  Complete guessing game.  The penalty nuked all my bonus in three rounds so there wasn't much too think about.,3.0,7.0,3.0,0.0
+880,mnc3l6g1,s1xzhnh3,A352LR682WGZPH,2,1,1,8.1,1.0,0.75,-0.29,,,,,6.64
+881,mnc3l6g1,npmmbab3,A11BSFO4LMHPXQ,2,2,1,8.2,1.0,0.875,-0.13,,,,,0.0
+882,mnc3l6g1,s1xzhnh3,A352LR682WGZPH,2,1,2,8.2,1.0,0.875,-0.13,,,,,6.64
+883,mnc3l6g1,npmmbab3,A11BSFO4LMHPXQ,2,2,2,8.1,1.0,0.99,-0.01,,,,,0.0
+884,mnc3l6g1,s1xzhnh3,A352LR682WGZPH,2,1,3,8.2,1.0,0.875,-0.13,,,,,6.64
+885,mnc3l6g1,npmmbab3,A11BSFO4LMHPXQ,2,2,3,8.3,1.0,0.875,-0.13,,,,,0.0
+886,mnc3l6g1,s1xzhnh3,A352LR682WGZPH,2,1,4,8.3,1.0,0.99,-0.01,,,,,6.64
+887,mnc3l6g1,npmmbab3,A11BSFO4LMHPXQ,2,2,4,8.4,1.0,0.75,-0.29,,,,,0.0
+888,mnc3l6g1,s1xzhnh3,A352LR682WGZPH,2,1,5,8.2,1.0,0.99,-0.01,,,,,6.64
+889,mnc3l6g1,npmmbab3,A11BSFO4LMHPXQ,2,2,5,8.3,1.0,0.99,-0.01,,,,,0.0
+890,mnc3l6g1,s1xzhnh3,A352LR682WGZPH,2,1,6,8.4,1.0,0.99,-0.01,,,,,6.64
+891,mnc3l6g1,npmmbab3,A11BSFO4LMHPXQ,2,2,6,8.5,1.0,0.75,-0.29,,,,,0.0
+892,mnc3l6g1,s1xzhnh3,A352LR682WGZPH,2,1,7,9.0,0.0,0.5,-1.39,,,,,6.64
+893,mnc3l6g1,npmmbab3,A11BSFO4LMHPXQ,2,2,7,9.1,0.0,0.99,-0.02,,,,,0.0
+894,mnc3l6g1,s1xzhnh3,A352LR682WGZPH,2,1,8,8.4,0.0,0.5,-1.39,I tried to go to the canteen whenever I was very much early. I also tried to see if my colleague would arrive before 9am. There was as time period where they were arriving every day later and later so I got more uncertain.,1.0,8.5,3.0,6.64
+895,mnc3l6g1,npmmbab3,A11BSFO4LMHPXQ,2,2,8,8.3,1.0,0.99,-9.21,I tried to go to the canteen every time before 9am.,1.0,8.5,2.0,0.0
+896,mnc3l6g1,7eoyabgy,A2YLWZJ64PI1RQ,4,1,1,8.3,1.0,0.875,-0.13,,,,,8.92
+897,mnc3l6g1,5euefcxl,AW45SZDR1C2VS,4,2,1,8.4,1.0,0.75,-0.29,,,,,8.89
+898,mnc3l6g1,7eoyabgy,A2YLWZJ64PI1RQ,4,1,2,9.0,0.0,0.99,-0.02,,,,,8.92
+899,mnc3l6g1,5euefcxl,AW45SZDR1C2VS,4,2,2,8.5,0.0,0.75,-0.58,,,,,8.89
+900,mnc3l6g1,7eoyabgy,A2YLWZJ64PI1RQ,4,1,3,9.0,0.0,0.99,-0.02,,,,,8.92
+901,mnc3l6g1,5euefcxl,AW45SZDR1C2VS,4,2,3,9.1,0.0,0.99,-0.02,,,,,8.89
+902,mnc3l6g1,7eoyabgy,A2YLWZJ64PI1RQ,4,1,4,8.5,0.0,0.75,-0.58,,,,,8.92
+903,mnc3l6g1,5euefcxl,AW45SZDR1C2VS,4,2,4,9.0,0.0,0.99,-0.02,,,,,8.89
+904,mnc3l6g1,7eoyabgy,A2YLWZJ64PI1RQ,4,1,5,8.1,1.0,0.99,-0.01,,,,,8.92
+905,mnc3l6g1,5euefcxl,AW45SZDR1C2VS,4,2,5,8.2,1.0,0.99,-0.01,,,,,8.89
+906,mnc3l6g1,7eoyabgy,A2YLWZJ64PI1RQ,4,1,6,8.2,1.0,0.99,-0.01,,,,,8.92
+907,mnc3l6g1,5euefcxl,AW45SZDR1C2VS,4,2,6,8.1,1.0,0.99,-0.01,,,,,8.89
+908,mnc3l6g1,7eoyabgy,A2YLWZJ64PI1RQ,4,1,7,8.5,0.0,0.875,-0.27,,,,,8.92
+909,mnc3l6g1,5euefcxl,AW45SZDR1C2VS,4,2,7,9.0,0.0,0.99,-0.02,,,,,8.89
+910,mnc3l6g1,7eoyabgy,A2YLWZJ64PI1RQ,4,1,8,9.0,0.0,0.99,-0.02,,,,,8.92
+911,mnc3l6g1,5euefcxl,AW45SZDR1C2VS,4,2,8,9.1,0.0,0.99,-0.02,,,,,8.89
+912,mnc3l6g1,7eoyabgy,A2YLWZJ64PI1RQ,4,1,9,8.3,1.0,0.99,-0.01,,,,,8.92
+913,mnc3l6g1,5euefcxl,AW45SZDR1C2VS,4,2,9,8.2,1.0,0.99,-0.01,,,,,8.89
+914,mnc3l6g1,7eoyabgy,A2YLWZJ64PI1RQ,4,1,10,8.2,1.0,0.99,-0.01,Just judge the time we arrive & how much time we have before 9:00 am to go to the canteen.,1.0,8.3,,8.92
+915,mnc3l6g1,5euefcxl,AW45SZDR1C2VS,4,2,10,8.3,1.0,0.875,-0.13,"I loved this hit!  I went with my gut and tried to put myself in the shoes of arriving at work with plenty of time before 9:00 am. If ""I"" arrived closer to 8-8:30 then I would have had 10 min to catch up with my co-worker before work. SO I did not head to the canteen after 8:50 and then went straight to the office. I also went with my gut on certainty, if It was after 8:50 then I was pretty certain that my co-worker would head to the office as well so he or she would not be late.",1.0,8.3,,8.89
+916,mnc3l6g1,ix5aldez,AEN7H01OU26XL,5,1,1,8.2,1.0,0.99,-0.01,,,,,0.0
+917,mnc3l6g1,spqi9t3m,A1DBE2OL84TBKB,5,2,1,8.1,1.0,0.99,-0.01,,,,,0.0
+918,mnc3l6g1,ix5aldez,AEN7H01OU26XL,5,1,2,8.1,1.0,0.99,-0.01,,,,,0.0
+919,mnc3l6g1,spqi9t3m,A1DBE2OL84TBKB,5,2,2,8.2,1.0,0.99,-0.01,,,,,0.0
+920,mnc3l6g1,ix5aldez,AEN7H01OU26XL,5,1,3,8.2,1.0,0.875,-0.13,,,,,0.0
+921,mnc3l6g1,spqi9t3m,A1DBE2OL84TBKB,5,2,3,8.1,1.0,0.99,-0.01,,,,,0.0
+922,mnc3l6g1,ix5aldez,AEN7H01OU26XL,5,1,4,8.3,0.0,0.99,-9.21,,,,,0.0
+923,mnc3l6g1,spqi9t3m,A1DBE2OL84TBKB,5,2,4,8.4,1.0,0.875,-4.16,,,,,0.0
+924,mnc3l6g1,ix5aldez,AEN7H01OU26XL,5,1,5,8.4,0.0,0.99,-9.21,if i arrive early to work i go to the canteen,1.0,8.1,1.0,0.0
+925,mnc3l6g1,spqi9t3m,A1DBE2OL84TBKB,5,2,5,8.3,1.0,0.99,-9.21,to try to maximize bonus by being certain of what the other was doing,1.0,8.4,3.0,0.0
+926,mnc3l6g1,7t9pmbit,A29D4ZPOOVI2Y2,6,1,1,9.0,0.0,0.875,-4.16,,,,,2.78
+927,mnc3l6g1,hkip35uu,A1HKCTDOTL6C9I,6,2,1,8.5,1.0,0.99,-9.21,,,,,0.0
+928,mnc3l6g1,7t9pmbit,A29D4ZPOOVI2Y2,6,1,2,8.2,1.0,0.75,-0.29,,,,,2.78
+929,mnc3l6g1,hkip35uu,A1HKCTDOTL6C9I,6,2,2,8.1,1.0,0.99,-0.01,,,,,0.0
+930,mnc3l6g1,7t9pmbit,A29D4ZPOOVI2Y2,6,1,3,8.4,1.0,0.75,-2.77,If I arrived before 9 I assumed we would go to the canteen. I picked somewhat uncertain so I would minimize my losses.,1.0,8.5,2.0,2.78
+931,mnc3l6g1,hkip35uu,A1HKCTDOTL6C9I,6,2,3,8.5,0.0,0.625,-1.96,I tried to go to the canteen if I was reasonably early and tried to guess if my coworker would do the same. The times when I was close to 9 I was uncertain and at the start I went to the canteen but unfortunately was overconfident that my coworker had arrived early and did the same. Later on when I arrived very early I was certain I would choose the canteen and my coworker would also.,1.0,8.3,1.0,0.0
+932,mnc3l6g1,td12ct4i,AA8PZKO9XGCKO,7,1,1,8.5,1.0,0.625,-1.96,,,,,5.63
+933,mnc3l6g1,fo9bwlsn,A38GDX3E9QCM76,7,2,1,9.0,0.0,0.5,-1.39,,,,,0.0
+934,mnc3l6g1,td12ct4i,AA8PZKO9XGCKO,7,1,2,8.2,1.0,0.75,-0.29,,,,,5.63
+935,mnc3l6g1,fo9bwlsn,A38GDX3E9QCM76,7,2,2,8.1,1.0,0.5,-0.69,,,,,0.0
+936,mnc3l6g1,td12ct4i,AA8PZKO9XGCKO,7,1,3,8.3,1.0,0.875,-0.13,,,,,5.63
+937,mnc3l6g1,fo9bwlsn,A38GDX3E9QCM76,7,2,3,8.4,1.0,0.99,-0.01,,,,,0.0
+938,mnc3l6g1,td12ct4i,AA8PZKO9XGCKO,7,1,4,8.1,1.0,0.875,-0.13,,,,,5.63
+939,mnc3l6g1,fo9bwlsn,A38GDX3E9QCM76,7,2,4,8.0,1.0,0.99,-0.01,,,,,0.0
+940,mnc3l6g1,td12ct4i,AA8PZKO9XGCKO,7,1,5,8.4,1.0,0.625,-0.47,,,,,5.63
+941,mnc3l6g1,fo9bwlsn,A38GDX3E9QCM76,7,2,5,8.3,1.0,0.99,-0.01,,,,,0.0
+942,mnc3l6g1,td12ct4i,AA8PZKO9XGCKO,7,1,6,9.0,0.0,0.5,-1.39,I tried to go to the canteen whenever I had the chance as my partner was doing the same and I was reasonably confident that they would.,1.0,8.4,3.0,5.63
+943,mnc3l6g1,fo9bwlsn,A38GDX3E9QCM76,7,2,6,8.5,1.0,0.99,-9.21,Anything 9 am or before I would go to the canteen. Anything after 9am I would go to the office.,1.0,9.0,2.0,0.0
+944,mnc3l6g1,v7kbyjun,A19L8SNH73AX1Z,8,1,1,8.4,1.0,0.875,-0.13,,,,,0.0
+945,mnc3l6g1,4sbf7net,A2R89RXGEVG05I,8,2,1,8.3,1.0,0.75,-0.29,,,,,0.7
+946,mnc3l6g1,v7kbyjun,A19L8SNH73AX1Z,8,1,2,8.5,0.0,0.75,-0.58,,,,,0.0
+947,mnc3l6g1,4sbf7net,A2R89RXGEVG05I,8,2,2,9.0,0.0,0.5,-1.39,,,,,0.7
+948,mnc3l6g1,v7kbyjun,A19L8SNH73AX1Z,8,1,3,8.3,1.0,0.99,-0.01,,,,,0.0
+949,mnc3l6g1,4sbf7net,A2R89RXGEVG05I,8,2,3,8.2,1.0,0.5,-0.69,,,,,0.7
+950,mnc3l6g1,v7kbyjun,A19L8SNH73AX1Z,8,1,4,8.5,0.0,0.875,-4.16,,,,,0.0
+951,mnc3l6g1,4sbf7net,A2R89RXGEVG05I,8,2,4,8.4,1.0,0.5,-1.39,,,,,0.7
+952,mnc3l6g1,v7kbyjun,A19L8SNH73AX1Z,8,1,5,8.3,1.0,0.99,-0.01,,,,,0.0
+953,mnc3l6g1,4sbf7net,A2R89RXGEVG05I,8,2,5,8.2,1.0,0.5,-0.69,,,,,0.7
+954,mnc3l6g1,v7kbyjun,A19L8SNH73AX1Z,8,1,6,8.3,1.0,0.99,-0.01,,,,,0.0
+955,mnc3l6g1,4sbf7net,A2R89RXGEVG05I,8,2,6,8.2,1.0,0.5,-0.69,,,,,0.7
+956,mnc3l6g1,v7kbyjun,A19L8SNH73AX1Z,8,1,7,8.3,1.0,0.99,-0.01,,,,,0.0
+957,mnc3l6g1,4sbf7net,A2R89RXGEVG05I,8,2,7,8.4,1.0,0.5,-0.69,,,,,0.7
+958,mnc3l6g1,v7kbyjun,A19L8SNH73AX1Z,8,1,8,8.5,0.0,0.75,-2.77,,,,,0.0
+959,mnc3l6g1,4sbf7net,A2R89RXGEVG05I,8,2,8,9.0,1.0,0.5,-1.39,,,,,0.7
+960,mnc3l6g1,v7kbyjun,A19L8SNH73AX1Z,8,1,9,8.4,1.0,0.99,-0.01,,,,,0.0
+961,mnc3l6g1,4sbf7net,A2R89RXGEVG05I,8,2,9,8.5,1.0,0.5,-0.69,,,,,0.7
+962,mnc3l6g1,v7kbyjun,A19L8SNH73AX1Z,8,1,10,8.4,1.0,0.99,-9.21,Depending on how much time before 9AM went left is how I determined if we would go to the canteen or the office.,1.0,8.3,3.0,0.0
+963,mnc3l6g1,4sbf7net,A2R89RXGEVG05I,8,2,10,8.5,0.0,0.5,-1.39,I looked at the time at first and thought if I would actually go to the canteen or office and then I tried to think what my colleague would do. I didn't seem to have a strategy that actually worked.,1.0,8.5,1.0,0.7
+964,mnc3l6g1,ithdg692,A26FK3E2DEZ912,9,1,1,8.4,1.0,0.875,-4.16,,,,,-2.0
+965,mnc3l6g1,z9tyc1wy,A32QJF67JMJFKX,9,2,1,8.5,0.0,0.99,-9.21,,,,,-2.0
+966,mnc3l6g1,pb0vkwi7,A2O0G1LJV397BD,10,1,1,8.3,1.0,0.875,-0.13,,,,,1.45
+967,mnc3l6g1,6v6kfv3g,AVDF9O70MW7X8,10,2,1,8.2,1.0,0.875,-0.13,,,,,0.0
+968,mnc3l6g1,pb0vkwi7,A2O0G1LJV397BD,10,1,2,8.1,1.0,0.99,-0.01,,,,,1.45
+969,mnc3l6g1,6v6kfv3g,AVDF9O70MW7X8,10,2,2,8.0,1.0,0.99,-0.01,,,,,0.0
+970,mnc3l6g1,pb0vkwi7,A2O0G1LJV397BD,10,1,3,9.0,0.0,0.99,-0.02,,,,,1.45
+971,mnc3l6g1,6v6kfv3g,AVDF9O70MW7X8,10,2,3,8.5,0.0,0.875,-0.27,,,,,0.0
+972,mnc3l6g1,pb0vkwi7,A2O0G1LJV397BD,10,1,4,9.0,0.0,0.99,-0.02,,,,,1.45
+973,mnc3l6g1,6v6kfv3g,AVDF9O70MW7X8,10,2,4,8.5,0.0,0.99,-0.02,,,,,0.0
+974,mnc3l6g1,pb0vkwi7,A2O0G1LJV397BD,10,1,5,9.0,0.0,0.99,-0.02,,,,,1.45
+975,mnc3l6g1,6v6kfv3g,AVDF9O70MW7X8,10,2,5,8.5,0.0,0.99,-0.02,,,,,0.0
+976,mnc3l6g1,pb0vkwi7,A2O0G1LJV397BD,10,1,6,8.5,0.0,0.99,-0.02,,,,,1.45
+977,mnc3l6g1,6v6kfv3g,AVDF9O70MW7X8,10,2,6,9.0,0.0,0.99,-0.02,,,,,0.0
+978,mnc3l6g1,pb0vkwi7,A2O0G1LJV397BD,10,1,7,8.4,0.0,0.875,-4.16,,,,,1.45
+979,mnc3l6g1,6v6kfv3g,AVDF9O70MW7X8,10,2,7,8.3,1.0,0.99,-9.21,,,,,0.0
+980,mnc3l6g1,pb0vkwi7,A2O0G1LJV397BD,10,1,8,8.1,1.0,0.99,-0.01,,,,,1.45
+981,mnc3l6g1,6v6kfv3g,AVDF9O70MW7X8,10,2,8,8.2,1.0,0.99,-0.01,,,,,0.0
+982,mnc3l6g1,pb0vkwi7,A2O0G1LJV397BD,10,1,9,8.4,1.0,0.875,-4.16,"keeping in mind that we arrived 10 minutes apart, if I was at least 30 min early it was definitely the canteen room",1.0,8.4,3.0,1.45
+983,mnc3l6g1,6v6kfv3g,AVDF9O70MW7X8,10,2,9,8.5,0.0,0.99,-9.21,"If it was 8:30am or earlier, I went to the canteen, if it was after that time, I went to the office.",1.0,8.3,2.0,0.0
+984,mnc3l6g1,sepgzy4g,AAJ1ZQECDZBEE,11,1,1,8.3,1.0,0.99,-0.01,,,,,9.77
+985,mnc3l6g1,ty8up23f,A3CWEN6Y21V7TL,11,2,1,8.4,1.0,0.99,-0.01,,,,,8.52
+986,mnc3l6g1,sepgzy4g,AAJ1ZQECDZBEE,11,1,2,8.1,1.0,0.99,-0.01,,,,,9.77
+987,mnc3l6g1,ty8up23f,A3CWEN6Y21V7TL,11,2,2,8.2,1.0,0.99,-0.01,,,,,8.52
+988,mnc3l6g1,sepgzy4g,AAJ1ZQECDZBEE,11,1,3,9.0,0.0,0.99,-0.02,,,,,9.77
+989,mnc3l6g1,ty8up23f,A3CWEN6Y21V7TL,11,2,3,9.1,0.0,0.5,-1.39,,,,,8.52
+990,mnc3l6g1,sepgzy4g,AAJ1ZQECDZBEE,11,1,4,8.4,1.0,0.99,-0.01,,,,,9.77
+991,mnc3l6g1,ty8up23f,A3CWEN6Y21V7TL,11,2,4,8.3,1.0,0.99,-0.01,,,,,8.52
+992,mnc3l6g1,sepgzy4g,AAJ1ZQECDZBEE,11,1,5,8.5,1.0,0.875,-0.13,,,,,9.77
+993,mnc3l6g1,ty8up23f,A3CWEN6Y21V7TL,11,2,5,8.4,1.0,0.99,-0.01,,,,,8.52
+994,mnc3l6g1,sepgzy4g,AAJ1ZQECDZBEE,11,1,6,8.1,1.0,0.99,-0.01,,,,,9.77
+995,mnc3l6g1,ty8up23f,A3CWEN6Y21V7TL,11,2,6,8.2,1.0,0.99,-0.01,,,,,8.52
+996,mnc3l6g1,sepgzy4g,AAJ1ZQECDZBEE,11,1,7,8.5,1.0,0.99,-0.01,,,,,9.77
+997,mnc3l6g1,ty8up23f,A3CWEN6Y21V7TL,11,2,7,8.4,1.0,0.99,-0.01,,,,,8.52
+998,mnc3l6g1,sepgzy4g,AAJ1ZQECDZBEE,11,1,8,8.3,1.0,0.99,-0.01,,,,,9.77
+999,mnc3l6g1,ty8up23f,A3CWEN6Y21V7TL,11,2,8,8.4,1.0,0.99,-0.01,,,,,8.52
+1000,mnc3l6g1,sepgzy4g,AAJ1ZQECDZBEE,11,1,9,8.2,1.0,0.99,-0.01,,,,,9.77
+1001,mnc3l6g1,ty8up23f,A3CWEN6Y21V7TL,11,2,9,8.3,1.0,0.99,-0.01,,,,,8.52
+1002,mnc3l6g1,sepgzy4g,AAJ1ZQECDZBEE,11,1,10,8.4,1.0,0.99,-0.01,I concerned myself with how much time it would take me to go to the canteen and then get to my desk in the office. I hoped that my co-worker was doing the same thing especially since I was not sure what time they arrived.,1.0,8.3,,9.77
+1003,mnc3l6g1,ty8up23f,A3CWEN6Y21V7TL,11,2,10,8.3,1.0,0.99,-0.01,I tried to put myself in my colleague's shoes and then choose as I thought they would.,1.0,8.3,,8.52
+1004,mnc3l6g1,90isdq8d,AYIFDKD8FZIZ9,13,1,1,8.2,1.0,0.99,-0.01,,,,,0.0
+1005,mnc3l6g1,q39bnave,ALQNVZVHUYFIQ,13,2,1,8.1,1.0,0.99,-0.01,,,,,0.0
+1006,mnc3l6g1,90isdq8d,AYIFDKD8FZIZ9,13,1,2,8.2,1.0,0.99,-0.01,,,,,0.0
+1007,mnc3l6g1,q39bnave,ALQNVZVHUYFIQ,13,2,2,8.3,1.0,0.99,-0.01,,,,,0.0
+1008,mnc3l6g1,90isdq8d,AYIFDKD8FZIZ9,13,1,3,8.2,1.0,0.99,-0.01,,,,,0.0
+1009,mnc3l6g1,q39bnave,ALQNVZVHUYFIQ,13,2,3,8.1,1.0,0.99,-0.01,,,,,0.0
+1010,mnc3l6g1,90isdq8d,AYIFDKD8FZIZ9,13,1,4,8.2,1.0,0.99,-0.01,,,,,0.0
+1011,mnc3l6g1,q39bnave,ALQNVZVHUYFIQ,13,2,4,8.3,1.0,0.99,-0.01,,,,,0.0
+1012,mnc3l6g1,90isdq8d,AYIFDKD8FZIZ9,13,1,5,8.5,0.0,0.99,-9.21,,,,,0.0
+1013,mnc3l6g1,q39bnave,ALQNVZVHUYFIQ,13,2,5,8.4,1.0,0.99,-9.21,,,,,0.0
+1014,mnc3l6g1,90isdq8d,AYIFDKD8FZIZ9,13,1,6,8.1,1.0,0.99,-0.01,,,,,0.0
+1015,mnc3l6g1,q39bnave,ALQNVZVHUYFIQ,13,2,6,8.2,1.0,0.99,-0.01,,,,,0.0
+1016,mnc3l6g1,90isdq8d,AYIFDKD8FZIZ9,13,1,7,8.2,1.0,0.99,-0.01,,,,,0.0
+1017,mnc3l6g1,q39bnave,ALQNVZVHUYFIQ,13,2,7,8.1,1.0,0.99,-0.01,,,,,0.0
+1018,mnc3l6g1,90isdq8d,AYIFDKD8FZIZ9,13,1,8,8.4,1.0,0.99,-9.21,"I remembered that my colleague must arrive 10 minutes after or before my time. I knew that if I had a time of 8:50, there is a chance that my partner goes to the canteen and I go to the office. I forgot that if we both do different things, I lose money. So I screwed that up. But basically, If my time is 8:30 or less, he would definitely go to the canteen.",1.0,8.5,1.0,0.0
+1019,mnc3l6g1,q39bnave,ALQNVZVHUYFIQ,13,2,8,8.5,0.0,0.99,-9.21,"I tried to assume that my partner was 10 minutes ahead of me and if it was 9 then chose the office, however I forgot that my partner also wouldn't know if I was 10 ahead or behind so within 2 rounds lost all my bonus based on certainty penalties.",1.0,8.3,1.0,0.0
+1020,mnc3l6g1,qy44ssem,A3388HIWAKD3DV,14,1,1,8.3,1.0,0.99,-0.01,,,,,0.0
+1021,mnc3l6g1,pf1cduw3,A1G331HUXOSJAM,14,2,1,8.4,1.0,0.75,-0.29,,,,,2.77
+1022,mnc3l6g1,qy44ssem,A3388HIWAKD3DV,14,1,2,8.3,1.0,0.99,-0.01,,,,,0.0
+1023,mnc3l6g1,pf1cduw3,A1G331HUXOSJAM,14,2,2,8.4,1.0,0.99,-0.01,,,,,2.77
+1024,mnc3l6g1,qy44ssem,A3388HIWAKD3DV,14,1,3,9.0,0.0,0.99,-9.21,,,,,0.0
+1025,mnc3l6g1,pf1cduw3,A1G331HUXOSJAM,14,2,3,8.5,1.0,0.75,-2.77,,,,,2.77
+1026,mnc3l6g1,qy44ssem,A3388HIWAKD3DV,14,1,4,8.5,0.0,0.5,-1.39,"No strategy, just guessing.",1.0,6.0,2.0,0.0
+1027,mnc3l6g1,pf1cduw3,A1G331HUXOSJAM,14,2,4,8.4,1.0,0.875,-4.16,I tried to think based off the time information I had. So if I arrived by 8:40 chances were there was enough time to go to canteen. That did backfire once when the arrival was 8:50.,1.0,8.4,2.0,2.77
+1028,mnc3l6g1,2bvvlx4i,A3VF5Y2MXKJPEA,15,1,1,8.1,1.0,0.625,-0.47,,,,,3.99
+1029,mnc3l6g1,pex4y5ow,AZVJA0TUHIUJK,15,2,1,8.0,1.0,0.99,-0.01,,,,,0.0
+1030,mnc3l6g1,2bvvlx4i,A3VF5Y2MXKJPEA,15,1,2,8.1,0.0,0.75,-2.77,,,,,3.99
+1031,mnc3l6g1,pex4y5ow,AZVJA0TUHIUJK,15,2,2,8.2,1.0,0.99,-9.21,,,,,0.0
+1032,mnc3l6g1,2bvvlx4i,A3VF5Y2MXKJPEA,15,1,3,8.5,1.0,0.75,-2.77,Tried to think what they would do.,2.0,8.0,2.0,3.99
+1033,mnc3l6g1,pex4y5ow,AZVJA0TUHIUJK,15,2,3,8.4,0.0,0.875,-4.16,My strategy was to hope that my partner was not brain dead.  It was not a very effective strategy,1.0,8.5,2.0,0.0
+1034,mnc3l6g1,io7d9xal,A1AFYCDF0XTXC9,16,1,1,8.1,1.0,0.99,-0.01,,,,,9.29
+1035,mnc3l6g1,rmot8ch7,A2KVYRNL2CK95F,16,2,1,8.0,1.0,0.99,-0.01,,,,,8.92
+1036,mnc3l6g1,io7d9xal,A1AFYCDF0XTXC9,16,1,2,8.4,0.0,0.75,-0.58,,,,,9.29
+1037,mnc3l6g1,rmot8ch7,A2KVYRNL2CK95F,16,2,2,8.5,0.0,0.75,-0.58,,,,,8.92
+1038,mnc3l6g1,io7d9xal,A1AFYCDF0XTXC9,16,1,3,8.3,1.0,0.99,-0.01,,,,,9.29
+1039,mnc3l6g1,rmot8ch7,A2KVYRNL2CK95F,16,2,3,8.2,1.0,0.99,-0.01,,,,,8.92
+1040,mnc3l6g1,io7d9xal,A1AFYCDF0XTXC9,16,1,4,8.4,0.0,0.99,-0.02,,,,,9.29
+1041,mnc3l6g1,rmot8ch7,A2KVYRNL2CK95F,16,2,4,8.5,0.0,0.875,-0.27,,,,,8.92
+1042,mnc3l6g1,io7d9xal,A1AFYCDF0XTXC9,16,1,5,8.3,1.0,0.99,-0.01,,,,,9.29
+1043,mnc3l6g1,rmot8ch7,A2KVYRNL2CK95F,16,2,5,8.4,1.0,0.875,-0.13,,,,,8.92
+1044,mnc3l6g1,io7d9xal,A1AFYCDF0XTXC9,16,1,6,8.1,1.0,0.99,-0.01,,,,,9.29
+1045,mnc3l6g1,rmot8ch7,A2KVYRNL2CK95F,16,2,6,8.2,1.0,0.99,-0.01,,,,,8.92
+1046,mnc3l6g1,io7d9xal,A1AFYCDF0XTXC9,16,1,7,8.1,1.0,0.99,-0.01,,,,,9.29
+1047,mnc3l6g1,rmot8ch7,A2KVYRNL2CK95F,16,2,7,8.0,1.0,0.99,-0.01,,,,,8.92
+1048,mnc3l6g1,io7d9xal,A1AFYCDF0XTXC9,16,1,8,9.0,0.0,0.99,-0.02,,,,,9.29
+1049,mnc3l6g1,rmot8ch7,A2KVYRNL2CK95F,16,2,8,9.1,0.0,0.99,-0.02,,,,,8.92
+1050,mnc3l6g1,io7d9xal,A1AFYCDF0XTXC9,16,1,9,9.0,0.0,0.99,-0.02,,,,,9.29
+1051,mnc3l6g1,rmot8ch7,A2KVYRNL2CK95F,16,2,9,9.1,0.0,0.99,-0.02,,,,,8.92
+1052,mnc3l6g1,io7d9xal,A1AFYCDF0XTXC9,16,1,10,8.5,0.0,0.99,-0.02,watching time i arrive at work,1.0,8.1,,9.29
+1053,mnc3l6g1,rmot8ch7,A2KVYRNL2CK95F,16,2,10,9.0,0.0,0.99,-0.02,"Knowing the time we had to choose office, it was simple knowing when to choose canteen",1.0,8.4,,8.92
+1054,mnc3l6g1,sgb671zc,A2ZJAEL03VTZ8,17,1,1,8.1,1.0,0.99,-0.01,,,,,1.79
+1055,mnc3l6g1,tbgyhfxs,A1AF25FCVKC87X,17,2,1,8.0,1.0,0.99,-0.01,,,,,0.0
+1056,mnc3l6g1,sgb671zc,A2ZJAEL03VTZ8,17,1,2,8.5,0.0,0.75,-0.58,,,,,1.79
+1057,mnc3l6g1,tbgyhfxs,A1AF25FCVKC87X,17,2,2,9.0,0.0,0.99,-0.02,,,,,0.0
+1058,mnc3l6g1,sgb671zc,A2ZJAEL03VTZ8,17,1,3,9.0,0.0,0.875,-0.27,,,,,1.79
+1059,mnc3l6g1,tbgyhfxs,A1AF25FCVKC87X,17,2,3,9.1,0.0,0.99,-0.02,,,,,0.0
+1060,mnc3l6g1,sgb671zc,A2ZJAEL03VTZ8,17,1,4,8.3,1.0,0.875,-4.16,,,,,1.79
+1061,mnc3l6g1,tbgyhfxs,A1AF25FCVKC87X,17,2,4,8.4,0.0,0.875,-4.16,,,,,0.0
+1062,mnc3l6g1,sgb671zc,A2ZJAEL03VTZ8,17,1,5,8.3,1.0,0.75,-0.29,,,,,1.79
+1063,mnc3l6g1,tbgyhfxs,A1AF25FCVKC87X,17,2,5,8.2,1.0,0.99,-0.01,,,,,0.0
+1064,mnc3l6g1,sgb671zc,A2ZJAEL03VTZ8,17,1,6,8.3,1.0,0.875,-0.13,,,,,1.79
+1065,mnc3l6g1,tbgyhfxs,A1AF25FCVKC87X,17,2,6,8.2,1.0,0.99,-0.01,,,,,0.0
+1066,mnc3l6g1,sgb671zc,A2ZJAEL03VTZ8,17,1,7,8.4,1.0,0.75,-2.77,trying to figure out what the other would do in that time frame they would be in.,1.0,8.4,2.0,1.79
+1067,mnc3l6g1,tbgyhfxs,A1AF25FCVKC87X,17,2,7,8.5,0.0,0.99,-9.21,I made my choices based on my arrival time,1.0,8.3,3.0,0.0
+1068,mnc3l6g1,yjfo2sxz,A26M997VYVK0E6,18,1,1,8.4,1.0,0.99,-0.01,,,,,0.7
+1069,mnc3l6g1,4vj1ck3p,A2FLOH4DM8A4ZS,18,2,1,8.3,1.0,0.99,-0.01,,,,,0.7
+1070,mnc3l6g1,yjfo2sxz,A26M997VYVK0E6,18,1,2,8.1,1.0,0.99,-0.01,,,,,0.7
+1071,mnc3l6g1,4vj1ck3p,A2FLOH4DM8A4ZS,18,2,2,8.2,1.0,0.99,-0.01,,,,,0.7
+1072,mnc3l6g1,yjfo2sxz,A26M997VYVK0E6,18,1,3,8.2,1.0,0.99,-0.01,,,,,0.7
+1073,mnc3l6g1,4vj1ck3p,A2FLOH4DM8A4ZS,18,2,3,8.3,1.0,0.99,-0.01,,,,,0.7
+1074,mnc3l6g1,yjfo2sxz,A26M997VYVK0E6,18,1,4,8.2,1.0,0.99,-0.01,,,,,0.7
+1075,mnc3l6g1,4vj1ck3p,A2FLOH4DM8A4ZS,18,2,4,8.1,1.0,0.99,-0.01,,,,,0.7
+1076,mnc3l6g1,yjfo2sxz,A26M997VYVK0E6,18,1,5,8.5,1.0,0.99,-9.21,,,,,0.7
+1077,mnc3l6g1,4vj1ck3p,A2FLOH4DM8A4ZS,18,2,5,9.0,0.0,0.99,-9.21,,,,,0.7
+1078,mnc3l6g1,yjfo2sxz,A26M997VYVK0E6,18,1,6,8.2,1.0,0.99,-0.01,,,,,0.7
+1079,mnc3l6g1,4vj1ck3p,A2FLOH4DM8A4ZS,18,2,6,8.1,1.0,0.99,-0.01,,,,,0.7
+1080,mnc3l6g1,yjfo2sxz,A26M997VYVK0E6,18,1,7,8.2,1.0,0.99,-0.01,,,,,0.7
+1081,mnc3l6g1,4vj1ck3p,A2FLOH4DM8A4ZS,18,2,7,8.3,1.0,0.99,-0.01,,,,,0.7
+1082,mnc3l6g1,yjfo2sxz,A26M997VYVK0E6,18,1,8,8.3,1.0,0.99,-0.01,,,,,0.7
+1083,mnc3l6g1,4vj1ck3p,A2FLOH4DM8A4ZS,18,2,8,8.2,1.0,0.99,-0.01,,,,,0.7
+1084,mnc3l6g1,yjfo2sxz,A26M997VYVK0E6,18,1,9,8.1,1.0,0.99,-0.01,,,,,0.7
+1085,mnc3l6g1,4vj1ck3p,A2FLOH4DM8A4ZS,18,2,9,8.2,1.0,0.99,-0.01,,,,,0.7
+1086,mnc3l6g1,yjfo2sxz,A26M997VYVK0E6,18,1,10,8.1,1.0,0.99,-0.01,I followed the rules and if I arrived before 9 I made sure to go to the canteen hoping the other partner would do the same.,1.0,8.5,,0.7
+1087,mnc3l6g1,4vj1ck3p,A2FLOH4DM8A4ZS,18,2,10,8.2,1.0,0.99,-0.01,,1.0,8.3,,0.7
+1088,mnc3l6g1,ug7j6wz5,A3C5G8LGIAW0XL,19,1,1,8.2,1.0,0.99,-0.01,,,,,0.0
+1089,mnc3l6g1,66ukxmm5,A2CSENNI43N272,19,2,1,8.3,1.0,0.99,-0.01,,,,,0.0
+1090,mnc3l6g1,ug7j6wz5,A3C5G8LGIAW0XL,19,1,2,8.2,1.0,0.99,-0.01,,,,,0.0
+1091,mnc3l6g1,66ukxmm5,A2CSENNI43N272,19,2,2,8.3,1.0,0.99,-0.01,,,,,0.0
+1092,mnc3l6g1,ug7j6wz5,A3C5G8LGIAW0XL,19,1,3,8.2,1.0,0.99,-0.01,,,,,0.0
+1093,mnc3l6g1,66ukxmm5,A2CSENNI43N272,19,2,3,8.1,1.0,0.99,-0.01,,,,,0.0
+1094,mnc3l6g1,ug7j6wz5,A3C5G8LGIAW0XL,19,1,4,8.4,1.0,0.75,-0.29,,,,,0.0
+1095,mnc3l6g1,66ukxmm5,A2CSENNI43N272,19,2,4,8.3,1.0,0.99,-0.01,,,,,0.0
+1096,mnc3l6g1,ug7j6wz5,A3C5G8LGIAW0XL,19,1,5,8.5,0.0,0.99,-9.21,,,,,0.0
+1097,mnc3l6g1,66ukxmm5,A2CSENNI43N272,19,2,5,8.4,1.0,0.99,-9.21,,,,,0.0
+1098,mnc3l6g1,ug7j6wz5,A3C5G8LGIAW0XL,19,1,6,8.5,0.0,0.75,-2.77,Time estimate.,1.0,8.2,2.0,0.0
+1099,mnc3l6g1,66ukxmm5,A2CSENNI43N272,19,2,6,8.4,1.0,0.875,-4.16,I always thought I had time for the canteen,1.0,8.4,2.0,0.0
+1100,mnc3l6g1,1f1yz0sv,A1299WL9DI3TEF,20,1,1,8.3,1.0,0.99,-0.01,,,,,0.0
+1101,mnc3l6g1,gw1y5fkn,A1GQBMKG5J6MX4,20,2,1,8.4,1.0,0.625,-0.47,,,,,5.61
+1102,mnc3l6g1,1f1yz0sv,A1299WL9DI3TEF,20,1,2,8.4,1.0,0.875,-4.16,,,,,0.0
+1103,mnc3l6g1,gw1y5fkn,A1GQBMKG5J6MX4,20,2,2,8.5,0.0,0.625,-1.96,,,,,5.61
+1104,mnc3l6g1,1f1yz0sv,A1299WL9DI3TEF,20,1,3,8.4,1.0,0.99,-9.21,Tried to anticipate their guesses.,1.0,8.3,3.0,0.0
+1105,mnc3l6g1,gw1y5fkn,A1GQBMKG5J6MX4,20,2,3,8.3,0.0,0.625,-1.96,nice experience,3.0,8.1,3.0,5.61
+1106,mnc3l6g1,1mqdqkvs,A21H2UDDHN8ZF,21,1,1,8.1,1.0,0.99,-0.01,,,,,0.13
+1107,mnc3l6g1,b62ak2ol,A37JW9XJ3Y9BKO,21,2,1,8.0,1.0,0.99,-0.01,,,,,0.01
+1108,mnc3l6g1,1mqdqkvs,A21H2UDDHN8ZF,21,1,2,8.3,1.0,0.99,-0.01,,,,,0.13
+1109,mnc3l6g1,b62ak2ol,A37JW9XJ3Y9BKO,21,2,2,8.4,1.0,0.875,-0.13,,,,,0.01
+1110,mnc3l6g1,1mqdqkvs,A21H2UDDHN8ZF,21,1,3,8.2,1.0,0.99,-0.01,,,,,0.13
+1111,mnc3l6g1,b62ak2ol,A37JW9XJ3Y9BKO,21,2,3,8.1,1.0,0.99,-0.01,,,,,0.01
+1112,mnc3l6g1,1mqdqkvs,A21H2UDDHN8ZF,21,1,4,8.2,1.0,0.99,-0.01,,,,,0.13
+1113,mnc3l6g1,b62ak2ol,A37JW9XJ3Y9BKO,21,2,4,8.3,1.0,0.99,-0.01,,,,,0.01
+1114,mnc3l6g1,1mqdqkvs,A21H2UDDHN8ZF,21,1,5,8.3,1.0,0.99,-0.01,,,,,0.13
+1115,mnc3l6g1,b62ak2ol,A37JW9XJ3Y9BKO,21,2,5,8.4,1.0,0.99,-0.01,,,,,0.01
+1116,mnc3l6g1,1mqdqkvs,A21H2UDDHN8ZF,21,1,6,8.1,1.0,0.99,-0.01,,,,,0.13
+1117,mnc3l6g1,b62ak2ol,A37JW9XJ3Y9BKO,21,2,6,8.0,1.0,0.99,-0.01,,,,,0.01
+1118,mnc3l6g1,1mqdqkvs,A21H2UDDHN8ZF,21,1,7,8.5,0.0,0.75,-0.58,,,,,0.13
+1119,mnc3l6g1,b62ak2ol,A37JW9XJ3Y9BKO,21,2,7,9.0,0.0,0.75,-0.58,,,,,0.01
+1120,mnc3l6g1,1mqdqkvs,A21H2UDDHN8ZF,21,1,8,8.5,1.0,0.99,-0.01,,,,,0.13
+1121,mnc3l6g1,b62ak2ol,A37JW9XJ3Y9BKO,21,2,8,8.4,1.0,0.99,-0.01,,,,,0.01
+1122,mnc3l6g1,1mqdqkvs,A21H2UDDHN8ZF,21,1,9,9.0,0.0,0.99,-9.21,,,,,0.13
+1123,mnc3l6g1,b62ak2ol,A37JW9XJ3Y9BKO,21,2,9,8.5,1.0,0.99,-9.21,,,,,0.01
+1124,mnc3l6g1,1mqdqkvs,A21H2UDDHN8ZF,21,1,10,8.2,1.0,0.99,-0.01,I was basing off of how the other player was playing as well as the time. We were on point til round 9.,1.0,9.0,,0.13
+1125,mnc3l6g1,b62ak2ol,A37JW9XJ3Y9BKO,21,2,10,8.3,1.0,0.99,-0.01,"I thought my partner would go to the canteen unless the time was 9, as instructed. He or she or it didn't do so 100%.",1.0,9.0,,0.01
+1126,mnc3l6g1,nubsokbw,A2YE7NBCK14VAQ,22,1,1,8.4,1.0,0.99,-9.21,,,,,0.0
+1127,mnc3l6g1,n8ee0dqk,A3QRVBQU6GXY0D,22,2,1,8.5,0.0,0.99,-9.21,,,,,0.5
+1128,mnc3l6g1,nubsokbw,A2YE7NBCK14VAQ,22,1,2,9.0,0.0,0.75,-0.58,,,,,0.0
+1129,mnc3l6g1,n8ee0dqk,A3QRVBQU6GXY0D,22,2,2,9.1,0.0,0.99,-0.02,,,,,0.5
+1130,mnc3l6g1,nubsokbw,A2YE7NBCK14VAQ,22,1,3,9.0,0.0,0.5,-1.39,i had thought we would both go to the canteen and basically lost all my money on round 1 i tried to stay above 0 the rest of the game and failed,1.0,8.4,2.0,0.0
+1131,mnc3l6g1,n8ee0dqk,A3QRVBQU6GXY0D,22,2,3,9.1,0.0,0.875,-0.27,follow an idea,1.0,8.5,3.0,0.5
+1132,mnc3l6g1,t3t9kgbb,A10E5MI9D5XEUQ,23,1,1,8.2,1.0,0.99,-0.01,,,,,4.25
+1133,mnc3l6g1,ftc57sli,A23A1WMFNPETYQ,23,2,1,8.1,1.0,0.99,-0.01,,,,,0.12
+1134,mnc3l6g1,t3t9kgbb,A10E5MI9D5XEUQ,23,1,2,8.2,1.0,0.99,-0.01,,,,,4.25
+1135,mnc3l6g1,ftc57sli,A23A1WMFNPETYQ,23,2,2,8.3,1.0,0.99,-0.01,,,,,0.12
+1136,mnc3l6g1,t3t9kgbb,A10E5MI9D5XEUQ,23,1,3,9.0,0.0,0.875,-4.16,,,,,4.25
+1137,mnc3l6g1,ftc57sli,A23A1WMFNPETYQ,23,2,3,8.5,1.0,0.99,-9.21,,,,,0.12
+1138,mnc3l6g1,t3t9kgbb,A10E5MI9D5XEUQ,23,1,4,8.1,1.0,0.99,-0.01,,,,,4.25
+1139,mnc3l6g1,ftc57sli,A23A1WMFNPETYQ,23,2,4,8.0,1.0,0.99,-0.01,,,,,0.12
+1140,mnc3l6g1,t3t9kgbb,A10E5MI9D5XEUQ,23,1,5,8.1,1.0,0.99,-0.01,,,,,4.25
+1141,mnc3l6g1,ftc57sli,A23A1WMFNPETYQ,23,2,5,8.0,1.0,0.99,-0.01,,,,,0.12
+1142,mnc3l6g1,t3t9kgbb,A10E5MI9D5XEUQ,23,1,6,8.3,1.0,0.99,-0.01,,,,,4.25
+1143,mnc3l6g1,ftc57sli,A23A1WMFNPETYQ,23,2,6,8.4,1.0,0.99,-0.01,,,,,0.12
+1144,mnc3l6g1,t3t9kgbb,A10E5MI9D5XEUQ,23,1,7,8.3,1.0,0.99,-0.01,,,,,4.25
+1145,mnc3l6g1,ftc57sli,A23A1WMFNPETYQ,23,2,7,8.4,1.0,0.99,-0.01,,,,,0.12
+1146,mnc3l6g1,t3t9kgbb,A10E5MI9D5XEUQ,23,1,8,9.0,0.0,0.625,-0.94,,,,,4.25
+1147,mnc3l6g1,ftc57sli,A23A1WMFNPETYQ,23,2,8,8.5,0.0,0.75,-0.58,,,,,0.12
+1148,mnc3l6g1,t3t9kgbb,A10E5MI9D5XEUQ,23,1,9,8.1,1.0,0.99,-0.01,,,,,4.25
+1149,mnc3l6g1,ftc57sli,A23A1WMFNPETYQ,23,2,9,8.2,1.0,0.99,-0.01,,,,,0.12
+1150,mnc3l6g1,t3t9kgbb,A10E5MI9D5XEUQ,23,1,10,9.0,0.0,0.75,-0.58,"Assumed the worst possible scenario (if my time was 8:30, I would assume my partner came at 8:40 and assumed I would arrive at 8:50) and if that was lower than 9:00 then I would go to the canteen and be very certain. If I arrived at 9:00 then I would go to the office and hope my partner would too.",1.0,8.3,,4.25
+1151,mnc3l6g1,ftc57sli,A23A1WMFNPETYQ,23,2,10,8.5,0.0,0.99,-0.02,"Just looking at the times, and which ones were more likely to have me in the office vs canteen. I'm kicking myself for messing tht one up.",1.0,8.4,,0.12
+1152,mnc3l6g1,7c8thfp6,AY5OS6NZWVX22,25,1,1,8.4,1.0,0.625,-0.47,,,,,0.0
+1153,mnc3l6g1,5g8tyv0q,A14E0Y5HPALKZN,25,2,1,8.3,1.0,0.99,-0.01,,,,,0.0
+1154,mnc3l6g1,7c8thfp6,AY5OS6NZWVX22,25,1,2,9.0,0.0,0.99,-0.02,,,,,0.0
+1155,mnc3l6g1,5g8tyv0q,A14E0Y5HPALKZN,25,2,2,8.5,0.0,0.625,-0.94,,,,,0.0
+1156,mnc3l6g1,7c8thfp6,AY5OS6NZWVX22,25,1,3,8.2,1.0,0.5,-0.69,,,,,0.0
+1157,mnc3l6g1,5g8tyv0q,A14E0Y5HPALKZN,25,2,3,8.1,1.0,0.99,-0.01,,,,,0.0
+1158,mnc3l6g1,7c8thfp6,AY5OS6NZWVX22,25,1,4,8.5,0.0,0.99,-0.02,,,,,0.0
+1159,mnc3l6g1,5g8tyv0q,A14E0Y5HPALKZN,25,2,4,9.0,0.0,0.99,-0.02,,,,,0.0
+1160,mnc3l6g1,7c8thfp6,AY5OS6NZWVX22,25,1,5,8.2,1.0,0.99,-0.01,,,,,0.0
+1161,mnc3l6g1,5g8tyv0q,A14E0Y5HPALKZN,25,2,5,8.3,1.0,0.99,-0.01,,,,,0.0
+1162,mnc3l6g1,7c8thfp6,AY5OS6NZWVX22,25,1,6,8.1,1.0,0.99,-0.01,,,,,0.0
+1163,mnc3l6g1,5g8tyv0q,A14E0Y5HPALKZN,25,2,6,8.2,1.0,0.99,-0.01,,,,,0.0
+1164,mnc3l6g1,7c8thfp6,AY5OS6NZWVX22,25,1,7,8.5,0.0,0.99,-0.02,,,,,0.0
+1165,mnc3l6g1,5g8tyv0q,A14E0Y5HPALKZN,25,2,7,9.0,0.0,0.99,-0.02,,,,,0.0
+1166,mnc3l6g1,7c8thfp6,AY5OS6NZWVX22,25,1,8,9.0,0.0,0.99,-9.21,I guessed based on how much time i had.,1.0,8.4,1.0,0.0
+1167,mnc3l6g1,5g8tyv0q,A14E0Y5HPALKZN,25,2,8,8.5,1.0,0.99,-9.21,Just judged where to go by the time.,1.0,8.3,1.0,0.0
+1168,mnc3l6g1,2kdwasnv,A3N0QZ9ZKUCTCQ,27,1,1,9.0,0.0,0.625,-1.96,,,,,3.31
+1169,mnc3l6g1,u1gou8wx,A1LWWVCY9FPIAW,27,2,1,8.5,1.0,0.875,-4.16,,,,,0.0
+1170,mnc3l6g1,2kdwasnv,A3N0QZ9ZKUCTCQ,27,1,2,9.0,0.0,0.625,-1.96,,,,,3.31
+1171,mnc3l6g1,u1gou8wx,A1LWWVCY9FPIAW,27,2,2,8.5,1.0,0.625,-1.96,,,,,0.0
+1172,mnc3l6g1,2kdwasnv,A3N0QZ9ZKUCTCQ,27,1,3,8.1,0.0,0.75,-2.77,My strategy was to decide on an option while staying true to that option in order to retain my bonus amount. I based my degree of certainty on how likely a certain choice was likely to occur and stick with that choice until the end.,3.0,6.0,3.0,3.31
+1173,mnc3l6g1,u1gou8wx,A1LWWVCY9FPIAW,27,2,3,8.0,1.0,0.99,-9.21,I'm not sure. This is kind of unforgiving.,3.0,8.5,1.0,0.0
+1174,mnc3l6g1,3p7y30a1,AOTF48KUV9KWM,28,1,1,8.5,0.0,0.875,-0.27,,,,,0.0
+1175,mnc3l6g1,g92q2a09,A3GK90X2QOFR53,28,2,1,9.0,0.0,0.75,-0.58,,,,,0.0
+1176,mnc3l6g1,3p7y30a1,AOTF48KUV9KWM,28,1,2,9.0,0.0,0.99,-9.21,,,,,0.0
+1177,mnc3l6g1,g92q2a09,A3GK90X2QOFR53,28,2,2,8.5,1.0,0.625,-1.96,,,,,0.0
+1178,mnc3l6g1,3p7y30a1,AOTF48KUV9KWM,28,1,3,8.5,0.0,0.875,-0.27,,,,,0.0
+1179,mnc3l6g1,g92q2a09,A3GK90X2QOFR53,28,2,3,9.0,0.0,0.99,-0.02,,,,,0.0
+1180,mnc3l6g1,3p7y30a1,AOTF48KUV9KWM,28,1,4,8.2,1.0,0.99,-9.21,"If it was close to 9:00,  I went to the office and assumed my partner would do the same since that would make sense. I don't really think my partner behaved logically.",1.0,8.4,2.0,0.0
+1181,mnc3l6g1,g92q2a09,A3GK90X2QOFR53,28,2,4,8.1,0.0,0.99,-9.21,I tried to regulate based on previous decisions,3.0,8.3,2.0,0.0

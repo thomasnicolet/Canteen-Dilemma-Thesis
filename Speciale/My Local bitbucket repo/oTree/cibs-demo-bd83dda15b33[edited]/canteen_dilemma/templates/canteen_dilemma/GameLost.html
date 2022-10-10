@@ -1,0 +1,44 @@
+{% extends "global/Base.html" %}
+{% load staticfiles otree %}
+
+{% block title %}
+    Results
+{% endblock %}
+
+{% block content %}
+
+    <table class="table">
+        <thead>
+            <td>Round</td>
+            <td>You went to the</td>
+            <td>at</td>
+            <td>Your colleague went to the</td>
+            <td>at</td>
+            <td>You both got</td>
+        </thead>
+        <tbody>
+            {% for p in player_in_all_rounds %}
+            <tr>
+                <td>{{ p.round_number }}</td>
+                <td>{{ p.choice }}</td>
+                <td>{{ p.arrival_time|floatformat:"2" }}</td>
+                <td>{{ p.get_partner.choice }}</td>
+                <td>{{ p.get_partner.arrival_time|floatformat:"2" }}</td>
+                <td>{{ p.payoff }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <p>
+    {% if too_late == True and player.choice == 'Canteen' %}
+        It was too late to go to the canteen!
+    {% else %}
+        You went to the {{ player.choice|lower }} while your colleague did not.
+    {% endif %}
+    </p>
+    <p>You both lost all your bonuses.</p>
+    <p>Thank you for your participation.</p>
+
+    {% next_button %}
+{% endblock %}

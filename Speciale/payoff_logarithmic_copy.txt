@@ -1,0 +1,21 @@
+  # # end the game if someone goes to the wrong place at the wrong time
+        # if (p1.choice is True and p1.arrival_time >= 9.0) or \
+        #    (p2.choice is True and p2.arrival_time >= 9.0):
+        #     p1.payoff = -10
+        #     p2.payoff = -10
+        #     self.set_game_lost()
+        # elif (p1.choice is False and p1.arrival_time < 9.0) or \
+        #      (p2.choice is False and p2.arrival_time < 9.0):
+        #     p1.payoff = -10
+        #     p2.payoff = -10
+        #     self.set_game_lost()
+        #
+        # # If they agree (x=1) we get S=ln(p)
+        # elif p1.choice == p2.choice:
+        #     p1.payoff = math.log(p1.certainty)
+        #     p2.payoff = math.log(p2.certainty)
+        #
+        # # if they disagree (x=0) we get S= ln(1-p)
+        # else:
+        #     p1.payoff = math.log(1 - p1.certainty)
+        #     p2.payoff = math.log(1 - p2.certainty)

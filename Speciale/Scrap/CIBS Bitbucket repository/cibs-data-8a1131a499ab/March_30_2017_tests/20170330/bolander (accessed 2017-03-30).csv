@@ -1,0 +1,121 @@
+participant.id_in_session,participant.code,participant.label,participant._is_bot,participant._index_in_pages,participant._max_page_index,participant._current_app_name,participant._round_number,participant._current_page_name,participant.ip_address,participant.time_started,participant.exclude_from_data_analysis,participant.visited,participant.mturk_worker_id,participant.mturk_assignment_id,participant.payoff,player.id_in_group,player.arrival_time,player.choice,player.strategy_bolander,player.payoff,group.id_in_subsession,group.payoff,group.garrival,subsession.round_number,session.code,session.label,session.experimenter_name,session.mturk_HITId,session.mturk_HITGroupId,session.comment,session.is_demo
+1,1us56agy,CrippleKing,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.556581+00:00,0,1,,,40,1,8.54355731869043,Canteen,,1,1,,8.53,1,2u553cnr,,,,,,0
+2,289meji8,Mikkel Vinther,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.575614+00:00,0,1,,,0,2,8.51153006899764,Canteen,,1,1,,8.53,1,2u553cnr,,,,,,0
+3,yy48141u,Joachim,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.610344+00:00,0,1,,,-3,1,8.47038995171767,Canteen,,1,2,,8.46,1,2u553cnr,,,,,,0
+4,1lv3nolh,Vincent,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.640583+00:00,0,1,,,16,2,8.44283762612435,Canteen,,1,2,,8.46,1,2u553cnr,,,,,,0
+5,antvp1ag,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.644737+00:00,0,1,,,33,1,9.05562513647759,Office,,0,3,,9.05,1,2u553cnr,,,,,,0
+6,5szm2yvs,Jan Lundorff Rasmussen,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.674260+00:00,0,1,,,20,2,9.07130665329272,Office,,0,3,,9.05,1,2u553cnr,,,,,,0
+7,7jwzi6st,HannaMontana99,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-30 11:14:46.683054+00:00,0,1,,,11,1,8.49141577671956,Office,,-10,4,,8.49,1,2u553cnr,,,,,,0
+8,ss7qpfmj,Verdensmesther,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:46.790541+00:00,0,1,,,47,2,8.51039368265961,Canteen,,-10,4,,8.49,1,2u553cnr,,,,,,0
+9,lrgzgzi4,Leon,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.804394+00:00,0,1,,,13,1,8.43038154133365,Canteen,,1,5,,8.43,1,2u553cnr,,,,,,0
+10,xe1hgj5o,HumanPlayer2,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.917773+00:00,0,1,,,-44,2,8.43174324636985,Canteen,,1,5,,8.43,1,2u553cnr,,,,,,0
+11,8ncdprow,Karsten,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-30 11:14:46.958634+00:00,0,1,,,7,1,8.42163806506265,Canteen,,1,6,,8.43,1,2u553cnr,,,,,,0
+12,ie3x6qer,Laurs 🐼,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:47.193563+00:00,0,1,,,77,2,8.43912372357113,Canteen,,1,6,,8.43,1,2u553cnr,,,,,,0
+1,1us56agy,CrippleKing,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.556581+00:00,0,1,,,40,1,8.53198177868617,Canteen,,1,1,,8.53,2,2u553cnr,,,,,,0
+2,289meji8,Mikkel Vinther,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.575614+00:00,0,1,,,0,2,8.52855872806994,Canteen,,1,1,,8.53,2,2u553cnr,,,,,,0
+3,yy48141u,Joachim,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.610344+00:00,0,1,,,-3,1,8.55485425980687,Office,,0,2,,8.53,2,2u553cnr,,,,,,0
+4,1lv3nolh,Vincent,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.640583+00:00,0,1,,,16,2,8.54292866279595,Office,,0,2,,8.53,2,2u553cnr,,,,,,0
+5,antvp1ag,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.644737+00:00,0,1,,,33,1,8.4371737286163,Canteen,,1,3,,8.43,2,2u553cnr,,,,,,0
+6,5szm2yvs,Jan Lundorff Rasmussen,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.674260+00:00,0,1,,,20,2,8.43088698060525,Canteen,,1,3,,8.43,2,2u553cnr,,,,,,0
+7,7jwzi6st,HannaMontana99,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-30 11:14:46.683054+00:00,0,1,,,11,1,8.50098199499292,Office,,-10,4,,8.49,2,2u553cnr,,,,,,0
+8,ss7qpfmj,Verdensmesther,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:46.790541+00:00,0,1,,,47,2,8.46501169855153,Canteen,,-10,4,,8.49,2,2u553cnr,,,,,,0
+9,lrgzgzi4,Leon,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.804394+00:00,0,1,,,13,1,8.43742317959322,Canteen,,1,5,,8.43,2,2u553cnr,,,,,,0
+10,xe1hgj5o,HumanPlayer2,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.917773+00:00,0,1,,,-44,2,8.43538712905091,Canteen,,1,5,,8.43,2,2u553cnr,,,,,,0
+11,8ncdprow,Karsten,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-30 11:14:46.958634+00:00,0,1,,,7,1,8.40003927612045,Canteen,,1,6,,8.4,2,2u553cnr,,,,,,0
+12,ie3x6qer,Laurs 🐼,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:47.193563+00:00,0,1,,,77,2,8.37947755827316,Canteen,,1,6,,8.4,2,2u553cnr,,,,,,0
+1,1us56agy,CrippleKing,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.556581+00:00,0,1,,,40,1,8.40514261225065,Canteen,,1,1,,8.4,3,2u553cnr,,,,,,0
+2,289meji8,Mikkel Vinther,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.575614+00:00,0,1,,,0,2,8.39523950041155,Canteen,,1,1,,8.4,3,2u553cnr,,,,,,0
+3,yy48141u,Joachim,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.610344+00:00,0,1,,,-3,1,9.04803803316599,Office,,0,2,,9.05,3,2u553cnr,,,,,,0
+4,1lv3nolh,Vincent,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.640583+00:00,0,1,,,16,2,9.04890765995503,Office,,0,2,,9.05,3,2u553cnr,,,,,,0
+5,antvp1ag,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.644737+00:00,0,1,,,33,1,8.47880268068803,Canteen,,1,3,,8.46,3,2u553cnr,,,,,,0
+6,5szm2yvs,Jan Lundorff Rasmussen,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.674260+00:00,0,1,,,20,2,8.4661688663198,Canteen,,1,3,,8.46,3,2u553cnr,,,,,,0
+7,7jwzi6st,HannaMontana99,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-30 11:14:46.683054+00:00,0,1,,,11,1,8.58680853177912,Office,,0,4,,8.57,3,2u553cnr,,,,,,0
+8,ss7qpfmj,Verdensmesther,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:46.790541+00:00,0,1,,,47,2,8.57984717674597,Office,,0,4,,8.57,3,2u553cnr,,,,,,0
+9,lrgzgzi4,Leon,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.804394+00:00,0,1,,,13,1,8.46438283812198,Canteen,,-10,5,,8.46,3,2u553cnr,,,,,,0
+10,xe1hgj5o,HumanPlayer2,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.917773+00:00,0,1,,,-44,2,8.46107826662368,Office,,-10,5,,8.46,3,2u553cnr,,,,,,0
+11,8ncdprow,Karsten,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-30 11:14:46.958634+00:00,0,1,,,7,1,8.46718416031691,Canteen,,1,6,,8.46,3,2u553cnr,,,,,,0
+12,ie3x6qer,Laurs 🐼,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:47.193563+00:00,0,1,,,77,2,8.48162187326848,Canteen,,1,6,,8.46,3,2u553cnr,,,,,,0
+1,1us56agy,CrippleKing,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.556581+00:00,0,1,,,40,1,8.34951552284356,Canteen,,1,1,,8.37,4,2u553cnr,,,,,,0
+2,289meji8,Mikkel Vinther,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.575614+00:00,0,1,,,0,2,8.39123812682892,Canteen,,1,1,,8.37,4,2u553cnr,,,,,,0
+3,yy48141u,Joachim,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.610344+00:00,0,1,,,-3,1,8.54601547017569,Office,,0,2,,8.57,4,2u553cnr,,,,,,0
+4,1lv3nolh,Vincent,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.640583+00:00,0,1,,,16,2,8.59094714646541,Office,,0,2,,8.57,4,2u553cnr,,,,,,0
+5,antvp1ag,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.644737+00:00,0,1,,,33,1,8.54289148867243,Canteen,,-10,3,,8.53,4,2u553cnr,,,,,,0
+6,5szm2yvs,Jan Lundorff Rasmussen,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.674260+00:00,0,1,,,20,2,8.54632761661885,Office,,-10,3,,8.53,4,2u553cnr,,,,,,0
+7,7jwzi6st,HannaMontana99,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-30 11:14:46.683054+00:00,0,1,,,11,1,8.49659822424458,Office,,0,4,,8.51,4,2u553cnr,,,,,,0
+8,ss7qpfmj,Verdensmesther,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:46.790541+00:00,0,1,,,47,2,8.53001308119277,Office,,0,4,,8.51,4,2u553cnr,,,,,,0
+9,lrgzgzi4,Leon,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.804394+00:00,0,1,,,13,1,9.03387368805581,Office,,-10,5,,9.05,4,2u553cnr,,,,,,0
+10,xe1hgj5o,HumanPlayer2,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.917773+00:00,0,1,,,-44,2,9.03710851280534,Canteen,,-10,5,,9.05,4,2u553cnr,,,,,,0
+11,8ncdprow,Karsten,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-30 11:14:46.958634+00:00,0,1,,,7,1,8.43729994322035,Canteen,,1,6,,8.46,4,2u553cnr,,,,,,0
+12,ie3x6qer,Laurs 🐼,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:47.193563+00:00,0,1,,,77,2,8.46669703504367,Canteen,,1,6,,8.46,4,2u553cnr,,,,,,0
+1,1us56agy,CrippleKing,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.556581+00:00,0,1,,,40,1,8.4544768832326,Canteen,,1,1,,8.46,5,2u553cnr,,,,,,0
+2,289meji8,Mikkel Vinther,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.575614+00:00,0,1,,,0,2,8.45503173310765,Canteen,,1,1,,8.46,5,2u553cnr,,,,,,0
+3,yy48141u,Joachim,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.610344+00:00,0,1,,,-3,1,8.39269892420556,Canteen,,1,2,,8.37,5,2u553cnr,,,,,,0
+4,1lv3nolh,Vincent,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.640583+00:00,0,1,,,16,2,8.3473436909114,Canteen,,1,2,,8.37,5,2u553cnr,,,,,,0
+5,antvp1ag,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.644737+00:00,0,1,,,33,1,8.49338016710811,Canteen,,1,3,,8.49,5,2u553cnr,,,,,,0
+6,5szm2yvs,Jan Lundorff Rasmussen,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.674260+00:00,0,1,,,20,2,8.49044864495376,Canteen,,1,3,,8.49,5,2u553cnr,,,,,,0
+7,7jwzi6st,HannaMontana99,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-30 11:14:46.683054+00:00,0,1,,,11,1,8.47632756232738,Office,,0,4,,8.49,5,2u553cnr,,,,,,0
+8,ss7qpfmj,Verdensmesther,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:46.790541+00:00,0,1,,,47,2,8.47031746718633,Office,,0,4,,8.49,5,2u553cnr,,,,,,0
+9,lrgzgzi4,Leon,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.804394+00:00,0,1,,,13,1,8.52653565952138,Office,,-10,5,,8.53,5,2u553cnr,,,,,,0
+10,xe1hgj5o,HumanPlayer2,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.917773+00:00,0,1,,,-44,2,8.53652767117955,Canteen,,-10,5,,8.53,5,2u553cnr,,,,,,0
+11,8ncdprow,Karsten,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-30 11:14:46.958634+00:00,0,1,,,7,1,8.53443161876159,Canteen,,1,6,,8.53,5,2u553cnr,,,,,,0
+12,ie3x6qer,Laurs 🐼,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:47.193563+00:00,0,1,,,77,2,8.53854332036844,Canteen,,1,6,,8.53,5,2u553cnr,,,,,,0
+1,1us56agy,CrippleKing,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.556581+00:00,0,1,,,40,1,8.35340600264297,Canteen,,1,1,,8.37,6,2u553cnr,,,,,,0
+2,289meji8,Mikkel Vinther,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.575614+00:00,0,1,,,0,2,8.34601456278421,Canteen,,1,1,,8.37,6,2u553cnr,,,,,,0
+3,yy48141u,Joachim,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.610344+00:00,0,1,,,-3,1,8.52190124957574,Canteen,,-10,2,,8.53,6,2u553cnr,,,,,,0
+4,1lv3nolh,Vincent,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.640583+00:00,0,1,,,16,2,8.52322535072402,Office,,-10,2,,8.53,6,2u553cnr,,,,,,0
+5,antvp1ag,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.644737+00:00,0,1,,,33,1,8.42190846948419,Canteen,,1,3,,8.43,6,2u553cnr,,,,,,0
+6,5szm2yvs,Jan Lundorff Rasmussen,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.674260+00:00,0,1,,,20,2,8.42665045327923,Canteen,,1,3,,8.43,6,2u553cnr,,,,,,0
+7,7jwzi6st,HannaMontana99,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-30 11:14:46.683054+00:00,0,1,,,11,1,8.3644213848416,Office,,0,4,,8.37,6,2u553cnr,,,,,,0
+8,ss7qpfmj,Verdensmesther,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:46.790541+00:00,0,1,,,47,2,8.3450044477061,Office,,0,4,,8.37,6,2u553cnr,,,,,,0
+9,lrgzgzi4,Leon,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.804394+00:00,0,1,,,13,1,8.56030748230659,Canteen,,1,5,,8.55,6,2u553cnr,,,,,,0
+10,xe1hgj5o,HumanPlayer2,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.917773+00:00,0,1,,,-44,2,8.57126994491416,Canteen,,1,5,,8.55,6,2u553cnr,,,,,,0
+11,8ncdprow,Karsten,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-30 11:14:46.958634+00:00,0,1,,,7,1,8.37767170268169,Canteen,,1,6,,8.37,6,2u553cnr,,,,,,0
+12,ie3x6qer,Laurs 🐼,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:47.193563+00:00,0,1,,,77,2,8.34662362391275,Canteen,,1,6,,8.37,6,2u553cnr,,,,,,0
+1,1us56agy,CrippleKing,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.556581+00:00,0,1,,,40,1,8.37493486707637,Canteen,,1,1,,8.37,7,2u553cnr,,,,,,0
+2,289meji8,Mikkel Vinther,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.575614+00:00,0,1,,,0,2,8.36088197291834,Canteen,,1,1,,8.37,7,2u553cnr,,,,,,0
+3,yy48141u,Joachim,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.610344+00:00,0,1,,,-3,1,8.54530402227394,Office,,0,2,,8.57,7,2u553cnr,,,,,,0
+4,1lv3nolh,Vincent,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.640583+00:00,0,1,,,16,2,8.58463742812787,Office,,0,2,,8.57,7,2u553cnr,,,,,,0
+5,antvp1ag,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.644737+00:00,0,1,,,33,1,8.55977704622644,Office,,-10,3,,8.55,7,2u553cnr,,,,,,0
+6,5szm2yvs,Jan Lundorff Rasmussen,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.674260+00:00,0,1,,,20,2,8.53338547133642,Canteen,,-10,3,,8.55,7,2u553cnr,,,,,,0
+7,7jwzi6st,HannaMontana99,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-30 11:14:46.683054+00:00,0,1,,,11,1,8.57025327541578,Office,,0,4,,8.55,7,2u553cnr,,,,,,0
+8,ss7qpfmj,Verdensmesther,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:46.790541+00:00,0,1,,,47,2,8.56381011060815,Office,,0,4,,8.55,7,2u553cnr,,,,,,0
+9,lrgzgzi4,Leon,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.804394+00:00,0,1,,,13,1,8.43803534497201,Office,,0,5,,8.46,7,2u553cnr,,,,,,0
+10,xe1hgj5o,HumanPlayer2,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.917773+00:00,0,1,,,-44,2,8.47543435816064,Office,,0,5,,8.46,7,2u553cnr,,,,,,0
+11,8ncdprow,Karsten,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-30 11:14:46.958634+00:00,0,1,,,7,1,8.37018058249492,Canteen,,1,6,,8.37,7,2u553cnr,,,,,,0
+12,ie3x6qer,Laurs 🐼,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:47.193563+00:00,0,1,,,77,2,8.39485851477404,Canteen,,1,6,,8.37,7,2u553cnr,,,,,,0
+1,1us56agy,CrippleKing,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.556581+00:00,0,1,,,40,1,8.59107693532479,Office,,-10,1,,8.57,8,2u553cnr,,,,,,0
+2,289meji8,Mikkel Vinther,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.575614+00:00,0,1,,,0,2,8.560496521326,Canteen,,-10,1,,8.57,8,2u553cnr,,,,,,0
+3,yy48141u,Joachim,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.610344+00:00,0,1,,,-3,1,8.56835850414223,Office,,0,2,,8.55,8,2u553cnr,,,,,,0
+4,1lv3nolh,Vincent,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.640583+00:00,0,1,,,16,2,8.54638727298107,Office,,0,2,,8.55,8,2u553cnr,,,,,,0
+5,antvp1ag,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.644737+00:00,0,1,,,33,1,8.41065233955195,Canteen,,1,3,,8.43,8,2u553cnr,,,,,,0
+6,5szm2yvs,Jan Lundorff Rasmussen,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.674260+00:00,0,1,,,20,2,8.44419779386472,Canteen,,1,3,,8.43,8,2u553cnr,,,,,,0
+7,7jwzi6st,HannaMontana99,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-30 11:14:46.683054+00:00,0,1,,,11,1,8.48880594184741,Office,,0,4,,8.49,8,2u553cnr,,,,,,0
+8,ss7qpfmj,Verdensmesther,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:46.790541+00:00,0,1,,,47,2,8.51467079156873,Office,,0,4,,8.49,8,2u553cnr,,,,,,0
+9,lrgzgzi4,Leon,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.804394+00:00,0,1,,,13,1,8.42346550991983,Canteen,,-10,5,,8.4,8,2u553cnr,,,,,,0
+10,xe1hgj5o,HumanPlayer2,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.917773+00:00,0,1,,,-44,2,8.38624142787805,Office,,-10,5,,8.4,8,2u553cnr,,,,,,0
+11,8ncdprow,Karsten,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-30 11:14:46.958634+00:00,0,1,,,7,1,8.5577335042894,Canteen,,-10,6,,8.57,8,2u553cnr,,,,,,0
+12,ie3x6qer,Laurs 🐼,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:47.193563+00:00,0,1,,,77,2,8.59365035772126,Office,,-10,6,,8.57,8,2u553cnr,,,,,,0
+1,1us56agy,CrippleKing,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.556581+00:00,0,1,,,40,1,8.4233025824292,Canteen,,1,1,,8.43,9,2u553cnr,,,,,,0
+2,289meji8,Mikkel Vinther,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.575614+00:00,0,1,,,0,2,8.43612840577818,Canteen,,1,1,,8.43,9,2u553cnr,,,,,,0
+3,yy48141u,Joachim,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.610344+00:00,0,1,,,-3,1,8.54652187945729,Office,,0,2,,8.55,9,2u553cnr,,,,,,0
+4,1lv3nolh,Vincent,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.640583+00:00,0,1,,,16,2,8.57386770391726,Office,,0,2,,8.55,9,2u553cnr,,,,,,0
+5,antvp1ag,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.644737+00:00,0,1,,,33,1,9.03595848247354,Office,,0,3,,9.05,9,2u553cnr,,,,,,0
+6,5szm2yvs,Jan Lundorff Rasmussen,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.674260+00:00,0,1,,,20,2,9.06971122091177,Office,,0,3,,9.05,9,2u553cnr,,,,,,0
+7,7jwzi6st,HannaMontana99,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-30 11:14:46.683054+00:00,0,1,,,11,1,8.56791466717075,Office,,0,4,,8.57,9,2u553cnr,,,,,,0
+8,ss7qpfmj,Verdensmesther,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:46.790541+00:00,0,1,,,47,2,8.55101895916735,Office,,0,4,,8.57,9,2u553cnr,,,,,,0
+9,lrgzgzi4,Leon,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.804394+00:00,0,1,,,13,1,8.50073816624253,Canteen,,1,5,,8.51,9,2u553cnr,,,,,,0
+10,xe1hgj5o,HumanPlayer2,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.917773+00:00,0,1,,,-44,2,8.51387435804924,Canteen,,1,5,,8.51,9,2u553cnr,,,,,,0
+11,8ncdprow,Karsten,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-30 11:14:46.958634+00:00,0,1,,,7,1,8.48656284850785,Canteen,,1,6,,8.49,9,2u553cnr,,,,,,0
+12,ie3x6qer,Laurs 🐼,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:47.193563+00:00,0,1,,,77,2,8.48432795735068,Canteen,,1,6,,8.49,9,2u553cnr,,,,,,0
+1,1us56agy,CrippleKing,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.556581+00:00,0,1,,,40,1,8.44194779162111,Canteen,Thinking about which the other's time interval shows and play as safe as possible with the difference in payoffs,1,1,,8.46,10,2u553cnr,,,,,,0
+2,289meji8,Mikkel Vinther,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.575614+00:00,0,1,,,0,2,8.44325441473418,Canteen,Rational thinking. But it didn't work!,1,1,,8.46,10,2u553cnr,,,,,,0
+3,yy48141u,Joachim,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.610344+00:00,0,1,,,-3,1,9.02601182217193,Office,I tried to coordinate... Not sure about the strategy,0,2,,9.05,10,2u553cnr,,,,,,0
+4,1lv3nolh,Vincent,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.640583+00:00,0,1,,,16,2,9.02914445183205,Office,Go to the cateen only if I know that the other player arrived no later than 8.50,0,2,,9.05,10,2u553cnr,,,,,,0
+5,antvp1ag,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.644737+00:00,0,1,,,33,1,8.38792619002066,Canteen,canteen < 8.50,1,3,,8.37,10,2u553cnr,,,,,,0
+6,5szm2yvs,Jan Lundorff Rasmussen,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.674260+00:00,0,1,,,20,2,8.35653282564461,Canteen,probability,1,3,,8.37,10,2u553cnr,,,,,,0
+7,7jwzi6st,HannaMontana99,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-30 11:14:46.683054+00:00,0,1,,,11,1,8.55293098908157,Office,"I wanted to force the other to always playing Office. The first two games this did hurt a bit (-20 points), but later it worked. My motivation was that I did not know how many steps my 'opponent' would think ahead, so this was the safest option for me, risking only minus points in the 'learning period'. Of course it is a bit cowardish.",0,4,,8.53,10,2u553cnr,,,,,,0
+8,ss7qpfmj,Verdensmesther,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:46.790541+00:00,0,1,,,47,2,8.51376188018148,Office,"I started gambling,  but when I lost two times in a row and realized that my partner always goes directly to the office, I went to the office the rest of the times",0,4,,8.53,10,2u553cnr,,,,,,0
+9,lrgzgzi4,Leon,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.804394+00:00,0,1,,,13,1,8.50783524633758,Canteen,Compred the choice of my partner with the my own and the probability of the given time    ,-10,5,,8.53,10,2u553cnr,,,,,,0
+10,xe1hgj5o,HumanPlayer2,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.917773+00:00,0,1,,,-44,2,8.53882717613469,Office,"I was punishing what ever asocial son of a gun that was sabotaging my attempt to set a healthy, socialist norm in Game 2.    Plus, having few points, it was a plus to not go down alone ;)",-10,5,,8.53,10,2u553cnr,,,,,,0
+11,8ncdprow,Karsten,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-30 11:14:46.958634+00:00,0,1,,,7,1,8.49569100937162,Canteen,"Played canteen every time I arrived before 9:00 - which was every game. My stupid co-worker should have done the same, but he chose office when arriving 8:59 one time. Idiot.",1,6,,8.51,10,2u553cnr,,,,,,0
+12,ie3x6qer,Laurs 🐼,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:47.193563+00:00,0,1,,,77,2,8.52394486500643,Canteen,Using the range of 5 minutes and the rules,1,6,,8.51,10,2u553cnr,,,,,,0

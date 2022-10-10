@@ -1,0 +1,314 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Section
+Important strategy answers:
+\end_layout
+
+\begin_layout Subsection
+AMT Strategy answers
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: 55e4n5z6 Strategy answer: I tried to do my best to
+ understand what the other participant was going to do.
+ It appeared that we somehow understood each other and always chose the
+ canteen (after the first misstep).
+ Therefore, since we were on the same page every trial, I kept selecting
+ canteen.
+ 
+\end_layout
+
+\begin_layout Enumerate
+[### important ###]Code for particpant: 8s4vhpit Strategy answer: If it
+ was close to 9:00AM, within 20 minutes or so, I would go to the office.
+ Otherwise I would just chose to go to the canteen.
+ Unfortunately it almost worked out for everyone except one, and I have
+ no idea why they would have chosen to go to the office on said round because
+ it was really early and we would have had plenty of time to go to the canteen.
+ 
+\end_layout
+
+\begin_layout Enumerate
+[#Notice that at 8:40, there is 'time to go to the canteen'#]Code for particpant
+: u0i326sb Strategy answer: I thought that if I arrived at 9:10 or later
+ I'd simply go to the office, since my partner would at the earliest have
+ to head to the office as well.
+ If I arrived 9:00 I'd go to the office and hope that odds favored my partner
+ and their time also indicated the same (taking a chance).
+ If I arrived at 8:50, I'd go to the canteen and hope their time indicated
+ that as well.
+ And any times prior to 8:50 I'd simply go to the canteen since there would
+ be time.
+ 
+\end_layout
+
+\begin_layout Enumerate
+[#Notice theory of mind implies that answers arent obvious but the limit
+ of the very same capacity makes earlier times seem obvious]Code for particpant:
+ 4gg7gacn Strategy answer: Most of the time it was obvious which option
+ to choose.
+ If it wasn't, I just went with my gut.
+ 
+\end_layout
+
+\begin_layout Enumerate
+[#Notice how ToM implies uncertainty at some arrival times but lack of ToM
+ implies safety at others]Code for particpant: kg3r6f8z Strategy answer:
+ most the choices required no thought and were a sure choice.
+ on the uncertain ones i guess and tried to play off them 
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: so1zjmfk Strategy answer: It was easy to figure out
+ until I got the 8:50 time.
+ I chose to go to the canteen knowing that it was 50/50 whether they would
+ have gotten there in time to go to the canteen or net.
+ Because of that I said I was uncertain for that round trying to mitigate
+ the loss if we did not choose the same action.
+ [Game is easy until crucial time occurs]
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: 41zq2w8e Strategy answer: I tried to play it safe.
+ It's obvious to go the canteen anytime before 8:40, but when 8:50 comes
+ up it's a gamble.
+ I messed up by assuming my partner would agree once, but after that I played
+ it safe so I would lose less.
+ [Again, it's easy before 8:40, but at 8:40 or later, our theory of mind
+ is strong enough to kick in]
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: ikw8x1y0 Strategy answer: I tried to make my judgement
+ based off my arrival time and whether or not my colleague would have enough
+ time as well.
+ [Evidence that 8:50-office is due to considering whether both players have
+ time to go the canteen, not what the other player thinks]
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: 9372t862 Strategy answer: I chose to go with the canteen
+ unless my time was around 8:50 AM or 9:00 AM because my partner would be
+ uncertain if I would arrive 10 minutes before or after them.
+ We were lucky enough to be thinking on the same page every time.
+ [Assumption that because both stuck to office at 8:50 and later, they could
+ coordinate]
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: cwjc9wrz Strategy answer: I just went with my gut.
+ I chose answers based on what I would really do.
+ [Some participants simply make choices depending on what they themselves
+ would do]
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: slphrqhm Strategy answer: I trusted my partner and
+ only went to the canteen when it was 100% safe for both of us [This likely
+ implies going to the canteen at 8:40, since the participant knows that
+ (late) is false.
+ But this belief is due to 0-order reasoning which does not take into account
+ the other players knowledge.]
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: hky1rqw0 Strategy answer: I based my decision on what
+ time my partner had and how likely it was that their time was guaranteed
+ to arrive to work before 9:00am [Another case of considering the arrival
+ time of the other player, but only in terms of (late) being true or not]
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: 7nnamfnb Strategy answer: if the variabilty of my partner
+ overlapped with the 9 am or not.
+ [Again, go to canteen if you know late is false, and you know (late) is
+ false if your arrival time is not 8:50, 9:00 or 9:10]
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: zittq6wn Strategy answer: I followed the rules, that
+ before 9.00am we'd have time for coffe.
+ I arrived at 8.40, so the latest the other person could arrive was 8.50.
+ Time for coffee and I was certain of this.
+ When the opposite cenario happened, I followed what they did last time,
+ and they this time went to the canteen.
+ Inconsistent! [A case of 0-order reasoning, reasoning about whether (late)
+ is false.
+ (late) is false whenever noone arrives at 9:00.
+ If one player arrives at 8:50, (late) might be true.
+ So if canteen choices can only be made if and only if (late) is false,
+ the then 8:50 is not a certain canteen choice even in regard to 0-order
+ reasoning.
+ But 8:40 is, because the player knows that (late) is false, which is knowledge
+ about states of affairs, which is 0-order social knowledge]
+\end_layout
+
+\begin_layout Subsection
+DTU1 Strategy answers
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: nqj339em Strategy answer: Found the limit for there
+ the co worker would go to the office and then based my choices on that.
+ Basically at 8.30 you don't know if the co worker will arrive at 8.20 and
+ go the the canteen or 8.40 and thus go to the office.
+ The same goes for arriving at 8.40.
+ The rest of the answers were trivial after discovering this.
+ [At 8:30, you consider that the other player arrived at 8:40, and went
+ to the office because he considered you arriving at 8:50, entailing office,
+ that is 2-order reasoning.
+ But the rest of the answers (e.g.
+ 8:20 are deemed trivial, since 3-order reasoning is not considered)]
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: luykbvrv Strategy answer: At first it was very certain
+ that I went to the canteen if I arrived 8.40 or earlier.
+ But this was expensive if my buddy went to the office at 8.50.
+ So I tried to be more conservative when arriving 8.40 or later.
+ The best strategy would be for both to go to the office everytime.
+ [Figuring out office only strat!]
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: fkb63rpz Strategy answer: It was easy for 8:00, 8:10
+ and 8:20.
+ There I would go to the canteen based on the fact, that my friend would
+ arrive at latest at 8:30, and then they would in worst case scenario think
+ that I arrived at 8:40.
+ Thus we would both go for coffee.
+ In the case of 8:30, I would also go to the canteen, but I would not be
+ very certain cause my friend might be there at 8:40 and think that I would
+ be there at 8:50.
+ They might think that IF I am there at 8:50, I would think that my friend
+ is there at 9:00, and thus I might go to the office.
+ Thus for 8:30 and above it is not certain.
+ It would depend on the history of our decisions...
+ [This is 2nd or 3rd order reasoning.
+ Notice that it also includes some forward inductive reasoning (earlier
+ choices being important) and that 8:20 and earlier are simply deemed easy]
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: bvrck71g Strategy answer: Tried to figure out what
+ choices would be made around the 8.50 mark.
+ Because the other person could have arrived around the 8.40 or 9.00 mark.
+ If we both figured out to go to the office at 8.40+ times, we could even
+ out our answers.
+ But we never found a flow.
+ [Exhibits the belief that if only they had used the appropriate strategy,
+ they could have gone to the canteen safely]
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: tgsev17z Strategy answer: From 8:00 to 8:20 I went
+ to the canteen and expected my teammate to do the same with high confidence.
+ From 8:30 to 8:40 I went to the canteen but with less certainty.
+ From 8:50 to 9:00 I went to the office with average certainty, and at 9:10
+ I went to the office with high confidence.
+ [Good introspection, in the sense that many players did this.
+ Uncertainty at 8:30 and 8:40 indicates 1-2 orders of ToM]
+\end_layout
+
+\begin_layout Subsection
+Important DTU2 Strategy answers
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: d80v1d76 Strategy answer: Go to canteen if it's before
+ 8:50 AM If 8:50 AM one should consider the posibility that the colleague
+ is arriving 10 minutes after and therefore can't make it to the canteen.
+ [Indicates office choice at 8:50, but due to reasoning about the world,
+ i.e.
+ the person considers it possible that the other player arrived at 9:00,
+ i.e.
+ meaning canteen would be the wrong choice]
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: m34i6dkf Strategy answer: If math checks out both of
+ us goes to canteen.
+ If i know that one of us may not get there in time, i do office with low
+ certainty [Same reasoning as 'd80v1d76' above.
+ If the player knows that it might not be possible for both to go to the
+ canteen (which the player knows solely based on his own arrival time),
+ he might choose office at 8:50]
+\end_layout
+
+\end_body
+\end_document

@@ -1,0 +1,206 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Section
+Categorizing strategies in AMT canteen dilemma
+\end_layout
+
+\begin_layout Standard
+Adding another category:
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Canteen till 8:40, office at 9:00, intuition/flip coin at 8:50
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: 3bzgh6vt Strategy answer: I tried to determine if we
+ would have time to go to the canteen.
+ If not, we would go to the office.
+ [At 8:50 you might or might not have time to go to the canteen]
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: j7iqae18 Strategy answer: Check the possible range.
+ If there was no chance of 9am then 100% certain.
+ [If 9:00 is not possible, i.e.
+ 8:40, then 100% certain at canteen, implying you'd be less certain at 8:50]
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: g50ezvlw Strategy answer: I tried to go to the canteen
+ when I was sure we both had enough time before 9:00AM and to the office
+ when it was too close to 9 
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: 3p7y30a1 Strategy answer: If it was close to 9:00,
+ I went to the office and assumed my partner would do the same since that
+ would make sense.
+ I don't really think my partner behaved logically.
+ [Loosely time based strategy, close to 9:00 likely means 8:50]
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: 51s7w8wy Strategy answer: If I knew that my colleague
+ was going to get to the office before 9 am I chose canteen and then very
+ certain.
+ I chose this because there was no reason for them to go straight to the
+ office.
+ I guessed what they would do when there was a chance they wouldn't have
+ time to go to the canteen.
+ [If the person knows both arrive before 9, i.e.
+ if person arrives at 8:40 or earlier, very certain at canteen.
+ Implying that if it is not the case, he wont be certain at the canteen]
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+DTU
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: 0iusd3w7 Strategy answer: Always very certain of office
+ unless arrive 9.00 or later.
+ 8.50 was a gamble 
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: uwksz3ti Strategy answer: I decided to go to the office
+ if I came at 8.50 or later, otherwise to the canteen.
+ I chose to (somewhat) uncertain when I arrived at either 8.40 or 8.50, otherwise
+ I was very certain.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: getiy58s Strategy answer: For everthing except 8.40
+ and 8.50 I played very certain.
+ For 8.40 I chose canteen but with slight uncertainty.
+ 8.50 was office with very uncertain 
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: f308g8k0 Strategy answer: Always go the canteen unless
+ it’s 8:50 or later.
+ If I arrive at 8:50 then I chose canteen or office randomly because the
+ other person could have arrived at 9:00 or 8:40.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: wzhpir90 Strategy answer: I said very uncertain at
+ 8.50 and 9.00, and picked the corresponding "right" choice for me.
+ I didn't start out doing this, I started by picking random at 8.50 and 9.00,
+ but change it a few rounds in.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: 1rwicug6 Strategy answer: go to the canteen whenever
+ there is a chance.
+ If not sure, reduce uncertainty [Indicative of going to canteen at all
+ times before 9:00, and with lower certainty at 8:50]
+\end_layout
+
+\begin_layout Enumerate
+Code for particpant: 62drd1wd Strategy answer: For 8:50 an bellow I always
+ choose to go to the canteen, for 9:00 and above I choose to go to the office.
+ It seem like the other player did that to.
+ If I got 8:40 and below I would be very certain that the other player goes
+ to the canteen likewise if I arrived at 9:10 or above we would booth go
+ to the office.
+ If I got 8:50 I would choose to go to the canteen, but there would be a
+ 50% chance that the other player did that to, so I the best payoff would
+ come from being very uncertain likewise for 9:00
+\end_layout
+
+\end_body
+\end_document

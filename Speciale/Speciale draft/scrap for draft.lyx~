@@ -1,0 +1,247 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+To put it in terms of non-Platonic realism mentioned earlier, if logical
+ truths represent structures in the world, we might want a bett logic which
+ can express the structures behind real higher order social reasoning.
+\end_layout
+
+\begin_layout Standard
+It is of course difficult to say whether the mistakes in the selection test
+ is due to an incorrect interpretation of a statement or whether the statement
+ was ambiguously worded.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Consider (Wason 1971) to see that a thematic story might aid in logical
+ reasoning much more than an abstract story.
+ This is supported by (Meijering 2010), but this might have been counter
+ productive in our case.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+.
+ This line of reasoning applies for all possible arrival times, meaning
+ that the player would go to the office at 8:00 am as well! In fact, given
+ this structure, no strategy could be devised which includes a canteen choice
+ without that strategy risking discoordination at some point.
+ This is highly unintuitive for most normal people.
+ Most can follow reasoning implying you should go to the office at 8:50
+ and maybe 8:40 and 8:30 as well, but most would think that if you just
+ go to the canteen early enough, it becomes a safe choice.
+ We might call this a 
+\emph on
+cutoff 
+\emph default
+point, denoting the latest time you will go to the canteen.
+ Intuitively, people think that having a cutoff a 8:50 involves a risk and
+ that this is mitigated by moving the cutoff point to an earlier time.
+ But the predicament still stands regardless of what cutoff point one would
+ use.
+ Because of this, if one is to have a cutoff point at all, it would be rational
+ to have it as late as possible, that is, at 8:50, assuming a symmetric
+ strategy.
+ In that case, one gains as many canteen coordinations as possible, before
+ one runs into the risk of discoordination at 8:50/9:00.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\begin_inset VSpace medskip
+\end_inset
+
+
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Abstract
+some background theory for the research field plus some additonal discussion
+ regarding the experiment which was not excluded in the article.
+\end_layout
+
+\begin_layout Abstract
+This type of social cognition is often described as having a Theory of Mind
+ of others.
+ While there is robust evidence that children acquire the ability to reason
+ about the mental states of others at a young age, there is also evidence
+ suggesting that this ability is not effectively drawn upon in many cases.
+ Even when successfully applied, his type of social cognition is not iterated
+ more than once or twice, i.e.
+ making a mental model others which might include their mental model of
+ oneself.
+ Higher order social cognition can be described more clearly in epistemic
+ logic, but even the best applications of ToM amongst adults fail to live
+ up to the proscriptions of Epistemic Logic.
+ The Canteen Dilemma is an experiment which offers insight into how higher
+ order social cognition occurs.
+ 
+\end_layout
+
+\begin_layout Abstract
+I introduce the Canteen Dilemma experiment and presents how it combines
+ interests from cognitive science and logic by looking at a specific type
+ of social cognition, namely higher order social reasoning.
+ Social interaction often rely implicitly or explicitly on higher order
+ social reasoning - what do you think, that I think and so on.
+ Such reasoning has been modeled in epistemic logics, although real reasoning
+ rarely follow the proscriptions of these logics.
+ I here introduce the Canteen Dilemma as an experiment which offers insight
+ into how real people reason and discuss the implications for logic as viewed
+ as a theory of rational agency.
+\end_layout
+
+\begin_layout Abstract
+\begin_inset VSpace medskip
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ I will use standard abbreviations like 
+\begin_inset Formula $(\varphi\lor\psi)=\lnot(\lnot\varphi\land\lnot\psi)$
+\end_inset
+
+ and 
+\begin_inset Formula $(\varphi\rightarrow\psi)=(\lnot\varphi\lor\psi)$
+\end_inset
+
+, and bi-implication 
+\begin_inset Formula $(\varphi\leftrightarrow\psi)$
+\end_inset
+
+ is shorthand for the conjunction of implication both ways
+\end_layout
+
+\begin_layout Abstract
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Plan: Use logic notation with E and C to describe consecutive numbers and
+ byzantine generals.
+ Then show how S5 is idealized and go into real social cognition.
+ Show how S5 is idealized and doesn't describe the real world.
+ Describe why ToM is important and why an accurate representation of it
+ is important.
+ Describe how humans are limited in ToM, even when we can reflect upon it,
+ we don't necessarily act on it.
+ Describe curse of knowledge, how knowing P leads us falsely conclude others
+ know P as well.
+ Describe problems with discrete bounds on reasoning (k but not k+1 ToM).
+ Go in to canteen dilemma and its results.
+ How do we model this in logic?
+\end_layout
+
+\end_body
+\end_document

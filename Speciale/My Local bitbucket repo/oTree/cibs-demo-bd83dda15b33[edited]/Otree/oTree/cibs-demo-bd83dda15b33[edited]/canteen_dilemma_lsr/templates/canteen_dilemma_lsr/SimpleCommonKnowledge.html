@@ -1,0 +1,19 @@
+{% extends "global/Base.html" %}
+{% load staticfiles otree %}
+
+{% block content %}
+
+    <p>
+        You arrived at  {{ player.arrival_time }}, do you know that it's safe to go to the canteen, that is, you know you will meet your colleage there?
+        
+    </p>
+    <p>
+    	or
+    <p/>
+     <p>
+     	 Given your playstyle, are you always sure to meet your colleague when you go to the canteen? For example when you arrive at {{ player.arrival_time }}?
+    <p/>
+
+    {% formfield player.simple_common_knowledge_canteen_dilemma %}
+    {% next_button %}
+{% endblock %}

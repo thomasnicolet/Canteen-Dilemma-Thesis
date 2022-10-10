@@ -1,0 +1,14 @@
+import os
+print(os.getcwd())
+
+import pandas
+
+#import plotly.plotly as py
+#import plotly.graph_objs as go
+#import plotly.figure_factory as FF
+
+import numpy as np
+import pandas
+
+df = pandas.read_csv('cafeteria_dilemma (accessed 2017-10-13).csv')
+print(df)

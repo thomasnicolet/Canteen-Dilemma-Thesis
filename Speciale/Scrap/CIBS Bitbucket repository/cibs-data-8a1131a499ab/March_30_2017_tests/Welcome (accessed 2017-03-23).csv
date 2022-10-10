@@ -1,0 +1,9 @@
+participant.id_in_session,participant.code,participant.label,participant._is_bot,participant._index_in_pages,participant._max_page_index,participant._current_app_name,participant._round_number,participant._current_page_name,participant.ip_address,participant.time_started,participant.exclude_from_data_analysis,participant.visited,participant.mturk_worker_id,participant.mturk_assignment_id,participant.payoff,player.id_in_group,player.name,player.payoff,group.id_in_subsession,subsession.round_number,session.code,session.label,session.experimenter_name,session.mturk_HITId,session.mturk_HITGroupId,session.comment,session.is_demo
+1,5z4bvu6o,,0,1,153,Welcome,1,WelcomePage,130.225.121.206,2017-03-23 13:15:13.847694+00:00,0,1,,,0,1,,0,1,1,58b9uc38,,,,,,1
+2,m7cue7mg,,0,0,153,,,,,,0,0,,,0,2,,0,1,1,58b9uc38,,,,,,1
+1,t61chda2,El,0,153,153,payment_info,1,PaymentInfo,130.225.121.207,2017-03-23 13:17:19.046563+00:00,0,1,,,24,1,El,0,1,1,ef1kvh25,,,,,,0
+2,tbxrygvg,Mikkel 1,0,153,153,payment_info,1,PaymentInfo,130.225.121.206,2017-03-23 13:17:48.472061+00:00,0,1,,,4,2,Mikkel 1,0,1,1,ef1kvh25,,,,,,0
+3,0dpwl4po,Ludmilla,0,153,153,payment_info,1,PaymentInfo,130.225.121.205,2017-03-23 13:16:43.288079+00:00,0,1,,,52,3,Ludmilla,0,1,1,ef1kvh25,,,,,,0
+4,a3dnltnl,Lena,0,152,153,bolander,10,Debrief,130.225.121.207,2017-03-23 13:17:20.489478+00:00,0,1,,,-38,4,Lena,0,1,1,ef1kvh25,,,,,,0
+5,rd0udu5d,Mikkel 2,0,153,153,payment_info,1,PaymentInfo,130.225.121.206,2017-03-23 13:17:48.895445+00:00,0,1,,,38,5,Mikkel 2,0,1,1,ef1kvh25,,,,,,0
+6,hq5dq1w3,Master,0,153,153,payment_info,1,PaymentInfo,130.225.121.205,2017-03-23 13:16:46.267852+00:00,0,1,,,97,6,Master,0,1,1,ef1kvh25,,,,,,0

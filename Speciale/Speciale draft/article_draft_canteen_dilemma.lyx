@@ -1,0 +1,1827 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Canteen Dilemma Article
+\end_layout
+
+\begin_layout Author
+Thomas S.
+ Nicolet
+\end_layout
+
+\begin_layout Abstract
+Some abstract.
+ Model after Beauty Contest (Robin) and Children learning ToM (Verbrugge).
+ Emphasis on certainty estimates.
+\end_layout
+
+\begin_layout Section
+Introduction
+\end_layout
+
+\begin_layout Standard
+The cognitive capacity to understand and reason about the otherwise unobservable
+ mental states of others is often referred to as theory of mind, social
+ cognition or perspective taking.
+ Higher order theory of mind is the ability to attribute theory of mind
+ reasoning to others.
+ This article is concerned with the limits of this capacity, how robust
+ it is and whether the capacity is discontinuous in terms of being able
+ to reason up to 
+\begin_inset Formula $n$
+\end_inset
+
+ order of theory of mind but not 
+\begin_inset Formula $n+1$
+\end_inset
+
+.
+ Our findings show that there is reason to believe that certain tests which
+ only differentiates between having a first and second order theory of mind
+ does not tell the whole story and orders of theory of mind should possibly
+ be understood continuously.
+\end_layout
+
+\begin_layout Standard
+The capacity of having a theory of mind develops through early childhood
+ and is essential for being able to recognize that others have minds of
+ their own with distinct desires, intentions and beliefs.
+ As such, this capacity allows humans to both interpret the behavior of
+ others and infer underlying mental traits, while also reasoning and predicting
+ their future behavior based on their assumed mental states.
+ Acknowledging that other organisms are sentient like ourselves enables
+ us to distinguish between them and physical constructs.
+ While this is essential for moral considerations as well, this aspect is
+ not the focus of the present article, but it does indicate the important
+ social function of having a theory of mind.
+ 
+\end_layout
+
+\begin_layout Standard
+Much of the literature on theory of mind has been on the developmental aspect
+ and limitations in relation to having a higher order theory of mind.
+ Studies on child development indicate that children acquire a first-order
+ theory of mind between ages 3 to 5 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Wimmer"
+literal "false"
+
+\end_inset
+
+ and a second-order theory of mind at ages 6 to 8 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Perner"
+literal "false"
+
+\end_inset
+
+.
+ Some argue that this ability appears even earlier 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Chandler,Leslie"
+literal "false"
+
+\end_inset
+
+, and some even arguing that basic theory of mind aspects as goal perception
+ are present already in 9 to 12-month-old infants 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Csibra"
+literal "false"
+
+\end_inset
+
+.
+ This is relevant because it shows the naturalness of mental constructs.
+ Having a theory of mind does not mean that there is a deliberate reasoning
+ process seeing a person raise their hand in a classroom is first a mechanical
+ observation which is then interpreted, rather people perceive the such
+ actions as inherently intentional.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There is evidence that theory of mind is not just limited in the sense that
+ adults usually do not exhibit more than a second-order theory of mind but
+ also that any application of theory of mind might be severely limited at
+ times.
+ See for example Lin et al.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "lin et al reflexively mindblind"
+literal "false"
+
+\end_inset
+
+ for evidence that when interpreting the actions of others, the default
+ is to rely on one's own mental states and beliefs as representative of
+ the mental states of others.
+ Lin et al.
+ argue that effortful attention is required in order to use what is known
+ about other's beliefs.
+ Birch & Bloom 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Bloom"
+literal "false"
+
+\end_inset
+
+ also show a 
+\emph on
+curse of knowledge
+\emph default
+ bias in the sense that adults' own knowledge about an event can make them
+ worse at correctly attributing false beliefs about that event to others.
+ Keysar et al.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Keysar 2003"
+literal "false"
+
+\end_inset
+
+ show a disassociation between adult's ability to reflectively distinguish
+ between their own beliefs and others and actively utilizing this ability
+ when interpreting the actions of others.
+\end_layout
+
+\begin_layout Subsection
+Problem with positing discontinuous bounds on social cognition
+\end_layout
+
+\begin_layout Standard
+There is a possible pitfall when discussing the limits on theory of mind
+ reasoning.
+ It is tempting to assume that there is a fixed discontinuous bound on social
+ cognition, also called the danger of simplistic formal systems by Verbrugge
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "verbrugge logic and social cognition"
+literal "false"
+
+\end_inset
+
+, namely that people can reason up to 
+\begin_inset Formula $n$
+\end_inset
+
+ order of theory of mind but not 
+\begin_inset Formula $n+1$
+\end_inset
+
+.
+ If a person is able to apply first-order theory of mind and model the mental
+ state of another person, it seems natural that this leads to reasoning
+ about that person doing the same to you, effectively applying a second-order
+ theory of mind.
+ Continuing this line of reasoning implies infinite iterations of higher-order
+ social reasoning which is implausible, since we know that this line of
+ reasoning stops even after one or two iterations.
+ But it is conceivable that within a group of people capable of first-order
+ social reasoning, some are closer to second-order than others.
+ 
+\end_layout
+
+\begin_layout Standard
+Our findings show that (higher) orders of theory of mind should be understood
+ as a continuous capacity, that is, there might be variation within those
+ exhibiting 
+\begin_inset Formula $n$
+\end_inset
+
+ order theory of mind such that some are closer to 
+\begin_inset Formula $n+1$
+\end_inset
+
+ than others.
+\end_layout
+
+\begin_layout Section
+Conclusion
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "neo-kantianism"
+literal "false"
+
+\end_inset
+
+Anderson, R.
+ L.
+ (2005).
+ 
+\emph on
+Neo-Kantianism and the Roots of Anti-Psychologism
+\emph default
+, British Journal for the History of Philosophy, 13:2, 287-323, DOI: 10.1080/0960
+8780500069319
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-1"
+
+\end_inset
+
+Bacharach, M., & Stahl, D.
+ O.
+ (2000).
+ 
+\emph on
+Variable-frame level-n theory
+\emph default
+.
+ Games and Economic Behavior, 32(2), 220–246.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-6"
+
+\end_inset
+
+van Benthem, J.
+ F.
+ A.
+ K.
+ (2003).
+ 
+\emph on
+Logic and the Dynamics of Information.
+ 
+\emph default
+Minds and Machines 13: 503–519, Kluwer Academic Publishers
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "benthem_cognition as interaction"
+literal "false"
+
+\end_inset
+
+van Benthem, J.
+ F.
+ A.
+ K.
+ (2007a).
+ 
+\emph on
+Cognition as interaction
+\emph default
+.
+ In Proceedings symposium on cognitive foundations of interpretation (pp.
+ 27–38).
+ Amsterdam: KNAW.
+ 
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-22"
+
+\end_inset
+
+van Benthem, J.
+ F.
+ A.
+ K., Gerbrandy, J., & Pacuit, E.
+ (2007).
+ 
+\emph on
+Merging frameworks for interaction: DEL and ETL
+\emph default
+.
+ In D.
+ Samet (Ed.), Theoretical aspects of rationality and knowledge: Proceedings
+ of the eleventh conference, TARK 2007 (pp.
+ 72–81).
+ Louvain-la-Neuve: Presses Universitaires de Louvain.*
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-21"
+
+\end_inset
+
+van Benthem, J.
+ F.
+ A.
+ K., Hodges, H., & Hodges, W.
+ (2007b).
+ 
+\emph on
+Introduction
+\emph default
+.
+ Topoi, 26(1), 1–2.
+ (Special issue on logic and psychology, edited by J.F.A.K.
+ van Benthem, H.
+ Hodges, and W.
+ Hodges.).*
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "benthem logic and games"
+literal "false"
+
+\end_inset
+
+van Benthem, J.
+ F.
+ A.
+ K.
+ (2008).
+ 
+\emph on
+Logic and reasoning: Do the facts matter?
+\emph default
+ Studia Logica, 88, 67–84.
+ (Special issue on logic and the new psychologism, edited by H.
+ Leitgeb)
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "open minds"
+literal "false"
+
+\end_inset
+
+van Benthem, J.
+ F.
+ A.
+ K (2010).
+ 
+\emph on
+Modal logic for open minds.
+
+\emph default
+ CSLI Publications.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Benz"
+literal "false"
+
+\end_inset
+
+Benz, A., & van Rooij, R.
+ (2007).
+ O
+\emph on
+ptimal assertions, and what they implicate.
+ A uniform game theoretic approach
+\emph default
+.
+ Topoi, 26(1), 63–78 (Special issue on logic and psychology, edited by J.F.A.K.
+ van Benthem, H.
+ Hodges, and W.
+ Hodges.)*
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Berinsky"
+literal "false"
+
+\end_inset
+
+Berinsky, A., Huber, G., & Lenz, G.
+ (2012).
+ 
+\emph on
+Evaluating Online Labor Markets for Experimental Research: Amazon.com's Mechanica
+l Turk.
+ Political Analysis
+\emph default
+.
+ 20(3), 351-368.
+ doi:10.1093/pan/mpr057
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Bloom"
+literal "false"
+
+\end_inset
+
+Birch, S.
+ A.
+ J., Bloom, P.
+ (2007).
+ 
+\emph on
+The curse of knowledge in reasoning about false beliefs.
+
+\emph default
+ Psychol Sci.
+ 2007 May; 18(5): 382–386.
+ doi: 10.1111/j.1467-9280.2007.01909.x
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "burhmester 2011"
+literal "false"
+
+\end_inset
+
+Buhrmester, Michael & Kwang, Tracy & Gosling, Samuel.
+ (2011).
+ 
+\emph on
+Amazon's Mechanical Turk: A New Source of Inexpensive, Yet High-Quality,
+ Data?
+\emph default
+.
+ Perspectives on Psychological Science.
+ 6.
+ 3-5.
+ 10.1177/1745691610393980.
+ 
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "buhrmester 2018"
+literal "false"
+
+\end_inset
+
+Buhrmester, M.
+ D., Talaifar, S., & Gosling, S.
+ D.
+ (2018).
+
+\emph on
+ An Evaluation of Amazon’s Mechanical Turk, Its Rapid Rise, and Its Effective
+ Use
+\emph default
+.
+ Perspectives on Psychological Science, 13(2), 149–154.
+ https://doi.org/10.1177/1745691617706516
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Costa-Gomes"
+literal "false"
+
+\end_inset
+
+Castelfranchi, C.
+ (2004).
+ 
+\emph on
+Reasons to believe: cognitive models of belief change
+\emph default
+.
+ Ms.
+ ISTC-CNR, Roma.
+ Invited lecture, Workshop Changing Minds, ILLC Amsterdam, October 2004.
+ Extended version.
+ Castelfranchi, Cristiano and Emiliano Lorini, The cognitive structure of
+ surprise.Costa-Gomes, M., Weizsäcker, G., (2008).
+ Stated beliefs and play in normal form games.
+ Review of Economic Studies 75, 729–762.
+ 
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Chandler"
+literal "false"
+
+\end_inset
+
+Chandler, M., Fritz, A.
+ S., & Hala, S.
+ (1989).
+ Small-scale deceit: deception as a marker of 2-, 3-, and 4-year-olds’ early
+ theories of mind.
+ Child Development, 60, 1263–1277.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "cheng on wason"
+literal "false"
+
+\end_inset
+
+Cheng P.W., Holyoak K.J, Nisbett R.E., Oliver L.M.
+ (1986).
+
+\emph on
+ Pragmatic versus syntactic approaches to training deductive reasoning.
+
+\emph default
+ Cogn.
+ Psychol.
+ 18:293–328
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "otree"
+literal "false"
+
+\end_inset
+
+Chen, D.L., Schonger, M., Wickens, C., 2016.
+ 
+\emph on
+oTree - An open-source platform for laboratory, online and field experiments
+\emph default
+.
+ Journal of Behavioral and Experimental Finance, vol 9: 88-97
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "clayton "
+literal "false"
+
+\end_inset
+
+Clayton, N.
+ S., Dally, J.
+ M., & Emery, N.
+ J.
+ (2007).
+ Social cognition by food-caching corvids.
+ The western scrub-jay as a natural psychologist.
+ Philosophical Transactions of the Royal Society of London.
+ Series B, Biological Sciences, 362, 507–522.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "crump"
+literal "false"
+
+\end_inset
+
+Crump M.
+ J.
+ C, McDonnell J.
+ V., Gureckis T.
+ M.
+ (2013).
+ 
+\emph on
+Evaluating Amazon's Mechanical Turk as a Tool for Experimental Behavioral
+ Research
+\emph default
+.
+ PLoS ONE 8(3): e57410.
+ https://doi.org/10.1371/journal.pone.0057410.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Csibra"
+literal "false"
+
+\end_inset
+
+Csibra, G., Gergely, G., Biro, S., Koos, O., & Brockbank, M.
+ (1999).
+ 
+\emph on
+Goal attribution without agency cues: the perception of ‘pure reason’ in
+ infancy
+\emph default
+.
+ Cognition, 72, 237–267.*
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "DEL"
+literal "false"
+
+\end_inset
+
+van Ditmarsch, H., van der Hoek, W., Kooi, B.
+ (2008).
+ 
+\emph on
+Dynamic Epistemic Logic
+\emph default
+.
+ Synthese Library, Springer Netherlands.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "consecutive numbers book"
+literal "false"
+
+\end_inset
+
+ van Ditmarsch H., Kooi B.
+ (2015) 
+\emph on
+Consecutive Numbers.
+ In: One Hundred Prisoners and a Light Bulb
+\emph default
+.
+ Copernicus, Cham
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Donkers"
+literal "false"
+
+\end_inset
+
+Donkers, H.
+ H.
+ L.
+ M., Uiterwijk, J.
+ W.
+ H.
+ M., & van den Herik, H.
+ J.
+ (2005).
+ 
+\emph on
+Selecting evaluation functions in opponent-model search
+\emph default
+.
+ Theoretical Computer Science, 349, 245–267.*
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "dunin+verbrugge"
+literal "false"
+
+\end_inset
+
+Dunin-Keplicz, B., & Verbrugge, R.
+ (2006).
+
+\emph on
+ Awareness as a vital ingredient of teamwork
+\emph default
+.
+ In P.
+ Stone, & G.
+ Weiss (Eds.), Proceedings of the fifth international joint conference on
+ autonomous agents and multiagent systems (AAMAS’06) (pp.
+ 1017–1024).
+ New York: IEEE / ACM.*
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-20"
+
+\end_inset
+
+van Eijck, J., & Verbrugge, R.
+ (Eds.) (2009).
+ 
+\emph on
+Discourses on social software
+\emph default
+.
+ Texts in games and logic (Vol.
+ 5).
+ Amsterdam: Amsterdam University Press.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Erb - AI and ToM"
+literal "false"
+
+\end_inset
+
+Erb, Benjamin.
+ (2016).
+ 
+\emph on
+Artificial Intelligence & Theory of Mind
+\emph default
+.
+ 10.13140/RG.2.2.27105.71526.
+ 
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-33"
+
+\end_inset
+
+Fagin, R., & Halpern, J.
+ (1988).
+ 
+\emph on
+Belief, awareness, and limited reasoning
+\emph default
+.
+ Artificial Intelligence, 34, 39–76.*
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-32"
+
+\end_inset
+
+Fagin, R., Halpern, J.
+ Y., Moses, Y., & Vardi, M.
+ Y.
+ (1995).
+ Reasoning about knowledge, 2nd ed., 2003.
+ Cambridge: MIT.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Flobbeverbrugge etc 2008"
+literal "false"
+
+\end_inset
+
+Flobbe, L., Verbrugge, R., Hendriks, P.,&Krämer, I.
+ (2008).
+ 
+\emph on
+Children’s application of theory of mind in reasoning and language
+\emph default
+.
+ Journal of Logic, Language and Information, 17, 417–442.
+ (Special issue on formal models for real people, edited by M.
+ Counihan.)*
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "frege 1964"
+literal "false"
+
+\end_inset
+
+Frege, G.
+ (1964 [1893]).
+ 
+\emph on
+The Basic Laws of Arithmetic: Exposition of the System
+\emph default
+, M.
+ Furth (trans.), Berkeley, CA: University of California Press.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "frege1897"
+literal "false"
+
+\end_inset
+
+Frege, G.
+ (1897).
+ 
+\emph on
+Logic
+\emph default
+, reprinted in Frege [1997], pp.
+ 227–250.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-5"
+
+\end_inset
+
+Frege, G.
+ (1997).
+ 
+\emph on
+The Frege reader
+\emph default
+ (M.
+ Beaney, editor), Blackwell, Oxford.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-22"
+
+\end_inset
+
+Ghosh, S., Meijering, B., & Verbrugge, R.
+ (2014).
+ 
+\emph on
+Strategic reasoning: Building cognitive models from logical formulas
+\emph default
+.
+ Journal of Logic, Language and Information, 23(1), 1–29.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "ghosh 2015"
+literal "false"
+
+\end_inset
+
+Ghosh, S., Heifetz, A., & Verbrugge, R.
+ (2015).
+ Do players reason by forward induction in dynamic perfect information games?
+ TARK.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "studying strategies verbrugge 2014"
+literal "false"
+
+\end_inset
+
+Ghosh, S., Meijering, B.
+ & Verbrugge, R.
+ (2018).
+ 
+\emph on
+Studying strategies and types of players: experiments, logics and cognitive
+ models.
+
+\emph default
+ Synthese (2018) 195: 4265.
+ https://doi.org/10.1007/s11229-017-1338-7
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-8"
+
+\end_inset
+
+Gierasimczuk, N., Hendricks, V.
+ F., Jongh, D.
+ d.
+ (2014).
+ 
+\emph on
+Logic and Learning
+\emph default
+.
+ In Johan van Benthem on Logic and Information Dynamics, Baltag, Alexandru,
+ Smets, Sonja (Eds.).
+ Outstanding Contributions to Logic, Vol.
+ 5.
+ Dordrecht: Springer.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Gigerenzer"
+literal "false"
+
+\end_inset
+
+Gigerenzer, G., Todd, P., & The ABC Research Group.
+ (1999).
+ 
+\emph on
+Simple Heuristics that Make us Smart
+\emph default
+.
+ New York: Oxford University Press.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "griggs"
+literal "false"
+
+\end_inset
+
+Griggs R.A., Cox J.R.
+ (1982).
+
+\emph on
+ The elusive thematic-materials effect in Wason’s selection task
+\emph default
+.
+ Br J Psychol 73:407–420
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-30"
+
+\end_inset
+
+Halpern, J.
+ Y., & Moses, Y.
+ (1990).
+ K
+\emph on
+nowledge and common knowledge in a distributed environment
+\emph default
+.
+ Journal of the ACM, 37, 549–587.*
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-29"
+
+\end_inset
+
+Harbers, M., Verbrugge, R., Sierra, C., & Debenham, J.
+ (2008).
+
+\emph on
+ The examination of an information-based approach to trust
+\emph default
+.
+ In P.
+ Noriega, & J.
+ Padget (Eds.), Coordination, organizatiosn, institutions and norms in agent
+ systems III.
+ Lecture notes in computer science (Vol.
+ 4870, pp.
+ 71–82).
+ Berlin: Springer.*
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "hedden2002"
+literal "false"
+
+\end_inset
+
+Hedden, T., & Zhang, J.
+ (2002).
+ 
+\emph on
+What do you think I think you think? Strategic reasoning in matrix games
+\emph default
+.
+ Cognition, 85, 1–36.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Herman"
+literal "false"
+
+\end_inset
+
+Herrmann, E., Call, J., Hernandez-Lloreda, M.
+ V., Hare, B., & Tomasello, M.
+ (2007).
+
+\emph on
+ Humans have evolved specialized skills of social cognition: The cultural
+ intelligence hypothesis
+\emph default
+.
+ Science, 317, 1360–1366.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "horton"
+literal "false"
+
+\end_inset
+
+Horton, J.J., Rand, D.G.
+ & Zeckhauser, R.J.
+ (2011).
+ 
+\emph on
+The online laboratory: conducting experiments in a real labor market
+\emph default
+.
+ Experimental Economics, Sep.
+ 2014, Vol.
+ 14: 399.
+ https://doi.org/10.1007/s10683-011-9273-9
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "humphrey"
+literal "false"
+
+\end_inset
+
+Humphrey, N.K.
+ (1980).
+ 
+\emph on
+Nature’s psychologists
+\emph default
+.
+ In Consciousness and the physical world (eds B.
+ D.
+ Josephson & V.
+ S.
+ Ramachandran), pp.
+ 57–80.
+ Oxford, UK: Pergamon Press.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-25"
+
+\end_inset
+
+Isaac, A.
+ M.
+ C., Szymanik, J., & Verbrugge, R.
+ (2014).
+ 
+\emph on
+Logic and complexity in cognitive science
+\emph default
+.
+ In Johan van Benthem on Logic and Information Dynamics (pp.
+ 787–824).
+ Springer.*
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Karmiloff"
+literal "false"
+
+\end_inset
+
+Karmiloff-Smith, A.
+ (1992).
+ 
+\emph on
+Beyond modularity: A developmental perspective on cognitive science
+\emph default
+.
+ Cambridge: MIT.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Keysar 2003"
+literal "false"
+
+\end_inset
+
+Keysar, B.
+ & Lin, S.
+ & J Barr, D.
+ (2003).
+ 
+\emph on
+Limits on theory of mind use in adults
+\emph default
+.
+ Cognition.
+ 89.
+ 25-41.
+ 10.1016/S0010-0277(03)00064-7.
+ 
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-26"
+
+\end_inset
+
+van Lambalgen, M., & Counihan, M.
+ (2008).
+ 
+\emph on
+Formal models for real people
+\emph default
+.
+ Journal of Logic, Language and Information, 17, 385–389.
+ (Special issue on formal models for real people, edited by M.
+ Counihan).
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Leslie"
+literal "false"
+
+\end_inset
+
+Leslie, A.
+ (2000).
+ How to acquire a ‘representational theory of mind’.
+ In D.
+ Sperber & S.
+ Davies (Eds.), Metarepresentation, Oxford: Oxford University Press.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "lin et al reflexively mindblind"
+literal "false"
+
+\end_inset
+
+Lin, S., Keysar, B., Nicholas, E.
+ (2010).
+ 
+\emph on
+Reflexively mindblind: Using theory of mind to interpret behavior requires
+ effortful attention
+\emph default
+.
+ Journal of Experimental Social Psychology Volume 46, Issue 3, May 2010,
+ Pages 551-556.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Liu diversity"
+literal "false"
+
+\end_inset
+
+Liu, F.
+ (2008).
+
+\emph on
+ Diversity of Agents and Their Interaction
+\emph default
+.
+ Springer Netherlands.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "mccarthy ai"
+literal "false"
+
+\end_inset
+
+McCarthy, J., Minsky, M., Rochester, N., & Shannon, C.
+ (1955).
+ 
+\emph on
+Proposal for the Dartmouth summer research project on artificial intelligence
+\emph default
+.
+ Technical report, Dartmouth College.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "mason"
+literal "false"
+
+\end_inset
+
+Mason, Winter & Watts, Duncan.
+ (2009).
+ 
+\emph on
+Financial incentives and the performance of crowds
+\emph default
+.
+ SIGKDD Explorations.
+ 11.
+ 100-108.
+ 10.1145/1600150.1600175.
+ 
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "maddy phil of logic"
+literal "false"
+
+\end_inset
+
+Maddy, P.
+ (2012).
+ 
+\emph on
+The philosophy of logic
+\emph default
+.
+ Bulletin of Symbolic Logic 18 (4):481-504.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Meijering"
+literal "false"
+
+\end_inset
+
+Meijering, B.,Maanen, L.
+ v., Rijn,H.
+ v., & Verbrugge, R.
+ (2010).
+ T
+\emph on
+he facilitative effect of context on secondorder social reasoning
+\emph default
+.
+ In Proceedings of the 32nd annual meeting of the cognitive science society,
+ (pp.
+ 1423–1428).
+ Philadelphia, PA, Cognitive Science Society.*
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Mol masters thesis_learningToReasonAboutOthersMinds"
+literal "false"
+
+\end_inset
+
+Mol, L.
+ (2004).
+ Learning to reason about other people’s minds.
+ Technical report, Institute of Artificial Intelligence, University of Groningen
+, Groningen.
+ Master’s thesis.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-27"
+
+\end_inset
+
+Pacuit, E., Parikh, R., & Cogan, E.
+ (2006).
+ 
+\emph on
+The logic of knowledge based obligation
+\emph default
+.
+ Synthese: Knowledge, Rationality and Action, 149, 57–87.*
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "eliciting beliefs proper scoring"
+literal "false"
+
+\end_inset
+
+Palfrey, T., & Wang, S.
+ (2009).
+ 
+\emph on
+On eliciting beliefs in strategic games
+\emph default
+.
+ Journal of Economic Behavior & Organization, 71(2), 98-109.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-26"
+
+\end_inset
+
+Parikh, R.
+ (2003).
+
+\emph on
+ Levels of knowledge, games, and group action
+\emph default
+.
+ Research in Economics, 57, 267–281.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Perner"
+literal "false"
+
+\end_inset
+
+Perner, J.
+ (1988).
+ 
+\emph on
+Higher-order beliefs and intentions in children’s understanding of social
+ interaction
+\emph default
+.
+ In J.
+ W.
+ Astington, P.
+ L.
+ Harris, & D.
+ R.
+ Olson (Eds.), Developing theories of mind (pp.
+ 271–294).
+ Cambridge: Cambridge University Press.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-12"
+
+\end_inset
+
+Putnam, H.
+ (1978).
+ 
+\emph on
+There is at least one a priori truth.
+ 
+\emph default
+Erkenntnis 13 (1978) 153-170.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Quine"
+literal "false"
+
+\end_inset
+
+Quine, W.
+ V.
+ O (1951).
+
+\emph on
+ Two dogmas of empiricism
+\emph default
+.
+ Reprinted in his From a logical point of view, second ed., Harvard University
+ Press, Cambridge, MA, 1980, pp.
+ 20–46.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "rand"
+literal "false"
+
+\end_inset
+
+Rand, David.
+ (2011).
+ 
+\emph on
+The promise of Mechanical Turk: How online labor markets can help theorists
+ run behavioral experiments
+\emph default
+.
+ Journal of theoretical biology.
+ 299.
+ 172-9.
+ 10.1016/j.jtbi.2011.03.004.
+ 
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Rosenthal"
+literal "false"
+
+\end_inset
+
+Rosenthal, R.
+ (1981).
+ 
+\emph on
+Games of perfect information, predatory pricing, and the chain store
+\emph default
+.
+ Journal of Economic Theory, 25, 92–100.*
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Seidenfeld"
+literal "false"
+
+\end_inset
+
+Seidenfeld, T., 1985.
+ 
+\emph on
+Calibration, coherence, and scoring rules
+\emph default
+.
+ Philosophy of Science 52, 274–294.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-24"
+
+\end_inset
+
+Stahl, D.
+ O., & Wilson, P.
+ W.
+ (1995).
+ 
+\emph on
+On players’ models of other players: Theory and experimental evidence
+\emph default
+.
+ Games and Economic Behavior, 10, 218–254.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Stenning on wason"
+literal "false"
+
+\end_inset
+
+Stenning K, van Lambalgen M.
+ (2008).
+\emph on
+Human reasoning and cognitive science
+\emph default
+.
+ MIT Press, Cambridge
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-23"
+
+\end_inset
+
+Stulp, F., & Verbrugge, R.
+ (2002).
+ 
+\emph on
+A knowledge-based algorithm for the internet protocol TCP
+\emph default
+.
+ Bulletin of Economic Research, 54(1), 69–94.*
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-2"
+
+\end_inset
+
+Sycara, K.
+ & Lewis, M.
+ (2004).
+ 
+\emph on
+Integrating intelligent agents into human teams
+\emph default
+.
+ In E.
+ Salas,& S.
+ Fiore (Eds.), Team cognition: Understanding the factors that drive process
+ and performance (pp.
+ 203–232).
+ Washington, DC: American Psychological Association.
+ 133.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Verbrugge 2008"
+literal "false"
+
+\end_inset
+
+Verbrugge, R., & Mol, L.
+ (2008).
+ 
+\emph on
+Learning to apply theory of mind
+\emph default
+.
+ Journal of Logic, Language and Information, 17, 489–511.
+ (Special issue on formal models for real people, edited by M.
+ Counihan.)
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "verbrugge logic and social cognition"
+literal "false"
+
+\end_inset
+
+Verbrugge R.
+ (2009): 
+\emph on
+Logic and Social Cognition
+\emph default
+.
+ Journal of Philosophical Logic.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "wason 1966"
+literal "false"
+
+\end_inset
+
+Wason, P.
+ C.
+ (1966).
+ 
+\emph on
+Reasoning
+\emph default
+.
+ In B.
+ M.
+ Foss (Ed.), New Horizons in Psychology I, (pp.
+ 135–151).
+ Harmondsworth: Penguin.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "wason 1971"
+literal "false"
+
+\end_inset
+
+Wason P.C., Shapiro D.
+ (1971).
+ 
+\emph on
+Natural and contrived experience in a reasoning problem
+\emph default
+.
+ Q J Exp Psychol 23:63–71
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-23"
+
+\end_inset
+
+Wason, P., & Shapiro, D.
+ (1971).
+ 
+\emph on
+Natural and contrived experience in a reasoning problem
+\emph default
+.
+ The Quarterly Journal of Experimental Psychology, 23(1), 63–71.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Wellman"
+literal "false"
+
+\end_inset
+
+Wellman, H.
+ M.
+ (1990).
+ 
+\emph on
+The child’s theory of mind.
+
+\emph default
+ Cambridge, MA: MIT Press.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Wimmer"
+literal "false"
+
+\end_inset
+
+Wimmer, H., & Perner, J.
+ (1983).
+ 
+\emph on
+Beliefs about beliefs: Representation and constraining function of wrong
+ beliefs in young children’s understanding of deception
+\emph default
+.
+ Cognition, 13, 103–128.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-8"
+literal "false"
+
+\end_inset
+
+Wooldridge, M.
+ J.
+ (2002).
+ 
+\emph on
+An introduction to multiagent systems
+\emph default
+.
+ Chichester: Wiley.*
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Glascher lab"
+literal "false"
+
+\end_inset
+
+http://www.glascherlab.org/social-decisionmaking/
+\end_layout
+
+\end_body
+\end_document

@@ -1,0 +1,7 @@
+2 Non-random but unspecified, commmon sense, best strategy, intuition.
+
+Code for particpant:  ubiglrl1 
+ Strategy answer:  I attempted to make the correct decision for each round, to maximize payout per round. 
+
+Code for particpant:  poblvgrl 
+ Strategy answer:  I thought my partner would see that it was close to the time and not go to the canteen, as I always got to the office at 9:00AM. Being it's 10 minute difference they would have gotten there at 8:50AM, but must have kept assuming I was getting there before them. 

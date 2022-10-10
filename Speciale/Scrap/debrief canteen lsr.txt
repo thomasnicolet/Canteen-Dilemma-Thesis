@@ -1,0 +1,11 @@
+  <p>
+
+        Even if you know your colleagues arrival time (+/- 10 minutes), it is still unclear what you know about what she knows about what you know and so on. If you arrive at 8:50, your know your colleague could arrive at 8:40, where she could go either to the canteen or the office, or at 9:00 where she has to go to the office. If you go to the canteen, you might risk she arrived at 9:00 and went to the office. If you really don't want to risk going to the canteen while your partner goes to the office, you have to go to the office at 8:50 as well. If you arrive at 8:40, your colleague could have arrived at 8:50 at the latest. If she reasons like you, she would go to the office, meaning you should do the same - even though you both arrived before 9:00. But even if you arrived at 8:30, where your colleague could have arrived at 8:40 at the latest, if your colleague reasons like you, she would go to the office at 8:40, meaning you should go to the office as well. The same line of reasoning can be repeated infinitely through backwards deduction. This means that if you don't want to risk going to the canteen while you colleague goes to the office, you have to go to the office even if you arrive at 8:00!
+    </p>
+    <p>
+        Thus, Common Knowledge - in its ultimate sense - implies not only that people know some piece of information,
+        but also that you can be absolutely confident that everybody knows that everybody know it, and so on.
+        The canteen dilemma shows that without Common Knowledge you
+        must eventually conclude that you never can meet in the canteen! At least if you do not
+        want to risk losing any hard earned bonuses.
+    </p>

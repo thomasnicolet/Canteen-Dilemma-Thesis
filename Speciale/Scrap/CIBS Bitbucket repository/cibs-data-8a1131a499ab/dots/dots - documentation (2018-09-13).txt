@@ -1,0 +1,241 @@
+dots: Documentation
+*******************
+
+Accessed: 2018-09-13
+
+
+Information Cascades with an Dots
+
+
+Participant
+    id_in_session
+        type
+            positive integer
+        doc
+    code
+        type
+            text
+        doc
+            Randomly generated unique identifier for the participant. If you would like to merge this dataset with those from another subsession in the same session, you should join on this field, which will be the same across subsessions.
+    label
+        type
+            text
+        doc
+            Label assigned by the experimenter. Can be assigned by passing a GET param called 'participant_label' to the participant's start URL
+    _is_bot
+        type
+            NullBooleanField
+        doc
+        choices
+            True: Yes
+            False: No
+    _index_in_pages
+        type
+            positive integer
+        doc
+    _max_page_index
+        type
+            positive integer
+        doc
+    _current_app_name
+        type
+            text
+        doc
+    _round_number
+        type
+            positive integer
+        doc
+    _current_page_name
+        type
+            text
+        doc
+    ip_address
+        type
+            GenericIPAddressField
+        doc
+    time_started
+        type
+            DateTimeField
+        doc
+    visited
+        type
+            NullBooleanField
+        doc
+            Whether this user's start URL was opened
+        choices
+            True: Yes
+            False: No
+    mturk_worker_id
+        type
+            text
+        doc
+    mturk_assignment_id
+        type
+            text
+        doc
+    payoff
+        type
+            decimal
+        doc
+Player
+    id_in_group
+        type
+            positive integer
+        doc
+            Index starting from 1. In multiplayer games, indicates whether this is player 1, player 2, etc.
+    decision_order
+        type
+            integer
+        doc
+    decision_history
+        type
+            text
+        doc
+    guess
+        type
+            integer
+        doc
+    confirm
+        type
+            NullBooleanField
+        doc
+        choices
+            True: Yes
+            False: No
+    guess_percent_diff
+        type
+            decimal
+        doc
+    early_finish
+        type
+            NullBooleanField
+        doc
+            if decided to abandon the waiting page clickin Finish the study
+        choices
+            True: Yes
+            False: No
+    wp_timer_start
+        type
+            DateTimeField
+        doc
+            [error]
+    sec_spent
+        type
+            integer
+        doc
+            number of seconds spent on waiting page
+    sec_earned
+        type
+            decimal
+        doc
+            dollars earned for waiting
+    payoff
+Group
+    id_in_subsession
+        type
+            positive integer
+        doc
+Subsession
+    round_number
+        type
+            positive integer
+        doc
+            If this subsession is repeated (i.e. has multiple rounds), this
+            field stores the position (index) of this subsession, among subsessions
+            in the same app.
+            For example, if a session consists of the subsessions:
+            [app1, app2, app1, app1, app3]
+            Then the round numbers of these subsessions would be:
+            [1, 1, 2, 3, 1]
+    pay_per_min
+        type
+            decimal
+        doc
+            how much to pay per minute of waiting.Set to 0 to pay nothing
+    wait_before_leave
+        type
+            integer
+        doc
+            how many seconds to wait.Set to negative number to switch off the option.  Set to 0 to show immediately
+    max_wait_time
+        type
+            integer
+        doc
+            How long a waiting player can accrue a waiting bonus for. The player can choose to wait longer than this, but it will not count towards the waiting time bonus.
+    bonus
+        type
+            integer
+        doc
+            bonus for guessing within 10 %.
+    views
+        type
+            integer
+        doc
+            number of previous guesses visible.
+    selection_method
+        type
+            text
+        doc
+            how the guesses to show the player is chosen: history/max/min
+    true_number_of_dots
+        type
+            integer
+        doc
+            the true number of dots
+    image_path
+        type
+            text
+        doc
+            path to the dots image
+    worker_running
+        type
+            integer
+        doc
+            how many background workers have been scheduled for this subsession
+    last_worker_activity
+        type
+            DateTimeField
+        doc
+            [error]
+    number_of_people_going_to_wait
+        type
+            integer
+        doc
+    last_prewait_check
+        type
+            DateTimeField
+        doc
+            [error]
+Session
+    code
+        type
+            text
+        doc
+            Randomly generated unique identifier for the session.
+    label
+        type
+            text
+        doc
+    experimenter_name
+        type
+            text
+        doc
+    mturk_HITId
+        type
+            text
+        doc
+    mturk_HITGroupId
+        type
+            text
+        doc
+    comment
+        type
+            text
+        doc
+    is_demo
+        type
+            NullBooleanField
+        doc
+        choices
+            True: Yes
+            False: No

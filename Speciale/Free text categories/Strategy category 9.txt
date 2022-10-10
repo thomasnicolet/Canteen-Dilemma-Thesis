@@ -1,0 +1,23 @@
+9. Behavior based, simply try to do what the other player does, 
+often dependent on players earlier choice.
+
+Code for particpant:  n17jcprh 
+ Strategy answer:  I tried to anticipate their moves psychologically in response to mine and failed I guess. 
+
+Code for particpant:  iwbjyzz8 
+ Strategy answer:  I didn't have enough data based on the rounds to use a strategy so I just went off of what I thought the other person would pick. 
+
+Code for particpant:  f5mh3hgc 
+ Strategy answer:  What I thought he'd do 
+
+Code for particpant:  556swypq 
+ Strategy answer:  I simply tried to calculate where my colleague might go based on my own arrival time. 
+
+Code for particpant:  qz2wmp3f 
+ Strategy answer:  I knew they would arrive 10 minutes on one end or the other, I based my choices on knowing that and went with what I considered safe. 
+
+Code for particpant:  ssukcuow 
+ Strategy answer:  Used the arrival time to best guess as to where my partner would go: Canteen or Office. 
+
+Code for particpant:  i62ymkgs 
+ Strategy answer:  I tried to anticipate what my partner would do, however it also seemed like there was an obvious choice if I arrived at any time before 8:50 so I would know that we both had time to go to the canteen (the best option bonus wise) 

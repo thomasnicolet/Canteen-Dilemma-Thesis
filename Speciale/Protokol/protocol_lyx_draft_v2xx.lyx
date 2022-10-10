@@ -1,0 +1,1808 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Protocol for Canteen Dilemma
+\end_layout
+
+\begin_layout Author
+Robin Engelhardt, Thomas S.
+ Nicolet
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Background
+\end_layout
+
+\begin_layout Standard
+The Canteen Dilemma experiment is meant to investigate what happens when
+ people have to coordinate their actions without common knowledge.
+ In the research literature, group 
+\emph on
+G 
+\emph default
+have 
+\emph on
+common knowledge 
+\emph default
+that 
+\emph on
+A
+\emph default
+ when everyone in group 
+\emph on
+G 
+\emph default
+knows 
+\emph on
+A
+\emph default
+, and everyone in group 
+\emph on
+G 
+\emph default
+knows that everyone in group 
+\emph on
+G
+\emph default
+ knows A, and everyone in group 
+\emph on
+G 
+\emph default
+knows that everyone in group 
+\emph on
+G 
+\emph default
+knows that everyone in group 
+\emph on
+G 
+\emph default
+knows 
+\emph on
+A
+\emph default
+ etc.
+ etc.
+ Common knowledge is an essential aspect of social cognition, i.e.
+ reasoning about the reasoning of others.
+ In everyday use of the concept, common knowledge often refers to either
+ something that everyone knows (called 
+\emph on
+mutual knowledge
+\emph default
+ in the research literature) or even just something that most people believe.
+ The importance of common knowledge is not always intuitive.
+ The Canteen Dilemma is intended to investigate the extend to which people
+ recursively model the mental states of others and how important they think
+ this is in coordination games.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The Canteen Dilemma is structurally similar to the Consecutive Numbers example
+ in (Ditmarsch et al., 2008).
+ In this example, two agents, 
+\emph on
+a 
+\emph default
+(Anne) and 
+\emph on
+b
+\emph default
+ (Bill), face each other and can each see a number on the other's head.
+ The numbers are consecutive numbers 
+\emph on
+n 
+\emph default
+and 
+\emph on
+n+1 
+\emph default
+for a certain 
+\emph on
+
+\begin_inset Formula $n\in\mathbb{\mathbb{N}}$
+\end_inset
+
+
+\emph default
+.
+ For our example, assume the possible numbers are 0 to 10.
+ These facts are common knowledge for Anne and Bill.
+ As an example, assume that Anne has the number 3 and Bill has 2.
+ Now imagine that we ask them if it is common knowledge that they both have
+ numbers higher than 0.
+ If one of them had a 0, the other would see this and conclude that their
+ own number must be a 1.
+ So our question is equivalent to asking if it's common knowledge that none
+ of them know their number.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Let us check.
+ Anne and Bill both know their numbers must be higher than 0, Since Anne
+ sees a 2 and Bill sees a 3, so 
+\begin_inset Formula $E_{\{a,b\}}(\neg a_{0}\wedge\neg b_{0})$
+\end_inset
+
+, where 
+\emph on
+E 
+\emph default
+denotes some proposition is mutual knowledge for some agents.
+ Now notice that since Anne can see a 2, she thinks it's possible she has
+ 1 and Bill has 2: 
+\begin_inset Formula $\hat{{K}}_{a}(a_{1}\wedge b_{2})$
+\end_inset
+
+ (where 
+\begin_inset Formula $\hat{{K}}_{a}A$
+\end_inset
+
+ means that 
+\emph on
+a 
+\emph default
+considers 
+\emph on
+A
+\emph default
+ possible, defined as 
+\begin_inset Formula $\hat{{K}}_{a}\varphi:=\neg K_{a}\neg\varphi$
+\end_inset
+
+ ).
+ In that situation, Bill might not know his own number, since he sees a
+ 1, but since he might have a 0 in that situation, he considers it possible
+ that Anne might know her number.
+ So we have: 
+\begin_inset Formula $E_{\{a,b\}}(\neg a_{0}\wedge\neg b_{0})\land\neg E_{\{a,b\}}E_{\{a,b\}}(\neg a_{0}\wedge\neg b_{0})$
+\end_inset
+
+ .
+ So while both Anne and Bill know that their numbers are higher than 0,
+ not everyone knows this epistemic fact, so it is not common knowledge.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+This is important in some cases, for example if we told Anne and Bill that
+ they have to cooperate their actions in the following way.
+ Assume that they get a large reward if both choose B while none of them
+ have a 0, a smaller reward for both choosing A regardless of their number,
+ and a large penalty for either making different choices or one choosing
+ B when one of them has a 0.
+ In our case 
+\begin_inset Formula $(a_{3}\wedge b_{2}),$
+\end_inset
+
+ both know they would get the largest reward if they both chose B.
+ But since Anne sees a 2 on Bill, she thinks she might have a 1.
+ If she has a 1, Bill would think he might have a 0, and he knows that Anne
+ has to choose A if he has a 0, making him choose A as well.
+ So since they don't have common knowledge about their numbers, the only
+ safe strategy is choosing A.
+ This holds no matter what number they have.
+ This is highly unintuitive and it is this aspect of theoretical social
+ cognition that the Canteen Dilemma is meant to capture.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Respondents in the Canteen Dilemma are given a similar story to the Consecutive
+ Numbers game.
+ Players are told that they and their colleague arrive at work every morning
+ between 8:00 am and 9:10 am and that they always arrive 10 minutes apart.
+ If they both arrive before 9:00 am, they have time to go to the canteen
+ for a coffee.
+ If either arrive at 9:00 am or after, they have to go to their offices.
+ Players are rewarded if they both go to the canteen before 9:00 am and
+ get a smaller reward if they both go to their offices at any time.
+ They get penalized if they either go to different places or if one goes
+ to the canteen at 9:00 am or later.
+ Much like the consecutive numbers game, players only have common knowledge
+ that they arrive 10 minutes apart, but no common knowledge about their
+ arrival time.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The structure of the Canteen Dilemma can be found in coordination problems
+ in everyday life when people communicate through text.
+ In such cases, people might have mutual knowledge but no proper common
+ knowledge.
+ This experiment is intended to investigate the way people act and reason
+ in such cases.
+\end_layout
+
+\begin_layout Section
+Research Questions
+\end_layout
+
+\begin_layout Standard
+Common knowledge is an important theoretical concept in epistemic logic.
+ It can be difficult for people to imagine cases where the difference between
+ mutual knowledge and common knowledge has practical significance however.
+ Our experiment exhibits a structure where the lack of common knowledge
+ makes a tangible difference.
+ Our research questions and hypotheses relies on this fact and can be expressed
+ like this:
+\end_layout
+
+\begin_layout Enumerate
+The theoretical concept of common knowledge does not match our everyday
+ notions of common knowledge.
+ The infinite recursive modeling of other's beliefs does not occur in everyday
+ situations and at most 2-3 iterations happen.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Most respondent will reason to approximately the same depth, which is 2-3
+ iterations of social reasoning.
+ In other words, players will at most reason about others, reasoning about
+ them.
+\end_layout
+
+\begin_layout Enumerate
+Respondents will intentionally limit their reasoning depth because they
+ find this depth sufficient for the task at hand.
+ In other words, a limited reasoning depth is not necessarily due to lack
+ of capacity in respondents but also due to the belief that a more iterations
+ are not necessary to succeed in the game.
+ I.e.
+ respondents have the false belief that arriving early enough warrants that
+ it is safe to go the canteen.
+\end_layout
+
+\begin_layout Standard
+Our general research questions are: What are the respondents intuition about
+ common knowledge? Do they really reason about each other's knowledge as
+ modeled in epistemic logic? How well do the respondents do in terms of
+ payoffs, i.e.
+ how optimised are their strategies?
+\end_layout
+
+\begin_layout Section
+Experimental Design and Setup 
+\end_layout
+
+\begin_layout Subsection
+Instructions to player (requires formatting layout of screencaps)
+\end_layout
+
+\begin_layout Standard
+The experimental setup is facilitated through Amazon's Mechanical Turk.
+ After accepting the Amazon Mechanical Turk ‘hit’ all participants are asked
+ to provide informed consent during the registration process.
+ Upon being provided with a link to a UCPH-server at https://cibs.mef.sc.ku.dk
+ and entering the experimental platform, participants wait until the choice
+ room is available.
+ A web page appears showing the following:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename screenshot2_cd.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+After seeing the instructions, the following web page appears.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename round1_canteenDilemmaScreenshot.png
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+After making their choice, they have to give an estimate of their certainty
+ that the other player made the same choice.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename certainty_canteen_dilemma_screenshot.png
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Each round, after having made their choice and estimated their certainty,
+ respondents see the following result page:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename result_page_canteen_dilemma_screenshot.png
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The game stops if either player loses their initial $10 bonus
+\end_layout
+
+\begin_layout Subsection
+Questions
+\end_layout
+
+\begin_layout Standard
+The experiment involves two key questions and five supplementary ones.
+ Each round involves these two questions:
+\end_layout
+
+\begin_layout Itemize
+It is Monday morning, and you have arrived at your workplace at 8:10 am.
+ Where will you go? (Either the canteen or the office).
+\end_layout
+
+\begin_layout Itemize
+How certain are you that your colleague has made the same choice as you?
+ (Very uncertain, slightly certain, somewhat certain, quite certain, very
+ certain).
+\end_layout
+
+\begin_layout Standard
+If the game is lost because either respondent has lost their initial bonus,
+ they are given the question:
+\end_layout
+
+\begin_layout Itemize
+The game is over.
+ Do you think it was your fault it is over, your colleagues fault, or do
+ you think it was because of some other reason? (My fault, my colleagues
+ fault, other reason)
+\end_layout
+
+\begin_layout Standard
+When the game is either over after 10 rounds or is lost, the respondents
+ receive the following questions:
+\end_layout
+
+\begin_layout Itemize
+What strategy did you use while playing the game? (Free text)
+\end_layout
+
+\begin_layout Itemize
+Assume that you prior to the game could have decided a cut-off point with
+ your colleage which you would both stick to while giving a 
+\emph on
+very
+\emph default
+ 
+\emph on
+certain 
+\emph default
+estimation of making the same choice.
+ This means .meaning that you will only go to the office if you arrive at
+ this time or later.
+ At what time would this cut-off point be? (Do not know, none of these times,
+ 8:00, 8:10, 8:20, 8:30, 8:40, 8:50, 9:00, 9:10).
+\end_layout
+
+\begin_layout Itemize
+Question about everyday notion of common knowledge
+\end_layout
+
+\begin_layout Itemize
+Question about theoretical notion of common knowledge
+\end_layout
+
+\begin_layout Subsection
+Study Type
+\end_layout
+
+\begin_layout Standard
+The experiment will be done online on the Amazon Mechanical Turk Platform.
+ Participants will be from all over the world.
+ The software platform is otree 2.1.7
+\end_layout
+
+\begin_layout Subsection
+Inclusion and exclusion rules on Mturk
+\end_layout
+
+\begin_layout Standard
+No player is allowed to play the game more than once which we will secure
+ by giving each respondent a permanent qualification which excludes them
+ from further participation.
+\end_layout
+
+\begin_layout Section
+Treatments / Conditions
+\end_layout
+
+\begin_layout Standard
+We only employ one treatment so far, the Canteen Dilemma with a logarithmic
+ scoring rule.
+\end_layout
+
+\begin_layout Section
+Payoff Structure
+\end_layout
+
+\begin_layout Subsection
+General structure:
+\end_layout
+
+\begin_layout Standard
+Respondents receive a participation fee of $2 and an initial $10 bonus.
+ Every round they will pay a penalty which is taken out of their bonus depending
+ on the choices they make and how certain they are that their colleague
+ has made the same choice.
+ Payoffs range from $0.01 to $9.21.
+ In order to get respondents to answer honestly, logarithmic scoring is
+ used as a proper scoring rule.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+If both players go to the office, their penalty is 
+\begin_inset Formula $\ln(player\_certainty)\cdot2$
+\end_inset
+
+.
+ If they both go to the canteen it is 
+\begin_inset Formula $\ln(player\_certainty)$
+\end_inset
+
+.
+ If they go to different places it is 
+\begin_inset Formula $\ln(1-player\_certainty)\cdot2$
+\end_inset
+
+.
+ We expect that many will lose their entire bonus, while other's might keep
+ some of their bonus if their co-player loses all their bonuses early and
+ ends the game.
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(Probably skip next section of examples of scores)
+\end_layout
+
+\begin_layout Subsection
+Payoff for both going to the office:
+\end_layout
+
+\begin_layout Standard
+Calculated by 
+\begin_inset Formula $\ln(player\_certainty)\cdot2$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Very uncertain (50%) = - $1.39
+\end_layout
+
+\begin_layout Itemize
+Slightly uncertain (62.5%) = -$0.94
+\end_layout
+
+\begin_layout Itemize
+Somewhat certain (75%) = -$0.57
+\end_layout
+
+\begin_layout Itemize
+Quite certain (87.5%) = -$0.27
+\end_layout
+
+\begin_layout Itemize
+Very certain (99%) = -$0.02
+\end_layout
+
+\begin_layout Subsection
+Payoff for both going to the canteen
+\end_layout
+
+\begin_layout Standard
+Calculated by 
+\begin_inset Formula $\ln(player\_certainty)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Very uncertain (50%) = - $0.69
+\end_layout
+
+\begin_layout Itemize
+Slightly uncertain (62.5%) = -$0.47
+\end_layout
+
+\begin_layout Itemize
+Somewhat certain (75%) = -$0.29
+\end_layout
+
+\begin_layout Itemize
+Quite certain (87.5%) = -$0.13
+\end_layout
+
+\begin_layout Itemize
+Very certain (99%) = -$0.01
+\end_layout
+
+\begin_layout Subsection
+Payoff for both going to the canteen
+\end_layout
+
+\begin_layout Standard
+Calculated by 
+\begin_inset Formula $\ln(1-player\_certainty)\cdot2$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Very uncertain (50%) = - $1.39
+\end_layout
+
+\begin_layout Itemize
+Slightly uncertain (62.5%) = -$1.96
+\end_layout
+
+\begin_layout Itemize
+Somewhat certain (75%) = -$2.77
+\end_layout
+
+\begin_layout Itemize
+Quite certain (87.5%) = -$4.16
+\end_layout
+
+\begin_layout Itemize
+Very certain (99%) = -$9.21
+\end_layout
+
+\begin_layout Section
+Theoretical Approach and Methods 
+\end_layout
+
+\begin_layout Standard
+We have a a few assumptions in our experiment, some stronger than others.
+ We strongly expect that respondents always choose to go to the office when
+ they arrive at 9:00 am or 9:10 am.
+ Our theoretical considerations are modeled in Epistemic Logic.
+ Through mostly self-explanatory notation, we can say that for any player
+ 
+\emph on
+a
+\emph default
+, if 
+\emph on
+a 
+\emph default
+arrives at 9:00 am or 9:10 am, it holds that 
+\begin_inset Formula $K_{a}(late)$
+\end_inset
+
+, where (
+\emph on
+late
+\emph default
+)
+\emph on
+ 
+\emph default
+is understood atomically as denoting a situation, consisting of a pair arrival
+ times, where both players lose if either goes to the canteen.
+ In other words, we assume that 
+\begin_inset Formula $K_{a}(late)$
+\end_inset
+
+ entails that 
+\emph on
+a 
+\emph default
+will go to the office.
+ It's more complicated what 
+\begin_inset Formula $K_{a}\neg(late)$
+\end_inset
+
+ entails for 
+\emph on
+a'
+\emph default
+s
+\emph on
+ 
+\emph default
+decision.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Imagine 
+\emph on
+a 
+\emph default
+arrives at 8:50 am.
+ She then knows 
+\emph on
+b
+\emph default
+ arrived at 8:40 am or 9:00 am, i.e.
+ 
+\emph on
+a 
+\emph default
+doesn't know if it's too late to go to the canteen or not: 
+\begin_inset Formula $\neg K_{a}(\neg late)\land\neg K_{a}(late)$
+\end_inset
+
+.
+ We can read 
+\begin_inset Formula $\neg K_{a}\neg(late)$
+\end_inset
+
+ as expressing that 
+\emph on
+a
+\emph default
+ considers it possible that it is too late to go to the canteen, written
+ as 
+\begin_inset Formula $\hat{{K}}_{a}(late),$
+\end_inset
+
+ given this definition 
+\begin_inset Formula $\hat{{K}}_{a}\varphi:=\neg K_{a}\neg\varphi$
+\end_inset
+
+.
+ Continuing this line of reasoning, assume 
+\emph on
+a 
+\emph default
+arrives at 8:40 am.
+ In this case, 
+\emph on
+a 
+\emph default
+knows 
+\emph on
+b
+\emph default
+ arrived at 8:40 or 8:50, which means he knows it is not too late to go
+ to the canteen: 
+\begin_inset Formula $K_{a}(\neg late)$
+\end_inset
+
+.
+ But 
+\emph on
+a 
+\emph default
+doesn't know if 
+\emph on
+b 
+\emph default
+knows this, since she considers it possible that 
+\emph on
+b
+\emph default
+ arrived at 8:50 am, in which case 
+\emph on
+b 
+\emph default
+would not know if it is too late to go to the canteen, so we have 
+\begin_inset Formula $\hat{{K_{a}}}{\hat{K_{b}}}(late)$
+\end_inset
+
+ or otherwise expressed as 
+\begin_inset Formula ${K_{a}}\neg E_{\{a,b\}}(\neg late)$
+\end_inset
+
+.
+ In this case, 
+\emph on
+a 
+\emph default
+knows it's not too late to go to the canteen, but he does not know if 
+\emph on
+b
+\emph default
+ knows this.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Similar reasoning applies for 
+\emph on
+a 
+\emph default
+arriving at 8:30 am.
+ In this case we have 
+\begin_inset Formula $K_{a}(\neg late)$
+\end_inset
+
+ and given that 
+\emph on
+b
+\emph default
+ can arrive at 8:40 am at the latest, we have 
+\begin_inset Formula $K_{b}(\neg late)$
+\end_inset
+
+ and 
+\emph on
+a 
+\emph default
+knowing this epistemic fact: 
+\begin_inset Formula $K_{a}K_{b}(\neg late)$
+\end_inset
+
+.
+ This implies 
+\begin_inset Formula $E_{\{a,b\}}(\neg late)$
+\end_inset
+
+.
+ Since 
+\begin_inset Formula $a$
+\end_inset
+
+ knows that both 
+\emph on
+a 
+\emph default
+and 
+\emph on
+b 
+\emph default
+knows it's not too late to go to the canteen, we have 
+\begin_inset Formula $K_{a}E_{\{a,b\}}(\neg late).$
+\end_inset
+
+ But if 
+\emph on
+b
+\emph default
+ arrives at 8:40, it holds that everyone knows it's not too late to go to
+ the canteen, but that not everyone knows this very fact! I.e.
+ 
+\begin_inset Formula $E_{\{a,b\}}(\neg late)\land\neg E_{\{a,b\}}E_{\{a,b\}}(\neg late)$
+\end_inset
+
+.
+ In fact, while there are many situations where 
+\begin_inset Formula $K_{a}\neg(late)$
+\end_inset
+
+, there is no situation where this is common knowledge, i.e.
+ 
+\begin_inset Formula $C_{\{a,b\}}\neg(late)$
+\end_inset
+
+ is false for all possible situations in the Canteen Dilemma.
+ However, we do not hypothesize that 
+\begin_inset Formula $C_{\{a,b\}}\neg(late)$
+\end_inset
+
+ is necessary for a person to choose to go the canteen.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+The interesting aspect is what knowledge will be sufficient for a player
+ to go to the canteen.
+ If player 
+\emph on
+a
+\emph default
+ arrives at 8:50, she will consider it possible that it is too late to go
+ to the canteen, i.e.
+ 
+\begin_inset Formula $\hat{{K}}_{a}(late)$
+\end_inset
+
+.
+ We might think that
+\begin_inset Formula $\hat{{K}}_{a}(late)$
+\end_inset
+
+ entails that 
+\emph on
+a 
+\emph default
+will go to the office.
+ But if 
+\emph on
+a 
+\emph default
+arrives at 8:40 am, she will consider it possible that 
+\emph on
+b 
+\emph default
+considers it possible that it's too late: 
+\begin_inset Formula $\hat{{K}}_{a}\hat{K}_{b}(late)$
+\end_inset
+
+.
+ If 
+\begin_inset Formula $\hat{{K}}_{a}(late)$
+\end_inset
+
+ if entails 
+\emph on
+a 
+\emph default
+going to the office, and
+\emph on
+ 
+\emph default
+if 
+\emph on
+a 
+\emph default
+assumes 
+\emph on
+b 
+\emph default
+reasons like herself, then 
+\begin_inset Formula $\hat{{K}}_{a}\hat{K}_{b}(late)$
+\end_inset
+
+ would also entail 
+\emph on
+a 
+\emph default
+going to the office.
+ While 
+\begin_inset Formula $K_{a}(late)$
+\end_inset
+
+ should entails 
+\emph on
+a 
+\emph default
+going to the office, it's not so certain if 
+\begin_inset Formula $\hat{{K}}_{a}(late)$
+\end_inset
+
+ entails it as well, or if 
+\begin_inset Formula $\hat{{K}}_{a}\hat{K}_{b}(late)$
+\end_inset
+
+ does or any other iteration of social reasoning entails it.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Iterated social reasoning has been shown to be quite intuitive.
+ We expect respondents to be limited to around 2 levels of social reasoning.
+ And even if a respondent is a logician who is aware that there is no common
+ knowledge about arriving before 9:00 am, they do not know if others are
+ aware of this and so they might divert from a safe office-only strategy
+ as well.
+ This means that it might be problematic to elicit belief from respondents
+ choices.
+ We counteract this problem in part by asking respondents how certain they
+ are that their colleague makes the same choice as them.
+ This question can also help us in in avoiding conclusions about fixed bounds
+ on social cognition, i.e.
+ respondents can reason up to order 
+\emph on
+n 
+\emph default
+but not
+\emph on
+ n +
+\emph default
+.
+ In other words, we allow respondents to show semi-continuous bounds on
+ their social cognition by asking for their estimates of the probability
+ of success.
+ This might also support modeling of different types of reasoners with different
+ resource bounds on social cognition, since it allows differentiation between
+ respondents not just by a reasoning depth of 
+\emph on
+n
+\emph default
+ but also by a probability estimate.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We can state a few assertions about the Canteen Dilemma.
+ We can assert that any strategy in the game which includes going to the
+ canteen also includes the risk for players to go to different places.
+ We can also assert that if two players were to choose beforehand to go
+ the canteen before some specific time, the optimal cut-off point would
+ be as close to 9:00 am as possible, i.e.
+ 8:50 am, in order to maximise the amount of possible canteen-canteen pairs
+ of arrival times.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We can also say that a symmetrical office-only strategy has the highest
+ expected payoff.
+ If both players go to the office with a 'very certain' estimate every time,
+ they will be certain to get a bonus of $9.80.
+ If players arrive before 9:00 am at all times and go to the canteen with
+ a 'very certainty' estimate, they get a bonus of $9.90, only $0.10 more than
+ the safe office-only strategy.
+ But any such strategy is likely to be given arrival times at 8:50 am and
+ 9:00 am, where the strategy results in large penalties.
+ There is also an interesting case for an asymmetrical office-only strategy.
+ If player 
+\emph on
+a 
+\emph default
+arrives at 8:00 am, she knows player
+\emph on
+ b 
+\emph default
+will arrive at 8:10 am.
+ If player 
+\emph on
+a
+\emph default
+ believes both that player 
+\emph on
+b
+\emph default
+ will go to the canteen with a 'very high' certainty estimate and that 
+\emph on
+b 
+\emph default
+has a bonus left of <$9.21, player 
+\emph on
+a 
+\emph default
+might choose office to intentionally end the game.
+ In that case, player 
+\emph on
+a 
+\emph default
+would get her remaining bonus minus the $1.39 penalty for that round, which
+ might be high compared to expected payoff for attempting at making it through
+ 10 rounds.
+ It is also highly unlikely that any respondent employs this reasoning,
+ but it remains as a possible rational strategy.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+To re-iterate, the only strong assumption we have is that for any agent
+ 
+\emph on
+m
+\emph default
+, 
+\begin_inset Formula $K_{m}(late)$
+\end_inset
+
+ entails that 
+\emph on
+m 
+\emph default
+will go to the office.
+ Besides that, we assume that players will have a reasoning depth of around
+ 2 levels of theory of mind, i.e.
+ going to the office at around 8:40 am the earliest.
+ We also assume that certainty estimates are distributed around this expected
+ reasoning depth.
+\end_layout
+
+\begin_layout Section
+Existing knowledge
+\end_layout
+
+\begin_layout Standard
+Most of current research literature on social reasoning suggest the cognitive
+ human capacity is limited at 2 iterations, i.e.
+ I reason about you, reasoning about me, while few reports find higher levels
+ of reasoning 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-12"
+literal "false"
+
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "benthem logic and games"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Research literature on eliciting belief also show that forecasts elicited
+ from observers through proper scoring rules are significantly more accurate
+ and calibrated then those elicited from observers using an improper scoring
+ rule.
+ Calibrated is defined as such: 
+\begin_inset Quotes eld
+\end_inset
+
+a set of probabilistic predictions are 
+\emph on
+calibrated
+\emph default
+ if 
+\emph on
+p
+\emph default
+ percent of all predictions reported at probability 
+\emph on
+p
+\emph default
+ are true.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+after "p. 275"
+key "Seidenfeld"
+literal "false"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Forecasts elicited by the logarithmic scoring rule also seem to have significant
+ly less dispersion than quadratic scoring rules even though both are proper
+ scoring rules
+\begin_inset CommandInset citation
+LatexCommand cite
+key "eliciting beliefs, proper scoring"
+literal "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Section
+AMT Type
+\end_layout
+
+\begin_layout Section
+Ethical Considerations
+\end_layout
+
+\begin_layout Subsection
+Approval by the Institutional Review Board
+\end_layout
+
+\begin_layout Standard
+We provide participants with a consent page before the experiment starts
+ and participants need to check a box in order to proceed.
+ If not, they are not allowed to participate in the experiment.
+\end_layout
+
+\begin_layout Subsection
+Anonymity and data management
+\end_layout
+
+\begin_layout Standard
+We will follow the faculty’s guidelines in accordance with the Danish Data
+ Protection Act, cf.
+ requirements from the Danish Data Protection Agency and the faculty’s Instituti
+onal Review Board.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The only personal information that will be available to the researchers
+ is what is publicly available on respondents MTurk profile.
+ This information will not be shared with any individuals who are not part
+ of the research team.
+ The experiment only records answers to a series of questions.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+Data will be stored in a separate database at https://cibs.mef.sc.ku.dk, where
+ the experiment will take place.
+ No data will be stored in the cloud.
+\end_layout
+
+\begin_layout Section
+Additional Considerations
+\end_layout
+
+\begin_layout Subsection
+Time Plan
+\end_layout
+
+\begin_layout Subsection
+Total Cost and Financing
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-51"
+
+\end_inset
+
+Bacharach, M., & Stahl, D.
+ O.
+ (2000).
+ Variable-frame level-n theory.
+ Games and Economic Behavior, 32(2), 220–246.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "benthem_cognition as interaction"
+literal "false"
+
+\end_inset
+
+van Benthem, J.
+ F.
+ A.
+ K.
+ (2007a).
+ Cognition as interaction.
+ In Proceedings symposium on cognitive foundations of interpretation (pp.
+ 27–38).
+ Amsterdam: KNAW.
+ 
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-22"
+
+\end_inset
+
+van Benthem, J.
+ F.
+ A.
+ K., Gerbrandy, J., & Pacuit, E.
+ (2007b).
+ Merging frameworks for interaction: DEL and ETL.
+ In D.
+ Samet (Ed.), Theoretical aspects of rationality and knowledge: Proceedings
+ of the eleventh conference, TARK 2007 (pp.
+ 72–81).
+ Louvain-la-Neuve: Presses Universitaires de Louvain.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-21"
+
+\end_inset
+
+van Benthem, J.
+ F.
+ A.
+ K., Hodges, H., & Hodges, W.
+ (2007c).
+ Introduction.
+ Topoi, 26(1), 1–2.
+ (Special issue on logic and psychology, edited by J.F.A.K.
+ van Benthem, H.
+ Hodges, and W.
+ Hodges.).
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "benthem logic and games"
+literal "false"
+
+\end_inset
+
+141.
+ van Benthem, J.
+ F.
+ A.
+ K.
+ (2008).
+ Logic and reasoning: Do the facts matter? Studia Logica, 88, 67–84.
+ (Special issue on logic and the new psychologism, edited by H.
+ Leitgeb)
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Benz"
+literal "false"
+
+\end_inset
+
+Benz, A., & van Rooij, R.
+ (2007).
+ Optimal assertions, and what they implicate.
+ A uniform game theoretic approach.
+ Topoi, 26(1), 63–78 (Special issue on logic and psychology, edited by J.F.A.K.
+ van Benthem, H.
+ Hodges, and W.
+ Hodges.)
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Costa-Gomes"
+literal "false"
+
+\end_inset
+
+Costa-Gomes, M., Weizsäcker, G., 2008.
+ Stated beliefs and play in normal form games.
+ Review of Economic Studies 75, 729–762.
+ 
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "DEL"
+literal "false"
+
+\end_inset
+
+van Ditmarsch, H., van der Hoek, W., Kooi, B.
+ (2008).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Dynamic Epistemic Logic
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Synthese Library, Springer Netherlands.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "consecutive numbers book"
+literal "false"
+
+\end_inset
+
+ van Ditmarsch H., Kooi B.
+ (2015) Consecutive Numbers.
+ In: One Hundred Prisoners and a Light Bulb.
+ Copernicus, Cham
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Donkers"
+literal "false"
+
+\end_inset
+
+Donkers, H.
+ H.
+ L.
+ M., Uiterwijk, J.
+ W.
+ H.
+ M., & van den Herik, H.
+ J.
+ (2005).
+ Selecting evaluation functions in opponent-model search.
+ Theoretical Computer Science, 349, 245–267.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-34"
+
+\end_inset
+
+Dunin-Ke¸plicz, B., & Verbrugge, R.
+ (2006).
+ Awareness as a vital ingredient of teamwork.
+ In P.
+ Stone, & G.
+ Weiss (Eds.), Proceedings of the fifth international joint conference on
+ autonomous agents and multiagent systems (AAMAS’06) (pp.
+ 1017–1024).
+ New York: IEEE / ACM.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-20"
+
+\end_inset
+
+van Eijck, J., & Verbrugge, R.
+ (Eds.) (2009).
+ Discourses on social software.
+ Texts in games and logic (Vol.
+ 5).
+ Amsterdam: Amsterdam University Press.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-33"
+
+\end_inset
+
+Fagin, R., & Halpern, J.
+ (1988).
+ Belief, awareness, and limited reasoning.
+ Artificial Intelligence, 34, 39–76.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-32"
+
+\end_inset
+
+Fagin, R., Halpern, J.
+ Y., Moses, Y., & Vardi, M.
+ Y.
+ (1995).
+ Reasoning about knowledge, 2nd ed., 2003.
+ Cambridge: MIT.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-31"
+
+\end_inset
+
+Flobbe, L., Verbrugge, R., Hendriks, P.,&Krämer, I.
+ (2008).
+ Children’s application of theory of mind in reasoning and language.
+ Journal of Logic, Language and Information, 17, 417–442.
+ (Special issue on formal models for real people, edited by M.
+ Counihan.)
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-30"
+
+\end_inset
+
+Halpern, J.
+ Y., & Moses, Y.
+ (1990).
+ Knowledge and common knowledge in a distributed environment.
+ Journal of the ACM, 37, 549–587.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-29"
+
+\end_inset
+
+Harbers, M., Verbrugge, R., Sierra, C., & Debenham, J.
+ (2008).
+ The examination of an information-based approach to trust.
+ In P.
+ Noriega, & J.
+ Padget (Eds.), Coordination, organizatiosn, institutions and norms in agent
+ systems III.
+ Lecture notes in computer science (Vol.
+ 4870, pp.
+ 71–82).
+ Berlin: Springer.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-28"
+
+\end_inset
+
+Hedden, T., & Zhang, J.
+ (2002).
+ What do you think I think you think? Strategic reasoning in matrix games.
+ Cognition, 85, 1–36.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-27"
+
+\end_inset
+
+Pacuit, E., Parikh, R., & Cogan, E.
+ (2006).
+ The logic of knowledge based obligation.
+ Synthese: Knowledge, Rationality and Action, 149, 57–87.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "eliciting beliefs"
+literal "false"
+
+\end_inset
+
+Palfrey, T., & Wang, S.
+ (2009).
+ On eliciting beliefs in strategic games.
+ Journal of Economic Behavior & Organization, 71(2), 98-109.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-26"
+
+\end_inset
+
+Parikh, R.
+ (2003).
+ Levels of knowledge, games, and group action.
+ Research in Economics, 57, 267–281.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-25"
+
+\end_inset
+
+Rosenthal, R.
+ (1981).
+ Games of perfect information, predatory pricing, and the chain store.
+ Journal of Economic Theory, 25, 92–100.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Seidenfeld"
+literal "false"
+
+\end_inset
+
+Seidenfeld, T., 1985.
+ Calibration, coherence, and scoring rules.
+ Philosophy of Science 52, 274–294
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-24"
+
+\end_inset
+
+Stahl, D.
+ O., & Wilson, P.
+ W.
+ (1995).
+ On players’ models of other players: Theory and experimental evidence.
+ Games and Economic Behavior, 10, 218–254.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-23"
+
+\end_inset
+
+Stulp, F., & Verbrugge, R.
+ (2002).
+ A knowledge-based algorithm for the internet protocol TCP.
+ Bulletin of Economic Research, 54(1), 69–94.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-12"
+
+\end_inset
+
+Verbrugge R.
+ (2009): 
+\begin_inset Quotes eld
+\end_inset
+
+Logic and Social Cognition
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Journal of Philosophical Logic.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-8"
+literal "false"
+
+\end_inset
+
+Wooldridge, M.
+ J.
+ (2002).
+ An introduction to multiagent systems.
+ Chichester: Wiley.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Glascher lab"
+literal "false"
+
+\end_inset
+
+http://www.glascherlab.org/social-decisionmaking/
+\end_layout
+
+\end_body
+\end_document

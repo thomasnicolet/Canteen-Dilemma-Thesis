@@ -1,0 +1,233 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Questions for Canteen Dilemma
+\end_layout
+
+\begin_layout Author
+Thomas S.
+ N.
+\end_layout
+
+\begin_layout Subsection*
+Questions and ordering
+\end_layout
+
+\begin_layout Standard
+Players are how certain they are that their colleague made the same choice
+ as them, i.e that they will meet.
+ If either player lose all her bonusses, both players will be asked five
+ more detailed questions.
+ If both make it through all rounds without losing, the players are asked
+ four of these five questions.
+ Below are the five questions, their order and a preliminary suggestion
+ regarding its formulation.
+\end_layout
+
+\begin_layout Subsection*
+1.
+ Certainty
+\end_layout
+
+\begin_layout Standard
+How certain are you that your colleague has made the same choice as you?
+\end_layout
+
+\begin_layout Standard
+[Answers are based on a 5-point Likert scale with equal intervals from 50%
+ to 99%: No certainty (50%), Slightly certain (62,5%), Somewhat certain
+ (75%), Quite certain (87,5%), Very certain (99%)].
+\end_layout
+
+\begin_layout Subsection*
+2.
+ What strategy did you play? 
+\end_layout
+
+\begin_layout Standard
+What strategy did you use while playing this game? [Free text answer]
+\end_layout
+
+\begin_layout Subsection*
+3.
+ Only if game is lost: Whose fault was it?
+\end_layout
+
+\begin_layout Standard
+The game is over.
+ Do you think it was your fault it is over, your colleagues fault, or do
+ you think it was because of some other reason? [Yes/No, or writing other
+ reason in free text answer]
+\end_layout
+
+\begin_layout Subsection*
+4.
+ Choosing possible cut-off point 
+\end_layout
+
+\begin_layout Standard
+Assuming you could decide a cut-off point with your colleague prior to the
+ game, meaning that either of you would only go to the office if you arrive
+ at this time or later, what time would you select? [Buttons with 8:00,
+ 8:10, 8:20 ...
+ 9:10]
+\end_layout
+
+\begin_layout Subsection*
+5.
+ Question about simple common knowledge
+\end_layout
+
+\begin_layout Standard
+You arrived at [last round arrival time], do you know that it's safe for
+ you to go to the canteen, that is, do you know you will meet your colleague
+ there? [Yes / No]
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+[Alternative suggestion]
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Given your play-style, are you always sure to meet your colleague when you
+ go to the canteen? For example when you arrive at [last round arrival time]?
+ [Yes / No]
+\end_layout
+
+\begin_layout Subsection*
+6.
+ Question about real Common Knowledge
+\end_layout
+
+\begin_layout Standard
+Given your play-style and your arrival time at [last round arrival time]
+ as an example.
+ Consider if you know that you both arrived before 9.
+ Now consider if you know that your colleague knows that you both arrived
+ before 9.
+ And consider if you know that your colleague know that you know that you
+ both arrived before 9? Imagine this process infinitely repeated, are you
+ always sure to meet your colleague if you choose to go to the canteen,
+ for example when you arrive at [last round arrival time]? [Yes / No]
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+[Alternative suggestion]
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Given your play-style/strategy and arrival time [last round arrival time],
+ consider whether you know with certainty that you both arrived before 9
+ (i.e.
+ + 10 minutes to your time) which makes it safe to go to the canteen.
+ If this is the case, consider if you know if you colleague is also certain
+ that you both arrived before 9.
+ If this is the case, consider if you know, that your colleague knows, that
+ you're certain that you arrived before 9.
+ Imagine this process iterated infinitely, meaning you know your partner
+ knows, that you know, that your partner knows, etc, that you both arrived
+ before 9 and can safely go to the canteen.
+ Given your play-style/strategy, do you know, that your partner knows, that
+ you know, etc.
+ in the sense described above, that you are sure to meet your colleague
+ when you choose to go to the canteen? For example/including when you arrive
+ at [last round arrival time]? [Yes / No]
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

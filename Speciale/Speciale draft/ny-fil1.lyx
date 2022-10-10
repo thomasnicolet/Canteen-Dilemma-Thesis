@@ -1,0 +1,186 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Section
+Notes
+\end_layout
+
+\begin_layout Standard
+And a logical theory is not not quite behave according to it.
+ But the boundary is the following should be obvious: if logical theory
+ were actual reasoning, it would be no use at all, (Bentehm, 2008, 69)
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There has increasing interest in the interface between logic and cognitive
+ science, most notably found in Johan van Benthem's paper 
+\begin_inset Quotes eld
+\end_inset
+
+Logic and reasoning: Do the facts matter?
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Logic has two roots - the study of real arguments in everyday life and
+ the more pure study of axiom-based proof patterns.
+ 
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+While logic has traditionally only been concerned with pure crystaline logical
+ consequnce, there 
+\end_layout
+
+\begin_layout Standard
+Introduction to the Canteen Dilemma, i.e.
+ a coordination game without common knowledge.
+ Why is ToM and common knowledge important.
+ The difficulty of applying theory of mind.
+ Divergence between real reasoning and logical theory.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Logic can be more than just "logical consequence", in the sense it can relate
+ to quite different consequence relations.
+ Abduction, sometimes dubbed 'inference to best explanation' is also an
+ inference although not a logical one.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Reasoning usually occurs in tandem with observations, although these observation
+s are thought of as static premises in a non-temporal reaoning process.
+ In reality, reasoning depends on observations, and new observations can
+ be made during the reasoning processes (benthem 2008, 75)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+With experience, we accumulate a stock of understood sentences, compre-
+ hended situations, and solved problems, and naturally, as we are confronted
+ with a new task, two processes kick in: pattern recognition and memory
+ search to find related solved problems, and rule-based analysis.
+\begin_inset Quotes erd
+\end_inset
+
+ (benthem 2008, 75)
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Problem: We can always transform a logic to fit real reasoning.
+\end_layout
+
+\end_body
+\end_document

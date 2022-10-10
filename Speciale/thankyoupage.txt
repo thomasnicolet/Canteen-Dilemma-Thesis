@@ -1,0 +1,14 @@
+class ThankYou(Page):
+    def is_displayed(self):
+        return self.group.is_game_just_lost() or \
+               (self.subsession.round_number == Constants.num_rounds and not self.group.is_game_over())
+    def vars_for_template(self):
+
+        player_for_completed_rounds = [player for player in self.player.in_all_rounds() if player.choice is not None]
+
+        return {
+            'test_payoff': self.player.participant.payoff,
+            'payoff_in_this_phase': sum([p.payoff for p in player_for_completed_rounds]),
+            'tot_payoff': Constants.endowment + self.player.participant.payoff,
+            'player_in_all_rounds': player_for_completed_rounds,
+            'total_payoff': self.participant.payoff_plus_participation_fee()

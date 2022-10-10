@@ -1,0 +1,22 @@
+{% extends "global/Base.html" %}
+{% load staticfiles otree_tags %}
+
+
+
+{% block content %}
+    <p>
+        On a scale from 50 % = very uncertain to 99 % = very certain, 
+        how certain are you that your colleague has made the same choice as you?
+    </p>
+    <div class="choice-button-wrapper">
+        <button name="certainty" value="0.5" class="btn btn-primary btn-large">50 %</button>
+        <button name="certainty" value="0.6" class="btn btn-primary btn-large">60 %</button>
+        <button name="certainty" value="0.7" class="btn btn-primary btn-large">70 %</button>
+        <button name="certainty" value="0.8" class="btn btn-primary btn-large">80 %</button>
+        <button name="certainty" value="0.9" class="btn btn-primary btn-large">90 %</button>
+        <button name="certainty" value="0.99" class="btn btn-primary btn-large">99 %</button>
+    </div>
+
+    {% include Constants.instructions_template %}
+
+{% endblock %}

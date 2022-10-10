@@ -1,0 +1,61 @@
+participant.id_in_session,participant.code,participant.label,participant._is_bot,participant._index_in_pages,participant._max_page_index,participant._current_app_name,participant._round_number,participant._current_page_name,participant.ip_address,participant.time_started,participant.exclude_from_data_analysis,participant.visited,participant.mturk_worker_id,participant.mturk_assignment_id,participant.payoff,player.id_in_group,player.arrival_time,player.choice,player.strategy_bolander,player.payoff,group.id_in_subsession,group.payoff,group.garrival,subsession.round_number,session.code,session.label,session.experimenter_name,session.mturk_HITId,session.mturk_HITGroupId,session.comment,session.is_demo
+1,ef5i9fs5,,0,1,203,Welcome,1,WelcomePage,130.225.121.206,2017-03-29 10:56:30.239835+00:00,0,1,,,0,1,8.40178637181797,,,0,1,,8.4,1,rfnky8l0,,,,,,0
+2,fbe8gncp,,0,0,203,,,,,,0,0,,,0,2,8.39878149957742,,,0,1,,8.4,1,rfnky8l0,,,,,,0
+1,ef5i9fs5,,0,1,203,Welcome,1,WelcomePage,130.225.121.206,2017-03-29 10:56:30.239835+00:00,0,1,,,0,1,8.57702446351945,,,0,1,,8.57,2,rfnky8l0,,,,,,0
+2,fbe8gncp,,0,0,203,,,,,,0,0,,,0,2,8.57434910554853,,,0,1,,8.57,2,rfnky8l0,,,,,,0
+1,ef5i9fs5,,0,1,203,Welcome,1,WelcomePage,130.225.121.206,2017-03-29 10:56:30.239835+00:00,0,1,,,0,1,8.38630940392469,,,0,1,,8.4,3,rfnky8l0,,,,,,0
+2,fbe8gncp,,0,0,203,,,,,,0,0,,,0,2,8.40584704819908,,,0,1,,8.4,3,rfnky8l0,,,,,,0
+1,ef5i9fs5,,0,1,203,Welcome,1,WelcomePage,130.225.121.206,2017-03-29 10:56:30.239835+00:00,0,1,,,0,1,8.42279425369802,,,0,1,,8.43,4,rfnky8l0,,,,,,0
+2,fbe8gncp,,0,0,203,,,,,,0,0,,,0,2,8.41176644857958,,,0,1,,8.43,4,rfnky8l0,,,,,,0
+1,ef5i9fs5,,0,1,203,Welcome,1,WelcomePage,130.225.121.206,2017-03-29 10:56:30.239835+00:00,0,1,,,0,1,8.45199033270572,,,0,1,,8.43,5,rfnky8l0,,,,,,0
+2,fbe8gncp,,0,0,203,,,,,,0,0,,,0,2,8.42459606139771,,,0,1,,8.43,5,rfnky8l0,,,,,,0
+1,ef5i9fs5,,0,1,203,Welcome,1,WelcomePage,130.225.121.206,2017-03-29 10:56:30.239835+00:00,0,1,,,0,1,8.57233333832449,,,0,1,,8.57,6,rfnky8l0,,,,,,0
+2,fbe8gncp,,0,0,203,,,,,,0,0,,,0,2,8.55312992803906,,,0,1,,8.57,6,rfnky8l0,,,,,,0
+1,ef5i9fs5,,0,1,203,Welcome,1,WelcomePage,130.225.121.206,2017-03-29 10:56:30.239835+00:00,0,1,,,0,1,8.53044512358794,,,0,1,,8.53,7,rfnky8l0,,,,,,0
+2,fbe8gncp,,0,0,203,,,,,,0,0,,,0,2,8.54825031902137,,,0,1,,8.53,7,rfnky8l0,,,,,,0
+1,ef5i9fs5,,0,1,203,Welcome,1,WelcomePage,130.225.121.206,2017-03-29 10:56:30.239835+00:00,0,1,,,0,1,8.50829013600372,,,0,1,,8.49,8,rfnky8l0,,,,,,0
+2,fbe8gncp,,0,0,203,,,,,,0,0,,,0,2,8.51158561547992,,,0,1,,8.49,8,rfnky8l0,,,,,,0
+1,ef5i9fs5,,0,1,203,Welcome,1,WelcomePage,130.225.121.206,2017-03-29 10:56:30.239835+00:00,0,1,,,0,1,8.40904058800729,,,0,1,,8.43,9,rfnky8l0,,,,,,0
+2,fbe8gncp,,0,0,203,,,,,,0,0,,,0,2,8.4139405874406,,,0,1,,8.43,9,rfnky8l0,,,,,,0
+1,ef5i9fs5,,0,1,203,Welcome,1,WelcomePage,130.225.121.206,2017-03-29 10:56:30.239835+00:00,0,1,,,0,1,8.52833876965158,,,0,1,,8.51,10,rfnky8l0,,,,,,0
+2,fbe8gncp,,0,0,203,,,,,,0,0,,,0,2,8.48951132424106,,,0,1,,8.51,10,rfnky8l0,,,,,,0
+1,oost37fq,Robin,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-29 11:06:26.005326+00:00,0,1,,,56,1,8.42592297196457,Canteen,,1,1,,8.43,1,bwgrhsm2,,,,,,0
+2,lelqm5t0,Mikkel,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-29 11:06:26.057328+00:00,0,1,,,19,2,8.41146116511976,Canteen,,1,1,,8.43,1,bwgrhsm2,,,,,,0
+3,2spw00hb,elena,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-29 11:06:26.454884+00:00,0,1,,,129,1,9.02821843130369,Office,,0,2,,9.05,1,bwgrhsm2,,,,,,0
+4,bq15vbye,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-29 11:06:26.287905+00:00,0,1,,,29,2,9.04462375836475,Office,,0,2,,9.05,1,bwgrhsm2,,,,,,0
+1,oost37fq,Robin,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-29 11:06:26.005326+00:00,0,1,,,56,1,9.04949324220878,Office,,0,1,,9.05,2,bwgrhsm2,,,,,,0
+2,lelqm5t0,Mikkel,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-29 11:06:26.057328+00:00,0,1,,,19,2,9.0738777418924,Office,,0,1,,9.05,2,bwgrhsm2,,,,,,0
+3,2spw00hb,elena,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-29 11:06:26.454884+00:00,0,1,,,129,1,8.51883320009439,Office,,-10,2,,8.51,2,bwgrhsm2,,,,,,0
+4,bq15vbye,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-29 11:06:26.287905+00:00,0,1,,,29,2,8.52415888111994,Canteen,,-10,2,,8.51,2,bwgrhsm2,,,,,,0
+1,oost37fq,Robin,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-29 11:06:26.005326+00:00,0,1,,,56,1,8.5502979092159,Office,,0,1,,8.57,3,bwgrhsm2,,,,,,0
+2,lelqm5t0,Mikkel,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-29 11:06:26.057328+00:00,0,1,,,19,2,8.546053332306,Office,,0,1,,8.57,3,bwgrhsm2,,,,,,0
+3,2spw00hb,elena,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-29 11:06:26.454884+00:00,0,1,,,129,1,8.51379659350037,Canteen,,1,2,,8.53,3,bwgrhsm2,,,,,,0
+4,bq15vbye,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-29 11:06:26.287905+00:00,0,1,,,29,2,8.52617933839325,Canteen,,1,2,,8.53,3,bwgrhsm2,,,,,,0
+1,oost37fq,Robin,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-29 11:06:26.005326+00:00,0,1,,,56,1,9.06332975725415,Office,,0,1,,9.05,4,bwgrhsm2,,,,,,0
+2,lelqm5t0,Mikkel,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-29 11:06:26.057328+00:00,0,1,,,19,2,9.04009712709276,Office,,0,1,,9.05,4,bwgrhsm2,,,,,,0
+3,2spw00hb,elena,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-29 11:06:26.454884+00:00,0,1,,,129,1,8.35959285955114,Canteen,,1,2,,8.37,4,bwgrhsm2,,,,,,0
+4,bq15vbye,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-29 11:06:26.287905+00:00,0,1,,,29,2,8.39077662999857,Canteen,,1,2,,8.37,4,bwgrhsm2,,,,,,0
+1,oost37fq,Robin,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-29 11:06:26.005326+00:00,0,1,,,56,1,8.56111222948555,Office,,0,1,,8.55,5,bwgrhsm2,,,,,,0
+2,lelqm5t0,Mikkel,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-29 11:06:26.057328+00:00,0,1,,,19,2,8.55191351718223,Office,,0,1,,8.55,5,bwgrhsm2,,,,,,0
+3,2spw00hb,elena,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-29 11:06:26.454884+00:00,0,1,,,129,1,8.41987582993394,Canteen,,1,2,,8.43,5,bwgrhsm2,,,,,,0
+4,bq15vbye,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-29 11:06:26.287905+00:00,0,1,,,29,2,8.43114571346467,Canteen,,1,2,,8.43,5,bwgrhsm2,,,,,,0
+1,oost37fq,Robin,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-29 11:06:26.005326+00:00,0,1,,,56,1,8.57234116900422,Office,,0,1,,8.55,6,bwgrhsm2,,,,,,0
+2,lelqm5t0,Mikkel,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-29 11:06:26.057328+00:00,0,1,,,19,2,8.53283009068222,Office,,0,1,,8.55,6,bwgrhsm2,,,,,,0
+3,2spw00hb,elena,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-29 11:06:26.454884+00:00,0,1,,,129,1,8.47835119774098,Canteen,,1,2,,8.49,6,bwgrhsm2,,,,,,0
+4,bq15vbye,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-29 11:06:26.287905+00:00,0,1,,,29,2,8.51486012333639,Canteen,,1,2,,8.49,6,bwgrhsm2,,,,,,0
+1,oost37fq,Robin,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-29 11:06:26.005326+00:00,0,1,,,56,1,8.46340913733895,Canteen,,1,1,,8.46,7,bwgrhsm2,,,,,,0
+2,lelqm5t0,Mikkel,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-29 11:06:26.057328+00:00,0,1,,,19,2,8.46440501595487,Canteen,,1,1,,8.46,7,bwgrhsm2,,,,,,0
+3,2spw00hb,elena,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-29 11:06:26.454884+00:00,0,1,,,129,1,8.49798402163058,Canteen,,1,2,,8.49,7,bwgrhsm2,,,,,,0
+4,bq15vbye,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-29 11:06:26.287905+00:00,0,1,,,29,2,8.49126753063186,Canteen,,1,2,,8.49,7,bwgrhsm2,,,,,,0
+1,oost37fq,Robin,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-29 11:06:26.005326+00:00,0,1,,,56,1,8.56207276621329,Office,,0,1,,8.57,8,bwgrhsm2,,,,,,0
+2,lelqm5t0,Mikkel,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-29 11:06:26.057328+00:00,0,1,,,19,2,8.57134199677833,Office,,0,1,,8.57,8,bwgrhsm2,,,,,,0
+3,2spw00hb,elena,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-29 11:06:26.454884+00:00,0,1,,,129,1,8.52246099498184,Canteen,,1,2,,8.51,8,bwgrhsm2,,,,,,0
+4,bq15vbye,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-29 11:06:26.287905+00:00,0,1,,,29,2,8.49332059934162,Canteen,,1,2,,8.51,8,bwgrhsm2,,,,,,0
+1,oost37fq,Robin,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-29 11:06:26.005326+00:00,0,1,,,56,1,8.35058643774763,Canteen,,1,1,,8.37,9,bwgrhsm2,,,,,,0
+2,lelqm5t0,Mikkel,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-29 11:06:26.057328+00:00,0,1,,,19,2,8.3726418936605,Canteen,,1,1,,8.37,9,bwgrhsm2,,,,,,0
+3,2spw00hb,elena,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-29 11:06:26.454884+00:00,0,1,,,129,1,8.3670567882227,Canteen,,1,2,,8.37,9,bwgrhsm2,,,,,,0
+4,bq15vbye,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-29 11:06:26.287905+00:00,0,1,,,29,2,8.38414677273039,Canteen,,1,2,,8.37,9,bwgrhsm2,,,,,,0
+1,oost37fq,Robin,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-29 11:06:26.005326+00:00,0,1,,,56,1,9.02718159095197,Office,everything before 8:50 goes to the canteen.,0,1,,9.05,10,bwgrhsm2,,,,,,0
+2,lelqm5t0,Mikkel,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-29 11:06:26.057328+00:00,0,1,,,19,2,9.04992523628233,Office,"Go to the canteen, if my arrival time is earlier than 8.45",0,1,,9.05,10,bwgrhsm2,,,,,,0
+3,2spw00hb,elena,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-29 11:06:26.454884+00:00,0,1,,,129,1,8.5125462076582,Canteen,try to established the same boundry (for me  at 8.52),-10,2,,8.53,10,bwgrhsm2,,,,,,0
+4,bq15vbye,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-29 11:06:26.287905+00:00,0,1,,,29,2,8.53683250208653,Office,check if before 8.50,-10,2,,8.53,10,bwgrhsm2,,,,,,0

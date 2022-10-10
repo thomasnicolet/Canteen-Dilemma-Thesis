@@ -1,0 +1,7 @@
+{% extends "global/Base.html" %}
+{% load staticfiles otree %}
+
+{% block content %}
+    {% formfield player.cutoff_canteen_dilemma label="Assume that you prior to the game could have decided a cut-off point with your colleage which you would both stick to, meaning that <strong>if you arrive at this time or later, you will always go to the office </strong>, what time would this cut-off point be?" %}
+    {% next_button %}
+{% endblock %}

@@ -1,0 +1,15 @@
+version: '2'
+services:
+  database-demo:
+    scale: 1
+    start_on_create: true
+  worker-demo:
+    scale: 1
+    start_on_create: true
+  redis-demo:
+    scale: 1
+    start_on_create: true
+  otree-demo:
+    scale: 1
+    start_on_create: true
+

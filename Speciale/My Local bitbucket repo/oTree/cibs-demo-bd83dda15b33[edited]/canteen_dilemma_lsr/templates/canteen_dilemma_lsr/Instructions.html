@@ -1,0 +1,113 @@
+{% load otree staticfiles %}
+
+<div class="instructions well well-lg">
+
+    <p>
+       <font size="+2"> <strong>Instructions for the game:</strong></font>
+    </p>
+    <p>
+        This game is about trying to do the same as your colleague. 
+    </p>
+    <p> 
+        Every morning you arrive at work between 8:00am and 9:10am.
+        You and your colleague will arrive by bus 10 minutes apart.
+        <i>
+          Example: You arrive at <strong>8:40am</strong>.
+          Your colleague can arrive at <strong>8:30am</strong>, or <strong>8:50am</strong>.
+        </i>
+    </p>
+    <p> Both of you like to meet in the canteen for a coffee. If you both arrive before 9:00am,
+     you have time to go to the canteen, but you should only go if your colleague goes to
+      the canteen as well. If you or your colleague arrive at 9:00am or after, you should go straight to your offices.
+    </p>
+    <p>
+        At the beginning of each round you will know only your own arrival time
+        and you will have to decide whether to go to the canteen or
+        to your office. After each round you will be asked to estimate how certain 
+        you are that you made the same choice as your colleague.
+    </p>
+    <p>
+        <strong>Payoff and penalties:</strong>
+    </p>
+    <p>
+        You start the game with {{ Constants.endowment }} and will have to pay
+        various amounts of penalties in each round, depending on how well
+        you both do. Your challenge is to have as much money left as possible when the game ends, after
+        which the remaining amount is paid out to you as a bonus. The game
+        ends after {{ Constants.num_rounds }} rounds or when you or your
+        colleague has no more money left.
+    </p>
+  
+    <ul>
+        <li>
+            <strong>Both go to canteen before 9:00 am</strong>
+            <p>
+            If you guess correctly that both of you went to the
+            canteen before 9:00am, you pay a <strong>small</strong> penalty
+            proportional to how <strong>uncertain</strong> you were, e.g.:
+            
+            <ul>
+                <li>
+                    <strong>{{ -0.69|c }}</strong>
+                    if you were very uncertain.
+                </li>
+                <li>
+                    <strong>{{ -0.29|c }}</strong>
+                    if you were somewhat certain.
+                </li>
+                <li>
+                    <strong>{{ -0.01|c }}</strong>
+                    if you were very certain.
+            </p>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <strong>Both go to office</strong>
+            <p>
+            If you guessed correctly that both of you went to your
+            offices, no matter what time, your penalty is
+            <strong> doubled </strong> and proportional to how <strong>uncertain</strong> you were, e.g.:
+
+            <ul>
+                <li>
+                    <strong>{{ -1.39|c }}</strong>
+                    if you were very uncertain.
+                </li>
+                <li>
+                    <strong>{{ -0.58|c }}</strong>
+                    if you were somewhat certain.
+                </li>
+                <li>
+                    <strong>{{ -0.02|c }}</strong>
+                    if you were very certain.
+            </p> 
+                </li>
+            </ul>
+        </li>
+        <li>
+            <strong>One go to canteen, one go to office</strong>
+            <p>
+            If you miss each other, and one of you goes to the canteen while the
+            other goes to the office - or if any of you goes to the canteen at
+            9:00am or after, your penalty is <strong>doubled</strong>
+            and proportional to how <strong>certain</strong> you were, e.g.:
+            <ul>
+                <li>
+                    <strong>{{ -1.39|c }}</strong>
+                    if you were very uncertain.
+                </li>
+                <li>
+                    <strong>{{ -2.77|c }}</strong>
+                    if you were somewhat certain.
+                </li>
+                <li>
+                    <strong>{{ -9.21|c }}</strong>
+                    if you were very certain.
+            </p>
+                </li>
+            </ul>
+        </li>
+    </ul>
+    </p>
+</div>

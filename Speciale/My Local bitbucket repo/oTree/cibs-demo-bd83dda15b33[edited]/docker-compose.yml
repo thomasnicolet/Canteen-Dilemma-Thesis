@@ -1,0 +1,65 @@
+version: '2'
+
+services:
+  database-demo:
+    image: postgres:9.5
+    tmpfs:
+    - /run
+    - /tmp
+    environment:
+      POSTGRES_DATA: /var/lib/postgresql/data/pgdata
+      POSTGRES_DB: demo_db
+      POSTGRES_PASSWORD: my_postgres_password
+      POSTGRES_USER: otree_user
+    read_only: true
+    volumes:
+    - database-demo:/var/lib/postgresql/data
+    
+  redis-demo:
+    image: redis
+    read_only: true
+    command:
+    - redis-server
+    
+  otree-demo:
+    image: mbirkegaard/demo:latest
+    entrypoint: ./server_entrypoint.sh
+    environment:
+      AWS_ACCESS_KEY_ID: AKIAJ3TQDUCDZ72DGDCA
+      AWS_SECRET_ACCESS_KEY: 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
+      DATABASE_URL: postgres://otree_user:my_postgres_password@database-demo/demo_db
+      OTREE_ADMIN_PASSWORD: dip-calcine-headship-uncial-quinine-adjust
+      OTREE_AUTH_LEVEL: STUDY
+      OTREE_PRODUCTION: '1'
+      REDIS_URL: redis://redis-demo:6379
+    volumes:
+    - otree-resetdb-demo:/opt/init
+    - static-demo:/opt/otree/_static_root
+    labels:
+      io.rancher.container.pull_image: always
+      
+  worker-demo:
+    image: mbirkegaard/demo:latest
+    entrypoint: ./worker_entrypoint.sh
+    environment:
+      AWS_ACCESS_KEY_ID: AKIAJ3TQDUCDZ72DGDCA
+      AWS_SECRET_ACCESS_KEY: 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
+      DATABASE_URL: postgres://otree_user:my_postgres_password@database-demo/demo_db
+      OTREE_ADMIN_PASSWORD: dip-calcine-headship-uncial-quinine-adjust
+      OTREE_AUTH_LEVEL: STUDY
+      OTREE_PRODUCTION: '1'
+      REDIS_URL: redis://redis-demo:6379
+    volumes:
+    - otree-resetdb-demo:/opt/init
+    - static-demo:/opt/otree/_static_root
+    labels:
+      io.rancher.container.pull_image: always
+  
+volumes:
+  database-demo:
+  otree-resetdb-demo:
+  static-demo:
+
+networks:
+  db-net-demo:
+  redis-net-demo:

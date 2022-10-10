@@ -1,0 +1,26 @@
+{% extends "global/Base.html" %}
+{% load staticfiles otree %}
+
+{% block title %}
+ Round {{ subsession.round_number }}
+{% endblock %}
+
+{% block content %}
+
+    <p>
+        It is {{ subsession.day }} morning and you arrive at your workplace at {{ player.arrival_time|floatformat:"2" }} am.
+    </p>
+    <p>
+        Where will you go?
+    </p>
+
+    <div class="choice-button-wrapper">
+        <button name="choice" value="True" class="btn btn-primary btn-large">Canteen</button>
+        <button name="choice" value="False" class="btn btn-primary btn-large">Office</button>
+    </div>
+    <p>
+
+    </p>
+    {% include Constants.instructions_template %}
+
+{% endblock %}

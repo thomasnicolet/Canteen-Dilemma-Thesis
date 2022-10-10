@@ -1,0 +1,550 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 3cm
+\bottommargin 3cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Section
+
+\series bold
+Summary of data analysis draft
+\end_layout
+
+\begin_layout Subsection
+Results
+\end_layout
+
+\begin_layout Standard
+Our results show that participants generally go to the canteen at 8:40 and
+ earlier (around 90% of the time), and generally the office at 9:00 and
+ 9:10 (90% of the time), while around 40% chooses the canteen at 8:50.
+ These results show that while participants do consider the possible arrival
+ times for the other player, they only infer whether both players arrived
+ early enough to go to the canteen, while they do not infer that the other
+ person might have differing beliefs, causing them to choose office.
+ In other words, participants do not seem to substantially consult their
+ Theory of Mind in the Canteen Dilemma.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The data concerning their estimated certainty of success tells a different
+ story.
+ While participants go to the canteen 90% of the time at 8:30 and 87% of
+ the time at 8:40, i.e.
+ a 3% drop, when it comes to certainty, 70% of these participants are are
+ very certain that the other player also chose canteen at 8:30, while only
+ 51% are very certain at 8:40, i.e.
+ a 19% drop.
+ This indicates that participants who arrive at 8:40 do consider and reason
+ about the other player's beliefs and intentions to a larger degree than
+ is reflected in their choices.
+ This is important for experiments concerning Theory of Mind, since it shows
+ that there might be different agent types even among those making the same
+ choices, in the sense that their latent Theory of Mind might make them
+ certain to different degrees.
+\end_layout
+
+\begin_layout Subsection
+Reservations about results
+\end_layout
+
+\begin_layout Subsubsection
+Why do participants go to the canteen at 9:00 and 9:10?
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+Possible explanations include:
+\end_layout
+
+\begin_layout Description
+(i) participants chose at random.
+\end_layout
+
+\begin_layout Description
+(ii) Participants believed they could go to the canteen at 9:00 or earlier,
+ or 
+\end_layout
+
+\begin_layout Standard
+\noindent
+Now consider the instructions given: 
+\end_layout
+
+\begin_layout Quotation
+\noindent
+\begin_inset Quotes eld
+\end_inset
+
+Both of you like to meet in the canteen for a coffee.
+ If you arrive before 9:00 am, you have time to go to the canteen, but you
+ should only go if your colleague goes to the canteen as well.
+ If you or your colleague arrive at 9:00 am or after, you should go straight
+ to your offices.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We can reasonably expect random or semi-random answers in any experiment,
+ no matter the simplicity of the rules (i.e.
+ people answering simple questions wrong does not necessarily imply a cognitive
+ deficit, given the possibility of either clicking a wrong button unintentionall
+y, or simply choosing at random).
+ So (i) must be part of the explanation.
+ The question is whether (ii) might hold.
+ Participants might have only read the first sentence, interpreted 'before
+ 9:00 am' as before or at 9:00 am, or interpreted 'you should go straight
+ to your offices' as a moral imperative which might not align with their
+ self-interest.
+ Of those three, I take the last disjunct to be most likely, but it seems
+ most plausible that (i) is the leading cause for the following reason.
+\end_layout
+
+\begin_layout Subsubsection
+Why do participants choose canteen at 8:50 (or earlier)
+\end_layout
+
+\begin_layout Standard
+The rules state 
+\begin_inset Quotes eld
+\end_inset
+
+If you arrive before 9:00 am, you have time to go to the canteen, but you
+ should only go if your colleague goes to the canteen as well.
+ If you or your colleague arrive at 9:00 am or after, you should go straight
+ to your offices.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The rules intend to communicate: (a) you prefer to go to the canteen, but
+ only with your colleague, (b) you have to go to the office if you or your
+ colleague's arrival time is 9:00 or later, and (c) you always arrive within
+ 10 minutes of each other.
+ It is also possible that the rules do not clearly enough state that it
+ is far preferable to go to the office together, than to go to different
+ places.
+ The problematic interpretation by participants is 
+\series bold
+(d) 
+\series default
+we both like to meet in the canteen, and we do not like if one or both goes
+ to the office.
+ This, together with the rules (b) that you have to go to the office when
+ one player arrives 9:00 or later, would entail that if a player arrives
+ at 8:50 and thinks the other player arrives at 8:40, the only winning play
+ is canteen.
+ However this is a peculiar interpreation, since (a) entails that participants
+ should only go to canteen when the other players do so.
+ Now let us consider possible explanations for going to the canteen at 8:50.
+\end_layout
+
+\begin_layout Description
+(i) Participants understood (a) but either not (b) or (c), i.e.
+ they ignored the possibility that the other player would arrive at 9:00
+ (this is arguably a 0-order ToM mistake, i.e not inferring (b) or (c) from
+ the rules, but up to discussion if it is a 1st-order ToM mistake)
+\end_layout
+
+\begin_layout Description
+(ii) Participants understood (a), (b) and (c) and that the other player
+ might have arrived at 9:00, but simply took a risk and went to the canteen
+ at 8:50.
+ This is somewhat reflected in certainty estimates given by participants.
+\end_layout
+
+\begin_layout Description
+(iii) Participants did not understand either (a), (b) or (c), implying that
+ even if they considered the other playing arriving at 9:00, they thought
+ canteen would still be the right choice.
+ Like those going to the canteen at 9:00, it might be due to only focusing
+ on the 'Both of you like to meet in the canteen for a coffee', while also
+ understanding 'If you arrive before 9:00 am, you have time to go to the
+ canteen' and ignoring the rest.
+ 
+\end_layout
+
+\begin_layout Description
+(iv) Mistakes/random choices.
+ If some choose canteen randomly or by mistake at 9:00, we would expect
+ some to do the same at 8:50.
+ But this does not account for the relative difference between arrival times.
+\end_layout
+
+\begin_layout Standard
+Explanation (ii) implies that participants makes choices where they know
+ there is a chance of failure, which is a plausible assumption.
+ In fact, if a participant knows (a), (b) and (c), and assume that another
+ player would always go to the canteen at 8:40, it entails that it would
+ be rational to go to the canteen half of the times they arrive at 8:50.
+ This would explain the canteen choices we see at 8:50, and also explain
+ the dominance of canteen choices at earlier times.
+ A participant might believe that other players go to the canteen at 8:40
+ if (1) they do not believe that other players consult their ToM, or (2),
+ they might believe that while other players might have ToM considerations,
+ they do not believe others do, so they go to the canteen at 8:40 none-the-less.
+ In other words, if the importance of ToM is not common knowledge, it is
+ not strictly rational to act on it.
+\end_layout
+
+\begin_layout Standard
+We can also consider the possibility that those arriving at 8:50 did not
+ believe that the other person would necessarily choose office at 9:00.
+ While irrational, our data shows it's a true assumption.
+ If a player have this belief, and the belief the other person would always
+ choose canteen at 8:40, it would entail canteen as the rational choice
+ at 8:50.
+ This is an implausible explanations for canteen choices at 8:50.
+ First, it ascribes implausibly complex reasoning to participants.
+ Secondly, participants still go to the canteen at 8:50, even if we only
+ include those who chose office at 9:00.
+ In other words, they do not choose canteen at 8:50 because they themselves
+ choose canteen at 9:00.
+\end_layout
+
+\begin_layout Subsubsection
+Why might participants choose office at 8:50, and earlier?
+\end_layout
+
+\begin_layout Standard
+Participants choosing canteen 50% of the time they arrive at 8:50 means
+ the same as choosing office 50% of the time, and the explanation for this
+ is the same as above.
+ The reason for preferring office at 8:50 over canteen would be due to consultin
+g one's Theory of Mind.
+ Participants who choose canteen at 8:50 will lose at least half of the
+ times no matter what, while their other option, office, could win 100%
+ of the time (ignore difference in payoff for now) if the other player chooses
+ office as well.
+ A participant arriving at 8:50 might think the following.
+ Even if the other player arrives at 8:40, that player might not choose
+ canteen, because that player knows that if the other player arrived at
+ 8:50, they might choose office..
+\end_layout
+
+\begin_layout Standard
+In fact, if a participant arrives at 8:50 and believes for whatever reason
+ that the other player would both choose office at 9:00, and just sometimes
+ at 8:40, it would make office the rational choice at 8:50.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+If a participant chooses office at 8:40 or earlier, we might conclude that
+ they have an 
+\emph on
+n-
+\emph default
+order Theory of Mind.
+ If a participant chooses office at 8:40, where they know a canteen-canteen
+ choice would always be the best option, they have to consider not just
+ that the other person might arrive at 8:50, but also that in such a case,
+ the other person would not know that a canteen-canteen choice would be
+ the best option.
+ 
+\end_layout
+
+\begin_layout Standard
+We do in fact see 5%-14.4% choosing office at 8:00 to 8:40.
+ It's possible that this is due to Theory of Mind applied by participants.
+ But if we expect that very few participants perform sufficiently higher
+ order social reasoning to go to the office at 8:00 or 8:10, we might not
+ expect such a uniform distribution of office answers between 8:00 and 8:40.
+ In other words, it is likely that a good portion of these office answers
+ are due to random choices as well.
+ This corresponds roughly to the percent of canteen answers at 9:00 and
+ 9:10.
+ 
+\end_layout
+
+\begin_layout Subsection
+Data visualisation
+\end_layout
+
+\begin_layout Standard
+\align center
+Plot below shows percent going to canteen (blue trace) and percent of those
+ being very certain (orange trace) + shaded .95 conf.
+ intervals.
+ Only includes treatment with 240s instruction time.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+centerline{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename C:/Users/Thomas/OneDrive/Speciale/My Local bitbucket repo/data/Canteen_Dilemma/canteen_dilemma_plots/Linechart_(only includes (240s), with 9.0+9.1)_percent_choosing_canteen_and_percent_of_those_being_certain(shaded error bars+annotations).png
+	scale 50
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Extra-questions
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Most relevant:
+\end_layout
+
+\begin_layout Enumerate
+Did you ever go to the canteen at an arrival time later than what is safe
+ according to your previous answer? Why or why not? [Right after 'cutoff'
+ question, free text form]
+\end_layout
+
+\begin_layout Enumerate
+Did you ever make a different decision after seeing the same arrival time
+ again at a later point in the game? Why or why not? [free text form]
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Questions about understanding the rules:
+\end_layout
+
+\begin_layout Standard
+Questions testing if participants have understood the rules: 
+\end_layout
+
+\begin_layout Standard
+(a) you prefer to go to the canteen, but only with your colleague,
+\end_layout
+
+\begin_layout Standard
+(b) you have to go to the office if you or your colleague's arrival time
+ is 9:00 or later, and
+\end_layout
+
+\begin_layout Standard
+(c) you always arrive within 10 minutes of each other.
+ 
+\end_layout
+
+\begin_layout Standard
+We might want questions instead that test the belief 'Going to the office
+ together when both players arrive before 9:00, is equally bad as going
+ to different places'.
+\end_layout
+
+\begin_layout Enumerate
+Imagine you arrive at 
+\emph on
+x 
+\emph default
+arrival time.
+ You receive a text from your colleague telling you went/will go to office.
+ Where do you go? (Consider varying 
+\emph on
+x 
+\emph default
+to see if it changes results.
+ Possible answers {canteen, office, does not matter, don't know}, knowledge
+ of (a) entails office is correct choice)
+\end_layout
+
+\begin_layout Enumerate
+Imagine you arrive at 9:00.
+ You receive a text from your colleague telling you he arrived at 8:50.
+ Where do you go? (Possible answers {canteen, office, does not matter, don't
+ know}, knowledge of (b) entails office is only correct choice).
+\end_layout
+
+\begin_layout Enumerate
+Imagine you arrive at 8:50.
+ You receive a text from your colleague telling you he arrived at 9:00.
+ Where do you go (Same as above, office correct answer again).
+\end_layout
+
+\begin_layout Enumerate
+Imagine you arrive at 8:40.
+ You receive a text from your colleague telling you he arrived at 8:50.
+ Where do you go? (Possible answers {canteen, office, does not matter, don't
+ know}, this tests whether participants choosing office more at 8:40 if
+ they know the other arrives at 8:50).
+\end_layout
+
+\begin_layout Enumerate
+Imagine you arrive at 8:20.
+ You know that your colleague always chooses office if they arrive at 8:30.
+ Where do you go? (Possible answers {canteen, office, does not matter, don't
+ know}, this makes 8:20 structurally similar to 8:50, and tests whether
+ participants understood (a) and whether there is a difference in framing
+ the question with an earlier arrival time).
+\end_layout
+
+\begin_layout Enumerate
+When you choose to go to the office before 9:00, e.g.
+ 8:50 and earlier, what was your reasoning behind it?
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Other questions:
+\end_layout
+
+\begin_layout Enumerate
+What thoughts did you have when making your certainty estimate (Possibly
+ illuminates a hypothesis that there is a disassociation between choices
+ and certainty)
+\end_layout
+
+\begin_layout Enumerate
+Were you sometimes less certain about e.g.
+ going to the canteen? Why did or did you not do that? (Same as above)
+\end_layout
+
+\begin_layout Enumerate
+What do you think about a strategy of only going to the office?
+\end_layout
+
+\end_body
+\end_document

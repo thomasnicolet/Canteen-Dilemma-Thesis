@@ -1,0 +1,7431 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+\fancyhf{}               % Clear fancy header/footer
+\fancyhead[L]{Introduction to social cognition and canteen dilemma}   % My name in Left footer
+\fancyhead[R]{\thepage}  % Page number in Right footer
+\makeatletter
+\let\ps@plain\ps@fancy   % Plain page style = fancy page style
+\makeatother
+\thispagestyle{empty}
+\usepackage{xcolor}
+\hypersetup{
+    colorlinks,
+    linkcolor={red!50!black},
+    citecolor={blue!100!black},
+    urlcolor={blue!80!black}
+}
+\usepackage{float}
+%%%%%%%%%%%%%%%%%
+% Figures
+\usepackage{tikz}
+\usetikzlibrary{arrows,positioning,fit,automata}
+\tikzset{    
+%Define standard arrow tip
+>=stealth',
+%Define style for boxes
+punkt/.style={rectangle, rounded corners, draw=black, thick, text width=10em, minimum height=2em, text centered},
+empty/.style={rectangle, rounded corners, text width=10em, minimum height=2em, text centered},
+bigpunkt/.style={rectangle, rounded corners, draw=black, thick, text width=10em, minimum height=2em, text centered},
+hpunkt/.style={rectangle, rounded corners=10pt, draw=black, thick, text width=14em, minimum height=2em, text centered},
+% Define arrow style   
+pil/.style={->, thick, shorten <=2pt, shorten >=2pt,}, 
+% Loop Style
+every loop/.style={max distance=10mm,looseness=10},
+% Define Venn diagram
+emptyvenn/.style={circle, draw=none, text centered},
+venn/.style={circle, draw=black, text centered, minimum height=25pt,thick},
+% Define Muddy Children graph
+muddy/.style={rectangle, draw=black, rounded corners, text width=50pt, minimum height=19pt, text centered},
+realmuddy/.style={rectangle, draw=black, ultra thick, rounded corners, text width=30pt, minimum height=19pt, text centered},
+muddyetl/.style={rectangle, draw=black, rounded corners=6pt, text width=48pt, minimum height=19pt, text centered},
+realmuddyetl/.style={rectangle, draw=black, ultra thick, rounded corners=6pt, text width=48pt, minimum height=19pt, text centered},
+% Define ELT graph branches
+etl/.style={rectangle, draw=black, rounded corners=6pt, text width=48pt, minimum height=19pt, text centered},
+realetl/.style={rectangle, draw=black, ultra thick, rounded corners=6pt, text width=48pt, minimum height=19pt, text centered}
+}
+\end_preamble
+\use_default_options true
+\begin_modules
+customHeadersFooters
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "Arial"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\rightmargin 1in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle fancy
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Introduction to the canteen dilemma and higher-order social cognition
+\end_layout
+
+\begin_layout Author
+Thomas Schrum Nicolet
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Abstract
+It is often necessary to correctly attribute mental states to others in
+ order to interpret or predict their behavior correctly.
+ This capacity is often referred to as 'theory of mind'.
+ Although it seems natural to interpret the behavior of others in terms
+ of mental traits, the reasoning involved is notoriously difficult and subsequen
+tly limited.
+ This thesis revolves around an experiment deviced in conjunction with R.
+ Engelhardt (CIBS) and T.
+ Bolander (DTU Computer) conducted at the Center for Information and Bubble
+ Studies (CIBS).
+ This introduction to the article on the experiment presents both how cognitive
+ research on theory of mind relates to logic as well as presenting empirical
+ findings from cognitive science which are relevant for understanding the
+ canteen dilemma.
+ I motivate interdisciplinary work between logic and cognitive science by
+ arguing that empirical insights are necessary in order for logic to make
+ psychologically realistic models of agents, which benefits both cognitive
+ science by providing insights into the computational complexity involved
+ in human reasoning as well as allowing artificial intelligent technology
+ to behave more human-like.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+Acknowledgments
+\end_layout
+
+\begin_layout Standard
+The canteen dilemma was conducted as part of a research project at the Center
+ for Information and Bubble Studies (CIBS) in collaboration with R.
+ Engelhardt (CIBS) and T.
+ Bolander (DTU Compute).
+ I would like to thank both the center for making the experiment possible
+ and R.
+ Engelhardt and T.
+ Bolander for co-designing and implementing the experiment as well as providing
+ insightful discussion.
+ I would also like to thank M.
+ B.
+ Andersen for help with technical issues and V.
+ F.
+ Hendricks for putting me in a position to work on the project.
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Introduction
+\end_layout
+
+\begin_layout Standard
+It is often necessary to be able to attribute mental states to others and
+ reason about them in order to successfully navigate our social world.
+ The focus of this thesis is this cognitive capacity and more specifically
+ its limitation.
+ The sociocognitive capacity to correctly attribute mental states to others
+ is what allows self-conscious beings like humans acknowledge and appreciate
+ that other people have mental states of their own, including intentions,
+ beliefs, emotions and so on.
+ This capacity therefore plays a pivotal role in human interaction and has
+ been described as the pinnacle of social cognition 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "clayton "
+literal "false"
+
+\end_inset
+
+.
+ This sociocognitive capacity was originally referred to as 'theory of mind'
+ in the seminal paper by Premack & Woodruff 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Premack chimp ToM"
+literal "false"
+
+\end_inset
+
+ in 1978.
+ It has seen implicit philosophical attention for centuries and been of
+ immense scientific interest in the last 40 years within studies such as
+ psychology, biology, neuroscience and philosophy.
+ This thesis revolves around an experiment called the canteen dilemma conducted
+ at the Center for Information and Bubble Studies.
+ My thesis consists of an article on the canteen dilemma as well as this
+ present paper which works as an introduction to the article.
+ The article aims at investigating the nature and limited application of
+ theory of mind in a strategic coordination game with imperfect information.
+ The present introduction is intended to supplement the accompanying article
+ by presenting and discussing relevant research on social cognition, how
+ and why it is relevant to research in logic, as well as providing supplementary
+ results and discussion on the canteen dilemma experiment itself.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It is necessary to preface some of the discussion on social cognition with
+ some reservations.
+ The field has been criticized in terms of 
+\begin_inset Quotes eld
+\end_inset
+
+theory of mind
+\begin_inset Quotes erd
+\end_inset
+
+ being used vaguely and inconsistently between studies and by arguing that
+ such studies specifically (i) treat theory of mind as a monolithic process,
+ (ii) refer to a single brain network for theory of mind and (iii) conflate
+ varieties of theory of mind 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Schaafsma deconstructing"
+literal "false"
+
+\end_inset
+
+.
+ Other studies have argued that certain studies which point to cases of
+ theory of mind could be explained without reference to mental states.
+ This calls for a critical assessment of the scientific understanding of
+ theory of mind as a uniform capacity of representing the mental states
+ of others.
+ This will be discussed in section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Limitations-to-theconcept"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ as well.
+ Social cognition has also been referred to as 'mentalizing' 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Heyes submentalizing"
+literal "false"
+
+\end_inset
+
+, 'mind-reading' 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Heyes cultural evolution"
+literal "false"
+
+\end_inset
+
+, 'perspective taking' 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "perspective taking"
+literal "false"
+
+\end_inset
+
+ and 'higher-order social cognition/reasoning' 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "social intelligence,verbrugge logic and social cognition"
+literal "false"
+
+\end_inset
+
+.
+ Given the canteen dilemma's emphasis on reasoning about possible mental
+ states of others in order to inform one's decisions, I will often refer
+ to this capacity as higher-order social reasoning or cognition, sometimes
+ just higher-order reasoning.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Despite these complexities, the phenomena of attributing mental states to
+ others is undeniably real and important.
+ However construed, the ability allows us to not just predict the behavior
+ of others, but also predict how our own behavior might affect the mental
+ states of others.
+ As such, this capacity allows us to develop a more complete and accurate
+ understanding of the inner workings of those around us and as such is an
+ essential part of understanding what it means to be human.
+ The reasoning involved can be applied recursively, modeling the mental
+ state of others, including their model of one's own mental state, and so
+ on.
+ This recursive modeling of the mental states of others is referred to as
+ higher-order social reasoning or cognition and it is this cognitive activity
+ that is the general focus of the canteen dilemma experiment and this thesis.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Epistemic logic, the modal logic of knowledge, is useful for representing
+ mental states like knowledge so it occurs to be a natural tool for describing
+ higher-order social reasoning.
+ In general, we can say zero-order reasoning concerns facts about the world,
+ while 
+\begin_inset Formula $n+1$
+\end_inset
+
+-order reason concerns facts about 
+\begin_inset Formula $n$
+\end_inset
+
+-order reasoning of other people 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "verbrugge logic and social cognition"
+literal "false"
+
+\end_inset
+
+.
+ Since higher order social reasoning can be described in various epistemic
+ logics, the interface between logic and cognitive science has recently
+ received interest.
+ There is a two-fold question in this interdisciplinary field: To what extent
+ do people reason differently from logical prescriptions and what does such
+ possible divergence mean for both fields? The latter question will be discussed
+ in the section below.
+ After this I present the epistemic logic 
+\begin_inset Formula $S5$
+\end_inset
+
+ before I give an overview of insights from experimental cognitive science,
+ focusing on the possible limits of human reasoning.
+ This works as an introduction to the canteen dilemma.
+ As the essential details and results of the experiment are fleshed out
+ in the accompanying article, this thesis will describe and discuss supplementar
+y results of the experiment.
+\end_layout
+
+\begin_layout Subsection
+Logic and the facts - from Frege to Benthem
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Logic-and-the"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Logic bears a long but intricate relation to human reasoning.
+ The logic of argumentation has been studied since antiquity and is still
+ frequently taught to first year philosophy students.
+ The goal of this is presumably not just to teach students about valid inference
+s but intended to improve the validity of the inferences they make themselves.
+ Besides this, logic has traditionally been thought of as independent of
+ empirical facts.
+ Logic has been viewed as a normative force of how we ought to make inferences.
+ The relationship between human reasoning and logic is not as neatly demarcated
+ as some might think however.
+ Development within epistemic logic especially has in recent years been
+ undergoing a cognitive turn, notably proposed by logicians as Johan van
+ Benthem and Rineke Verbrugge 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "benthem facts matter,verbrugge logic and social cognition"
+literal "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+This cognitive turn is a step away from the anti-psychologism espoused from
+ the beginning of modern logic , as Frege stated that 
+\begin_inset Quotes eld
+\end_inset
+
+logic is concerned .
+ .
+ .
+ not with the question of how people think, but with the question of how
+ they must think if they are not to miss the truth
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+after "p. 250"
+key "frege1897"
+literal "false"
+
+\end_inset
+
+.
+ Frege refers to the normativity of logic but his point rests on a more
+ fundamental claim that logic is the study of objective mind-independent
+ logical laws, as he states explicitly: 
+\begin_inset Quotes eld
+\end_inset
+
+the laws of truth are not psychological laws: they are boundary stones set
+ in an eternal foundation
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+after "p. 13"
+key "frege 1964"
+literal "false"
+
+\end_inset
+
+.
+ In other words, logic gets its normativity because the norms for our reasoning
+ and beliefs are structured by what is truth-conducing and the laws of logic
+ are objective truths, in fact necessary and eternal truths.
+ Husserl followed Frege in this anti-psychologism and even argued that any
+ argument that makes logic independent from psychology rely on the distinction
+ between how we ought to think and how do do think as implicitly psychologistic,
+ since any such argument still refers to human reasoning 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "neo-kantianism"
+literal "false"
+
+\end_inset
+
+.
+ So for Frege and Husserl, the normativity of logic is a side-effect of
+ its objectivity.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The objectivity of logic has been part of a fundamental philosophical debate
+ about what makes logical truths true, what logical facts are about and
+ whether they are necessarily or contingently true.
+ There is a rich historical discussion on this from Wittgenstein, Ayer,
+ Carnap, Quine, Kripke and Putnam among others which is not directly relevant
+ for the question of normativity due the following argument.
+ Assume we reject Frege's view and adopt a non-Platonistic Realism like
+ Maddy  
+\begin_inset CommandInset citation
+LatexCommand cite
+key "maddy phil of logic"
+literal "false"
+
+\end_inset
+
+ or a more radical empirical version from Quine 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Quine"
+literal "false"
+
+\end_inset
+
+, which states that the truth of logical laws are contingent on the physical
+ structuring.
+ Then we can still hold onto the normativity of logic because even within
+ such a view, human reasoning takes place within the context of this physical
+ structuring.
+ How does empirical facts relate to logic then? 
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Let us start with argumentative logic.
+ There are certain inferences that humans make that can only be described
+ as mistakes.
+ Modus Ponens for example, from 
+\begin_inset Formula $P$
+\end_inset
+
+ and 
+\begin_inset Formula $P\rightarrow Q$
+\end_inset
+
+, we can conclude 
+\begin_inset Formula $Q$
+\end_inset
+
+, describes a valid inference which people often depend on and failing to
+ appreciate it can have adverse consequences.
+ But there are other complex cases where human reasoning might not be easily
+ described in a logical model, but where its not necessarily a mistake in
+ reasoning.
+ There are few reasons for this which encourage collaboration between logic
+ and cognitive science.
+ First, if people make inferences which are invalid in classical logic,
+ we cannot deduce that they made a logical mistake because classical logic
+ might not describe their reasoning very accurately.
+ After all, people are most often highly successful in their endeavors even
+ if their reasoning seems inconsistent in some logical model.
+ This has lead to development of non-monotonic logics 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "nonmonotonic logic"
+literal "false"
+
+\end_inset
+
+ and default reasoning 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "default reasoning"
+literal "false"
+
+\end_inset
+
+, which allows valid inferences on incomplete information which would be
+ invalid in classical logic.
+ So when human reasoning deviates from logical prescriptions it does not
+ mean it is random or illogical.
+ People might reason in ways which for most purposes are the most truth-conduciv
+e, even if it leads to mistakes sometimes.
+ So people reason very differently, and for good reason, so if logic wants
+ to maintain its normativity, it should take this seriously.
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Second, in relation to developing artificial intelligence, which was originally
+ described as “making machines behave in ways that would be intelligent
+ if a human were so behaving
+\begin_inset Quotes erd
+\end_inset
+
+ by John McCarthy in 1956 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "mccarthy ai"
+literal "false"
+
+\end_inset
+
+, we need to be aware of how people actually reason if we want artificially
+ intelligent technology to behave similarly.
+ This is especially important when it comes to higher order social cognition.
+ If we want to be able to interact intelligently with artificial agents,
+ such agents will have to be able to reason about and understand the reasoning
+ of humans.
+ In other words, if human reasoning deviates systematically from idealized
+ logical prescriptions, AI systems would benefit from being able to anticipate
+ this by being able to model human reasoning as it is, rather than how it
+ ought to be.
+\begin_inset VSpace medskip
+\end_inset
+
+I will now turn to epistemic logic as an example of an idealized representation
+ of reasoning about knowledge.
+ Epistemic logic was originally used to formalize and analyze epistemological
+ notions and concepts and is also useful as a tool for showing the epistemic
+ depth of certain real world situations.
+ It involves some idealizations which I will discuss before moving onto
+ cases of real higher-order social reasoning.
+\end_layout
+
+\begin_layout Section
+\noindent
+Epistemic logic 
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Epistemic-logic--"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Epistemic logic is the modal logic of knowledge and as such can be very
+ useful for keeping track of what agents know at specific static stages
+ of an informational process.
+ I will here introduce the most popular logical system 
+\begin_inset Formula $S5$
+\end_inset
+
+ which is the epistemic logic most often used to symbolize knowledge, although
+ with idealization problems we will turn to later.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Definiton
+\begin_inset space ~
+\end_inset
+
+1.1
+\begin_inset space ~
+\end_inset
+
+(Epistemic
+\begin_inset space ~
+\end_inset
+
+language)
+\series default
+ Let 
+\emph on
+P 
+\emph default
+be a set of atomic propositions and 
+\emph on
+A 
+\emph default
+a set of agent-symbols.
+ The language
+\begin_inset Formula $\mathcal{L_{K}}$
+\end_inset
+
+ for multi-agent epistemic logic is then generated by the following BNF:
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Formula $\varphi\Coloneqq p\,|\,\lnot\varphi\,|\,(\varphi\land\varphi)\,|\,K_{a}\varphi$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+From this definition we can build formulas from atoms and more complex formulas
+ using the negation 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset Formula $\lnot$
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, conjunction 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset Formula $\land$
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+ and knowledge operator 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset Formula $K_{i}$
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Before we explore the art of modeling in epistemic logic I will also define
+ Kripke models and truth conditions for our epistemic language.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Definition 1.2 (Kripke models) 
+\series default
+A 
+\emph on
+Kripke model 
+\emph default
+for the epistemic language is a structure 
+\begin_inset Formula $M=(S,R,V)$
+\end_inset
+
+, where 
+\emph on
+S
+\emph default
+ is a set of states, 
+\emph on
+R 
+\emph default
+is an accessibility relation 
+\begin_inset Formula $R_{a}\subseteq S\times S$
+\end_inset
+
+ for every 
+\begin_inset Formula $a\in A$
+\end_inset
+
+, where 
+\begin_inset Formula $R_{a}st$
+\end_inset
+
+ means 
+\emph on
+t 
+\emph default
+is accessible from 
+\emph on
+s 
+\emph default
+for agent 
+\emph on
+a
+\emph default
+.
+ 
+\emph on
+V
+\emph default
+ is a valuation function assigning truth values to propositions at states.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Definition 1.3 (Truth conditions) 
+\series default
+Epistemic formulas are interpreted on 
+\emph on
+pointed models 
+\emph default
+
+\begin_inset Formula $M,s$
+\end_inset
+
+ consisting of a Kripke model 
+\begin_inset Formula $M$
+\end_inset
+
+and a state 
+\begin_inset Formula $s\in S$
+\end_inset
+
+.
+ Truth conditions for formulas are then:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $M,s\vDash p$
+\end_inset
+
+ iff 
+\begin_inset Formula $V$
+\end_inset
+
+ makes 
+\begin_inset Formula $p$
+\end_inset
+
+ true at 
+\begin_inset Formula $s$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $M,s\vDash\lnot\varphi$
+\end_inset
+
+ iff 
+\begin_inset Formula $not$
+\end_inset
+
+ 
+\begin_inset Formula $M,s\vDash\varphi$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $M,s\vDash\varphi\land\psi$
+\end_inset
+
+ iff  
+\begin_inset Formula $M,s\vDash\varphi$
+\end_inset
+
+ and 
+\begin_inset Formula $M,s\vDash\psi$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $M,s\vDash K_{a}\varphi$
+\end_inset
+
+ iff 
+\begin_inset Formula $for\,all\,worlds\,t\,such\,that\,R_{a}st,\,M,t\vDash\varphi$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I will focus on the prominent epistemic logic 
+\begin_inset Formula $S5$
+\end_inset
+
+, which is the set of Kripke models where 
+\begin_inset Formula $R$
+\end_inset
+
+ is an equivalence relation.
+ I will also use 
+\emph on
+states
+\emph default
+ and 
+\emph on
+worlds
+\emph default
+ interchangeably.
+ We get 
+\begin_inset Formula $S5$
+\end_inset
+
+ by adding the following axiom schema to our logic (which can both be understood
+ in terms of their epistemic consequences and the implication for the accessibil
+ity relation 
+\begin_inset Formula $R$
+\end_inset
+
+): 
+\end_layout
+
+\begin_layout Description
+\begin_inset Formula $K_{a}\varphi\rightarrow\varphi$
+\end_inset
+
+ (truth or reflexivity),
+\end_layout
+
+\begin_layout Description
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\begin_inset Formula $K_{a}\varphi\rightarrow K_{a}K_{a}\varphi$
+\end_inset
+
+ (positive introspection or transitivity) 
+\end_layout
+
+\begin_layout Description
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\begin_inset Formula $\lnot K_{a}\varphi\rightarrow K_{a}\lnot K_{a}\varphi$
+\end_inset
+
+ (negative introspection or euclidity)
+\end_layout
+
+\begin_layout Standard
+The first axiom is entails veridicality and is mostly uncontroversial: if
+ you know something, it is true.
+ The other two implies that if you're aware of what you know and do not
+ know and are much less realistic, which we will get back to when looking
+ at realistic social reasoning.
+ 
+\begin_inset Formula $S5$
+\end_inset
+
+ allows us to interpret 
+\begin_inset Formula $R$
+\end_inset
+
+ as a 
+\emph on
+indistinguishability
+\emph default
+ relation.
+ It means that when agents consider worlds possible, they cannot distinguish
+ between them.
+ This means that we can view all worlds which are accessible for an agent
+ as 
+\emph on
+epistemic alternatives
+\emph default
+.
+ It intuitively encapsulates the semantics above, which state that agents
+ only know something, when it is the case in all worlds they consider possible.
+ We can also add a modal operator for 
+\emph on
+mutual knowledge, 
+\emph default
+symbolizing that every agent in group 
+\emph on
+B
+\emph default
+ knows 
+\begin_inset Formula $\varphi$
+\end_inset
+
+, namely 
+\series bold
+
+\begin_inset Formula $E_{B}\varphi$
+\end_inset
+
+
+\series default
+, defined as the conjunction of all individuals in 
+\emph on
+B 
+\emph default
+knowing 
+\begin_inset Formula $\varphi$
+\end_inset
+
+.
+ That is, for every 
+\begin_inset Formula $B\subseteq A$
+\end_inset
+
+: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Formula $E_{B}\varphi=\underset{b\in B}{\bigwedge}K_{b}\varphi$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+As the limiting case of the infinite conjunction mutual knowledge, where
+ everyone knows 
+\begin_inset Formula $\varphi$
+\end_inset
+
+, and everyone knows that everyone knows 
+\begin_inset Formula $\varphi$
+\end_inset
+
+ ..., we introduce the notion of 
+\emph on
+common knowledge
+\emph default
+:
+\emph on
+ 
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Formula $C_{B}\varphi=\stackrel[n=0]{\infty}{\bigwedge}E_{B}^{n}\varphi$
+\end_inset
+
+ 
+\begin_inset Formula $ $
+\end_inset
+
+
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Semantically interpreted, 
+\begin_inset Formula $\varphi$
+\end_inset
+
+ is common knowledge among a group 
+\emph on
+A 
+\emph default
+in a state 
+\begin_inset Formula $s$
+\end_inset
+
+ if and only if, for all worlds 
+\begin_inset Formula $t$
+\end_inset
+
+ in the reflexive transitive closure of the accessibility relations for
+ all agents in 
+\emph on
+A
+\emph default
+, 
+\emph on
+
+\begin_inset Formula $\varphi$
+\end_inset
+
+ 
+\emph default
+holds in
+\emph on
+ 
+\begin_inset Formula $t$
+\end_inset
+
+
+\emph default
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+after "p. 31f"
+key "DEL"
+literal "false"
+
+\end_inset
+
+.
+ There is an intriguing but unintuitive difference between any finite number
+ of iterations of the 
+\emph on
+E-
+\emph default
+operator and the infinite iteration of common knowledge.
+ This difference can be shown in examples from epistemic logic like the
+ 'consecutive numbers' example shown below.
+ These examples are also very similarly structured to the canteen dilemma
+ as we will see later.
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Consecutive-numbers-example "
+
+\end_inset
+
+ Consecutive numbers example
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:-Consecutive-numbers"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Two agents 
+\emph on
+a 
+\emph default
+(Anne) and 
+\emph on
+b 
+\emph default
+(Bill) sit together.
+ They are told they will each receive a natural number and that their numbers
+ will be consecutive such that their numbers will be 
+\begin_inset Formula $n$
+\end_inset
+
+ and 
+\begin_inset Formula $n+1$
+\end_inset
+
+ where 
+\begin_inset Formula $n\in\mathbb{N}$
+\end_inset
+
+.
+ They are only told told their own number but it is common knowledge between
+ Anne and Bill that their numbers are consecutive.
+ This entails a structure where in any given situation, each agent know
+ their own number and considers it possible that the other agent has a number
+ one before or after (unless they have 0)
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+The following example is based on the example given in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "consecutive numbers book"
+literal "false"
+
+\end_inset
+
+ and the more technical version in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "DEL"
+literal "false"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+.
+ This gives us the following diagram:
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+ 
+\backslash
+centerline{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename consecutive numbers diagram1.png
+	scale 60
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+Figure 1.
+
+\series default
+ Consecutive numbers model (Ditmarsch & Kooi 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "consecutive numbers book"
+literal "false"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Suppose the actual numbers given are 2 to Anne and 3 to Bill, denoted as
+ a state 
+\begin_inset Formula $(2,3)$
+\end_inset
+
+.
+ In that case we can infer a few different facts.
+ Most basically, Anne know her number is 2 and Bill knows his number is
+ 3: 
+\begin_inset Formula $K_{a}a_{2}\land K_{b}b_{3}$
+\end_inset
+
+.
+ Since they know their numbers are consecutive, they both know that there
+ are only two possible numbers for the other (but these are not the same
+ for Anne and Bill!): 
+\begin_inset Formula $K_{a}(b_{1}\lor b_{3})$
+\end_inset
+
+ and 
+\begin_inset Formula $K_{b}(a_{2}\lor a_{4})$
+\end_inset
+
+.
+ Since Anne considers it possible that Bill has as 1 or 3, she considers
+ it possible that Bill considers 0 or 2 possible (if Bill has 1) or 2 or
+ 4 possible (if Bill has 3), stated as: 
+\begin_inset Formula $K_{a}K_{b}(a_{0}\lor a_{2}\lor a_{4})$
+\end_inset
+
+.
+ For the more interesting part, imagine that Anne and Bill has to guess
+ whether they both have positive numbers, i.e.
+ none of them have a 0, denoted as 
+\begin_inset Formula $M,(x,y)\models(positive)$
+\end_inset
+
+ iff 
+\begin_inset Formula $(x\neq0\land y\neq0)$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+If we ask both Anne and Bill in our supposed case if they know that the
+ other's number is positive, they would both answer yes: 
+\begin_inset Formula $K_{a}(positive)\land K_{b}(positive)$
+\end_inset
+
+, which can be expressed concatenated as 
+\begin_inset Formula $E_{\{a,b\}}(positive)$
+\end_inset
+
+.
+ This is equivalent to checking for each agent 
+\emph on
+i 
+\emph default
+whether every world which is 
+\emph on
+i 
+\emph default
+accessible from 
+\begin_inset Formula $(2,3)$
+\end_inset
+
+ only has positive numbers.
+ However, now imagine that we ask both Anne and Bill respectively if they
+ both know that no one has a 0 , i.e.
+ if 
+\begin_inset Formula $E_{\{a,b\}}(positive)$
+\end_inset
+
+ is true.
+ Start with Bill.
+ He considers 
+\begin_inset Formula $(2,3)$
+\end_inset
+
+ and 
+\begin_inset Formula $(4,3)$
+\end_inset
+
+ possible.
+ Since we're only focused on 
+\begin_inset Formula $0$
+\end_inset
+
+, we can focus on the lowest number-pair, i.e.
+ 
+\begin_inset Formula $(2,3)$
+\end_inset
+
+, since the other direction only takes us away from 0.
+ Bill thinks it's possible Anne has a 2, which means he knows both numbers
+ are positive, and since Anne would then consider 
+\begin_inset Formula $1$
+\end_inset
+
+ as the lowest number, he knows that Anne knows it as well: 
+\begin_inset Formula $K_{b}K_{a}(positive)$
+\end_inset
+
+.
+ But even though Anne in fact has a 2, meaning she knows that both numbers
+ are positive since the lowest possible number for Bill would be 1, if Bill
+ has a 1, he considers it possible that Anne as a 0.
+ So 
+\begin_inset Formula $\lnot K_{a}K_{b}(positive).$
+\end_inset
+
+ In other words, while everyone knows that no one has a 0, not everyone
+ knows this epistemic fact itself: 
+\begin_inset Formula $E_{\{a,b\}}(positive)\land\lnot E_{\{a,b\}}E_{\{a,b\}}(positive)$
+\end_inset
+
+.
+ Another way to read this off the diagram, is to say that 
+\begin_inset Formula $(positive)$
+\end_inset
+
+ is mutual knowledge in a world 
+\emph on
+w 
+\emph default
+if no one considers worlds with 
+\begin_inset Formula $0$
+\end_inset
+
+ possible.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+The unintuitive aspect of this is the satisfaction of 
+\begin_inset Formula $k$
+\end_inset
+
+ iterations of the 
+\begin_inset Formula $E$
+\end_inset
+
+ operator but not 
+\emph on
+
+\begin_inset Formula $k+1$
+\end_inset
+
+
+\emph default
+.
+ That is, no finite iteration of mutual knowledge is equal to common knowledge.
+ So in the consecutive number example, no matter what number pair Anne and
+ Bill are given, it is never common knowledge that none of them have a 0!
+ The practical implications of this can be seen by 'gamifying' the example.
+ Imagine Anne and Bill have to make a binary choice between either both
+ having positive numbers or remaining undecided, and they can only win by
+ answering the same, without answering both having positive numbers if they
+ do not.
+ In our supposed case 
+\begin_inset Formula $(2,3)$
+\end_inset
+
+, both agents know they both have positive numbers.
+ But since Anne has a 2, she is not sure that Bill knows.
+ For all Anne knows, Bill might have a 1 in which case he would not know
+ that both have positive numbers.
+ For that reason Anne might not answer that no one has a 0, in which case
+ Bill should answer the same, even though Bill has a 3.
+ This line of reasoning continues for any natural number, but it quickly
+ becomes unintuitive since it relies on higher-order theory of mind outside
+ human capacity.
+ For example if two real people were given 
+\begin_inset Formula $(719,720)$
+\end_inset
+
+ and asked independently if they would both answer that none of them has
+ 0, they would probably both agree independently of each other that they
+ would both answer that they only had positive numbers.
+ People reasoning about the possible number of the other is an individual
+ process, but once they have to reason about what the other will answer,
+ coordination is required and it turns on their social reasoning.
+ It requires that each agent do not just consider the worlds they consider
+ possible, but those which other consider possible as well.
+\end_layout
+
+\begin_layout Section
+Higher order social reasoning in real life
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Limitations-to-theconcept"
+
+\end_inset
+
+Limitations to the concept of theory of mind
+\end_layout
+
+\begin_layout Standard
+Before going into the empirical results on cognitive capacities and limits,
+ there is some conceptual bookkeeping to do.
+ Because some of this discussion is contained in the article, it will not
+ occur here.
+ Researchers like Schaafsma et al.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Schaafsma deconstructing"
+literal "false"
+
+\end_inset
+
+ call for a reformulation of the term by first deconstructing it into basic
+ processes before reconstructing a scientifically tractable concept of theory
+ of mind.
+ While a proper reconstruction of the theory of mind concept is outside
+ the scope of this thesis, it is necessary to understand some of the heterogenei
+ty surrounding its use in order to avoid unnecessary confusion.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+First, there is a debate about whether social reasoning constitutes a 
+\emph on
+theory
+\emph default
+, implying it is a cognitive process like that of constructing a scientific
+ theory 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "gopnik theory theory"
+literal "false"
+
+\end_inset
+
+, or whether it is a more intuitive process of 
+\emph on
+simulating 
+\emph default
+the mental state of someone else 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "simulation theory,simulation theory hurley,simulation theory 2 hurley"
+literal "false"
+
+\end_inset
+
+.
+ This distinction is also somewhat reflected in studies distinguishing between
+ reflective and spontaneous social cognition.
+ Verbrugge & Mol 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Verbrugge 2008,verbrugge logic and social cognition"
+literal "false"
+
+\end_inset
+
+ argue that there is a relevant gap between adults reflective understanding
+ of theory of mind and its application in games.
+ The distinction between reflective and spontaneous social cognition is
+ mirrored in the debate about implicit and explicit reasoning.
+ According to Heyes 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Heyes submentalizing"
+literal "false"
+
+\end_inset
+
+, implicit mentalizing involves thinking about mental states in a fast,
+ automatic way whereas explicit mentalizing is done in a slow and controlled
+ way.
+ 
+\end_layout
+
+\begin_layout Standard
+Second, there is a debate about 
+\emph on
+nativist 
+\emph default
+or 
+\emph on
+constructionist
+\emph default
+ accounts of theory of mind.
+ The nativist account assumes that the capacity to represent the mental
+ states of others depends on dedicated cognitive processes which have been
+ uniquely developed through human evolution for its purpose 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Heyes submentalizing,nativist account"
+literal "false"
+
+\end_inset
+
+.
+ The constructionist or developmental account assumes this mental capacity
+ to be culturally inherited 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Heyes submentalizing"
+literal "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Critical evaluations of the concept of theory of mind are important since
+ the conceptual nomenclature we use can affect our understanding of the
+ actual mental capacity.
+ Heyes 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Heyes submentalizing"
+literal "false"
+
+\end_inset
+
+ for example argues that a lot of studies referring to implicit mentalizing
+ can be explained by what she calls submentalizing, a cognitive mechanism
+ which simulates the effects of mentalizing in social contexts.
+ Bloom & German 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "bloom and germany abandon false belief"
+literal "false"
+
+\end_inset
+
+ also present two reasons why the standard false belief task is not suitable
+ for testing theory of mind.
+ First, passing the false belief task requires other cognitive capacities
+ than just a theory of mind, like general task demands, which causes young
+ children to fail.
+ Second, having a theory of mind involves more than the ability to reason
+ about false beliefs.
+ That is, even if children younger than 2 years fail the false belief task,
+ studies show that they can still appreciate some of the mental states of
+ others, like attributing goals to others 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Csibra"
+literal "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+This wraps up the discussion regarding the use of the term theory of mind.
+ I will now continue to a discussion on how people diverge from perfect
+ logical reasoning in general and in regards to idealizations in epistemic
+ logic in particular, including possible parameters for cognitive diversity.
+ This leads to empirical findings regarding theory of mind, including related
+ cognitive limits and the importance of understanding these limits.
+\end_layout
+
+\begin_layout Subsection
+Idealizations and imperfect reasoning
+\end_layout
+
+\begin_layout Standard
+It is obvious that people do not always reason perfectly and according to
+ logical prescriptions.
+ The Wason selection task 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "wason 1966,wason 1971"
+literal "false"
+
+\end_inset
+
+ was an early experiment showing difficulties with zero-order reasoning.
+ In Wason's study, subjects were shown sixteen cards with a letter on one
+ side and a number on the other.
+ Four of these, D, K, 3, 7 were used.
+ Subjects were then asked which cards to turn in order to evaluate whether
+ the following claim was true: Every card which has a D on one side has
+ a 3 on the other.
+ The claim has the structure of the material conditional 
+\begin_inset Formula $p\rightarrow q$
+\end_inset
+
+.
+ The correct cards to turn are those with 
+\begin_inset Formula $p$
+\end_inset
+
+ and 
+\begin_inset Formula $\lnot q$
+\end_inset
+
+ but this answer (D and 7) was only the fourth most popular answer, while
+ the most popular answer included the logical fallacy of affirming the consequen
+t (D and 3).
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Such results seem to imply that humans are poor logical reasoners.
+ But there are a few complexities.
+ First off, Wason also found that people were significantly better at answering
+ correctly when the question was about cities and transportation devices,
+ that is, 
+\emph on
+every time I go to Manchester I travel by car
+\emph default
+.
+ Griggs & Cox 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "griggs"
+literal "false"
+
+\end_inset
+
+ also show that subjects perform near perfectly if the cards include ages
+ and beverages and the claim 
+\emph on
+if a person is drinking beer, then that person is over 19 years old
+\emph default
+.
+ There is a long discussion on the thematic effect on the Wason selection
+ task.
+ One of the reasons for the different performance is arguably that the different
+ thematic presentations warrants different interpretations.
+ Stenning and van Lambalgen 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Stenning on wason"
+literal "false"
+
+\end_inset
+
+ argue that the abstract claim might be interpreted as merely checking satisfact
+ion of instances instead of determining the truth of the rule.
+ Wagner-Egger 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Wagner_egger"
+literal "false"
+
+\end_inset
+
+ argues that the 'error' made by most people may be due to interpreting
+ the rule as a biconditional.
+ The ambiguity of of the statement could also explain why Cheng et al.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "cheng on wason"
+literal "false"
+
+\end_inset
+
+ findings show that people may even continue to do poorly after an introductory
+ logic class.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+While this shows that there might be a non-deficiency explanation even when
+ people seem to fail to make correct inferences in propositional logic,
+ the fact still stands that people of course do not always reason perfectly.
+ Traditional propositional logic also often sets a standard that is low
+ enough that it can be met at least in specialized settings where there
+ is a special requirement to avoid logical failures.
+ So propositional logic might not be overly idealized when it comes to arguments
+ (ignoring the fact that propositional logic does not capture the dynamic
+ and rhetorical aspects of real arguments).
+ It is another story when it comes to higher order social reasoning.
+ Before I go into empirical results on higher order social reasoning, let
+ us look at some of the overly idealized aspects of 
+\begin_inset Formula $S5$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Idealizations in epistemic logic
+\end_layout
+
+\begin_layout Standard
+The properties of 
+\begin_inset Formula $S5$
+\end_inset
+
+ imply that agents are agents know all logical truths.
+ Transitivity 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+
+\begin_inset Formula $(K_{a}\varphi\rightarrow K_{a}K_{a}\varphi)$
+\end_inset
+
+ and euclidity 
+\begin_inset Formula $(\lnot K_{a}\varphi\rightarrow K_{a}\lnot K_{a}\varphi)$
+\end_inset
+
+ implies that agents have unlimited introspection of their own epistemic
+ states, that is, they have a perfect account of what they know and do not
+ know.
+ But there are other idealizations which are less discussed
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+.
+ To see this, note that real knowledge is gathered in a dynamic social environme
+nt, where agents update and change their knowledge and beliefs as they gain
+ new information.
+ Our epistemic logic can express this by adding action expressions as well
+ as dynamic modalities for these.
+ This means adding 
+\begin_inset Formula $[!\varphi]\varphi$
+\end_inset
+
+, with the truth condition
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Formula $M,s\models[!\varphi]\psi$
+\end_inset
+
+ iff 
+\begin_inset Formula $M,s\models\varphi$
+\end_inset
+
+ implies 
+\begin_inset Formula $M|\varphi,s\models\psi$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It is often mentioned that public announcement of an atomic facts makes
+ it common knowledge, while the same is not always the case for epistemic
+ facts.
+ Statements like 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+p 
+\emph default
+is true but you don't know it
+\begin_inset Quotes erd
+\end_inset
+
+ are so-called 
+\begin_inset Quotes eld
+\end_inset
+
+Moore-type
+\begin_inset Quotes erd
+\end_inset
+
+ sentences, which leads to unsuccessful updates.
+ When announcing non-epistemic propositions, agents 
+\emph on
+ought
+\emph default
+ to come to know it.
+ But this rests on the idealized presupposition that agents have perfect
+ observation, since the announcement and its contents must be clearly understood
+ by all, and perfect recall, since agents must be able to remember everything
+ else they know.
+ In fact, for an announcement to become common knowledge, perfect observation
+ and recall must be common knowledge among agents as well.
+ Publicly announcing non-epistemic facts to people does not always bring
+ about common knowledge about such facts.
+ Statements can either be too complex or lengthy for agents to decipher,
+ or the statements might be ambiguous, as some researchers argued in the
+ Wason selection task.
+ In other words, if the mistakes in the Wason selection has to be put in
+ terms of cognitive limits, they might not indicate a limit in computational
+ power but rather a limit in observational power.
+ As we will see later, limitations in terms of social cognition does not
+ seem to occur due to limited zero-order reasoning, it is rather some barrier
+ to the modal depth of formulas agents can come to know.
+ I will present and discuss such parameters for cognitive limitations as
+ found in Liu 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Liu diversity"
+literal "false"
+
+\end_inset
+
+.
+ After this I will discuss empirical findings regarding higher order social
+ cognition.
+\end_layout
+
+\begin_layout Subsubsection
+Parameters for diverse cognitive capacities
+\end_layout
+
+\begin_layout Standard
+Fenrong Liu identifies five novel parameters for diversity among epistemic
+ agents 
+\begin_inset CommandInset citation
+LatexCommand cite
+after "p. 25f"
+key "Liu diversity"
+literal "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Description
+\noindent
+(a) Inferential or computational power: making valid inferences
+\end_layout
+
+\begin_layout Description
+\noindent
+(b) Introspection: being aware of one's own knowledge
+\end_layout
+
+\begin_layout Description
+\noindent
+(c) Observation: correctly observing current events
+\end_layout
+
+\begin_layout Description
+\noindent
+(d) Memory: capacity to remember observed events
+\end_layout
+
+\begin_layout Description
+\noindent
+(e) Revision policies: varying from conservative to radical revision.
+\end_layout
+
+\begin_layout Standard
+Parameters (a) to (d) can be understood as logical norms describing limiting
+ optimal truth-conducing capacities.
+ That is, even if no one is perfect, each parameter is a way in which agents
+ could be epistemically better off.
+ This is difficult to see with (e) however, where the optimal case is not
+ clear, since neither complete epistemic conservatism or revisionism seems
+ rational.
+ As Liu writes, it might be better to move away from understanding deviations
+ from such norms purely negatively as 'limits' or 'bounds' on cognitive
+ capacity, and instead see them positively as the different resources that
+ agents have and use to successfully accomplish difficult tasks.
+ After all, the story of humanity is largely a success story dependent on
+ our cognitive prowess, even if so limited.
+ As Benthem mentions by paraphrasing Joerg Siekmann, it is not presenting
+ a well-olied proof which is the most admirable in a mathematics seminar,
+ it is rather the ability to discover a mistake and recover on the spot.
+ Rationality on this view is owed to learning from one's mistakes, and as
+ Benthem points out, the dynamic behavior involved in this surely depends
+ on more mechanisms than inference alone.
+ This is just to present an alternative picture which can discuss limitations
+ of human reasoning while still acknowledging its strengths.
+ I will now present and discuss some empirical results concerning higher
+ order social cognition.
+\end_layout
+
+\begin_layout Subsection
+The development and importance of theory of mind
+\end_layout
+
+\begin_layout Standard
+The cognitive capacity of having a theory of mind is what allows humans
+ to traverse and navigate our incredibly complex social world.
+ It does this by allowing us to predict and understand the behavior of others
+ as well as reason about what mental states they might attribute to us based
+ on the behavior we exhibit.
+ Some have even argued that self-consciousness evolved exactly to enable
+ primates to attribute mental states to others, as this mental attribution
+ is essential for interacting successfully in an increasingly complex social
+ life 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "clayton ,humphrey"
+literal "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Studies indicate that children learn to distinguish their own beliefs from
+ others between the ages of 3 and 5 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Wimmer"
+literal "false"
+
+\end_inset
+
+, while children learn to make correct second-order attributions between
+ age 6 to 8 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Perner"
+literal "false"
+
+\end_inset
+
+.
+ Some argue that a sociocognitive processes are present even earlier 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Chandler,Leslie 2000"
+literal "false"
+
+\end_inset
+
+ and some even argue that basic theory of mind aspects as goal perception
+ are present already in 9 to 12-month-old infants 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Csibra"
+literal "false"
+
+\end_inset
+
+.
+ Adults do not seem to develop a capacity for more than second-order reasoning
+ however, but before I go into limitations, I will first briefly motivate
+ why it is important to understand such sociocognitive limitations.
+\series bold
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+[Recap: Go through why ToM is important, then limitations.
+ Then enter Canteen Dilemma and provide a brief epistemic model.
+ Possibly introduce Ditmarsch more complex models for ToM.
+ Discuss results and problems.]
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+As I have stated previously, social cognition is often necessary for successful
+ and intelligent social interaction.
+ Having an insight into the mental workings of others also plays a vital
+ role in having empathy towards others 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "empathy 1,Empathy2"
+literal "false"
+
+\end_inset
+
+.
+ If we just focus on the reasoning aspect of social cognition, this reasoning
+ is limited as with any other cognitive process and there are two reasons
+ why understanding such limitations are important.
+\end_layout
+
+\begin_layout Standard
+First, we can only hope to counteract and adjust for possible cognitive
+ shortcomings if we become aware of them.
+ In other words, it might emphasize that we have something to learn which
+ we did not know.
+\end_layout
+
+\begin_layout Standard
+Second, even when human reasoning deviates from certain logical proscriptions
+ it is not necessarily a logical mistake in the sense that they failed to
+ make a crucial inference.
+ It is possible that they made a correct inference in another logical framework.
+ After all, people cooperate successfully all the time without perfect logical
+ reasoning.
+ Furthermore, if we are to design artificial agents which has to understand
+ and predict human actions, they would be wrong to assume that humans reasons
+ like themselves.
+ In fact, as Benjamin Erb argues 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Erb - AI and ToM"
+literal "false"
+
+\end_inset
+
+, when optimizing intelligent human-computer interaction it is important
+ that both humans and their non-human counterparts can reason about the
+ 'mental' states of each other.
+ That is, for non-human agents to successfully predict and reason about
+ the behavior of humans, they will have to simulate a human mental model
+ and the usefulness of such a model hinges on how accurately the model represent
+s the actual mental state of the human.
+ This also holds the other way around, as Erb writes: 
+\begin_inset Quotes eld
+\end_inset
+
+In intelligent, technical environments, humans may intrinsically apply ToM
+ traits to their non-human interaction partners
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Humans may in other words also attribute a 'mental' model to non-human
+ interaction partners concerning the reasoning and intentions behind their
+ actions.
+ This leads us to the variety of ways social cognition can be limited.
+\end_layout
+
+\begin_layout Subsection
+The difficulty of reading minds
+\end_layout
+
+\begin_layout Standard
+There are several different ways in which human cognition seems to be limited
+ in terms of higher order social reasoning.
+ It is limited in the sense that it is seemingly capped at first or second-order
+ reasoning.
+ Studies show that most adults in game-like settings can utilize first-order
+ reasoning and do a good attempt at second-order reasoning, while having
+ a higher order theory of mind is rare 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Flobbeverbrugge etc 2008,hedden2002,Verbrugge 2008"
+literal "false"
+
+\end_inset
+
+.
+ There are signs of more severe limitation however, indicating that even
+ when people have a capacity for higher-order social reasoning, it is not
+ always acted upon or applied reliably.
+\end_layout
+
+\begin_layout Subsubsection
+Spontaneous versus reflective use of theory of mind
+\end_layout
+
+\begin_layout Standard
+Experimental studies show that there is a relevant difference between having
+ a theory of mind and actually using it.
+ Keysar et al.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Keysar 2003"
+literal "false"
+
+\end_inset
+
+ argue that there is a stark dissociation between having the ability to
+ reflectively distinguish one's beliefs from others and the routine deployment
+ of this ability in interpreting the actions of others.
+ Their findings imply that even adults who are capable of forming reasonable
+ beliefs about the beliefs of others do not consult this crucial knowledge
+ when interpreting the actions of others.
+ Their claim is specific to the relatively late developing theory of mind
+ aspect of representing beliefs as separate from corresponding reality,
+ that is, acknowledging that others might have a myriad of mutually exclusive
+ beliefs.
+ It suggests a difference between being able to utilize one's theory of
+ mind in reflective tasks and utilizing it for guiding one's spontaneous
+ actions.
+\end_layout
+
+\begin_layout Standard
+Flobbe et al.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Flobbeverbrugge etc 2008"
+literal "false"
+
+\end_inset
+
+ findings also show examples of children who could understand second-order
+ reasoning in story tasks but were failing to properly perform second order
+ reasoning in game tasks.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Curse of Knowledge
+\end_layout
+
+\begin_layout Standard
+Birch & Bloom 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Bloom"
+literal "false"
+
+\end_inset
+
+ show that when adults attribute beliefs to others, they are more likely
+ to attribute their own beliefs they know to be true than to attribute false
+ beliefs.
+ They write 
+\begin_inset Quotes eld
+\end_inset
+
+adult's own knowledge of an event's outcome can compromise their ability
+ to reason about another person's beliefs about that event
+\begin_inset Quotes erd
+\end_inset
+
+.
+ College aged adults were told a story where a girl Vicky puts her violin
+ in a blue container.
+ While Vicky is outside, her sister Denise puts the violin in a different
+ container, depending on the treatment, either (Ignorance) simply in another
+ container, (plausible knowledge) moves violin to the red container or (implausi
+ble knowledge) moves the violin to the purple container.
+ When subjects did not know where the violin had been moved, they where
+ generally good at predicting that Vicky would look in the blue container.
+ When they knew the violin was moved to the red container however, they
+ assigned significantly higher probabilities to Vicky looking in the red
+ container.
+ That is, when attributing beliefs to others, it seems as if subjects to
+ an extend simply modeled their mental state as their own.
+ The authors call this the the curse of knowledge and is related to the
+ problem in Keysar et al.
+ as well.
+ Both show that theory of mind use might be task dependent, which we will
+ look at now.
+\end_layout
+
+\begin_layout Subsubsection
+Task dependence
+\end_layout
+
+\begin_layout Standard
+The limitations described above suggest that successful application of theory
+ of mind can be task-dependent, successfully applied in some contexts but
+ not in others.
+ Understanding why this ability might be task dependent can lead to better
+ understanding the nature of higher order social cognition.
+ Verbrugge 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "verbrugge logic and social cognition"
+literal "false"
+
+\end_inset
+
+ lists a few possible explanations.
+ First, there might be a high processing cost associated with theory of
+ mind, causing a failure in applying appropriate order of social cognition
+ when the the processing cost becomes too high.
+ Second, the capacity for performing higher order social reasoning does
+ not necessarily transfer between domains.
+ Being apple to apply this cognitive capacity across domains might require
+ a development process like Representational Redescription to take place
+ as suggested by Karmiloff-Smith 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Karmiloff"
+literal "false"
+
+\end_inset
+
+.
+ Third, in order to utilize a higher order theory of mind in a situation,
+ it is not just necessary to possess this capacity, but also to recognize
+ that it is advantageous to incorporate this knowledge into actions, decisions
+ or interpretation of the actions of others.
+ This is in line with the explanation that applying higher order social
+ reasoning has a high processing cost.
+ In other words, due to the high processing cost of applying it, we do not
+ rely on it per default, so it the reflective use might be largely ignored
+ until it becomes sufficiently apparent that it is worth the effort.
+\end_layout
+
+\begin_layout Standard
+This is further supported by an argument in Keysar et al.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Keysar 2003"
+literal "false"
+
+\end_inset
+
+ as to why adults do not always deploy their existing theory of mind.
+ They mention that in the real word, perspectives often tend to coincide.
+ In other words, most knowledge would be common knowledge.
+ In that case, differentiating between one's own beliefs and the beliefs
+ of others might not be very beneficial, especially if this activity would
+ take up vital cognitive resources.
+ Another related reason for failing to apply an existing theory of mind
+ is that the the cost of failing to apply it might not make it worthwhile
+ to apply it per default.
+ As Keysar et al.
+ mentions, the dynamic nature of face-to-face interactions give people a
+ feedback mechanism which allows them to be egocentric by effectively distributi
+ng the burden of applying appropriate order social reasoning across interlocutor
+s.
+ 
+\end_layout
+
+\begin_layout Standard
+Lastly, theory of mind not be a uniform of social cognition at all.
+ Without taking a complete behaviorist stance, one might even question to
+ what extend theory of mind is a mental capacity at all.
+ In other words, when people use their theory of mind to interpret the actions
+ of others in terms of mental traits, there might not be much reasoning
+ happening.
+ For example when a person hears a cyclist use their bell, they are likely
+ to infer that the person doing it is impatient and there being a specific
+ intention behind the sound.
+ But this is likely inferred so spontaneously that it does not seem right
+ to say that people hear the sound and then explicitly reason about what
+ it might mean.
+ We might say that phenomenologically the ringing bell 
+\emph on
+sounds
+\emph default
+ like someone is being impatient, that is, the behavior is understood directly
+ as an example of impatience, rather than being processed as pure sound
+ first.
+ This explains why social reasoning appears so extensively in everyday interacti
+on, but also why it is difficult in more complex situations, since people
+ might rarely be aware of the explicit use of their higher order social
+ cognition.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This concludes the general to different logical and empirical aspects of
+ higher order social cognition which underlies the canteen dilemma.
+ Logical prescriptions often help us navigating how humans ought to reason,
+ but as we have seen, in order to make prescriptive norms for higher order
+ social reasoning, it is necessary to look at the actual reasoning done
+ by real people.
+ This leads us to the canteen dilemma, an experiment on coordination with
+ imperfect information, conducted at the Center for Information and Bubble
+ Studies at the University of Copenhagen.
+\end_layout
+
+\begin_layout Section
+Canteen Dilemma
+\end_layout
+
+\begin_layout Standard
+The canteen dilemma is a game with structural affinity to the consecutive
+ number example in section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Consecutive-numbers-example "
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
+ It depicts a situation with two agents who have mutual knowledge about
+ something iterated several times (everyone knows that, everyone knows that
+ ...) while never having common knowledge (everyone knows that, everyone knows
+ that ...
+ infinitely iterated).
+ The structure is framed in a thematic story since studies show that this
+ can significantly improve people's logical reasoning abilities 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Meijering,wason 1971"
+literal "false"
+
+\end_inset
+
+ or specifically their zero-order reasoning which is not the focus of the
+ canteen dilemma.
+ The story is the following: Each player is told that they and their colleague
+ arrive for work every morning between 8:00 am and 9:10 am.
+ They always arrive 10 minutes apart but only know their own arrival time.
+ Their preferences are ordered such that their prefer (1) going to the canteen
+ together if both arrive before 9:00 am, (2) going to the office together
+ at any time and (3) all other configurations, that is, discoordination
+ or either player going to the canteen at 9:00 am or later.
+ The game consists of a number of rounds where each player are assigned
+ an arrival time and have to decide between going to the canteen or the
+ office.
+ The payoff structure follows a logarithmic scoring rule, meaning participants
+ gave an estimate 
+\begin_inset Formula $p$
+\end_inset
+
+ of how certain they were that they made the right, assigning 
+\begin_inset Formula $100-p$
+\end_inset
+
+ to being wrong.
+ Research on eliciting belief have shown that forecasts from observers through
+ proper scoring rules are significantly more accurate and calibrated
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Calibrated is defined as: 
+\begin_inset Quotes eld
+\end_inset
+
+a set of probabilistic predictions are 
+\emph on
+calibrated
+\emph default
+ if 
+\emph on
+p
+\emph default
+ percent of all predictions reported at probability 
+\emph on
+p
+\emph default
+ are true
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Seidenfeld"
+literal "false"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ than those elicited using improper scoring rules 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Seidenfeld"
+literal "false"
+
+\end_inset
+
+.
+ Players were shown all previous results after each round, including the
+ previous arrival times and choices of both players and their payoffs.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The rules dictate that players prefer going to the canteen if they both
+ arrive before 9:00, but that they should always go to the office if they
+ or their colleague arrives at 9:00 or 9:10.
+ Take the following example to see some of the complexity of the game.
+ Assume player 
+\emph on
+a 
+\emph default
+arrives at 8:50.
+ Player 
+\emph on
+a 
+\emph default
+know that 
+\emph on
+b
+\emph default
+ arrived at 8:40 or 9:00.
+ If the 
+\emph on
+b
+\emph default
+ arrived at 9:00, 
+\emph on
+a
+\emph default
+ should go to the office.
+ If
+\emph on
+ b
+\emph default
+ arrived at 8:40, they would prefer going to the canteen together.
+ Player 
+\emph on
+a 
+\emph default
+knows they prefer going to the canteen but since one of the possible scenarios
+ would require him to go to the office assume player 
+\emph on
+a 
+\emph default
+chooses the office at 8:50.
+ Now assume 
+\emph on
+a
+\emph default
+ arrives at 8:40 instead and reasons the following way.
+ If 
+\emph on
+b 
+\emph default
+arrives at 8:50 am and reasons like 
+\emph on
+a, 
+\emph default
+player 
+\emph on
+b
+\emph default
+ they would go to the office at 8:50 as well, in which case 
+\emph on
+a 
+\emph default
+might go to the office at 8:40 just like they did at 8:50.
+ This line of reasoning can be done for all possible arrival times by backwards
+ induction, and so 
+\emph on
+a 
+\emph default
+might never choose to go to the canteen! Notice that for a player who arrives
+ at 8:40 knows that the other arrived at 8:50 and that it is therefore preferabl
+e for both to go to the canteen.
+ However, players do not just have to consider the arrival times of both
+ players but also what the other player might do in their circumstances.
+ In order to predict the choice the other player might make in their situation,
+ the first player has to consider what knowledge they have, which is different
+ from their own.
+ That is, the player who arrives at 8:40 has to appreciate the fact that
+ while she knows that both would prefer going to the canteen, the other
+ player does not know this.
+ So making an office choice at 8:40 or earlier requires a player to not
+ just consider facts about the world, that is, if both arrived before 9:00
+ or not, but also consider what the other player would do in this situation,
+ which depends on the beliefs of the other player.
+ This means that predicting an office choice at 8:40 or earlier relies on
+ higher order social reasoning.
+ Of course, players can always choose office for whatever reason, for example
+ if they just make random choices.
+ But we would expect this to be both evenly distributed among both canteen
+ and office choices as well as across arrival times.This means that the relative
+ difference can still be indicative of reasoning of participants.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Notice however the premise above that for 
+\emph on
+a
+\emph default
+ to go to the office at 8:40, she has to consider how 
+\emph on
+b 
+\emph default
+reasons if she arrived at 8:50.
+ It means that 
+\emph on
+a 
+\emph default
+assumes 
+\emph on
+b 
+\emph default
+to reason like herself
+\emph on
+.
+ 
+\emph default
+So this example does not just assume that 
+\emph on
+a 
+\emph default
+performs first-order social reasoning but also that she believes 
+\emph on
+b 
+\emph default
+to apply zero-order reasoning to reach a specific conclusion.
+ So it does not just rely on players reasoning a specific way but also that
+ it is common knowledge among players that they reason a specific way.
+ This means that regardless of what player 
+\emph on
+a 
+\emph default
+thinks 
+\emph on
+b 
+\emph default
+ought to do, 
+\emph on
+a 
+\emph default
+has to try and to figure out what 
+\emph on
+b 
+\emph default
+will actually do.
+ It implies that without common knowledge about rationality, two rational
+ players can play sub-optimally.
+ They might both choose canteen because they do not believe the other to
+ apply the sufficient order of social reasoning, or that the other believes
+ that they do and so on.
+ While office choices arguably does signify social reasoning, choosing canteen
+ does therefore not signify a lack of it.
+ This is where the certainty estimates can be valuable.
+ Assume a rational player plays the game and arrives at 8:40.
+ They might infer that the optimal choice would be going to the office by
+ relying on higher order social reasoning, assuming the other thinks the
+ same way.
+ But if they are uncertain about what type of reasoner the other player
+ is, they might believe that the other player might play canteen and they
+ can therefore hedge their decision by being less certain.
+ So the certainty estimates helps offset some of the loss of possible discoordin
+ation if you are able to predict it.
+ This makes it possible to distinguish between players all play canteen,
+ since those who assign a lower certainty estimate to it than others therefore
+ implicitly assign a higher chance to office than others and therefore use
+ a higher-order of social reasoning than them.
+ This also help deflect what Verbrugge 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "verbrugge logic and social cognition"
+literal "false"
+
+\end_inset
+
+ calls the danger of simplistic formal systems which posit fixed bounds
+ on social cognition, that is, assuming that people can reason up to 
+\emph on
+n 
+\emph default
+order but not 
+\emph on
+
+\begin_inset Formula $n+1$
+\end_inset
+
+.
+ 
+\emph default
+This will also be the focus when viewing the results later, since it shows
+ that natural social cognition might be more continuous than previously
+ described.
+ Before looking into the results, I will now go through some of the logical
+ structure of the game in terms of epistemic logic.
+ This leads into discussion of some of the results from the canteen dilemma
+ as well as supplementary discussion and results not included in the accompanyin
+g article.
+\end_layout
+
+\begin_layout Subsection
+Logical structure of the canteen dilemma
+\end_layout
+
+\begin_layout Standard
+Since the canteen dilemma has a logical structure similar to the consecutive
+ numbers example in section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:-Consecutive-numbers"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+, it can be represented in a similar diagram.
+ Note that a situation like (8:00, 8:10) denotes that agent 
+\emph on
+a 
+\emph default
+arrived at 8:00 and 
+\emph on
+b 
+\emph default
+arrived at 8:10.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+begin{figure}[H]
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+begin{centering}
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+scalebox{.85}{
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+begin{tikzpicture}[->,>=stealth',auto,shorten >=2pt,shorten <=2pt]
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy] (8081) {{$
+\backslash
+textrm{(8:00, 8:10)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 8081] (8182) {{
+\backslash
+small$
+\backslash
+textrm{(8:10, 8:20)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 8182] (8283) {{
+\backslash
+small$
+\backslash
+textrm{(8:20, 8:30)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 8283] (8384) {{
+\backslash
+small$
+\backslash
+textrm{(8:30, 8:40)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 8384] (8485) {{
+\backslash
+small$
+\backslash
+textrm{(8:40, 8:50)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 8485] (8590) {{
+\backslash
+small$
+\backslash
+textrm{(8:50, 9:00)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 8590] (9091) {{
+\backslash
+small$
+\backslash
+textrm{(9:00, 9:10)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,below=20pt of 8081] (8180) {{
+\backslash
+small$
+\backslash
+textrm{(8:10, 8:00)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 8180] (8281) {{
+\backslash
+small$
+\backslash
+textrm{(8:20, 8:10)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 8281] (8382) {{
+\backslash
+small$
+\backslash
+textrm{(8:30, 8:20)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 8382] (8483) {{
+\backslash
+small$
+\backslash
+textrm{(8:40, 8:30)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 8483] (8584) {{
+\backslash
+small$
+\backslash
+textrm{(8:50, 8:40)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 8584] (9085) {{
+\backslash
+small$
+\backslash
+textrm{(9:00, 8:50)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 9085] (9190) {{
+\backslash
+small$
+\backslash
+textrm{(9:10, 9:00)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[empty,above=5pt of 8081] (Ms) {$M_2
+\backslash
+textrm{:}$};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (8081) -- (8281) node[yshift=30pt,xshift
+=-45pt] {{
+\backslash
+small $b$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (8180) -- (8182) node[yshift=-30pt,xshif
+t=-45pt] {{
+\backslash
+small $a$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (8182) -- (8382) node[yshift=30pt,xshift
+=-45pt] {{
+\backslash
+small $b$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (8281) -- (8283) node[yshift=-30pt,xshif
+t=-45pt] {{
+\backslash
+small $a$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (8283) -- (8483) node[yshift=30pt,xshift
+=-45pt] {{
+\backslash
+small $b$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (8382) -- (8384) node[yshift=-30pt,xshif
+t=-45pt] {{
+\backslash
+small $a$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (8384) -- (8584) node[yshift=30pt,xshift
+=-45pt] {{
+\backslash
+small $b$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (8483) -- (8485) node[yshift=-30pt,xshif
+t=-45pt] {{
+\backslash
+small $a$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (8485) -- (9085) node[yshift=30pt,xshift
+=-45pt] {{
+\backslash
+small $b$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (8584) -- (8590) node[yshift=-30pt,xshif
+t=-45pt] {{
+\backslash
+small $a$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (8590) -- (9190) node[yshift=30pt,xshift
+=-45pt] {{
+\backslash
+small $b$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (9085) -- (9091) node[yshift=-30pt,xshif
+t=-45pt] {{
+\backslash
+small $a$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+end{tikzpicture}
+\end_layout
+
+\begin_layout Plain Layout
+
+	}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+par
+\backslash
+end{centering}
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+caption{Unpointed Kripke model $M_2$ representing the possible arrival times
+ in the canteen dilemma.
+\end_layout
+
+\begin_layout Plain Layout
+
+	Each state is named after the arrival times being true for (a,b) in that
+ state.
+ The relations between states
+\end_layout
+
+\begin_layout Plain Layout
+
+	indicates which states are indistinguishable for the players.
+ Reflexive relations are omitted.
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+label{fig:Initial-state}}
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+end{figure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Figure 2 depicts the 
+\begin_inset Formula $S5$
+\end_inset
+
+ model 
+\begin_inset Formula $M_{2}$
+\end_inset
+
+ following the same definitions in Section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Epistemic-logic--"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
+ Let us first abbreviate the proposition that 
+\begin_inset Quotes eld
+\end_inset
+
+both players arrived before 9:00
+\begin_inset Quotes erd
+\end_inset
+
+ as 
+\emph on
+early
+\emph default
+ .
+ Notice that the highest possible payoff is both players choosing canteen,
+ but only if 
+\emph on
+early 
+\emph default
+is true.
+ The proposition is true in any state where 9:00 or 9:10 does not occur,
+ so any state but the four right-most one's in 
+\begin_inset Formula $M_{2}$
+\end_inset
+
+.
+ We can now look at the pointed Kripke model 
+\begin_inset Formula $(\text{8:30, 8:40)}$
+\end_inset
+
+ where
+\emph on
+ a 
+\emph default
+arrives at 8:30 and 
+\emph on
+b 
+\emph default
+at 8:40.
+ Since the proposition 
+\emph on
+early 
+\emph default
+is true in every state which either 
+\emph on
+a 
+\emph default
+or 
+\emph on
+b 
+\emph default
+considers possible (connected to, in terms of the graph), they both know
+ that they both arrived before 9:00 and that going to the canteen would
+ be their preferred choice.
+ This epistemic fact is not known by both agents however, since 
+\emph on
+b 
+\emph default
+consider it possible that she is in 
+\begin_inset Formula $\text{(8:50, 8:40)}$
+\end_inset
+
+, where 
+\emph on
+a 
+\emph default
+does not know 
+\emph on
+early
+\emph default
+.
+ So we have 
+\begin_inset Formula $M,(\text{8:40, 8,30)\ensuremath{\models E_{\{a,b\}}(early)\land\lnot E_{\{a,b\}}E_{\{a,b\}}(early)}}.$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We can now show the structure of the canteen dilemma by relying on logical
+ tools rather than joggling multiple iterations of knowledge.
+ A player might think that it is not just necessary for 
+\emph on
+early 
+\emph default
+to be true in order to make a canteen choice, they must know that it is
+ true.
+ This excludes the four right-most states in 
+\begin_inset Formula $M_{2}$
+\end_inset
+
+ as mentioned above.
+ But since players in the canteen dilemma have to coordinate their actions,
+ they have to consider how the other player might act which requires reasoning
+ about others reasoning.
+ When 
+\emph on
+a 
+\emph default
+arrives at 8:40 then, where she knows both players arrived before 9:00,
+ she does not know that 
+\emph on
+b 
+\emph default
+knows.
+ If it is necessary for 
+\emph on
+b 
+\emph default
+to know (
+\emph on
+early
+\emph default
+) in order to go the canteen, then 
+\emph on
+a 
+\emph default
+considers it possible that 
+\emph on
+b 
+\emph default
+does not go to the canteen.
+ If we couple this with the assumption that 
+\emph on
+a 
+\emph default
+does not want to go to the canteen if the other player might not make the
+ same choice, then 
+\emph on
+a 
+\emph default
+will not go to the canteen at 8:40 either due to reasoning about what the
+ other knows about their situation.
+ This line of reasoning can be iterated for any earlier arrival time, implying
+ that 
+\emph on
+a 
+\emph default
+and 
+\emph on
+b 
+\emph default
+will never go to the canteen.
+ This is highly unintuitive however.
+ Take for example state (8:00, 8:10) where everyone knows that everyone
+ knows that everyone knows that everyone knows that it is early enough to
+ go to the canteen.
+ That is four iterations of mutual knowledge: 
+\begin_inset Formula $E_{\{a,b\}}E_{\{a,b\}}E_{\{a,b\}}E_{\{a,b\}}(early)$
+\end_inset
+
+.
+ But it is not true for five iterations, that is, since 
+\begin_inset Formula $\lnot E_{\{a,b\}}E_{\{a,b\}}E_{\{a,b\}}E_{\{a,b\}}E_{\{a,b\}}(early)$
+\end_inset
+
+ is also true in that state.
+ So it is not common knowledge that it is early enough to go to the canteen
+ and there is in fact no such time where 
+\emph on
+early 
+\emph default
+has become common knowledge.
+ This can be re-stated by saying that while choosing canteen at 8:50 involves
+ a risk, it is impossible to avoid any risk of discoordination no matter
+ how early you push back your canteen choice.
+ This nuance is hard to accept due to cognitive limits on the higher-order
+ social reasoning.
+ The multiple iterations of knowledge is therefore another cognitively unrealist
+ic idealizations of 
+\begin_inset Formula $S5$
+\end_inset
+
+.
+ The next section will present a case study of how epistemic logic might
+ deal with this specific limitation.
+\end_layout
+
+\begin_layout Subsubsection
+Higher-order social reasoning in epistemic logic
+\end_layout
+
+\begin_layout Standard
+Ditmarsch & Labuschagne 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "ditmarsch logic on ToM"
+literal "false"
+
+\end_inset
+
+ have proposed a logical framework capable of modeling various types of
+ beliefs agents may have about the beliefs of others.
+ This is done by modeling degrees of belief by partially ordered preference
+ relations 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+While others have referred to this as plausibility, I stick to the authors
+ terminology.
+\end_layout
+
+\end_inset
+
+.
+ Preference relations are motivated by the fact that without them, all epistemic
+ alternatives in an 
+\begin_inset Formula $S5$
+\end_inset
+
+ model are deemed equally possible.
+ So instead of treating all accessibility relations between states equally,
+ it becomes a preference ordering which expresses that agents may consider
+ mutually exclusive states possible while considering one more likely than
+ the other.
+ This is the sense in which agents might 
+\emph on
+prefer
+\emph default
+ one state over the other.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+According to Ditmarsch & Labuschagne, 
+\begin_inset Quotes eld
+\end_inset
+
+a psychologically realistic model of an agent capable of interacting intelligent
+ly in social situations would be one in which each agent 
+\emph on
+a
+\emph default
+ would possess a ToM, comprising, relative to every agent 
+\emph on
+b
+\emph default
+, a representation (which may or may not be accurate) of 
+\emph on
+b
+\emph default
+’s state of mind (accessibility relation, preference relation)
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+after "p. 31"
+key "ditmarsch logic on ToM"
+literal "false"
+
+\end_inset
+
+.
+ We can assume this to include a zero-order theory of mind which does not
+ represent the state of mind of anyone.
+ The authors define a doxastic epistemic model, preference relation and
+ degrees of belief.
+ Their emphasis lies on the different classes of agents which are characterized
+ by their preference relation.
+ They first refer to a natural class of agents supposedly modeled after
+ children with autism disorder.
+ This class would consist of agents 
+\emph on
+a 
+\emph default
+who attributes to every agent 
+\emph on
+b 
+\emph default
+a preference relation which is identical to their own.
+ Second, they refer to an ideal agent 
+\emph on
+a 
+\emph default
+who would attribute a mental state to every agent 
+\emph on
+b 
+\emph default
+which is identical to the actual mental state of 
+\emph on
+b
+\emph default
+.
+ Ditmarsch & Labuschagne refer to this as precisely the situation modeled
+ by the possible worlds semantics in epistemic logic.
+ Third, a deranged agent 
+\emph on
+a 
+\emph default
+simply attributes random or innacurate mental states of others without systemati
+c patterns.
+ Fourth, there is the limited agent who can correctly attribute some but
+ not all mental states to others.
+ The limited agent is likely the psychologically most realistic one (also
+ for developmental disorders).
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+While Ditmarsch & Labuschagne takes cognitive insights seriously, there
+ are some issues.
+ As described in section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Limitations-to-theconcept"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+, research on social cognition is not as developed as some logicians might
+ like to think.
+ According to those like Schaafsma et al., it is difficult even for experts
+ to navigate what is meant by theory of mind.
+ While Ditmarsch & Labuschagne refer to those with autism disorder as having
+ a defective theory of mind due to failing a Sally-Anne experiment, as mentioned
+ earlier, 20% of the autistic children in the study in question passed the
+ test 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "baron autistic have theory of mind"
+literal "false"
+
+\end_inset
+
+.
+ Furthermore, some of those with autism disorder can pass theory of mind
+ tasks consistently, making some postulate other cognitive impairments 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Frith autism"
+literal "false"
+
+\end_inset
+
+.
+ Passing false-belief tasks might not be neither necessary nor sufficient
+ at all for having a theory of mind either 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "bloom and germany abandon false belief"
+literal "false"
+
+\end_inset
+
+.
+ The problem of relating limitations of theory of mind to cognitive disorders
+ is the contrast to normal adults, as it does not show how nuanced social
+ cognition might be (see Section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Limitations-to-theconcept"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Standard
+This does not bear on the validity of the work of the authors of course.
+ Logical theories have an important role to play in the study of higher-order
+ social reasoning, but in order to make psychologically realistic models,
+ it is important to understand the psychological reality.
+ For example as Verbrugge 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "verbrugge logic and social cognition"
+literal "false"
+
+\end_inset
+
+ writes, the simulation-theory might describe social cognition better than
+ the theory-theory does.
+ That is, we might simulate the minds of others rather than reason about
+ them, and epistemic logic can then just explain the computational complexity
+ of such reasoning.
+ Like Ditmarsch & Labuschagne writes, logic might support empirical psychology
+ by providing 
+\begin_inset Quotes eld
+\end_inset
+
+computationally cheap
+\begin_inset Quotes erd
+\end_inset
+
+ explanations for behavior.
+ 
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Pol et al.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Pol ToM DEL"
+literal "false"
+
+\end_inset
+
+ have formalized theory of mind reasoning as updating beliefs about beliefs
+ using dynamic epistemic logic (DEL).
+ They found that theory of mind reasoning formalized as such is indeed intractab
+le, meaning it can be solved in theory but not in a practical sense due
+ to the computational complexity.
+ The authors also argue that their findings suggest 
+\begin_inset Quotes eld
+\end_inset
+
+that the intractability of theory of mind is not due to the computational
+ demands imposed by ‘higher-order reasoning,’ as often assumed in cognitive
+ science.
+ Instead, our results suggest that intractability of theory of mind may
+ be better sought in the computational demands posed by a more general form
+ of reasoning about steps of change in time
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+after "p. 291"
+key "Pol ToM DEL"
+literal "false"
+
+\end_inset
+
+.
+ Such results are important for improving our understanding of what makes
+ social reasoning so notoriously difficult as well as for implementing and
+ simulating social cognition in artificial agents.
+ As the authors mention it would be interesting to see other ways to possibly
+ bound the order of reasoning in DEL models, since their logic did not do
+ so and just found it was intractable.
+ Contrary to agents in DEL, human reasoning is bounded by physical constraints
+ and not just computational complexity.
+ That is, biological organisms are not capable of solving any tractable
+ problem.
+ I now move on to the lack of introspection in relation to limited social
+ reasoning.
+\end_layout
+
+\begin_layout Subsubsection
+Lack of introspection
+\end_layout
+
+\begin_layout Standard
+While some of cognitive limitations comes with appropriate introspection,
+ it is likely that limited social cognition is accompanied with a lack of
+ introspection.
+ While introspection in terms of zero-order reasoning is possibly easier,
+ it becomes a more complex for higher-order reasoning.
+ Take an example from the canteen dilemma, where a player utilizes their
+ first-order social reasoning to make an office choice at 8:40 but is otherwise
+ sure about going to the canteen at 8:30.
+ We might explain the canteen choice at 8:30 by higher order social reasoning,
+ because the person might believe that it is right to go the office at 8:40
+ while thinking that the other player wont make that inference.
+ A more plausible explanation could be that going to the office at 8:40
+ might have required 
+\begin_inset Formula $n$
+\end_inset
+
+-orders of social reasoning, but going to the office at 8:30 required 
+\begin_inset Formula $n+1$
+\end_inset
+
+orders, which were cognitively unavailable to the player.
+\end_layout
+
+\begin_layout Standard
+So there might be a time where a player becomes certain that canteen is
+ the right choice due to limited social reasoning.
+ However, this is due to a limitation of the same cognitive processes which
+ are required to know that it is false.
+ Introspecting one's limited social reasoning arguably requires exactly
+ the type of reasoning that is limited.
+ We can now look at some of the results from the canteen dilemma.
+ The accompanying article will contain the primary results and discussion,
+ while the following sections will summarize supplementary results, discussions
+ as well as considerations and improvements.
+\end_layout
+
+\begin_layout Subsection
+Results and discussion
+\end_layout
+
+\begin_layout Standard
+The primary results of the canteen are listed in the accompanying article.
+ I focused primarily on the claimed that adults might not just have varying
+ cognitive capacities in regards to the orders of social reasoning they
+ can apply, but that there might also exist diversity even within those
+ applying 
+\begin_inset Formula $n$
+\end_inset
+
+-order social reasoning but not 
+\begin_inset Formula $n+1$
+\end_inset
+
+-order reasoning.
+ This was indicated by the certainty estimates given by participants regarding
+ how certain they were that the other player made the same choice as them.
+ The argument for this conclusion is the following.
+ Canteen choices can be interpreted as indicating either a lack of higher-order
+ social reasoning or the disbelief that others employs the appropriate social-re
+asoning to choose office, but the latter explanation assumes strategic and
+ cognitive complexity which might be less plausible than the first explanation.
+ That is, if a player imagine themselves as the other player, and performs
+ some reasoning, it requires further cognitive effort to infer that the
+ other player might not reason like that, or assume that the first player
+ reasons like that and so on.
+ So canteen choices are arguably a sign of a lack of social-reasoning.
+ But since those making canteen choices had varying degrees of certainty
+ at different times, meaning they choose canteen at different arrival times,
+ with increasing certainty towards earlier arrival times.
+ The uncertainty of the other player choosing canteen as well indicates
+ social reasoning, assuming that a player would only think the other made
+ a office choice if they incorporated higher-order social reasoning.
+ But if certainty can be indicative of social reasoning, and certainty continuou
+sly or at least not binary, it is possible to have non-binary cognitive
+ diversity even among those with capacity for the same orders of social
+ cognition.
+ People might not be able to perform 2-order reasoning while being closer
+ to it than others.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Another interesting result is the participants lack of introspection into
+ the limitations of their higher-order social reasoning.
+ The results of the canteen dilemma generally show that players choose the
+ office from 8:00 to 8:40, at 8:50 they choose somewhat randomly before
+ they opt for the office at 9:00.
+ Their certainty estimates indicate social reasoning in the sense that they
+ are less certain about going to the canteen at later arrival times.
+ But at earlier times, they become certain that the other player has also
+ chosen the canteen.
+ This makes sense if it is exactly the type of social reasoning which is
+ limited that is required to realize that the other player might chose different
+ly from them.
+ It means that interactions within certain structures like the canteen dilemma
+ can not just lead to unsuccesful interaction, it does so without participants
+ being able to predict it entirely understand why.
+ We will see evidence for this when we look into free-text answers given
+ by certain participants, which I will go through below as well as some
+ supplementary results not included in the article.
+\end_layout
+
+\begin_layout Subsection
+Supplementary results
+\end_layout
+
+\begin_layout Standard
+The first supplementary result shown in Figure 3 below concerns the degree
+ to which players changed their decisions throughout the game.
+ The blue bars on the plot shows a percentage of players who for example
+ chose canteen at 8:00, then got 8:00 again as an arrival time and then
+ chose office.
+ The orange bar shows the converse for choosing office and later changing
+ to canteen.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+ 
+\backslash
+centerline{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename C:/Users/Thomas/OneDrive/Speciale/My Local bitbucket repo/data/Canteen_Dilemma/canteen_dilemma_plots/DTU-AMT_Plots/plot_4_barchart_changingdecision_AMT.png
+	scale 60
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+Figure 3.
+ Grouped bar-chart indicating percent changing decisions throughout the
+ game.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+Reading the plot, only 4 percent of those choosing canteen at 8:00 who actually
+ got 8:00 again, chose the office the next time around, while the rest stuck
+ with office.
+ Due to the limited frequency of players getting the same arrival times
+ multiple times, the confidence intervals are rather large.
+ There is one interesting point at 8:50 however.
+ The plot shows that those arriving at 8:50 one time and getting 8:50 again
+ later are more susceptible to change from canteen to office than the other
+ way around.
+ While the confidence intervals are large, all earlier arrival times had
+ evidence pointing towards changing from office to canteen.
+ This indicates that there is a form of unique learning happening at 8:50.
+ It indicates that higher-orders of social reasoning either does not occur,
+ or it becomes established that either player does not believe the other
+ player to engage in it.
+ The apparent lack of learning of higher-order social reasoning in games
+ is also shown in Verbrugge & Mol 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Verbrugge 2008"
+literal "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Strategy categorization
+\end_layout
+
+\begin_layout Standard
+Participants in both the AMT and DTU trials were asked the question 
+\begin_inset Quotes eld
+\end_inset
+
+What strategy did you use while playing this game?".
+ While these answers are harder to quantify than other answers, they provide
+ insight into the reasoning and thoughts of the participants.
+ This is helpful both because even if behavior in the canteen dilemma is
+ correctly explained by a specific type of higher-order social reasoning,
+ this is implicit evidence.
+ Participants may make decisions because of social reasoning which they
+ are not themselves explicitly aware of.
+ Explicit strategy answers provide insight into this aspect.
+ These answers were quantified by devising a set of categories which the
+ answers might fit into the, shown in the table below.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="12" columns="4">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Strategy Categories
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AMT
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+DTU1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+DTU2
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1.
+ Guessing / miscellaneous answers
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+125 (18.6%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+7 (8.9%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1 (2.4%)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2.
+ Non-random strategies, not fitting in other categories
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+145 (21.8%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+9 (11.4%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+8 (19%)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3.
+ Loosely time dependent strategies
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+163 (24.3%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+13 (16.5%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5 (11.9%)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4.
+ Canteen at 8:50, office at 9:00 and later
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+46 (6.9%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6 (7.6%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+8 (19%)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5.
+ Canteen at 8:40, office at 8:50 or later
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+56 (8.3%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+12 (15.2%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+7 (16.7%)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6.
+ Canteen at 8:30, office at 8:40 and later
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+8 (1%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5 (6.3%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1 (2.4%)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+7.
+ Explicit first-order social reasoning
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+28 (4%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+9 (11.4%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0 (0%)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+8.
+ Explicit second-order social reasoning
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0 (0%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2 (2.5%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0 (0%)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+9.
+ Behavior based, match the other player, reactive
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+81 (12%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3 (3.8%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1 (2.4%)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10.
+ Learning or changing strategy through game
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+18 (2.7%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+9 (11.3%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6 (14.3%)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+11.
+ Preferring office only strategy
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0 (0%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3 (3.8%)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0 (0%)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+Figure 4.
+ Table of categories of strategy answers in both AMT and DTU trials.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+One of the dominating categories was (3) which included answers which simply
+ stated their answers was based on time but without much precision.
+ Many of these answers had the form of going to the canteen early and office
+ later, see for example the AMT answer 
+\begin_inset Quotes eld
+\end_inset
+
+How close to the 9:00 cutoff I arrived at work determined where I would
+ go
+\begin_inset Quotes erd
+\end_inset
+
+.
+ This answer is consistent with most if not all strategies, but the most
+ plausible interpreation is that it refers to going to the canteen with
+ certainty until some time before 9:00, e.g.
+ 8:40 or 8:50, where either certainty dropped or they changed to office
+ choices.
+ Other answers also allows better interpretation of behavior in terms of
+ higher-order social reasoning.
+ See for example the AMT answer 
+\begin_inset Quotes eld
+\end_inset
+
+I tried to think of the other guy arriving 10 minutes later than I did and
+ choose accordingly
+\begin_inset Quotes erd
+\end_inset
+
+.
+ This plausibly implies going to the office at 8:50 and canteen at 8:40.
+ But does it involve infer representational mental states about the other?
+ Possibly not, because the other person's arrival time is a fact about the
+ world which they can infer based on their own arrival time.
+ That is, when arriving at 8:50, the other person might have arrived at
+ 9:00 and this can be deduced regardless of the other persons mental state.
+ This also implies at 8:40 that when you know you could both get the biggest
+ payoff if you both go to the canteen, but you do not consider what the
+ other person might choose from their point of view.
+ See also the AMT answer 
+\begin_inset Quotes eld
+\end_inset
+
+The farther from 9 the more certain I was of canteen.
+ If it was 9 or later I was more certain of office
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Being less than maximally certain about going to the canteen at 8:40 and
+ earlier requires higher-order social reasoning, but the answer in question
+ does not refer to this reasoning at all.
+ Of course they might have without stating it in the question, but it is
+ also possible that there is an implicit or automatic reasoning process
+ which intuitively informs the participant's choices.
+ The reliance of intuition and common sense is also indicated by some answers
+ The AMT answer, 
+\begin_inset Quotes eld
+\end_inset
+
+Common sense, at least I thought :(
+\begin_inset Quotes eld
+\end_inset
+
+ indicating both that they relied on common sense while also acknowledging
+ that something seemed to go wrong.
+\end_layout
+
+\begin_layout Subsubsection
+Supplementary free text questions
+\end_layout
+
+\begin_layout Standard
+Participants in the DTU trials were asked a few supplementary questions
+ besides those in the AMT trial.
+ Participants in the DTU trial were asked the same question as in the AMT
+ trial: 
+\begin_inset Quotes eld
+\end_inset
+
+Imagine you could have agreed beforehand with your colleague about a point
+ in time where it is safe to go to the canteen.
+ What time would that be?".
+ See Appendix A for a barchart for the related DTU results.
+ After answering this question, DTU participants were asked the question
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Did you ever go to the canteen at an arrival time later than what was safe
+ according to your previous answer? Why or why not?
+\begin_inset Quotes erd
+\end_inset
+
+.
+ They were also asked 
+\begin_inset Quotes eld
+\end_inset
+
+Did you ever choose differently after seeing the same arrival time again
+ at a later point in the game? Why or why not?
+\begin_inset Quotes erd
+\end_inset
+
+.
+ The results were categorized in positive, negative and miscellaneous answers,
+ which can be seen in the following barchart.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/Thomas/OneDrive/Speciale/My Local bitbucket repo/data/Canteen_Dilemma/canteen_dilemma_plots/DTU-AMT_Plots/changing_strategy_dtu1_dtu2_comparison_horizontal-grouped_barchart.png
+	scale 45
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+Figure 5.
+ Grouped-barchart of categorized answers to question about whether participants
+ went to the canteen later than what was deemed safe.
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+These answers generally indicate that participants in both DTU trials answered
+ positively (63% and 64%) that they did go to the canteen at times later
+ than when would have been if they could have made an agreement with their
+ colleague (see Appendix A for this result).
+ Some of these answers are qualfied with reference to lower certainty, see
+ this answer from the first DTU trial: 
+\begin_inset Quotes eld
+\end_inset
+
+ Yes I did, but then I could not be very certain 
+\begin_inset Quotes eld
+\end_inset
+
+.
+ Other answers are similar, like 
+\begin_inset Quotes eld
+\end_inset
+
+Yes, at 8:40.
+ Because it seemed almost safe 
+\begin_inset Quotes eld
+\end_inset
+
+.
+ Other answers refer to intuition as well: 
+\begin_inset Quotes eld
+\end_inset
+
+ Yes, because it was possible, to go there safely and intuitively made sense
+\begin_inset Quotes erd
+\end_inset
+
+.
+ The last answer was given by a participant answering answering that their
+ cutoff for safely going to the canteen would be 8:20.
+ This means going to the office at 8:30 (and later) which is indicative
+ of second-order reasoning.
+ When choosing the canteen at later times anyway, we might theorize that
+ it is because they depend on social reasoning again and consider that they
+ do not believe the other to use sufficient higher-order social reasoning
+ to go to the office at a specific time.
+ But this answer does not refer to this and instead justifies a later canteen
+ answer with the true statement that it is still possible for both to get
+ the biggest payoff by going to the canteen at later times.
+ The reference to intuition possibly means that while their higher-order
+ social reasoning entails that going to the canteen is not safe at later
+ times, this is counter-intuitive as their intuition does not include this
+ complex reasoning.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Changing strategy during the game
+\end_layout
+
+\begin_layout Standard
+Participants in the DTU trials were also asked 
+\begin_inset Quotes eld
+\end_inset
+
+Did you ever choose differently after seeing the same arrival time again
+ at a later point in the game? Why or why not?
+\begin_inset Quotes erd
+\end_inset
+
+.
+ These answers were also put into three categorizes, positive, negative
+ and miscellaneous.
+ The results are below.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename C:/Users/Thomas/OneDrive/Speciale/My Local bitbucket repo/data/Canteen_Dilemma/canteen_dilemma_plots/DTU-AMT_Plots/changing_strategy_dtu1_dtu2_comparison_horizontal-grouped_barchart.png
+	scale 45
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+Figure 5.
+ Grouped-barchart of categorized answers pertaning to whether participants
+ changed their strategy.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Answers are grouped around positive affirmation again (51% and 57%) rather
+ than negative (35% and 36%).
+ The positive answers refer to either adjusting their strategy based on
+ their partners earlier choices or from learning more about the game.
+ One person explicitly states: 
+\begin_inset Quotes eld
+\end_inset
+
+Yes because after a few rounds I realized it is never safe to go canteen.
+\begin_inset Quotes erd
+\end_inset
+
+.
+ The positive answers from the DTU trial indicated a focus on learning about
+ the structure of the game and the impossibility of safely establishing
+ canteen coordination compared to the second DTU trial.
+ The general dominance of positive answers indicate that participants do
+ not rely on backwards induction alone, viewing each round as a one-shot
+ game.
+ Rather, many took earlier behavior into account, besides also reasoning
+ more about the structure of the game.
+\end_layout
+
+\begin_layout Subsection
+Supplementary discussion
+\end_layout
+
+\begin_layout Standard
+An essential part of experiments which elicit beliefs from participants
+ depend on other implicit assumptions about their beliefs.
+ Inferring and understanding why participants might have behaved like the
+ did in the canteen dilemma therefore depends on implicit assumptions about
+ their understanding of the structure of the game.
+ There is as such a few aspects of the results which warrants methodological
+ discussion.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Participants in both AMT and two DTU trials chose canteen at 8:50 47%, 43%
+ and 64% of the time, respectively.
+ The rules of the game is intended to entail that participants infer the
+ three following propositions: (a) every round you are given an arrival
+ time where the other player arrives 10 minutes before or after yourself,
+ (b) you have to chose between canteen and office in every round, (c) if
+ you arrive at 9:00 or 9:10 you have to go to the office and (d) you have
+ to do the same as the other player.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Why does a significant amount of participants chose canteen at 8:50 then?
+ It is possible that they understood (a) to (d) above and simply took a
+ chance, knowing the other might arrive at 9:00 and knowing that that the
+ other would choose the office.
+ This explains why it is centered around 50%, as it is interpreted to be
+ 50/50 what the other player does.
+ This is also shown in some strategy answers, see for example the following:
+ 
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+I tried to play it safe.
+ It's obvious to go the canteen anytime before 8:40, but when 8:50 comes
+ up it's a gamble.
+ I messed up by assuming my partner would agree once, but after that I played
+ it safe so I would lose less.
+\begin_inset Quotes erd
+\end_inset
+
+ (AMT strategy answer)
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+I tried to guess where they would go.
+ In some cases this was a 50/50 chance.
+\begin_inset Quotes erd
+\end_inset
+
+ (First DTU trial)
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+If i arrived at 0900, go to office.
+ At 0850, assume other person went to office and go to office.
+ At 0840 assume other person assumed I went to office and go to office At
+ 0830 50/50 bet At 0800 to 0820 assume other is also betting on canteen.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+ (First DTU trial)
+\end_layout
+
+\begin_layout Standard
+The last strategy answer refers to going to the office at 8:50 and 8:40
+ as well.
+ I argue that going to the office at 8:40 is due to first order reasoning,
+ because when the participant assume the other person assume the first went
+ to the office, the first is attributing 0-order reasoning to the other,
+ that is, reasoning about the world, since where the other player went is
+ a behavioral question.
+ That is, at 8:40 they represent the others mental state in 8:50, where
+ they might believe the situation is (8:50, 9:00) which is a non-mental
+ fact which entails an office choice for them.
+ But notice that at 8:30, they apply second-order reasoning, as they imagine
+ the other arriving at 8:40 and attributes first-order reasoning to them.
+ This means that the random choice at 8:50 is moved to 8:30 for this participant
+, while earlier arrival times are subsequently ignored.
+ The first answer written above even states that it's obvious to go to the
+ canteen at earlier times, likely due to lack of higher-order social reasoning.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It is possible that participants chose canteen at 8:50 due to different
+ reasons too however.
+ They might have interpreted the rules such that they did not infer (c)
+ or (d).
+ They might have not have inferred (c) and thought they could go to the
+ canteen at 9:00, meaning it would be okay to go to the canteen at 8:50
+ if the other did the same at 9:00.
+ They might have also have ignored (d) and thought that they could go to
+ the canteen as long as 
+\emph on
+they 
+\emph default
+arrived before 9:00.
+ The rules in the AMT and first DTU trial stated 
+\begin_inset Quotes eld
+\end_inset
+
+If you arrive before 9:00 am, you have time to go to the canteen, but you
+ should only go if your colleague goes to the canteen as well
+\begin_inset Quotes erd
+\end_inset
+
+ which can be reasonably interpreted as 8:50 being an acceptable time to
+ go to the office.
+ While a reasonable interpretation, the rules continue stating: 
+\begin_inset Quotes eld
+\end_inset
+
+If you or your colleague arrive at 9:00 am or after, you should go straight
+ to your offices
+\begin_inset Quotes erd
+\end_inset
+
+.
+ This arguably overrides the previous statement, but since the other statement
+ comes first, it is possible it has been prioritized.
+ This was tested however in the second DTU trial, where the sentence was
+ changed to 
+\begin_inset Quotes eld
+\end_inset
+
+If you 
+\emph on
+both
+\emph default
+ arrive before 9:00 am ...
+\begin_inset Quotes erd
+\end_inset
+
+ where 62% of participants choose canteen at 8:50 (see Appendix B).
+ While different populations, it provides some evidence that unintended
+ interpretation of the rules lead to canteen choices at 8:50.
+ Canteen choices at 8:50 might therefore be understood as gambles, which
+ were somewhat calculated as we also see the lowest certainty estimates
+ at this arrival time.
+ It does pose the problem that those arriving at 8:40 are possibly inclined
+ towards the canteen, if they believe that the other person chooses canteen
+ at 8:30 for sure and only half the times at 8:50.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There is also the question why some (circa 15% in the AMT trial) have chosen
+ canteen at 9:00 and 9:10 which are zero-order reasoning failures.
+ Part of the explanation is random answers, since we would expect some participa
+nts to either choose randomly or intentionally choose opposite their preferences
+ (trolling).
+ This accounts for some of the 15% which also explains some of the around
+ 7-10% of participants choosing office from 8:00 to 8:30.
+ In other words, this might be the level of background noise in the data,
+ such that these office choices are not necessarily indicative of reasoning
+ either.
+ This seems to be supported by the first DTU trial.
+ The first DTU trial included students at DTU in a course focused on logic
+ during one of their courses.
+ The demographic was therefore in setting where they are used to understanding
+ and interpreting the logic of statements and complying with them.
+ The first DTU trial had 4% and 0% choosing canteen at 9:00 and 9:10 respectivel
+y, and 0 percent choosing office at 8:00 and 8:10.
+ This means that the DTU students generally had a good a zero-order understandin
+g of the structure of the game, which means that such an interpretation
+ of the rules is at least possible.
+\begin_inset VSpace medskip
+\end_inset
+
+Another possibility as to why the amount of canteen choices seem high is
+ the effect of the framing narrative.
+ Participants might rely on their own preferences over those stated in the
+ game, implying that they do not really believe that there is any benefit
+ of going to the office together before you absolutely have to.
+ While they might intuitively understand the preference of going to the
+ canteen with their colleague, it might be less intuitive to understand
+ why going to the office is only preferable if the other does so as well.
+\end_layout
+
+\begin_layout Subsubsection
+Improvements
+\end_layout
+
+\begin_layout Standard
+Continuing from the discussion above, there are a few ways the canteen dilemma
+ experiment could have been methodologically improved.
+ 
+\end_layout
+
+\begin_layout Standard
+First, the pilot-testing of the canteen dilemma could possibly have been
+ improved by including meta-questions.
+ This could be general questions about the game, such as whether they were
+ able to understand and recall the rules, if they had had enough time in
+ the experiment and general comments they might have.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Second, the behavior of participants could have been interpreted more robustly
+ by including linguistic controls.
+ A linguistic control question would be question that could be answered
+ correctly if and only if a person has made a specific interpretation of
+ the rules.
+ Such a question could ask participants 
+\begin_inset Quotes eld
+\end_inset
+
+what should you do if you arrive at 8:50 and you know the other arrives
+ at 9:00
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Third, the general interpretation of the rules could also have been aided
+ by re-stating them in a more intuitive story.
+ The implicit possibility of going to the office at any time could also
+ have been emphasized, or tested for in a linguistic control.
+ The rules could for example emphasize a story where two colleagues generally
+ want to work on an important project together, which requires both of them
+ to handle and which they have to start on at 9:00 at the latest, but also
+ possibly earlier.
+ This could mean pumping the intuition of always being allowed to work on
+ a project together, while not always being allowed to go the canteen, since
+ it has some relevant deadline.
+ Even though the payoff structure implicitly emphasized the importance of
+ avoiding discoordination (more than half of the participants in the AMT
+ trial lost their entire bonus due to discoordination), the facilitating
+ narrative could be strengthened by emphasizing the importance of avoiding
+ discoordination.
+ Earlier arrival times could also have been left out, putting an emphasis
+ on for example third-order social reasoning.
+ The participants could also have been given the same arrival times in a
+ fixed order with this being common knowledge.
+ The game could also be structured differently such that participants were
+ automatically assigned to the office at 9:00 and 9:10.
+ A more drastic change be that payoff for choosing office was independent
+ on the other player while office was not.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Fourth, questions after the game could be tailored more narrowly towards
+ the falsification of hypotheses, including linguistic controls.
+ Some existing questions could simply be altered, for example the question
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Imagine you arrive at 8:00 am.
+ Is it common knowledge between you and your colleague that it is safe to
+ go to the canteen, that is, you both arrived before 9:00 am?
+\begin_inset Quotes erd
+\end_inset
+
+ could be changed such that the arrival time in question was randomly generated.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Fifth, the experiment could have had a more narrow focus in terms of the
+ possibly different cognitive processes which makes up social cognition.
+ Delimiting terminology and focus is of course difficult due to the diffuse
+ taxonomy of social cognition.
+ The focus of the canteen dilemma could have been delimited by focusing
+ either on explicit/reflective social cognition or implicit/spontaneous
+ social cognition.
+ This could also be testing the degree to which such reasoning could be
+ replicated by other cognitive processes which does not involve representation
+ of mental states, like 'submentalizing' described by Heyes 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Heyes submentalizing"
+literal "false"
+
+\end_inset
+
+, which she argues could be both a substrate and subsitute for thinking
+ about the minds of others.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Future research
+\end_layout
+
+\begin_layout Standard
+The cognitive capacity of attributing mental states to others have been
+ the focus of numerous studies it but it still remains surprisingly enigmatic.
+ It has often been described as 'theory of mind' but this term has been
+ criticized by researchers like Schaafsma et al, who argue that its meaning
+ is often 
+\begin_inset Quotes eld
+\end_inset
+
+vague and inconsistent, its biological bases are a subject of debate, and
+ the methods used to study it are highly heterogeneous
+\begin_inset CommandInset citation
+LatexCommand cite
+after "p. 65"
+key "Schaafsma deconstructing"
+literal "false"
+
+\end_inset
+
+.
+ The cognitive capacity in question is undeniably central to our social
+ life however and it is therefore important to understand its complexity.
+ Appreciating that others have minds of their own could consist of a conglomerat
+e of implicit and explicit cognitive processes, some which might relate
+ more to behavior than mental states.
+ This calls for research of the possibly unexplored diversity of processes
+ and aspects of social cognition, including subsequently improved terminology,
+ which would aid numerous research fields.
+\end_layout
+
+\begin_layout Standard
+Cognitive science and psychology could benefit in terms of improving our
+ understanding of both cognitive development in children as well as the
+ fully fledged capacities and limitations of adults.
+ By getting a more accurate description of how adults infer representational
+ mental states of others, logic and computer science could make more realistic
+ computational models of human reasoning.
+ If artificially intelligent agents are to understand and predict human
+ reasoning, including prediction of how their own action might be perceived
+ by humans, it is important that they have an idea of how humans might reason
+ and not just how they might ought to reason.
+ As Heyes 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Heyes submentalizing"
+literal "false"
+
+\end_inset
+
+ argues, some cases where mentalizing is inferred might better be understood
+ as sub-mentalizing, that is, domain-general cognitive mechanisms which
+ simulate mentalizing in social contexts.
+ This is a somewhat behaviorist point which implicitly states that supposed
+ reasoning about mental states does in fact not refer to mental states at
+ all.
+ This supports Erb 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Erb - AI and ToM"
+literal "false"
+
+\end_inset
+
+ who argues that humans might very well start assigning intentions, beliefs
+ and motives to non-human counterparts and as these thoughts becomes part
+ of the interaction between humans and ambient technology like self-driving
+ cars, the details and intricacies involved must be considered carefully.
+\end_layout
+
+\begin_layout Standard
+Due to the central role which intentions, beliefs and mental states have
+ in philosophy, developing a nuanced understanding of social cognition has
+ beneficial to philosophy as well, from epistemology, philosophy of mind,
+ ethics and logic.
+ While social cognition by its nature ignores old philosophical problems
+ like solipsism, it can have immense importance in relation to modern problems.
+ Agent-centered deontological moral theory states for example that actions
+ are permissibly depending on the intentions of the agent, but this means
+ that any moral evaluation of the actions of others depends the capacity
+ to understand the intentions of others.
+ This is a way in which insights from social cognition can moral problems
+ in an epistemological light.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+The canteen dilemma added to the possible diversity of this cognitive capacity,
+ as it indicates that there might variation even among just 
+\begin_inset Formula $n$
+\end_inset
+
+-order of social reasoning.
+ A possible avenue for future research would be to map some of these details,
+ for example testing if and under what circumstance some first-order reasoners
+ might be closer to second-order reasoning than others.
+ Empirical nuance also makes it easier to establish a scientifically tractable
+ terminology for accurately describing this interesting cognitive phenomena.
+ While the term 'theory of mind' is arguably sometimes used vaguely, it
+ is understandingly difficult for researchers to use better terms for a
+ concept if its complexity is not yet sufficiently explored.
+\end_layout
+
+\begin_layout Section
+Conclusion
+\end_layout
+
+\begin_layout Standard
+This thesis presented and introduced a large and still developing research
+ field related to the study of social reasoning.
+ It revolved around the cognitive capacity to mentally represent possible
+ mental states of others, such as beliefs, desires or intentions.
+ This included a critical discussion of the heterogeneity of terms and methods
+ used to study this capacity.
+ I also discussed the importance of researching actual cognitive capacities
+ even in relation to logic and computational models for reasoning in computer
+ science, often thought to be normative in nature and independent of how
+ humans actually reason.
+ This works as an introduction to the accompanying article on the canteen
+ dilemma experiment conducted at the Center for Information and Bubble Studies
+ (CIBS).
+ I argued that this experiment indicated further diversity in the capacity
+ to reason about the mental states of others.
+ Results indicated that even within those who only have the capacity for
+ 
+\begin_inset Formula $n$
+\end_inset
+
+-order social reasoning, some might be closer to 
+\begin_inset Formula $n+1$
+\end_inset
+
+ than others.
+ This implies some type of continuity in the various degrees of higher order
+ social reasoning, which in turn might aid in understanding the developmental
+ aspect of social cognition.
+ This development aspect can either be understood genetically, as children
+ developing this capacity as they grow up, or culturally, as adults acquire
+ higher orders of social reasoning through cultural evolution.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Appendix A
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Users/Thomas/OneDrive/Speciale/My Local bitbucket repo/data/Canteen_Dilemma/canteen_dilemma_plots/DTU-AMT_Plots/Plot_2_barchart_cutoff_DTU.png
+	scale 45
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Graphics
+	filename C:/Users/Thomas/OneDrive/Speciale/My Local bitbucket repo/data/Canteen_Dilemma/canteen_dilemma_plots/DTU-AMT_Plots/Plot_2_barchart_cutoff_DTU2.png
+	scale 45
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Appendix B
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Users/Thomas/OneDrive/Speciale/My Local bitbucket repo/data/Canteen_Dilemma/canteen_dilemma_plots/Final plots/plot_1_DTU2_canteen+certainty.png
+	scale 45
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "neo-kantianism"
+literal "false"
+
+\end_inset
+
+Anderson, R.
+ L.
+ (2005).
+ 
+\emph on
+Neo-Kantianism and the Roots of Anti-Psychologism
+\emph default
+, British Journal for the History of Philosophy, 13:2, 287-323, DOI: 10.1080/0960
+8780500069319
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-1"
+
+\end_inset
+
+Bacharach, M., & Stahl, D.
+ O.
+ (2000).
+ 
+\emph on
+Variable-frame level-n theory
+\emph default
+.
+ Games and Economic Behavior, 32(2), 220–246.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "baron autistic have theory of mind"
+literal "false"
+
+\end_inset
+
+Baron-Cohen, S., Leslie, A.
+ M., & Frith, U.
+ (1985).
+ Does the autistic child have a ‘theory of mind’? Cognition, 21, 37–46.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "social intelligence"
+literal "false"
+
+\end_inset
+
+Baron-Cohen, S.
+ et al.
+ (1999) Social intelligence in the normal and autistic brain: an fMRI study.
+ Eur.
+ J.
+ Neurosci.
+ 11, 1891–1898
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-12"
+
+\end_inset
+
+Barwise, J.
+ (1989).
+ 
+\emph on
+On the model theory of common knowledge.
+
+\emph default
+ In: The situation in logic (pp.
+ 201–221).
+ Stanford: CSLI.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "language in action"
+literal "false"
+
+\end_inset
+
+van Benthem J (1991) 
+\emph on
+Language in action: Categories, lambdas and dynamic logic.
+
+\emph default
+ North- Holland, Amsterdam (paperback edition 1995, MIT Press, Cambridge)
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-6"
+
+\end_inset
+
+van Benthem, J.
+ F.
+ A.
+ K.
+ (2003).
+ 
+\emph on
+Logic and the Dynamics of Information.
+ 
+\emph default
+Minds and Machines 13: 503–519, Kluwer Academic Publishers
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "benthem_cognition as interaction"
+literal "false"
+
+\end_inset
+
+van Benthem, J.
+ F.
+ A.
+ K.
+ (2007a).
+ 
+\emph on
+Cognition as interaction
+\emph default
+.
+ In Proceedings symposium on cognitive foundations of interpretation (pp.
+ 27–38).
+ Amsterdam: KNAW.
+ 
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-22"
+
+\end_inset
+
+van Benthem, J.
+ F.
+ A.
+ K., Gerbrandy, J., & Pacuit, E.
+ (2007).
+ 
+\emph on
+Merging frameworks for interaction: DEL and ETL
+\emph default
+.
+ In D.
+ Samet (Ed.), Theoretical aspects of rationality and knowledge: Proceedings
+ of the eleventh conference, TARK 2007 (pp.
+ 72–81).
+ Louvain-la-Neuve: Presses Universitaires de Louvain.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-21"
+
+\end_inset
+
+van Benthem, J.
+ F.
+ A.
+ K., Hodges, H., & Hodges, W.
+ (2007b).
+ 
+\emph on
+Introduction
+\emph default
+.
+ Topoi, 26(1), 1–2.
+ (Special issue on logic and psychology, edited by J.F.A.K.
+ van Benthem, H.
+ Hodges, and W.
+ Hodges.).
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "benthem facts matter"
+literal "false"
+
+\end_inset
+
+van Benthem, J.
+ F.
+ A.
+ K.
+ (2008).
+ 
+\emph on
+Logic and reasoning: Do the facts matter?
+\emph default
+ Studia Logica, 88, 67–84.
+ (Special issue on logic and the new psychologism, edited by H.
+ Leitgeb)
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "open minds"
+literal "false"
+
+\end_inset
+
+van Benthem, J.
+ F.
+ A.
+ K (2010).
+ 
+\emph on
+Modal logic for open minds.
+
+\emph default
+ CSLI Publications.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Benz"
+literal "false"
+
+\end_inset
+
+Benz, A., & van Rooij, R.
+ (2007).
+ O
+\emph on
+ptimal assertions, and what they implicate.
+ A uniform game theoretic approach
+\emph default
+.
+ Topoi, 26(1), 63–78 (Special issue on logic and psychology, edited by J.F.A.K.
+ van Benthem, H.
+ Hodges, and W.
+ Hodges.)
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Berinsky"
+literal "false"
+
+\end_inset
+
+Berinsky, A., Huber, G., & Lenz, G.
+ (2012).
+ 
+\emph on
+Evaluating Online Labor Markets for Experimental Research: Amazon.com's Mechanica
+l Turk.
+ Political Analysis
+\emph default
+.
+ 20(3), 351-368.
+ doi:10.1093/pan/mpr057
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Bloom"
+literal "false"
+
+\end_inset
+
+Birch, S.
+ A.
+ J., Bloom, P.
+ (2007).
+ 
+\emph on
+The curse of knowledge in reasoning about false beliefs.
+
+\emph default
+ Psychol Sci.
+ 2007 May; 18(5): 382–386.
+ doi: 10.1111/j.1467-9280.2007.01909.x
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "empathy 1"
+literal "false"
+
+\end_inset
+
+Birgit A.
+ V., Alexander N.W.
+ T., Paul R., Rhiannon C., John S., Shane M., John F.W.
+ D., Rebecca E.
+ (2006).
+ 
+\emph on
+Neuronal correlates of theory of mind and empathy: A functional magnetic
+ resonance imaging study in a nonverbal task.
+ 
+\emph default
+NeuroImage, Volume 29, Issue 1, pages 90-98, ISSN 1053-8119.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "bloom and germany abandon false belief"
+literal "false"
+
+\end_inset
+
+Bloom, P.
+ and German, T.P.
+ (2000).
+ 
+\emph on
+Two reasons to abandon the false belief task as a test of theory of mind
+\emph default
+.
+ Cognition 77, B25–B31
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "default reasoning"
+literal "false"
+
+\end_inset
+
+Brewka G.
+ (2012) Default Reasoning.
+ In: Seel N.M.
+ (eds) Encyclopedia of the Sciences of Learning.
+ Springer, Boston, MA
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "burhmester 2011"
+literal "false"
+
+\end_inset
+
+Buhrmester, Michael & Kwang, Tracy & Gosling, Samuel.
+ (2011).
+ 
+\emph on
+Amazon's Mechanical Turk: A New Source of Inexpensive, Yet High-Quality,
+ Data?
+\emph default
+.
+ Perspectives on Psychological Science.
+ 6.
+ 3-5.
+ 10.1177/1745691610393980.
+ 
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "buhrmester 2018"
+literal "false"
+
+\end_inset
+
+Buhrmester, M.
+ D., Talaifar, S., & Gosling, S.
+ D.
+ (2018).
+
+\emph on
+ An Evaluation of Amazon’s Mechanical Turk, Its Rapid Rise, and Its Effective
+ Use
+\emph default
+.
+ Perspectives on Psychological Science, 13(2), 149–154.
+ https://doi.org/10.1177/1745691617706516
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Costa-Gomes"
+literal "false"
+
+\end_inset
+
+Castelfranchi, C.
+ (2004).
+ 
+\emph on
+Reasons to believe: cognitive models of belief change
+\emph default
+.
+ Ms.
+ ISTC-CNR, Roma.
+ Invited lecture, Workshop Changing Minds, ILLC Amsterdam, October 2004.
+ Extended version.
+ Castelfranchi, Cristiano and Emiliano Lorini, The cognitive structure of
+ surprise.Costa-Gomes, M., Weizsäcker, G., (2008).
+ Stated beliefs and play in normal form games.
+ Review of Economic Studies 75, 729–762.
+ 
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Chandler"
+literal "false"
+
+\end_inset
+
+Chandler, M., Fritz, A.
+ S., & Hala, S.
+ (1989).
+ Small-scale deceit: deception as a marker of 2-, 3-, and 4-year-olds’ early
+ theories of mind.
+ Child Development, 60, 1263–1277
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "cheng on wason"
+literal "false"
+
+\end_inset
+
+Cheng P.W., Holyoak K.J, Nisbett R.E., Oliver L.M.
+ (1986).
+
+\emph on
+ Pragmatic versus syntactic approaches to training deductive reasoning.
+
+\emph default
+ Cogn.
+ Psychol.
+ 18:293–328
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "otree"
+literal "false"
+
+\end_inset
+
+Chen, D.L., Schonger, M., Wickens, C., 2016.
+ 
+\emph on
+oTree - An open-source platform for laboratory, online and field experiments
+\emph default
+.
+ Journal of Behavioral and Experimental Finance, vol 9: 88-97
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "clayton "
+literal "false"
+
+\end_inset
+
+Clayton, N.
+ S., Dally, J.
+ M., & Emery, N.
+ J.
+ (2007).
+ Social cognition by food-caching corvids.
+ The western scrub-jay as a natural psychologist.
+ Philosophical Transactions of the Royal Society of London.
+ Series B, Biological Sciences, 362, 507–522.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "crump"
+literal "false"
+
+\end_inset
+
+Crump M.
+ J.
+ C, McDonnell J.
+ V., Gureckis T.
+ M.
+ (2013).
+ 
+\emph on
+Evaluating Amazon's Mechanical Turk as a Tool for Experimental Behavioral
+ Research
+\emph default
+.
+ PLoS ONE 8(3): e57410.
+ https://doi.org/10.1371/journal.pone.0057410
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Csibra"
+literal "false"
+
+\end_inset
+
+Csibra, G., Gergely, G., Biro, S., Koos, O., & Brockbank, M.
+ (1999).
+ 
+\emph on
+Goal attribution without agency cues: the perception of ‘pure reason’ in
+ infancy
+\emph default
+.
+ Cognition, 72, 237–267.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "ditmarsch logic on ToM"
+literal "false"
+
+\end_inset
+
+van Ditmarsch, H., & Labuschagne, W.
+ (2007).
+ 
+\emph on
+My beliefs about your beliefs: A case study in theory of mind and epistemic
+ logic.
+
+\emph default
+ Synthese: Knowledge, Rationality and Action, 155, 191–209.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "DEL"
+literal "false"
+
+\end_inset
+
+van Ditmarsch, H., van der Hoek, W., Kooi, B.
+ (2008).
+ 
+\emph on
+Dynamic Epistemic Logic
+\emph default
+.
+ Synthese Library, Springer Netherlands.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "consecutive numbers book"
+literal "false"
+
+\end_inset
+
+ van Ditmarsch H., Kooi B.
+ (2015) 
+\emph on
+Consecutive Numbers.
+ In: One Hundred Prisoners and a Light Bulb
+\emph default
+.
+ Copernicus, Cham
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Donkers"
+literal "false"
+
+\end_inset
+
+Donkers, H.
+ H.
+ L.
+ M., Uiterwijk, J.
+ W.
+ H.
+ M., & van den Herik, H.
+ J.
+ (2005).
+ 
+\emph on
+Selecting evaluation functions in opponent-model search
+\emph default
+.
+ Theoretical Computer Science, 349, 245–267.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "nonmonotonic logic"
+literal "false"
+
+\end_inset
+
+Drew M., Doyle J.
+ (1979).
+ 
+\emph on
+Non-monotonic logic 1
+\emph default
+.
+ Artificial Intelligence, Volume 13, Issues 1–2, 1980, Pages 41-72, ISSN
+ 0004-3702.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "dunin+verbrugge"
+literal "false"
+
+\end_inset
+
+Dunin-Keplicz, B., & Verbrugge, R.
+ (2006).
+
+\emph on
+ Awareness as a vital ingredient of teamwork
+\emph default
+.
+ In P.
+ Stone, & G.
+ Weiss (Eds.), Proceedings of the fifth international joint conference on
+ autonomous agents and multiagent systems (AAMAS’06) (pp.
+ 1017–1024).
+ New York: IEEE / ACM.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Empathy2"
+literal "false"
+
+\end_inset
+
+Dvash, J., Shamay-Tsoory, S.
+ G.
+ (2014).
+ 
+\emph on
+Theory of Mind and Empathyas Multidimensional Constructs
+\emph default
+.
+ Top Lang DisordersVol.
+ 34, No.
+ 4, pp.
+ 282–295
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-20"
+
+\end_inset
+
+van Eijck, J., & Verbrugge, R.
+ (Eds.) (2009).
+ 
+\emph on
+Discourses on social software
+\emph default
+.
+ Texts in games and logic (Vol.
+ 5).
+ Amsterdam: Amsterdam University Press.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Erb - AI and ToM"
+literal "false"
+
+\end_inset
+
+Erb, Benjamin.
+ (2016).
+ 
+\emph on
+Artificial Intelligence & Theory of Mind
+\emph default
+.
+ 10.13140/RG.2.2.27105.71526.
+ 
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-33"
+
+\end_inset
+
+Fagin, R., & Halpern, J.
+ (1988).
+ 
+\emph on
+Belief, awareness, and limited reasoning
+\emph default
+.
+ Artificial Intelligence, 34, 39–76.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-32"
+
+\end_inset
+
+Fagin, R., Halpern, J.
+ Y., Moses, Y., & Vardi, M.
+ Y.
+ (1995).
+ Reasoning about knowledge, 2nd ed., 2003.
+ Cambridge: MIT.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Flobbeverbrugge etc 2008"
+literal "false"
+
+\end_inset
+
+Flobbe, L., Verbrugge, R., Hendriks, P.,&Krämer, I.
+ (2008).
+ 
+\emph on
+Children’s application of theory of mind in reasoning and language
+\emph default
+.
+ Journal of Logic, Language and Information, 17, 417–442.
+ (Special issue on formal models for real people, edited by M.
+ Counihan.)
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "frege 1964"
+literal "false"
+
+\end_inset
+
+Frege, G.
+ (1964 [1893]).
+ 
+\emph on
+The Basic Laws of Arithmetic: Exposition of the System
+\emph default
+, M.
+ Furth (trans.), Berkeley, CA: University of California Press.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "frege1897"
+literal "false"
+
+\end_inset
+
+Frege, G.
+ (1897).
+ 
+\emph on
+Logic
+\emph default
+, reprinted in Frege [1997], pp.
+ 227–250.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-5"
+
+\end_inset
+
+Frege, G.
+ (1997).
+ 
+\emph on
+The Frege reader
+\emph default
+ (M.
+ Beaney, editor), Blackwell, Oxford.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Frith autism"
+literal "false"
+
+\end_inset
+
+Frith, U.
+ and Happe, F.
+ (1994).
+
+\emph on
+ Autism: beyond ‘theory of mind’.
+
+\emph default
+ Cognition 50, 115–132.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "simulation theory"
+literal "false"
+
+\end_inset
+
+Gallese, V.
+ and Goldman, A.
+ (1998).
+
+\emph on
+ Mirror neurons and the simulation theory of mind-reading
+\emph default
+.
+ Trends Cogn.
+ Sci.
+ 2, 493–501
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-22"
+
+\end_inset
+
+Ghosh, S., Meijering, B., & Verbrugge, R.
+ (2014).
+ 
+\emph on
+Strategic reasoning: Building cognitive models from logical formulas
+\emph default
+.
+ Journal of Logic, Language and Information, 23(1), 1–29.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "ghosh 2015"
+literal "false"
+
+\end_inset
+
+Ghosh, S., Heifetz, A., & Verbrugge, R.
+ (2015).
+ Do players reason by forward induction in dynamic perfect information games?
+ TARK.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "studying strategies verbrugge 2014"
+literal "false"
+
+\end_inset
+
+Ghosh, S., Meijering, B.
+ & Verbrugge, R.
+ (2018).
+ 
+\emph on
+Studying strategies and types of players: experiments, logics and cognitive
+ models.
+
+\emph default
+ Synthese (2018) 195: 4265.
+ https://doi.org/10.1007/s11229-017-1338-7
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-8"
+
+\end_inset
+
+Gierasimczuk, N., Hendricks, V.
+ F., Jongh, D.
+ d.
+ (2014).
+ 
+\emph on
+Logic and Learning
+\emph default
+.
+ In Johan van Benthem on Logic and Information Dynamics, Baltag, Alexandru,
+ Smets, Sonja (Eds.).
+ Outstanding Contributions to Logic, Vol.
+ 5.
+ Dordrecht: Springer.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Gigerenzer"
+literal "false"
+
+\end_inset
+
+Gigerenzer, G., Todd, P., & The ABC Research Group.
+ (1999).
+ 
+\emph on
+Simple Heuristics that Make us Smart
+\emph default
+.
+ New York: Oxford University Press.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "gopnik theory theory"
+literal "false"
+
+\end_inset
+
+Gopnik, A.
+ and Wellman, H.M.
+ (1994).
+
+\emph on
+ The theory theory
+\emph default
+.
+ In Mapping the Mind (Hirschfeld, L.
+ and Gelman, S., eds), pp.
+ 257–293, Cambridge University Press
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "mind perception"
+literal "false"
+
+\end_inset
+
+Gray, K.
+ et al.
+ (2011).
+ 
+\emph on
+Distortions of mind perception in psychopathology
+\emph default
+.
+ Proc.
+ Natl.
+ Acad.
+ Sci.
+ U.S.A.
+ 108, 477–479
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "griggs"
+literal "false"
+
+\end_inset
+
+Griggs R.A., Cox J.R.
+ (1982).
+
+\emph on
+ The elusive thematic-materials effect in Wason’s selection task
+\emph default
+.
+ Br J Psychol 73:407–420
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-30"
+
+\end_inset
+
+Halpern, J.
+ Y., & Moses, Y.
+ (1990).
+ K
+\emph on
+nowledge and common knowledge in a distributed environment
+\emph default
+.
+ Journal of the ACM, 37, 549–587.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-29"
+
+\end_inset
+
+Harbers, M., Verbrugge, R., Sierra, C., & Debenham, J.
+ (2008).
+
+\emph on
+ The examination of an information-based approach to trust
+\emph default
+.
+ In P.
+ Noriega, & J.
+ Padget (Eds.), Coordination, organizatiosn, institutions and norms in agent
+ systems III.
+ Lecture notes in computer science (Vol.
+ 4870, pp.
+ 71–82).
+ Berlin: Springer.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "hedden2002"
+literal "false"
+
+\end_inset
+
+Hedden, T., & Zhang, J.
+ (2002).
+ 
+\emph on
+What do you think I think you think? Strategic reasoning in matrix games
+\emph default
+.
+ Cognition, 85, 1–36.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Herman"
+literal "false"
+
+\end_inset
+
+Herrmann, E., Call, J., Hernandez-Lloreda, M.
+ V., Hare, B., & Tomasello, M.
+ (2007).
+
+\emph on
+ Humans have evolved specialized skills of social cognition: The cultural
+ intelligence hypothesis
+\emph default
+.
+ Science, 317, 1360–1366.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Heyes submentalizing"
+literal "false"
+
+\end_inset
+
+Heyes, C.
+ (2014).
+ 
+\emph on
+Submentalizing: I am not really reading your mind
+\emph default
+.
+ Perspect.
+ Psychol.
+ Sci.
+ 9, 131–143
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Heyes cultural evolution"
+literal "false"
+
+\end_inset
+
+Heyes, C., & Frith, C.
+ D.
+ (2014b).
+ 
+\emph on
+The cultural evolution of mind reading
+\emph default
+.
+ Science.
+ Jun 20;344(6190):1243091.
+ doi: 10.1126/science.1243091
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "horton"
+literal "false"
+
+\end_inset
+
+Horton, J.J., Rand, D.G.
+ & Zeckhauser, R.J.
+ (2011).
+ 
+\emph on
+The online laboratory: conducting experiments in a real labor market
+\emph default
+.
+ Experimental Economics, Sep.
+ 2014, Vol.
+ 14: 399.
+ https://doi.org/10.1007/s10683-011-9273-9
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "humphrey"
+literal "false"
+
+\end_inset
+
+Humphrey, N.K.
+ (1980).
+ 
+\emph on
+Nature’s psychologists
+\emph default
+.
+ In Consciousness and the physical world (eds B.
+ D.
+ Josephson & V.
+ S.
+ Ramachandran), pp.
+ 57–80.
+ Oxford, UK: Pergamon Press.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "simulation theory hurley"
+literal "false"
+
+\end_inset
+
+Hurley, S.
+ (2005).
+ 
+\emph on
+Social heuristics that make us smarter
+\emph default
+.
+ Philosophical Psychology, 18(5), 585–611.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "simulation theory 2 hurley"
+literal "false"
+
+\end_inset
+
+Hurley, S.
+ (2008).
+ The shared circuits model: How control, mirroring and simulation can enable
+ imitation, deliberation, and mindreading.
+ Behavioral and Brain Sciences, 31, 1–22.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-25"
+
+\end_inset
+
+Isaac, A.
+ M.
+ C., Szymanik, J., & Verbrugge, R.
+ (2014).
+ 
+\emph on
+Logic and complexity in cognitive science
+\emph default
+.
+ In Johan van Benthem on Logic and Information Dynamics (pp.
+ 787–824).
+ Springer.*
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Karmiloff"
+literal "false"
+
+\end_inset
+
+Karmiloff-Smith, A.
+ (1992).
+ 
+\emph on
+Beyond modularity: A developmental perspective on cognitive science
+\emph default
+.
+ Cambridge: MIT.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Keysar 2003"
+literal "false"
+
+\end_inset
+
+Keysar, B.
+ & Lin, S.
+ & J Barr, D.
+ (2003).
+ 
+\emph on
+Limits on theory of mind use in adults
+\emph default
+.
+ Cognition.
+ 89.
+ 25-41.
+ 10.1016/S0010-0277(03)00064-7.
+ 
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-26"
+
+\end_inset
+
+van Lambalgen, M., & Counihan, M.
+ (2008).
+ 
+\emph on
+Formal models for real people
+\emph default
+.
+ Journal of Logic, Language and Information, 17, 385–389.
+ (Special issue on formal models for real people, edited by M.
+ Counihan).
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Leslie 2000"
+literal "false"
+
+\end_inset
+
+Leslie, A.
+ (2000).
+ How to acquire a ‘representational theory of mind’.
+ In D.
+ Sperber & S.
+ Davies (Eds.), Metarepresentation, Oxford: Oxford University Press.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "nativist account"
+literal "false"
+
+\end_inset
+
+Leslie, A.
+ M., Friedman, O., & German, T.
+ P.
+ (2004).
+ 
+\emph on
+Core mechanisms in “theory of mind.”.
+
+\emph default
+ Trends in Cognitive Sciences, 8, 528–533.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "lin et al reflexively mindblind"
+literal "false"
+
+\end_inset
+
+Lin, S., Keysar, B., Nicholas, E.
+ (2010).
+ 
+\emph on
+Reflexively mindblind: Using theory of mind to in.terpret behavior requires
+ effortful attention
+\emph default
+.
+ Journal of Experimental Social Psychology Volume 46, Issue 3, May 2010,
+ Pages 551-556.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Liu diversity"
+literal "false"
+
+\end_inset
+
+Liu, F.
+ (2008).
+
+\emph on
+ Diversity of Agents and Their Interaction
+\emph default
+.
+ Springer Netherlands.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "mccarthy ai"
+literal "false"
+
+\end_inset
+
+McCarthy, J., Minsky, M., Rochester, N., & Shannon, C.
+ (1955).
+ 
+\emph on
+Proposal for the Dartmouth summer research project on artificial intelligence
+\emph default
+.
+ Technical report, Dartmouth College.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "mason"
+literal "false"
+
+\end_inset
+
+Mason, Winter & Watts, Duncan.
+ (2009).
+ 
+\emph on
+Financial incentives and the performance of crowds
+\emph default
+.
+ SIGKDD Explorations.
+ 11.
+ 100-108.
+ 10.1145/1600150.1600175.
+ 
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "maddy phil of logic"
+literal "false"
+
+\end_inset
+
+Maddy, P.
+ (2012).
+ 
+\emph on
+The philosophy of logic
+\emph default
+.
+ Bulletin of Symbolic Logic 18 (4):481-504.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Meijering"
+literal "false"
+
+\end_inset
+
+Meijering, B.,Maanen, L.
+ v., Rijn,H.
+ v., & Verbrugge, R.
+ (2010).
+ T
+\emph on
+he facilitative effect of context on secondorder social reasoning
+\emph default
+.
+ In Proceedings of the 32nd annual meeting of the cognitive science society,
+ (pp.
+ 1423–1428).
+ Philadelphia, PA, Cognitive Science Society.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Mol masters thesis_learningToReasonAboutOthersMinds"
+literal "false"
+
+\end_inset
+
+Mol, L.
+ (2004).
+ 
+\emph on
+Learning to reason about other people’s minds
+\emph default
+.
+ Technical report, Institute of Artificial Intelligence, University of Groningen
+, Groningen.
+ Master’s thesis.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Nagel Bat"
+literal "false"
+
+\end_inset
+
+Nagel, T.
+ (1974).
+ 
+\emph on
+What Is It Like to Be a Bat?
+\emph default
+.
+ The Philosophical Review.
+ 83 (4): 435–450.
+ doi:10.2307/2183914.
+ JSTOR 2183914.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-27"
+
+\end_inset
+
+Pacuit, E., Parikh, R., & Cogan, E.
+ (2006).
+ 
+\emph on
+The logic of knowledge based obligation
+\emph default
+.
+ Synthese: Knowledge, Rationality and Action, 149, 57–87.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "eliciting beliefs proper scoring"
+literal "false"
+
+\end_inset
+
+Palfrey, T., & Wang, S.
+ (2009).
+ 
+\emph on
+On eliciting beliefs in strategic games
+\emph default
+.
+ Journal of Economic Behavior & Organization, 71(2), 98-109.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-26"
+
+\end_inset
+
+Parikh, R.
+ (2003).
+
+\emph on
+ Levels of knowledge, games, and group action
+\emph default
+.
+ Research in Economics, 57, 267–281.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Perner"
+literal "false"
+
+\end_inset
+
+Perner, J.
+ (1988).
+ 
+\emph on
+Higher-order beliefs and intentions in children’s understanding of social
+ interaction
+\emph default
+.
+ In J.
+ W.
+ Astington, P.
+ L.
+ Harris, & D.
+ R.
+ Olson (Eds.), Developing theories of mind (pp.
+ 271–294).
+ Cambridge: Cambridge University Press.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+label "Premack & Woodruff"
+key "Premack chimp ToM"
+literal "false"
+
+\end_inset
+
+Premack, D., & Woodruff, G.
+ (1978).
+
+\emph on
+ Does the chimpanzee have a theory of mind? 
+\emph default
+Behavioral & Brain Sciences, 1, 515–526.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Pol ToM DEL"
+literal "false"
+
+\end_inset
+
+Pol, I.
+ v.
+ d., Rooij, I.
+ v., Szymanik, J.
+ (2018) 
+\emph on
+Parameterized Complexity of Theory of Mind Reasoning in Dynamic Epistemic
+ Logic
+\emph default
+.
+ J Log Lang Inf (2018) 27:255–294 https://doi.org/10.1007/s10849-018-9268-4
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-12"
+
+\end_inset
+
+Putnam, H.
+ (1978).
+ 
+\emph on
+There is at least one a priori truth.
+ 
+\emph default
+Erkenntnis 13 (1978) 153-170.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Quine"
+literal "false"
+
+\end_inset
+
+Quine, W.
+ V.
+ O (1951).
+
+\emph on
+ Two dogmas of empiricism
+\emph default
+.
+ Reprinted in his From a logical point of view, second ed., Harvard University
+ Press, Cambridge, MA, 1980, pp.
+ 20–46.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "perspective taking"
+literal "false"
+
+\end_inset
+
+Qureshi, A.
+ W., Apperly, I.
+ A., Samson, D.
+ (2010).
+
+\emph on
+ Executive function is necessary for perspective selection, not Level-1
+ visual perspective calculation: Evidence from a dual-task study of adults
+\emph default
+.
+ Cognition 117, 230–236 (2010).
+ doi: 10.1016/j.
+ cognition.2010.08.003; pmid: 20817158
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "rand"
+literal "false"
+
+\end_inset
+
+Rand, David.
+ (2011).
+ 
+\emph on
+The promise of Mechanical Turk: How online labor markets can help theorists
+ run behavioral experiments
+\emph default
+.
+ Journal of theoretical biology.
+ 299.
+ 172-9.
+ 10.1016/j.jtbi.2011.03.004.
+ 
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Rosenthal"
+literal "false"
+
+\end_inset
+
+Rosenthal, R.
+ (1981).
+ 
+\emph on
+Games of perfect information, predatory pricing, and the chain store
+\emph default
+.
+ Journal of Economic Theory, 25, 92–100.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Schaafsma deconstructing"
+literal "false"
+
+\end_inset
+
+Schaafsma, S.
+ M., Pfaff, D.
+ W., Spunt, R.
+ P., & Adolphs, R.
+ (2014).
+ 
+\emph on
+Deconstructing and reconstructing theory of mind
+\emph default
+.
+ Trends in cognitive sciences, 19(2), 65–72.
+ doi:10.1016/j.tics.2014.11.007
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Seidenfeld"
+literal "false"
+
+\end_inset
+
+Seidenfeld, T., 1985.
+ 
+\emph on
+Calibration, coherence, and scoring rules
+\emph default
+.
+ Philosophy of Science 52, 274–294.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-24"
+
+\end_inset
+
+Stahl, D.
+ O., & Wilson, P.
+ W.
+ (1995).
+ 
+\emph on
+On players’ models of other players: Theory and experimental evidence
+\emph default
+.
+ Games and Economic Behavior, 10, 218–254.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Stenning on wason"
+literal "false"
+
+\end_inset
+
+Stenning K, van Lambalgen M.
+ (2008).
+\emph on
+Human reasoning and cognitive science
+\emph default
+.
+ MIT Press, Cambridge
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-23"
+
+\end_inset
+
+Stulp, F., & Verbrugge, R.
+ (2002).
+ 
+\emph on
+A knowledge-based algorithm for the internet protocol TCP
+\emph default
+.
+ Bulletin of Economic Research, 54(1), 69–94.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-2"
+
+\end_inset
+
+Sycara, K.
+ & Lewis, M.
+ (2004).
+ 
+\emph on
+Integrating intelligent agents into human teams
+\emph default
+.
+ In E.
+ Salas,& S.
+ Fiore (Eds.), Team cognition: Understanding the factors that drive process
+ and performance (pp.
+ 203–232).
+ Washington, DC: American Psychological Association.
+ 133.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Verbrugge 2008"
+literal "false"
+
+\end_inset
+
+Verbrugge, R., & Mol, L.
+ (2008).
+ 
+\emph on
+Learning to apply theory of mind
+\emph default
+.
+ Journal of Logic, Language and Information, 17, 489–511.
+ (Special issue on formal models for real people, edited by M.
+ Counihan.)
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "verbrugge logic and social cognition"
+literal "false"
+
+\end_inset
+
+Verbrugge R.
+ (2009): 
+\emph on
+Logic and Social Cognition
+\emph default
+.
+ Journal of Philosophical Logic.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "mentalizing mindreading vogeley"
+literal "false"
+
+\end_inset
+
+Vogeley, K.
+ et al.
+ (2001).
+ 
+\emph on
+Mind reading: neural mechanisms of theory of mind and self-perspective.
+
+\emph default
+ Neuroimage 14, 170–181
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Wagner_egger"
+literal "false"
+
+\end_inset
+
+Wagner-Egger, P.
+ (2007).
+ C
+\emph on
+onditional reasoning and the Wason selection task: Biconditional interpretation
+ instead of reasoning bias
+\emph default
+.
+ _Thinking and Reasoning_ 13 (4):484 – 505.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "wason 1966"
+literal "false"
+
+\end_inset
+
+Wason, P.
+ C.
+ (1966).
+ 
+\emph on
+Reasoning
+\emph default
+.
+ In B.
+ M.
+ Foss (Ed.), New Horizons in Psychology I, (pp.
+ 135–151).
+ Harmondsworth: Penguin.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "wason 1971"
+literal "false"
+
+\end_inset
+
+Wason P.C., Shapiro D.
+ (1971).
+ 
+\emph on
+Natural and contrived experience in a reasoning problem
+\emph default
+.
+ Q J Exp Psychol 23:63–71
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-23"
+
+\end_inset
+
+Wason, P., & Shapiro, D.
+ (1971).
+ 
+\emph on
+Natural and contrived experience in a reasoning problem
+\emph default
+.
+ The Quarterly Journal of Experimental Psychology, 23(1), 63–71.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Wellman"
+literal "false"
+
+\end_inset
+
+Wellman, H.
+ M.
+ (1990).
+ 
+\emph on
+The child’s theory of mind.
+
+\emph default
+ Cambridge, MA: MIT Press.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Wimmer"
+literal "false"
+
+\end_inset
+
+Wimmer, H., & Perner, J.
+ (1983).
+ 
+\emph on
+Beliefs about beliefs: Representation and constraining function of wrong
+ beliefs in young children’s understanding of deception
+\emph default
+.
+ Cognition, 13, 103–128.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-8"
+literal "false"
+
+\end_inset
+
+Wooldridge, M.
+ J.
+ (2002).
+ 
+\emph on
+An introduction to multiagent systems
+\emph default
+.
+ Chichester: Wiley.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Glascher lab"
+literal "false"
+
+\end_inset
+
+http://www.glascherlab.org/social-decisionmaking/ (15-01-2019)
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "SEP deontology"
+literal "false"
+
+\end_inset
+
+https://plato.stanford.edu/entries/ethics-deontological/#DeoThe (14-05-2019)
+\end_layout
+
+\end_body
+\end_document

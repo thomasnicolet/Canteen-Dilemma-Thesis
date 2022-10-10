@@ -1,0 +1,13 @@
+{% extends "global/Base.html" %}
+{% load staticfiles otree %}
+
+{% block title %}
+    Thank you for your participation!
+{% endblock %}
+
+{% block content %}
+    <p>The session will be submitted after you click the button below. Your total payoff of <strong>{{ total_payoff }}</strong> will be paid out shortly.</p>
+
+    <div class="text-center"><button class="btn btn-primary">Finish study</button></div>
+
+{% endblock %}

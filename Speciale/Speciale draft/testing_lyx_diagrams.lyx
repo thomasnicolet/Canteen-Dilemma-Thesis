@@ -1,0 +1,567 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+%%%%%%%%%%%%%%%%%
+% Figures
+\usepackage{tikz}
+\usetikzlibrary{arrows,positioning,fit,automata}
+\tikzset{    
+%Define standard arrow tip
+>=stealth',
+%Define style for boxes
+punkt/.style={rectangle, rounded corners, draw=black, thick, text width=10em, minimum height=2em, text centered},
+empty/.style={rectangle, rounded corners, text width=10em, minimum height=2em, text centered},
+bigpunkt/.style={rectangle, rounded corners, draw=black, thick, text width=10em, minimum height=2em, text centered},
+hpunkt/.style={rectangle, rounded corners=10pt, draw=black, thick, text width=14em, minimum height=2em, text centered},
+% Define arrow style   
+pil/.style={->, thick, shorten <=2pt, shorten >=2pt,}, 
+% Loop Style
+every loop/.style={max distance=10mm,looseness=10},
+% Define Venn diagram
+emptyvenn/.style={circle, draw=none, text centered},
+venn/.style={circle, draw=black, text centered, minimum height=25pt,thick},
+% Define Muddy Children graph
+muddy/.style={rectangle, draw=black, rounded corners, text width=50pt, minimum height=19pt, text centered},
+realmuddy/.style={rectangle, draw=black, ultra thick, rounded corners, text width=30pt, minimum height=19pt, text centered},
+muddyetl/.style={rectangle, draw=black, rounded corners=6pt, text width=48pt, minimum height=19pt, text centered},
+realmuddyetl/.style={rectangle, draw=black, ultra thick, rounded corners=6pt, text width=48pt, minimum height=19pt, text centered},
+% Define ELT graph branches
+etl/.style={rectangle, draw=black, rounded corners=6pt, text width=48pt, minimum height=19pt, text centered},
+realetl/.style={rectangle, draw=black, ultra thick, rounded corners=6pt, text width=48pt, minimum height=19pt, text centered}
+}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+Testing
+\begin_inset VSpace medskip
+\end_inset
+
+
+\begin_inset VSpace medskip
+\end_inset
+
+
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+begin{figure}
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+begin{centering}
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+scalebox{.70}{
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+begin{tikzpicture}[->,>=stealth',auto,shorten >=2pt,shorten <=2pt]
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy] (8081) {{$
+\backslash
+textrm{(8:00, 8:10)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 8081] (8182) {{
+\backslash
+small$
+\backslash
+textrm{(8:10, 8:20)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 8182] (8283) {{
+\backslash
+small$
+\backslash
+textrm{(8:20, 8:30)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 8283] (8384) {{
+\backslash
+small$
+\backslash
+textrm{(8:30, 8:40)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 8384] (8485) {{
+\backslash
+small$
+\backslash
+textrm{(8:40, 8:50)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 8485] (8590) {{
+\backslash
+small$
+\backslash
+textrm{(8:50, 9:00)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 8590] (9091) {{
+\backslash
+small$
+\backslash
+textrm{(9:00, 9:10)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,below=20pt of 8081] (8180) {{
+\backslash
+small$
+\backslash
+textrm{(8:10, 8:00)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 8180] (8281) {{
+\backslash
+small$
+\backslash
+textrm{(8:20, 8:10)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 8281] (8382) {{
+\backslash
+small$
+\backslash
+textrm{(8:30, 8:20)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 8382] (8483) {{
+\backslash
+small$
+\backslash
+textrm{(8:40, 8:30)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 8483] (8584) {{
+\backslash
+small$
+\backslash
+textrm{(8:50, 8:40)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 8584] (9085) {{
+\backslash
+small$
+\backslash
+textrm{(9:00, 8:50)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[muddy,right=20pt of 9085] (9190) {{
+\backslash
+small$
+\backslash
+textrm{(9:10, 9:00)}$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+node[empty,above=5pt of 8081] (Ms) {$M
+\backslash
+textrm{:}$};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (8081) -- (8281) node[yshift=30pt,xshift
+=-45pt] {{
+\backslash
+small $b$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (8180) -- (8182) node[yshift=-30pt,xshif
+t=-45pt] {{
+\backslash
+small $a$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (8182) -- (8382) node[yshift=30pt,xshift
+=-45pt] {{
+\backslash
+small $b$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (8281) -- (8283) node[yshift=-30pt,xshif
+t=-45pt] {{
+\backslash
+small $a$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (8283) -- (8483) node[yshift=30pt,xshift
+=-45pt] {{
+\backslash
+small $b$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (8382) -- (8384) node[yshift=-30pt,xshif
+t=-45pt] {{
+\backslash
+small $a$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (8384) -- (8584) node[yshift=30pt,xshift
+=-45pt] {{
+\backslash
+small $b$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (8483) -- (8485) node[yshift=-30pt,xshif
+t=-45pt] {{
+\backslash
+small $a$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (8485) -- (9085) node[yshift=30pt,xshift
+=-45pt] {{
+\backslash
+small $b$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (8584) -- (8590) node[yshift=-30pt,xshif
+t=-45pt] {{
+\backslash
+small $a$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (8590) -- (9190) node[yshift=30pt,xshift
+=-45pt] {{
+\backslash
+small $b$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+draw[-,shorten >=-1.5pt,shorten <=-1.5pt] (9085) -- (9091) node[yshift=-30pt,xshif
+t=-45pt] {{
+\backslash
+small $a$}};
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+end{tikzpicture}
+\end_layout
+
+\begin_layout Plain Layout
+
+	}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+par
+\backslash
+end{centering}
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+caption{Unpointed Kripke model $M$ representing the initial situation of
+\end_layout
+
+\begin_layout Plain Layout
+
+	the Muddy Children Puzzle.
+ Each state specifies which children are
+\end_layout
+
+\begin_layout Plain Layout
+
+	muddy, where for all $i
+\backslash
+in
+\backslash
+Phi$, $
+\backslash
+overline{i}:=
+\backslash
+neg i$, that is,
+\end_layout
+
+\begin_layout Plain Layout
+
+	``child $i$ is not muddy''.
+ Labelled relations between states represent
+\end_layout
+
+\begin_layout Plain Layout
+
+	ignorance of the children.
+ Reflexive relations are omitted.
+ 
+\backslash
+label{fig:Initial-state}}
+\end_layout
+
+\begin_layout Plain Layout
+
+	
+\backslash
+end{figure}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

@@ -1,0 +1,222 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+Both of these distinctly human skills seems to 
+\begin_inset Quotes eld
+\end_inset
+
+recover meaning from signs, depend on dedicated cortical areas, are subject
+ to genetically heritable disorders, show cultural variation around a universal
+ core, and regulate how people behave
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Following the analogy, even though we speak of something literate or not,
+ reading print comes in continuously varying degrees.
+ Reading minds might too.
+\begin_inset VSpace medskip
+\end_inset
+
+
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+[
+\emph on
+Probably delete this paragraph
+\emph default
+] When it comes to the second-order false belief task in Flobbe et al., almost
+ all children passed the test.
+ When answering the question 
+\begin_inset Quotes eld
+\end_inset
+
+Where does Mary think that John will look for the chocolate?
+\begin_inset Quotes erd
+\end_inset
+
+, correct second-order social reasoning entails answering 
+\begin_inset Quotes eld
+\end_inset
+
+the drawer
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Notice that first-order reasoning, attributing 0-order reasoning to Mary
+ and assuming that Mary does not consider John's beliefs, entails answering
+ 
+\begin_inset Quotes eld
+\end_inset
+
+the toy chest
+\begin_inset Quotes erd
+\end_inset
+
+ (that is where Mary believes the chocolate to be).
+ But according to 0-order social reasoning, that is, not distinguishing
+ between beliefs of others and one's own, 
+\begin_inset Quotes eld
+\end_inset
+
+the toy chest
+\begin_inset Quotes erd
+\end_inset
+
+ is the correct answer as well.
+ If these different orders of reasoning entailed different answers, it might
+ be considerably more difficult, since it would require participants to
+ realize not just that their 0-order reasoning is incorrect but also their
+ first-order reasoning.
+ In other words, if a participant believes that the experiment is structured
+ such that the answer entailed by 0-order reasoning (which they are capable
+ of) is 'wrong' in some sense, which they would be right to infer in this
+ case, it might dissuade them from giving this answer, without relying on
+ second-order reasoning.
+\begin_inset VSpace medskip
+\end_inset
+
+The canteen dilemma is structured very similarly to the consecutive numbers
+ example.
+ Whenever we are faced with experimental facts concerning the differences
+ between proscriptions from epistemic logic and how people actually think,
+ we might be inclined to conclude that such results only show 
+\emph on
+limits 
+\emph default
+or 
+\emph on
+deficiencies
+\emph default
+ in human reasoning, following the anti-psychologistic tradition from Frege
+ and seminal studies like 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "wason 1966"
+literal "false"
+
+\end_inset
+
+.
+ This is partly true, since the validity of established logical systems
+ does not change if someone makes different inferences.
+ But when it comes to having a Theory of Mind and reasoning about the mental
+ states of others, the salient feature must be the accuracy of such a representa
+tion, not how well it depicts what their mental model or reasoning ought
+ to look like.
+ If we want to interact intelligently with ambient technologies like self-drivin
+g cars and rescue-robots, they will also have to be able to reason about
+ what humans think and as such they should be aware of the human cognitive
+ limits when it comes to higher order social reasoning 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Donkers,dunin+verbrugge,Erb - AI and ToM"
+literal "false"
+
+\end_inset
+
+.
+ Non-human agents making erroneous assumptions about how people actually
+ reason and basing their decisions on such assumptions is bound to lead
+ to sub-optimal cooperation.
+ That means that even if we stick to the traditional normative program of
+ logic, when it comes to higher order social reasoning, the way that human
+ or non-human agents 
+\emph on
+ought 
+\emph default
+to reason depends in part on how they 
+\emph on
+actually 
+\emph default
+reason.
+ To rephrase Frege, sometimes people have to consider how people actually
+ think, and not just how they ought to think, if they are not to miss the
+ truth.
+ This leads to looking into the insights about real higher order social
+ reasoning gathered from behavioral experiments in cognitive science.
+\end_layout
+
+\end_body
+\end_document

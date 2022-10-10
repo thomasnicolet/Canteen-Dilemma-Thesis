@@ -1,0 +1,10 @@
+{% extends "global/Base.html" %}
+{% load otree_tags %}
+
+{% block title %}The Canteen Dilemma{% endblock %}
+
+{% block content %}
+    <p> These instruction will also be shown on the following pages.</p>
+{% include Constants.instructions_template %}
+{% next_button %}
+{% endblock %}

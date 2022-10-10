@@ -1,0 +1,53 @@
+{% extends "global/Base.html" %}
+{% load staticfiles otree %}
+
+{% block title %}
+    Results
+{% endblock %}
+
+{% block content %}
+
+    <table class="table">
+        <thead>
+            <td>Round</td>
+            <td>You went to the</td>
+            <td>at</td>
+            <td>Your colleague went to the</td>
+            <td>at</td>
+            <td>estimated probability of colleague doing the same as you</td>
+            <td>Penalty</td>
+        </thead>
+        <tbody>
+            {% for p in player_in_all_rounds %}
+            <tr>
+                <td>{{ p.round_number }}</td>
+                <td>{% if p.choice == True %} canteen {% else %} office {% endif %}</td>
+                <td>{{ p.arrival_time|floatformat:"2" }}</td>
+                <td>{% if p.get_partner.choice == True %} canteen {% else %} office {% endif %}</td>
+                <td>{{ p.get_partner.arrival_time|floatformat:"2" }}</td>
+                <td>{{ p.certainty }}</td>
+                <td>{{ p.payoff }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <p>
+    {% if too_late == True and player.choice == 'Canteen' %}
+        It was too late to go to the canteen!
+    {% else %}
+        You went to the {% if player.choice == True %} canteen
+        {% else %} office {% endif %} while your colleague did not.
+    {% endif %}
+    </p>
+    <p>{% if tot_payoff <= 0 %} You lost all your money, {% else %}
+        Your colleague lost all his money, {% endif %}
+        so the game is over.</p>
+    <p>
+        Your total payout is {% if tot_payoff <= 0 %} $0. {% else %}
+        <strong>{{ tot_payoff }}</strong>. {% endif %}
+    </p>
+    <p>Thank you for your participation.</p>
+
+    {% next_button %}
+{% endblock %}

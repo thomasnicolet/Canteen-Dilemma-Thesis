@@ -1,0 +1,492 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Section
+Notes - 2nd Draft - Introduction
+\end_layout
+
+\begin_layout Standard
+Frege disregarded all relations between logic and the human psyche.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Do people actually reason about each other’s knowledge in the way proscribed
+ by epistemic logic? And if not, how can logic and cognitive science productivel
+y work together to construct more realistic models of human reasoning about
+ other minds
+\begin_inset Quotes erd
+\end_inset
+
+ (Verbrugge 2009, 649).
+\end_layout
+
+\begin_layout Standard
+If mixed teams of computational and human agents have to work together,
+ they have to be able to successfully anticipate and predict each others
+ actions.
+ In order to do this, it's often necessary to be able to apply social cognition
+ of an appropriate order, that is, being able to recursively model the mental
+ states of other agents, including the mental model other agents might have
+ of themselves, and so on.
+ If an AI is to make a mental model of a human agent, it's important to
+ be sure what type of model this is.
+ 
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+An AI might apply first-order ToM to model the mental state of a human agent,
+ and apply second-order ToM to model the human's model of the AI.
+ The AI might assume the human's model of the AI include the AI's model
+ of the human, effectively applying third-order ToM, and so on, to either
+ an infinite or arbitry 
+\emph on
+k
+\emph default
+ degree of ToM.
+ There is strong evidence that humans are able to apply first-order ToM
+ and only sometimes second-order ToM, which some studies (Keysar 2003) show
+ that this ability might not be used, even in use cases where it makes a
+ critical difference.
+ So an AI would make wrong predictions of human decisions if it assumes
+ that humans able to apply sufficient ToM and in fact employ their abilities.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+If we are to program an AI to predict and interact with human agents, it
+ will likely have to model the mental state of human agents.
+ What constitutes such a model? If an AI want to interact successfully with
+ humans, it can't assume a human mental model which employs perfect reasoning.
+ However, if an AI assumes a human is completely irrational, it would anticipate
+ the human making random choices, which would lead to sub optimal cooperation
+ as well.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Various notes
+\end_layout
+
+\begin_layout Abstract
+For such interaction to be successful, it is standardly thought that participant
+s must be able to efficiently recursively model the mental states of others.
+ The Canteen Dilemma is an online experiment intended at testing the extend
+ to which people actually employ such higher order social cognition.
+ The experiment therefore aims at finding out what difference there is between
+ idealised models of social reasoning and the actual reasoning that humans
+ employ.
+\end_layout
+
+\begin_layout Subsection
+Epistemic Logic
+\end_layout
+
+\begin_layout Standard
+Theoretical considerations about Theory of Mind (ToM)
+\end_layout
+
+\begin_layout Subsection
+Common Knowledge
+\end_layout
+
+\begin_layout Standard
+Concept of common knowledge within epistemic logic and its importance.
+ Common knowledge is important because it is often necessary to ensure safe
+ coordination.
+\end_layout
+
+\begin_layout Subsection
+Consecutive numbers example
+\end_layout
+
+\begin_layout Subsection
+Common knowledge about rationality
+\end_layout
+
+\begin_layout Standard
+Is rationality common knowledge? Or in other words, is it common knowledge
+ that agents maximize their own payoffs AND employ perfect reasoning when
+ attempting this?
+\end_layout
+
+\begin_layout Subsection
+Spontaneous versus reflective use of Theory of Mind - Capability versus
+ applicability (Keysar 2003)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+These empirical observations show that the premise of the induction principle
+ above is questionable.
+ After all, when a player is unsure that the other would make rational choices
+ in a subgame of g, she cannot be expected to make a rational choice in
+ g either.
+\begin_inset Quotes erd
+\end_inset
+
+(Verbrugge 2009, 660).
+\end_layout
+
+\begin_layout Standard
+That is, it's not common knowledge that the other play is rational, therefore,
+ even a rational player don't know if the other play incorporates higher-order
+ theory of mind in his decisions.
+ It might therefore be possible for two rational players to both act as
+ if the other weren't rational.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The ability to understand another’s beliefs and intentions of a certain
+ order may be present in principle, but to apply ToM of the appropriate
+ order, an individual must at least recognize that, in a given situation,
+ it is to his advantage that this knowledge be incorporated in his decisions
+ or action 
+\begin_inset Quotes eld
+\end_inset
+
+(Flobbe et al., 420)
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+While players might be capable of recursively modeling others mental states
+ when prompted, it might not happen in cases where it's not.
+ If the importance of applying theory of mind is not explicit, for example
+ when it is hidden behind more intuitive zero-order ToM actions, players
+ might not draw on this capability.
+ This might not because players are rational, but live in pluralistic ignorance
+ about common rationality, but rather because people individually do not
+ incorporate ToM.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+One case of this can be the difference between reflective and spontaneous
+ use of ToM, as shown in (Keysar 2003).
+ 
+\end_layout
+
+\begin_layout Section
+Experimental setup
+\end_layout
+
+\begin_layout Standard
+The Canteen Dilemma has been setup on Amazon's Mechanical Turk (AMT), where
+ workers from around the world can complete Human Intelligence Tasks (HIT's)
+ for researchers or employers.
+ 
+\end_layout
+
+\begin_layout Subsection
+Methods
+\end_layout
+
+\begin_layout Subsubsection
+Experimental environment - Amazon's Mechanical Turk
+\end_layout
+
+\begin_layout Subsubsection
+Participants
+\end_layout
+
+\begin_layout Subsubsection
+Game structure
+\end_layout
+
+\begin_layout Subsubsection
+Payoff
+\end_layout
+
+\begin_layout Subsubsection
+Design and expectations
+\end_layout
+
+\begin_layout Subsection
+Results and data processing
+\end_layout
+
+\begin_layout Section
+General discussion
+\end_layout
+
+\begin_layout Section
+Section
+\end_layout
+
+\begin_layout Section
+Conclusion
+\end_layout
+
+\begin_layout Subsubsection*
+Acknowledgments
+\end_layout
+
+\begin_layout Standard
+I would like to thank the Center for Information and Bubble Studies (CIBS)
+ for funding the Canteen Dilemma experiment.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-1"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-2"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-3"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+More notes sent to Nils
+\end_layout
+
+\begin_layout Standard
+Research question: Do people actually reason about each other’s knowledge
+ in the way proscribed by epistemic logic? And if not, how can logic and
+ cognitive science productively work together to construct more realistic
+ models of human reasoning about other minds
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Research question: To what extend do real people engage in higher order
+ social reasoning compared to the reasoning patterns prescribed by epistemic
+ logic? And in the case of discrepancy, what type of reasoning patterns
+ occurs instead?
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Introduction:
+\end_layout
+
+\begin_layout Standard
+Social interaction and coordination often rely implicitly or explicitly
+ on higher order social reasoning - i.e.
+ thinking about what others are thinking, also called applying 
+\emph on
+Theory of Mind 
+\emph default
+to 
+\emph on
+n 
+\emph default
+degree.
+ For such interaction to be successful, it is often thought that participants
+ must be able to recursively model the mental states of others.
+ The Canteen Dilemma is an online experiment intended at testing the extend
+ to which people actually apply higher order social reasoning.
+ The experiment also aims at showing whether there is a learning experience
+ within strategic coordination games in terms of applying increasingly higher
+ orders of Theory of Mind.
+ The experiment might also show whether there exists a discrepancy between
+ people's reflection about Theory of Mind and their actual use of it when
+ making decisions in games.
+ In other words, it might show that even if people possess the mental capability
+ to apply 
+\emph on
+n 
+\emph default
+degree of Theory of Mind, this capability might not be drawn upon and incorporat
+ed successfully into decision processes, as indicated by experiments in
+ (Keysar et al.
+ 2003).
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The classic game theoretical assumptions of players being both rational
+ and capable of perfect reasoning has often been criticized.
+ People have been shown to often diverge from rational behavior and being
+ incapable of applying perfect reasoning (as detailed in Verbrugge 2009).
+ Experiments testing how well people apply higher order social reasoning
+ also tests these premises to an extend.
+ However there are a few problems facing such experiments, which I will
+ detail below.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+The first is mentioned above.
+ There might be a discrepancy between the mental resources and capabilities
+ of people and how well these resources are drawn upon in actual use.
+ In other words, we might want to be careful about whether people do not
+ show possession of a Theory of Mind because they do not have it, or because
+ it is just not being drawn upon.
+ There is possibly a discrepancy between reasoning behind spontaneous and
+ reflective tasks (see Keysar et al.
+ 2003).
+ This leads to a related second problem, that application of Theory of Mind
+ might be task dependent.
+ As (Verbrugge et al.
+ 2008) writes, in order for a person to apply an appropriate order of Theory
+ of Mind, it is necessary that the person recognizes that it is advantageous
+ to incorporate this type of knowledge into her decisions.
+ This hints that the ability to apply Theory of Mind might not transfer
+ from one domain to another, before a person becomes aware that such reasoning
+ benefits decision making.
+ So, experimental setup might be influence results in related experiments.
+ Thirdly, even if players are presumably rational, they cannot be expected
+ to make rational plays if rationality of players is not common knowledge.
+ That is, if a player does not believe that another player has a Theory
+ of Mind, the first player would only model their mental state as such,
+ which means the first player intentionally restricting herself to a first-order
+ theory of mind.
+\end_layout
+
+\end_body
+\end_document

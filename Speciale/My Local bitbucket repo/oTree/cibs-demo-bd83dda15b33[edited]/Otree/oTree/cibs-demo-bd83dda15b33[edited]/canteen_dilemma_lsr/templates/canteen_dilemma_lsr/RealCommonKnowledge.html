@@ -1,0 +1,18 @@
+{% extends "global/Base.html" %}
+{% load staticfiles otree %}
+{% block content %}
+
+   <p>
+   		Read the whole text before giving an answer. Given your playstyle/strategy and arrival time {{ player.arrival_time }}, consider whether you know with certainty that you both arrived before 9 (i.e. + 10 minutes to your time) which makes it safe to go to the canteen. If this is the case, consider if you know if you colleague is also certain that you both arrived before 9. If this is the case, consider if you know, that your colleague knows, that you're certain that you arrived before 9. Imagine this process iterately infinitely, meaning you know your partner knows, that you know, that your partner knows, etc, that you both arrived before 9 and can safely go to the canteen. Given your playstyle/strategy, do you know, that your partner knows, that you know, etc. in the sense described above, that you are sure to meet your colleague when you choose to go to the canteen? For example/including when you arrive at {{ player.arrival_time }}
+    </p>
+    <p>
+    	or
+    <p/>
+     <p>
+     	 Given your playstyle, take your arrival time at {{ player.arrival_time }} as an example. Consider if you know that you both arrived before 9. Now consider if you know that your colleague knows that you both arrived before 9. And consider if you know that your colleague know that you know that you both arrived before 9? Imagine this process infinitely repeated, are you always sure to meet your colleague if you choose to go to the canteen, for example when you arrive at {{ player.arrival_time}}?
+    <p/>
+
+
+    {% formfield player.real_common_knowledge_canteen_dilemma %}
+    {% next_button %}
+{% endblock %}

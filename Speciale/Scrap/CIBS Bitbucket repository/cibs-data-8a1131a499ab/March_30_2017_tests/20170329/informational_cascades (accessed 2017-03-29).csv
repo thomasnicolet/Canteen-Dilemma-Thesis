@@ -1,0 +1,61 @@
+participant.id_in_session,participant.code,participant.label,participant._is_bot,participant._index_in_pages,participant._max_page_index,participant._current_app_name,participant._round_number,participant._current_page_name,participant.ip_address,participant.time_started,participant.exclude_from_data_analysis,participant.visited,participant.mturk_worker_id,participant.mturk_assignment_id,participant.payoff,player.id_in_group,player.treatment,player.urn,player.current_ball,player.choice_U,player.choice_B,player.choice_D,player.choice_S,player.strategy_cascades,player.payoff,group.id_in_subsession,subsession.round_number,session.code,session.label,session.experimenter_name,session.mturk_HITId,session.mturk_HITGroupId,session.comment,session.is_demo
+1,ef5i9fs5,,0,1,203,Welcome,1,WelcomePage,130.225.121.206,2017-03-29 10:56:30.239835+00:00,0,1,,,0,2,B,A,red,,A,,,,0,1,1,rfnky8l0,,,,,,0
+2,fbe8gncp,,0,0,203,,,,,,0,0,,,0,1,U,A,blue,B,,,,,0,1,1,rfnky8l0,,,,,,0
+1,ef5i9fs5,,0,1,203,Welcome,1,WelcomePage,130.225.121.206,2017-03-29 10:56:30.239835+00:00,0,1,,,0,2,B,A,blue,,B,,,,0,1,2,rfnky8l0,,,,,,0
+2,fbe8gncp,,0,0,203,,,,,,0,0,,,0,1,U,A,blue,B,,,,,0,1,2,rfnky8l0,,,,,,0
+1,ef5i9fs5,,0,1,203,Welcome,1,WelcomePage,130.225.121.206,2017-03-29 10:56:30.239835+00:00,0,1,,,0,1,U,A,red,,,,,,0,1,3,rfnky8l0,,,,,,0
+2,fbe8gncp,,0,0,203,,,,,,0,0,,,0,2,B,A,red,,,,,,0,1,3,rfnky8l0,,,,,,0
+1,ef5i9fs5,,0,1,203,Welcome,1,WelcomePage,130.225.121.206,2017-03-29 10:56:30.239835+00:00,0,1,,,0,1,U,A,blue,,,,,,0,1,4,rfnky8l0,,,,,,0
+2,fbe8gncp,,0,0,203,,,,,,0,0,,,0,2,B,A,blue,,,,,,0,1,4,rfnky8l0,,,,,,0
+1,ef5i9fs5,,0,1,203,Welcome,1,WelcomePage,130.225.121.206,2017-03-29 10:56:30.239835+00:00,0,1,,,0,2,B,A,black,,,,,,0,1,5,rfnky8l0,,,,,,0
+2,fbe8gncp,,0,0,203,,,,,,0,0,,,0,1,U,A,red,,,,,,0,1,5,rfnky8l0,,,,,,0
+1,ef5i9fs5,,0,1,203,Welcome,1,WelcomePage,130.225.121.206,2017-03-29 10:56:30.239835+00:00,0,1,,,0,2,B,A,black,,,,,,0,1,6,rfnky8l0,,,,,,0
+2,fbe8gncp,,0,0,203,,,,,,0,0,,,0,1,U,A,blue,,,,,,0,1,6,rfnky8l0,,,,,,0
+1,ef5i9fs5,,0,1,203,Welcome,1,WelcomePage,130.225.121.206,2017-03-29 10:56:30.239835+00:00,0,1,,,0,2,B,A,blue,,,,,,0,1,7,rfnky8l0,,,,,,0
+2,fbe8gncp,,0,0,203,,,,,,0,0,,,0,1,U,A,red,,,,,,0,1,7,rfnky8l0,,,,,,0
+1,ef5i9fs5,,0,1,203,Welcome,1,WelcomePage,130.225.121.206,2017-03-29 10:56:30.239835+00:00,0,1,,,0,2,B,A,blue,,,,,,0,1,8,rfnky8l0,,,,,,0
+2,fbe8gncp,,0,0,203,,,,,,0,0,,,0,1,U,A,blue,,,,,,0,1,8,rfnky8l0,,,,,,0
+1,ef5i9fs5,,0,1,203,Welcome,1,WelcomePage,130.225.121.206,2017-03-29 10:56:30.239835+00:00,0,1,,,0,1,U,A,red,,,,,,0,1,9,rfnky8l0,,,,,,0
+2,fbe8gncp,,0,0,203,,,,,,0,0,,,0,2,B,A,black,,,,,,0,1,9,rfnky8l0,,,,,,0
+1,ef5i9fs5,,0,1,203,Welcome,1,WelcomePage,130.225.121.206,2017-03-29 10:56:30.239835+00:00,0,1,,,0,1,U,A,blue,,,,,,0,1,10,rfnky8l0,,,,,,0
+2,fbe8gncp,,0,0,203,,,,,,0,0,,,0,2,B,A,black,,,,,,0,1,10,rfnky8l0,,,,,,0
+1,oost37fq,Robin,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-29 11:06:26.005326+00:00,0,1,,,56,4,S,A,black,,,,I don't know,,0,1,1,bwgrhsm2,,,,,,0
+2,lelqm5t0,Mikkel,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-29 11:06:26.057328+00:00,0,1,,,19,2,B,A,red,,A,,,,1,1,1,bwgrhsm2,,,,,,0
+3,2spw00hb,elena,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-29 11:06:26.454884+00:00,0,1,,,129,3,D,A,red,,,A,,,1,1,1,bwgrhsm2,,,,,,0
+4,bq15vbye,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-29 11:06:26.287905+00:00,0,1,,,29,1,U,A,red,A,,,,,1,1,1,bwgrhsm2,,,,,,0
+1,oost37fq,Robin,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-29 11:06:26.005326+00:00,0,1,,,56,1,U,A,blue,B,,,,,-1,1,2,bwgrhsm2,,,,,,0
+2,lelqm5t0,Mikkel,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-29 11:06:26.057328+00:00,0,1,,,19,4,S,A,red,,,,A,,1,1,2,bwgrhsm2,,,,,,0
+3,2spw00hb,elena,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-29 11:06:26.454884+00:00,0,1,,,129,3,D,A,red,,,A,,,1,1,2,bwgrhsm2,,,,,,0
+4,bq15vbye,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-29 11:06:26.287905+00:00,0,1,,,29,2,B,A,red,,A,,,,1,1,2,bwgrhsm2,,,,,,0
+1,oost37fq,Robin,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-29 11:06:26.005326+00:00,0,1,,,56,2,B,A,black,,A,,,,1,1,3,bwgrhsm2,,,,,,0
+2,lelqm5t0,Mikkel,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-29 11:06:26.057328+00:00,0,1,,,19,3,D,A,red,,,A,,,1,1,3,bwgrhsm2,,,,,,0
+3,2spw00hb,elena,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-29 11:06:26.454884+00:00,0,1,,,129,1,U,A,red,A,,,,,1,1,3,bwgrhsm2,,,,,,0
+4,bq15vbye,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-29 11:06:26.287905+00:00,0,1,,,29,4,S,A,red,,,,I don't know,,0,1,3,bwgrhsm2,,,,,,0
+1,oost37fq,Robin,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-29 11:06:26.005326+00:00,0,1,,,56,3,D,A,red,,,A,,,1,1,4,bwgrhsm2,,,,,,0
+2,lelqm5t0,Mikkel,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-29 11:06:26.057328+00:00,0,1,,,19,2,B,A,black,,A,,,,1,1,4,bwgrhsm2,,,,,,0
+3,2spw00hb,elena,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-29 11:06:26.454884+00:00,0,1,,,129,4,S,A,blue,,,,A,,1,1,4,bwgrhsm2,,,,,,0
+4,bq15vbye,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-29 11:06:26.287905+00:00,0,1,,,29,1,U,A,red,A,,,,,1,1,4,bwgrhsm2,,,,,,0
+1,oost37fq,Robin,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-29 11:06:26.005326+00:00,0,1,,,56,1,U,A,red,A,,,,,1,1,5,bwgrhsm2,,,,,,0
+2,lelqm5t0,Mikkel,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-29 11:06:26.057328+00:00,0,1,,,19,3,D,A,blue,,,A,,,1,1,5,bwgrhsm2,,,,,,0
+3,2spw00hb,elena,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-29 11:06:26.454884+00:00,0,1,,,129,4,S,A,black,,,,A,,1,1,5,bwgrhsm2,,,,,,0
+4,bq15vbye,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-29 11:06:26.287905+00:00,0,1,,,29,2,B,A,red,,A,,,,1,1,5,bwgrhsm2,,,,,,0
+1,oost37fq,Robin,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-29 11:06:26.005326+00:00,0,1,,,56,1,U,A,blue,A,,,,,1,1,6,bwgrhsm2,,,,,,0
+2,lelqm5t0,Mikkel,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-29 11:06:26.057328+00:00,0,1,,,19,2,B,A,red,,A,,,,1,1,6,bwgrhsm2,,,,,,0
+3,2spw00hb,elena,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-29 11:06:26.454884+00:00,0,1,,,129,4,S,A,red,,,,A,,1,1,6,bwgrhsm2,,,,,,0
+4,bq15vbye,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-29 11:06:26.287905+00:00,0,1,,,29,3,D,A,red,,,A,,,1,1,6,bwgrhsm2,,,,,,0
+1,oost37fq,Robin,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-29 11:06:26.005326+00:00,0,1,,,56,2,B,A,black,,A,,,,1,1,7,bwgrhsm2,,,,,,0
+2,lelqm5t0,Mikkel,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-29 11:06:26.057328+00:00,0,1,,,19,1,U,A,red,A,,,,,1,1,7,bwgrhsm2,,,,,,0
+3,2spw00hb,elena,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-29 11:06:26.454884+00:00,0,1,,,129,3,D,A,blue,,,B,,,-1,1,7,bwgrhsm2,,,,,,0
+4,bq15vbye,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-29 11:06:26.287905+00:00,0,1,,,29,4,S,A,black,,,,A,,1,1,7,bwgrhsm2,,,,,,0
+1,oost37fq,Robin,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-29 11:06:26.005326+00:00,0,1,,,56,1,U,A,red,A,,,,,1,1,8,bwgrhsm2,,,,,,0
+2,lelqm5t0,Mikkel,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-29 11:06:26.057328+00:00,0,1,,,19,3,D,A,blue,,,A,,,1,1,8,bwgrhsm2,,,,,,0
+3,2spw00hb,elena,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-29 11:06:26.454884+00:00,0,1,,,129,2,B,A,black,,A,,,,1,1,8,bwgrhsm2,,,,,,0
+4,bq15vbye,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-29 11:06:26.287905+00:00,0,1,,,29,4,S,A,red,,,,A,,1,1,8,bwgrhsm2,,,,,,0
+1,oost37fq,Robin,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-29 11:06:26.005326+00:00,0,1,,,56,3,D,A,red,,,A,,,1,1,9,bwgrhsm2,,,,,,0
+2,lelqm5t0,Mikkel,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-29 11:06:26.057328+00:00,0,1,,,19,4,S,A,black,,,,A,,1,1,9,bwgrhsm2,,,,,,0
+3,2spw00hb,elena,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-29 11:06:26.454884+00:00,0,1,,,129,2,B,A,red,,A,,,,1,1,9,bwgrhsm2,,,,,,0
+4,bq15vbye,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-29 11:06:26.287905+00:00,0,1,,,29,1,U,A,blue,A,,,,,1,1,9,bwgrhsm2,,,,,,0
+1,oost37fq,Robin,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-29 11:06:26.005326+00:00,0,1,,,56,1,U,A,red,A,,,,Bayesian,1,1,10,bwgrhsm2,,,,,,0
+2,lelqm5t0,Mikkel,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-29 11:06:26.057328+00:00,0,1,,,19,4,S,A,red,,,,A,"Went for the majority guess, even if my own private information contradicted it.",1,1,10,bwgrhsm2,,,,,,0
+3,2spw00hb,elena,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-29 11:06:26.454884+00:00,0,1,,,129,2,B,A,black,,A,,,baysian,1,1,10,bwgrhsm2,,,,,,0
+4,bq15vbye,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-29 11:06:26.287905+00:00,0,1,,,29,3,D,A,red,,,A,,follow the others: it was always the winning strategy so far,1,1,10,bwgrhsm2,,,,,,0

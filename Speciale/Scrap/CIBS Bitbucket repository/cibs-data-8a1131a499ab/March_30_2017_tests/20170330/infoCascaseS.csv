@@ -1,0 +1,22 @@
+,SA,SA,SA,SB,SA
+0,I don't know,I don't know,I don't know,B,A
+1,A,A,A,B,I don't know
+2,B,I don't know,I don't know,B,I don't know
+3,A,A,I don't know,B,I don't know
+4,A,A,A,B,A
+5,A,A,A,B,I don't know
+6,A,A,A,I don't know,A
+7,A,A,I don't know,I don't know,B
+8,A,A,A,B,B
+9,A,A,A,B,I don't know
+,Urn A,Urn A,Urn A,Urn B,Urn A
+0,black,black,black,blue,red
+1,red,red,red,blue,black
+2,black,red,red,blue,red
+3,red,blue,red,red,blue
+4,red,black,red,blue,red
+5,red,red,red,blue,red
+6,black,black,red,red,black
+7,red,red,red,blue,black
+8,blue,black,black,red,black
+9,red,red,red,black,black

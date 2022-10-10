@@ -1,0 +1,20 @@
+,task,mturker,method,views,session,code,id,order,hist,guess,bonus,dots
+3,ox,A5H7DAMCUM9WF,history,3,j0ssl2ul,v04kbkdf,4,1,[],256.279645091247,0.0,1233
+12,ox,A2D6VL5XE0O4D3,history,3,j0ssl2ul,1whl3c9x,13,2,[4],362.873833757518,0.0,1233
+11,ox,ALTMSSCYKZS8Z,history,3,j0ssl2ul,6f5lapb2,12,3,"[4, 13]",340.194219147673,0.0,1233
+13,ox,A1B2V27QSGPT6W,history,3,j0ssl2ul,jizcadj4,14,4,"[4, 13, 12]",512.559290182494,0.0,1233
+14,ox,ABVLH4KP7DKNV,history,3,j0ssl2ul,dvego90y,15,5,"[13, 12, 14]",340.194219147673,0.0,1233
+19,ox,A2KI7W45F6HRVY,history,3,j0ssl2ul,itiemld7,20,6,"[12, 14, 15]",512.559290182494,0.0,1233
+16,ox,A11BLQKVW1951L,history,3,j0ssl2ul,xqszkzhw,17,7,"[14, 15, 20]",385.553448367363,0.0,1233
+21,ox,A90NKJUJ7HTEQ,history,3,j0ssl2ul,gsjsizjd,22,8,"[15, 20, 17]",975.0,0.0,1233
+24,ox,AT3CZ2VR5A5U1,history,3,j0ssl2ul,vvetz247,25,9,"[20, 17, 22]",589.6699798559661,0.0,1233
+44,ox,A23T45LD2D70DN,history,3,j0ssl2ul,indw5sjn,45,11,"[22, 25, 60]",816.466125954415,0.0,1233
+64,ox,A2VM2EU6AHX5IC,history,3,j0ssl2ul,4cmsrk4q,65,12,"[25, 60, 45]",997.903042833174,0.0,1233
+54,ox,AZAPOAN6T6QFW,history,3,j0ssl2ul,td4xi0y9,55,13,"[60, 45, 65]",997.9,0.0,1233
+55,ox,AQFCUJXQPQWZJ,history,3,j0ssl2ul,rp4exmbq,56,14,"[45, 65, 55]",997.9,0.0,1233
+57,ox,ABN6GDFW4N8AK,history,3,j0ssl2ul,6pvp90tl,58,15,"[65, 55, 56]",1111.3011158824002,1.0,1233
+60,ox,A1TBL7E87DYE6J,history,3,j0ssl2ul,5do9fsz1,61,16,"[55, 56, 58]",997.9,0.0,1233
+62,ox,AVM4EPVEXE306,history,3,j0ssl2ul,urickhm5,63,17,"[56, 58, 61]",1800.0,0.0,1233
+61,ox,A1RK5KQQ320OH4,history,3,j0ssl2ul,uq7fqrf1,62,18,"[58, 61, 63]",1500.0,0.0,1233
+65,ox,A37Y1OJCIRM3TG,history,3,j0ssl2ul,idqhik7e,66,19,"[61, 63, 62]",1499.9843510659198,0.0,1233
+68,ox,A4LCG4MSNJRUF,history,3,j0ssl2ul,5cg4ppby,69,20,"[63, 62, 66]",1499.9843510659198,0.0,1233

@@ -1,0 +1,121 @@
+participant.id_in_session,participant.code,participant.label,participant._is_bot,participant._index_in_pages,participant._max_page_index,participant._current_app_name,participant._round_number,participant._current_page_name,participant.ip_address,participant.time_started,participant.exclude_from_data_analysis,participant.visited,participant.mturk_worker_id,participant.mturk_assignment_id,participant.payoff,player.id_in_group,player.treatment,player.urn,player.current_ball,player.choice_U,player.choice_B,player.choice_D,player.choice_S,player.strategy_cascades,player.payoff,group.id_in_subsession,subsession.round_number,session.code,session.label,session.experimenter_name,session.mturk_HITId,session.mturk_HITGroupId,session.comment,session.is_demo
+1,1us56agy,CrippleKing,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.556581+00:00,0,1,,,40,11,D,A,red,,,A,,,1,1,1,2u553cnr,,,,,,0
+2,289meji8,Mikkel Vinther,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.575614+00:00,0,1,,,0,12,S,A,red,,,,A,,1,1,1,2u553cnr,,,,,,0
+3,yy48141u,Joachim,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.610344+00:00,0,1,,,-3,3,D,A,blue,,,B,,,-1,1,1,2u553cnr,,,,,,0
+4,1lv3nolh,Vincent,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.640583+00:00,0,1,,,16,5,U,B,blue,B,,,,,1,1,1,2u553cnr,,,,,,0
+5,antvp1ag,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.644737+00:00,0,1,,,33,4,S,A,black,,,,I don't know,,0,1,1,2u553cnr,,,,,,0
+6,5szm2yvs,Jan Lundorff Rasmussen,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.674260+00:00,0,1,,,20,8,S,B,blue,,,,B,,1,1,1,2u553cnr,,,,,,0
+7,7jwzi6st,HannaMontana99,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-30 11:14:46.683054+00:00,0,1,,,11,6,B,B,blue,,B,,,,1,1,1,2u553cnr,,,,,,0
+8,ss7qpfmj,Verdensmesther,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:46.790541+00:00,0,1,,,47,10,B,A,red,,A,,,,1,1,1,2u553cnr,,,,,,0
+9,lrgzgzi4,Leon,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.804394+00:00,0,1,,,13,2,B,A,black,,I don't know,,,,0,1,1,2u553cnr,,,,,,0
+10,xe1hgj5o,HumanPlayer2,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.917773+00:00,0,1,,,-44,1,U,A,red,A,,,,,1,1,1,2u553cnr,,,,,,0
+11,8ncdprow,Karsten,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-30 11:14:46.958634+00:00,0,1,,,7,9,U,A,red,A,,,,,1,1,1,2u553cnr,,,,,,0
+12,ie3x6qer,Laurs 🐼,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:47.193563+00:00,0,1,,,77,7,D,B,red,,,A,,,-1,1,1,2u553cnr,,,,,,0
+1,1us56agy,CrippleKing,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.556581+00:00,0,1,,,40,7,D,B,blue,,,B,,,1,1,2,2u553cnr,,,,,,0
+2,289meji8,Mikkel Vinther,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.575614+00:00,0,1,,,0,11,D,A,red,,,A,,,1,1,2,2u553cnr,,,,,,0
+3,yy48141u,Joachim,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.610344+00:00,0,1,,,-3,6,B,B,blue,,B,,,,1,1,2,2u553cnr,,,,,,0
+4,1lv3nolh,Vincent,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.640583+00:00,0,1,,,16,8,S,B,blue,,,,B,,1,1,2,2u553cnr,,,,,,0
+5,antvp1ag,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.644737+00:00,0,1,,,33,12,S,A,black,,,,I don't know,,0,1,2,2u553cnr,,,,,,0
+6,5szm2yvs,Jan Lundorff Rasmussen,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.674260+00:00,0,1,,,20,3,D,A,blue,,,B,,,-1,1,2,2u553cnr,,,,,,0
+7,7jwzi6st,HannaMontana99,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-30 11:14:46.683054+00:00,0,1,,,11,5,U,B,blue,B,,,,,1,1,2,2u553cnr,,,,,,0
+8,ss7qpfmj,Verdensmesther,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:46.790541+00:00,0,1,,,47,2,B,A,red,,A,,,,1,1,2,2u553cnr,,,,,,0
+9,lrgzgzi4,Leon,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.804394+00:00,0,1,,,13,4,S,A,red,,,,A,,1,1,2,2u553cnr,,,,,,0
+10,xe1hgj5o,HumanPlayer2,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.917773+00:00,0,1,,,-44,10,B,A,black,,I don't know,,,,0,1,2,2u553cnr,,,,,,0
+11,8ncdprow,Karsten,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-30 11:14:46.958634+00:00,0,1,,,7,1,U,A,red,A,,,,,1,1,2,2u553cnr,,,,,,0
+12,ie3x6qer,Laurs 🐼,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:47.193563+00:00,0,1,,,77,9,U,A,red,A,,,,,1,1,2,2u553cnr,,,,,,0
+1,1us56agy,CrippleKing,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.556581+00:00,0,1,,,40,6,B,B,red,,B,,,,1,1,3,2u553cnr,,,,,,0
+2,289meji8,Mikkel Vinther,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.575614+00:00,0,1,,,0,7,D,B,red,,,A,,,-1,1,3,2u553cnr,,,,,,0
+3,yy48141u,Joachim,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.610344+00:00,0,1,,,-3,1,U,A,blue,A,,,,,1,1,3,2u553cnr,,,,,,0
+4,1lv3nolh,Vincent,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.640583+00:00,0,1,,,16,11,D,A,red,,,A,,,1,1,3,2u553cnr,,,,,,0
+5,antvp1ag,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.644737+00:00,0,1,,,33,4,S,A,red,,,,I don't know,,0,1,3,2u553cnr,,,,,,0
+6,5szm2yvs,Jan Lundorff Rasmussen,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.674260+00:00,0,1,,,20,5,U,B,red,B,,,,,1,1,3,2u553cnr,,,,,,0
+7,7jwzi6st,HannaMontana99,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-30 11:14:46.683054+00:00,0,1,,,11,3,D,A,red,,,B,,,-1,1,3,2u553cnr,,,,,,0
+8,ss7qpfmj,Verdensmesther,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:46.790541+00:00,0,1,,,47,2,B,A,black,,I don't know,,,,0,1,3,2u553cnr,,,,,,0
+9,lrgzgzi4,Leon,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.804394+00:00,0,1,,,13,12,S,A,red,,,,I don't know,,0,1,3,2u553cnr,,,,,,0
+10,xe1hgj5o,HumanPlayer2,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.917773+00:00,0,1,,,-44,10,B,A,black,,A,,,,1,1,3,2u553cnr,,,,,,0
+11,8ncdprow,Karsten,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-30 11:14:46.958634+00:00,0,1,,,7,8,S,B,blue,,,,B,,1,1,3,2u553cnr,,,,,,0
+12,ie3x6qer,Laurs 🐼,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:47.193563+00:00,0,1,,,77,9,U,A,red,A,,,,,1,1,3,2u553cnr,,,,,,0
+1,1us56agy,CrippleKing,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.556581+00:00,0,1,,,40,2,B,A,blue,,I don't know,,,,0,1,4,2u553cnr,,,,,,0
+2,289meji8,Mikkel Vinther,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.575614+00:00,0,1,,,0,11,D,A,red,,,B,,,-1,1,4,2u553cnr,,,,,,0
+3,yy48141u,Joachim,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.610344+00:00,0,1,,,-3,6,B,B,blue,,B,,,,1,1,4,2u553cnr,,,,,,0
+4,1lv3nolh,Vincent,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.640583+00:00,0,1,,,16,4,S,A,red,,,,I don't know,,0,1,4,2u553cnr,,,,,,0
+5,antvp1ag,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.644737+00:00,0,1,,,33,8,S,B,red,,,,B,,1,1,4,2u553cnr,,,,,,0
+6,5szm2yvs,Jan Lundorff Rasmussen,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.674260+00:00,0,1,,,20,1,U,A,blue,B,,,,,-1,1,4,2u553cnr,,,,,,0
+7,7jwzi6st,HannaMontana99,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-30 11:14:46.683054+00:00,0,1,,,11,9,U,A,red,A,,,,,1,1,4,2u553cnr,,,,,,0
+8,ss7qpfmj,Verdensmesther,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:46.790541+00:00,0,1,,,47,5,U,B,blue,B,,,,,1,1,4,2u553cnr,,,,,,0
+9,lrgzgzi4,Leon,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.804394+00:00,0,1,,,13,3,D,A,red,,,B,,,-1,1,4,2u553cnr,,,,,,0
+10,xe1hgj5o,HumanPlayer2,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.917773+00:00,0,1,,,-44,10,B,A,red,,A,,,,1,1,4,2u553cnr,,,,,,0
+11,8ncdprow,Karsten,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-30 11:14:46.958634+00:00,0,1,,,7,7,D,B,blue,,,B,,,1,1,4,2u553cnr,,,,,,0
+12,ie3x6qer,Laurs 🐼,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:47.193563+00:00,0,1,,,77,12,S,A,blue,,,,I don't know,,0,1,4,2u553cnr,,,,,,0
+1,1us56agy,CrippleKing,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.556581+00:00,0,1,,,40,5,U,B,blue,B,,,,,1,1,5,2u553cnr,,,,,,0
+2,289meji8,Mikkel Vinther,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.575614+00:00,0,1,,,0,12,S,A,red,,,,A,,1,1,5,2u553cnr,,,,,,0
+3,yy48141u,Joachim,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.610344+00:00,0,1,,,-3,10,B,A,blue,,A,,,,1,1,5,2u553cnr,,,,,,0
+4,1lv3nolh,Vincent,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.640583+00:00,0,1,,,16,7,D,B,blue,,,A,,,-1,1,5,2u553cnr,,,,,,0
+5,antvp1ag,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.644737+00:00,0,1,,,33,9,U,A,blue,A,,,,,1,1,5,2u553cnr,,,,,,0
+6,5szm2yvs,Jan Lundorff Rasmussen,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.674260+00:00,0,1,,,20,3,D,A,blue,,,B,,,-1,1,5,2u553cnr,,,,,,0
+7,7jwzi6st,HannaMontana99,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-30 11:14:46.683054+00:00,0,1,,,11,8,S,B,blue,,,,B,,1,1,5,2u553cnr,,,,,,0
+8,ss7qpfmj,Verdensmesther,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:46.790541+00:00,0,1,,,47,4,S,A,red,,,,A,,1,1,5,2u553cnr,,,,,,0
+9,lrgzgzi4,Leon,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.804394+00:00,0,1,,,13,1,U,A,red,A,,,,,1,1,5,2u553cnr,,,,,,0
+10,xe1hgj5o,HumanPlayer2,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.917773+00:00,0,1,,,-44,2,B,A,red,,A,,,,1,1,5,2u553cnr,,,,,,0
+11,8ncdprow,Karsten,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-30 11:14:46.958634+00:00,0,1,,,7,11,D,A,red,,,A,,,1,1,5,2u553cnr,,,,,,0
+12,ie3x6qer,Laurs 🐼,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:47.193563+00:00,0,1,,,77,6,B,B,red,,A,,,,-1,1,5,2u553cnr,,,,,,0
+1,1us56agy,CrippleKing,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.556581+00:00,0,1,,,40,11,D,A,blue,,,A,,,1,1,6,2u553cnr,,,,,,0
+2,289meji8,Mikkel Vinther,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.575614+00:00,0,1,,,0,3,D,A,blue,,,B,,,-1,1,6,2u553cnr,,,,,,0
+3,yy48141u,Joachim,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.610344+00:00,0,1,,,-3,9,U,A,blue,B,,,,,-1,1,6,2u553cnr,,,,,,0
+4,1lv3nolh,Vincent,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.640583+00:00,0,1,,,16,8,S,B,blue,,,,B,,1,1,6,2u553cnr,,,,,,0
+5,antvp1ag,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.644737+00:00,0,1,,,33,5,U,B,blue,B,,,,,1,1,6,2u553cnr,,,,,,0
+6,5szm2yvs,Jan Lundorff Rasmussen,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.674260+00:00,0,1,,,20,1,U,A,red,A,,,,,1,1,6,2u553cnr,,,,,,0
+7,7jwzi6st,HannaMontana99,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-30 11:14:46.683054+00:00,0,1,,,11,4,S,A,red,,,,A,,1,1,6,2u553cnr,,,,,,0
+8,ss7qpfmj,Verdensmesther,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:46.790541+00:00,0,1,,,47,2,B,A,red,,A,,,,1,1,6,2u553cnr,,,,,,0
+9,lrgzgzi4,Leon,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.804394+00:00,0,1,,,13,12,S,A,red,,,,I don't know,,0,1,6,2u553cnr,,,,,,0
+10,xe1hgj5o,HumanPlayer2,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.917773+00:00,0,1,,,-44,7,D,B,blue,,,A,,,-1,1,6,2u553cnr,,,,,,0
+11,8ncdprow,Karsten,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-30 11:14:46.958634+00:00,0,1,,,7,10,B,A,black,,I don't know,,,,0,1,6,2u553cnr,,,,,,0
+12,ie3x6qer,Laurs 🐼,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:47.193563+00:00,0,1,,,77,6,B,B,blue,,B,,,,1,1,6,2u553cnr,,,,,,0
+1,1us56agy,CrippleKing,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.556581+00:00,0,1,,,40,1,U,A,red,A,,,,,1,1,7,2u553cnr,,,,,,0
+2,289meji8,Mikkel Vinther,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.575614+00:00,0,1,,,0,7,D,B,blue,,,A,,,-1,1,7,2u553cnr,,,,,,0
+3,yy48141u,Joachim,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.610344+00:00,0,1,,,-3,11,D,A,red,,,A,,,1,1,7,2u553cnr,,,,,,0
+4,1lv3nolh,Vincent,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.640583+00:00,0,1,,,16,3,D,A,red,,,B,,,-1,1,7,2u553cnr,,,,,,0
+5,antvp1ag,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.644737+00:00,0,1,,,33,12,S,A,black,,,,A,,1,1,7,2u553cnr,,,,,,0
+6,5szm2yvs,Jan Lundorff Rasmussen,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.674260+00:00,0,1,,,20,4,S,A,red,,,,A,,1,1,7,2u553cnr,,,,,,0
+7,7jwzi6st,HannaMontana99,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-30 11:14:46.683054+00:00,0,1,,,11,9,U,A,red,A,,,,,1,1,7,2u553cnr,,,,,,0
+8,ss7qpfmj,Verdensmesther,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:46.790541+00:00,0,1,,,47,10,B,A,blue,,I don't know,,,,0,1,7,2u553cnr,,,,,,0
+9,lrgzgzi4,Leon,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.804394+00:00,0,1,,,13,5,U,B,blue,B,,,,,1,1,7,2u553cnr,,,,,,0
+10,xe1hgj5o,HumanPlayer2,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.917773+00:00,0,1,,,-44,8,S,B,red,,,,I don't know,,0,1,7,2u553cnr,,,,,,0
+11,8ncdprow,Karsten,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-30 11:14:46.958634+00:00,0,1,,,7,2,B,A,blue,,I don't know,,,,0,1,7,2u553cnr,,,,,,0
+12,ie3x6qer,Laurs 🐼,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:47.193563+00:00,0,1,,,77,6,B,B,blue,,B,,,,1,1,7,2u553cnr,,,,,,0
+1,1us56agy,CrippleKing,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.556581+00:00,0,1,,,40,1,U,A,blue,A,,,,,1,1,8,2u553cnr,,,,,,0
+2,289meji8,Mikkel Vinther,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.575614+00:00,0,1,,,0,8,S,B,blue,,,,I don't know,,0,1,8,2u553cnr,,,,,,0
+3,yy48141u,Joachim,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.610344+00:00,0,1,,,-3,6,B,B,red,,B,,,,1,1,8,2u553cnr,,,,,,0
+4,1lv3nolh,Vincent,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.640583+00:00,0,1,,,16,9,U,A,red,A,,,,,1,1,8,2u553cnr,,,,,,0
+5,antvp1ag,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.644737+00:00,0,1,,,33,11,D,A,blue,,,A,,,1,1,8,2u553cnr,,,,,,0
+6,5szm2yvs,Jan Lundorff Rasmussen,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.674260+00:00,0,1,,,20,10,B,A,red,,A,,,,1,1,8,2u553cnr,,,,,,0
+7,7jwzi6st,HannaMontana99,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-30 11:14:46.683054+00:00,0,1,,,11,3,D,A,red,,,B,,,-1,1,8,2u553cnr,,,,,,0
+8,ss7qpfmj,Verdensmesther,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:46.790541+00:00,0,1,,,47,4,S,A,red,,,,I don't know,,0,1,8,2u553cnr,,,,,,0
+9,lrgzgzi4,Leon,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.804394+00:00,0,1,,,13,12,S,A,black,,,,B,,-1,1,8,2u553cnr,,,,,,0
+10,xe1hgj5o,HumanPlayer2,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.917773+00:00,0,1,,,-44,2,B,A,red,,A,,,,1,1,8,2u553cnr,,,,,,0
+11,8ncdprow,Karsten,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-30 11:14:46.958634+00:00,0,1,,,7,7,D,B,blue,,,B,,,1,1,8,2u553cnr,,,,,,0
+12,ie3x6qer,Laurs 🐼,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:47.193563+00:00,0,1,,,77,5,U,B,blue,B,,,,,1,1,8,2u553cnr,,,,,,0
+1,1us56agy,CrippleKing,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.556581+00:00,0,1,,,40,8,S,B,red,,,,B,,1,1,9,2u553cnr,,,,,,0
+2,289meji8,Mikkel Vinther,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.575614+00:00,0,1,,,0,2,B,A,red,,A,,,,1,1,9,2u553cnr,,,,,,0
+3,yy48141u,Joachim,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.610344+00:00,0,1,,,-3,9,U,A,blue,A,,,,,1,1,9,2u553cnr,,,,,,0
+4,1lv3nolh,Vincent,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.640583+00:00,0,1,,,16,11,D,A,red,,,A,,,1,1,9,2u553cnr,,,,,,0
+5,antvp1ag,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.644737+00:00,0,1,,,33,4,S,A,black,,,,A,,1,1,9,2u553cnr,,,,,,0
+6,5szm2yvs,Jan Lundorff Rasmussen,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.674260+00:00,0,1,,,20,6,B,B,blue,,B,,,,1,1,9,2u553cnr,,,,,,0
+7,7jwzi6st,HannaMontana99,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-30 11:14:46.683054+00:00,0,1,,,11,5,U,B,blue,B,,,,,1,1,9,2u553cnr,,,,,,0
+8,ss7qpfmj,Verdensmesther,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:46.790541+00:00,0,1,,,47,10,B,A,black,,A,,,,1,1,9,2u553cnr,,,,,,0
+9,lrgzgzi4,Leon,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.804394+00:00,0,1,,,13,12,S,A,black,,,,B,,-1,1,9,2u553cnr,,,,,,0
+10,xe1hgj5o,HumanPlayer2,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.917773+00:00,0,1,,,-44,7,D,B,red,,,A,,,-1,1,9,2u553cnr,,,,,,0
+11,8ncdprow,Karsten,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-30 11:14:46.958634+00:00,0,1,,,7,3,D,A,red,,,A,,,1,1,9,2u553cnr,,,,,,0
+12,ie3x6qer,Laurs 🐼,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:47.193563+00:00,0,1,,,77,1,U,A,red,A,,,,,1,1,9,2u553cnr,,,,,,0
+1,1us56agy,CrippleKing,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.556581+00:00,0,1,,,40,11,D,A,blue,,,A,,To consider the other players rational and take their signals as representative for their information and thus follow the herd if its aggravated signals are stronger than mine private one,1,1,10,2u553cnr,,,,,,0
+2,289meji8,Mikkel Vinther,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.575614+00:00,0,1,,,0,4,S,A,red,,,,A,Rational. But throughout I thought about patterns in how we make decisions. ,1,1,10,2u553cnr,,,,,,0
+3,yy48141u,Joachim,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.610344+00:00,0,1,,,-3,12,S,A,black,,,,I don't know,"Was looking at the public signal, and tried to calculate whether there might have been information cascades. The one game - where I thought there might have been such a cascade - I those the irrational thing, and was wrong.",0,1,10,2u553cnr,,,,,,0
+4,1lv3nolh,Vincent,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.640583+00:00,0,1,,,16,6,B,B,blue,,B,,,"Follow the majority, always. If majority is split between (up to three) options, choose randomly among these randomly.",1,1,10,2u553cnr,,,,,,0
+5,antvp1ag,Paolo,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.644737+00:00,0,1,,,33,5,U,B,red,B,,,,'follow the cascade' was always the winning strategy,1,1,10,2u553cnr,,,,,,0
+6,5szm2yvs,Jan Lundorff Rasmussen,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.674260+00:00,0,1,,,20,2,B,A,red,,A,,,Probabilites,1,1,10,2u553cnr,,,,,,0
+7,7jwzi6st,HannaMontana99,0,203,203,payment_info,1,PaymentInfo,130.225.121.205,2017-03-30 11:14:46.683054+00:00,0,1,,,11,7,D,B,blue,,,B,,"Bayesian rationality and assuming most of the others do the same. I checked which signals are informative (the first two in case of a cascade; in case the cascade is broken also the signal that breaks it and the one(s) after), plus my own signal = my choice. That means that I assumed people who broke the cascade are not choosing randomly, but let their private signal weigh more than a bayesian agent would. This way their signal became valuable to me.",1,1,10,2u553cnr,,,,,,0
+8,ss7qpfmj,Verdensmesther,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:46.790541+00:00,0,1,,,47,1,U,A,red,A,,,,I tried to answer what was the most probable scenario,1,1,10,2u553cnr,,,,,,0
+9,lrgzgzi4,Leon,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.804394+00:00,0,1,,,13,10,B,A,red,,A,,,Comparing the information from the background stories with choices made by the other players.    Except in the case with nato were I abstained 2 times but then judged it a Russian operation because I think that was the information got 3 times I a raw from me informant.,1,1,10,2u553cnr,,,,,,0
+10,xe1hgj5o,HumanPlayer2,0,203,203,payment_info,1,PaymentInfo,130.225.121.196,2017-03-30 11:14:46.917773+00:00,0,1,,,-44,3,D,A,red,,,B,,"These are not strategic games, so I just treated them as decision problems. To obtain make my decision, I attempted to maximize my information. To do so, I assumed that everybody else was doing the same, and that we all completed all higher-order reasoning. This lead to a choice in all cases, except for the last, where I needed to break a tie. In that case, I thought that the chance that somebody before me had ignored available information and gone with their private signal was more likely than that somebody had reasoned wrong an opposed their private signal.",-1,1,10,2u553cnr,,,,,,0
+11,8ncdprow,Karsten,0,203,203,payment_info,1,PaymentInfo,130.225.121.206,2017-03-30 11:14:46.958634+00:00,0,1,,,7,8,S,B,black,,,,B,"In physician game I relied on matching my own diagnosis with the treatment ( since p=.66) regardless of what others did.     In submarine game I relied primarily on Defense Ministry source (since p=.66), and if that was not present, then I followed the majority of other newspapers.    In urn game I chose 'don't know' in each game, since I couldn't figure out a reliable calculation of probability on basis of the available information.  ",1,1,10,2u553cnr,,,,,,0
+12,ie3x6qer,Laurs 🐼,0,203,203,payment_info,1,PaymentInfo,130.225.121.207,2017-03-30 11:14:47.193563+00:00,0,1,,,77,9,U,A,blue,A,,,,Well Bayesisn learning in the games with the urns. Common sense with the newspaper case.,1,1,10,2u553cnr,,,,,,0

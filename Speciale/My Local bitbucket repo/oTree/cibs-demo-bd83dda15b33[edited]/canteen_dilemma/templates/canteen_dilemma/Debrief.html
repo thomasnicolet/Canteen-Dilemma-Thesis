@@ -1,0 +1,29 @@
+{% extends "global/Base.html" %}
+{% load otree %}
+
+{% block title %}Thank you for participating in the Canteen Dilemma{% endblock %}
+{% block content %}
+<div>
+    <p>
+        The Canteen Dilemma intends to show what happens when people try to coordinate their actions
+        without common knowledge. 'Common knowledge', as defined in the research literature,
+        is much more than simply saying that something is known by all.
+        It also implies that the fact that it is known is also known by all, a sort of agreement to the infinite degree.
+    </p>
+    <p>
+        Even if your colleague knows your arrival time (+/- 5 minutes), it still is unclear what you
+        know she knows about what you know about what she knows about your arrival time. She might
+        arrive at 8:40 and know that you cannot arrive any later than 8:45. But if this is the case,
+        you might think she arrived at 8:50, making her think that you arrived at 8:55, making you
+        think that she arrived at 9:00. Bam!
+    </p>
+    <p>
+        Thus, Common Knowledge - in its ultimate sense - implies not only that people know some piece of information,
+        but also that you can be absolutely confident that everybody knows that everybody know it, and so on.
+        The canteen dilemma shows that without Common Knowledge you
+        must eventually conclude that you never can meet in the canteen! At least if you do not
+        want to risk losing any hard earned bonuses.
+    </p>
+</div>
+{% next_button %}
+{% endblock %}

@@ -1,0 +1,49 @@
+{% load otree_tags staticfiles %}
+
+<div class="instructions well well-lg">
+
+    <p>
+        You will be playing this game with another person pretending to be your colleague. The game lasts for a maximum of {{ Constants.num_rounds }} rounds.
+    </p>
+    <p>
+        Every morning you arrive at work between 8:30 am and 9:10 am.
+        Your colleague will arrive either 5 minutes before, at the same
+        time as you, or 5 minutes after.
+        Example: You arrive at <strong>8:47 am</strong>.
+        Your colleague can arrive at <strong>8:42 am</strong>,
+        <strong>8:47 am</strong>, or <strong>8:52 am</strong>.
+    </p>
+    <p>
+        If you arrive before 9:00 am, you have time to go to the canteen
+        for a cup of coffee.
+        If you arrive at or after 9:00 am, you have to go straight to your office.
+        You should only go to the canteen if your colleague also does. As you will only find out where your colleague went <strong>after</strong>
+        you've made your own choice, you will have to try guess what your colleague is going to do.
+    </p>
+    <p>
+        At the beginning of each round you will see your own arrival time and you will then have to decide whether to go to the canteen or to your office.
+    <p>
+        <strong>Scoring:</strong>
+    </p>
+    <ul>
+        <li>
+            Each round your bonus are calculated as follows:
+            <ul>
+                <li>
+                    If both of you go to the canteen before 9:00 am, you get <strong>{{ Constants.win_canteen|c }}</strong>.
+                </li>
+                <li>
+                    If both of you go to your offices, you get <strong>{{ Constants.win_office|c }}</strong>, no matter what time it is.
+                </li>
+            </ul>
+        </li>
+        <li>
+            You will lose the game and all of your bonuses if:
+            <ul>
+                <li>One of you goes to the canteen while the other goes to their office.</li>
+                <li>If one (or both) of you goes to the canteen at 9:00 am or later.</li>
+            </ul>
+        </li>
+    </ul>
+    </p>
+</div>

@@ -1,0 +1,56 @@
+{% extends "global/Base.html" %}
+{% load staticfiles otree_tags %}
+
+{% block title %}
+    Results (after round {{ subsession.round_number }})
+{% endblock %}
+
+{% block content %}
+
+    <table class="table">
+        <thead>
+            <td>Round</td>
+            <td>You went to the</td>
+            <td>at</td>
+            <td>Your colleague went to the</td>
+            <td>at</td>
+            <td>Bonus</td>
+        </thead>
+        <tbody>
+            {% for p in player_in_all_rounds %}
+            <tr>
+                <td>{{ p.round_number }}</td>
+                <td>{{ p.choice }}</td>
+                <td>{{ p.arrival_time|floatformat:"2" }}</td>
+                <td>{{ p.get_partner.choice }}</td>
+                <td>{{ p.get_partner.arrival_time|floatformat:"2" }}</td>
+                <td>{{ p.payoff }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    {% if lost == True %}
+        <p>
+            {% if too_late == True and player.choice == 'Canteen' %}
+                It was too late to go to the canteen!
+            {% else %}
+                You went to the {{ player.choice|lower }} while your colleague did not.
+            {% endif %}
+        </p>
+    {% else %}
+        <p>
+            You both chose to go to the {{ player.choice|lower }}. Good work!
+        </p>
+    {% endif %}
+
+    <p>
+        Your total bonus is <strong>{{ payoff_in_this_phase }}</strong>.
+    </p>
+    <P>
+        {% if subsession.round_number == Constants.num_rounds %}
+          Thank you for your participation.
+        {% endif %}
+    </p>
+    {% next_button %}
+{% endblock %}

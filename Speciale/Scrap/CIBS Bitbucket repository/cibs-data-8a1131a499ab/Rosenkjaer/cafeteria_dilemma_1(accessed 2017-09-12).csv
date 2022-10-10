@@ -1,0 +1,241 @@
+participant.id_in_session,participant.code,participant.label,participant._is_bot,participant._index_in_pages,participant._max_page_index,participant._current_app_name,participant._round_number,participant._current_page_name,participant.ip_address,participant.time_started,participant.exclude_from_data_analysis,participant.visited,participant.mturk_worker_id,participant.mturk_assignment_id,participant.payoff,player.id_in_group,player.arrival_time,player.choice,player.strategy_cafeteria_dilemma,player.common_knowledge,player.certainty,player.payoff,group.id_in_subsession,group.payoff,group.game_lost,subsession.round_number,session.code,session.label,session.experimenter_name,session.mturk_HITId,session.mturk_HITGroupId,session.comment,session.is_demo
+1,d6ujywie,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.337510+00:00,0,1,,,7.00,2,9.05,Office,,,,0.50,2,,0,1,ehxbbce7,,,,,,0
+2,hu128lf4,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.369848+00:00,0,1,,,7.00,1,9.0,Office,,,,0.50,2,,0,1,ehxbbce7,,,,,,0
+3,7nhv7537,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.387877+00:00,0,1,,,3.00,1,8.46,Cafeteria,,,,1.00,3,,0,1,ehxbbce7,,,,,,0
+4,61m98z3b,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.407475+00:00,0,1,,,3.00,2,8.41,Cafeteria,,,Almost certain,1.00,3,,0,1,ehxbbce7,,,,,,0
+5,qwy8cd6i,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.452467+00:00,0,1,,,16.00,2,8.34,Cafeteria,,,,1.00,4,,0,1,ehxbbce7,,,,,,0
+6,gf76e34p,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.444565+00:00,0,1,,,16.00,1,8.39,Cafeteria,,,,1.00,4,,0,1,ehxbbce7,,,,,,0
+7,1l62vonb,,0,270,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.512918+00:00,0,1,,,22.00,2,8.44,Cafeteria,,,,1.00,5,,0,1,ehxbbce7,,,,,,0
+8,uvcw46t8,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.489988+00:00,0,1,,,22.00,1,8.44,Cafeteria,,,,1.00,5,,0,1,ehxbbce7,,,,,,0
+9,tv3nj3qk,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.510125+00:00,0,1,,,23.50,1,8.47,Cafeteria,,,,1.00,8,,0,1,ehxbbce7,,,,,,0
+10,he97xswo,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.555228+00:00,0,1,,,24.00,1,8.38,Cafeteria,,,,1.00,6,,0,1,ehxbbce7,,,,,,0
+11,ax7f0hgg,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.572256+00:00,0,1,,,15.50,1,8.4,Office,,,,-2.00,7,,0,1,ehxbbce7,,,,,,0
+12,12jy6dzh,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.642238+00:00,0,1,,,20.00,2,8.42,Cafeteria,,,,1.00,8,,0,1,ehxbbce7,,,,,,0
+13,g6h41we7,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.578647+00:00,0,1,,,16.00,2,8.38,Cafeteria,,,,1.00,6,,0,1,ehxbbce7,,,,,,0
+14,az3wum3f,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.592378+00:00,0,1,,,11.00,2,8.35,Cafeteria,,,,-2.00,7,,0,1,ehxbbce7,,,,,,0
+15,mae5qjwo,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.814153+00:00,0,1,,,18.00,1,8.45,Cafeteria,,,,1.00,9,,0,1,ehxbbce7,,,,,,0
+16,vgrx5e93,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.709511+00:00,0,1,,,22.50,1,8.41,Cafeteria,,,,1.00,11,,0,1,ehxbbce7,,,,,,0
+17,rpwcb2b4,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.916935+00:00,0,1,,,6.50,2,8.5,Cafeteria,,,,1.00,9,,0,1,ehxbbce7,,,,,,0
+18,xkeg6nkv,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.259884+00:00,0,1,,,8.00,1,9.02,Office,,,,0.50,10,,0,1,ehxbbce7,,,,,,0
+19,n6csdstt,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.731742+00:00,0,1,,,8.50,2,9.02,Office,,,,0.50,10,,0,1,ehxbbce7,,,,,,0
+20,1z76k9lp,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.396511+00:00,0,1,,,11.50,2,8.36,Cafeteria,,,,1.00,11,,0,1,ehxbbce7,,,,,,0
+21,vqmn020s,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.866459+00:00,0,1,,,21.00,1,8.38,Cafeteria,,,100% certain,1.00,13,,0,1,ehxbbce7,,,,,,0
+22,k2manxwb,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.733201+00:00,0,1,,,21.00,1,8.44,Cafeteria,,,,1.00,12,,0,1,ehxbbce7,,,,,,0
+23,cwdt9ccs,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:22.399343+00:00,0,1,,,10.50,2,8.33,Cafeteria,,,,1.00,13,,0,1,ehxbbce7,,,,,,0
+24,lvfwyrpg,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.908480+00:00,0,1,,,10.50,2,8.49,Cafeteria,,,,1.00,12,,0,1,ehxbbce7,,,,,,0
+1,d6ujywie,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.337510+00:00,0,1,,,7.00,2,8.58,Office,,,,0.50,2,,0,2,ehxbbce7,,,,,,0
+2,hu128lf4,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.369848+00:00,0,1,,,7.00,1,8.58,Office,,,,0.50,2,,0,2,ehxbbce7,,,,,,0
+3,7nhv7537,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.387877+00:00,0,1,,,3.00,1,9.0,Office,,,,0.50,3,,0,2,ehxbbce7,,,,,,0
+4,61m98z3b,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.407475+00:00,0,1,,,3.00,2,9.05,Office,,,,0.50,3,,0,2,ehxbbce7,,,,,,0
+5,qwy8cd6i,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.452467+00:00,0,1,,,16.00,2,8.41,Cafeteria,,,,1.00,4,,0,2,ehxbbce7,,,,,,0
+6,gf76e34p,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.444565+00:00,0,1,,,16.00,1,8.36,Cafeteria,,,,1.00,4,,0,2,ehxbbce7,,,,,,0
+7,1l62vonb,,0,270,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.512918+00:00,0,1,,,22.00,2,8.5,Cafeteria,,,,1.00,5,,0,2,ehxbbce7,,,,,,0
+8,uvcw46t8,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.489988+00:00,0,1,,,22.00,1,8.5,Cafeteria,,,,1.00,5,,0,2,ehxbbce7,,,,,,0
+9,tv3nj3qk,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.510125+00:00,0,1,,,23.50,1,8.41,Cafeteria,,,,1.00,8,,0,2,ehxbbce7,,,,,,0
+10,he97xswo,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.555228+00:00,0,1,,,24.00,1,8.42,Cafeteria,,,,1.00,6,,0,2,ehxbbce7,,,,,,0
+11,ax7f0hgg,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.572256+00:00,0,1,,,15.50,1,9.05,Office,,,,0.50,7,,0,2,ehxbbce7,,,,,,0
+12,12jy6dzh,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.642238+00:00,0,1,,,20.00,2,8.46,Cafeteria,,,,1.00,8,,0,2,ehxbbce7,,,,,,0
+13,g6h41we7,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.578647+00:00,0,1,,,16.00,2,8.47,Cafeteria,,,,1.00,6,,0,2,ehxbbce7,,,,,,0
+14,az3wum3f,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.592378+00:00,0,1,,,11.00,2,9.05,Office,,,,0.50,7,,0,2,ehxbbce7,,,,,,0
+15,mae5qjwo,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.814153+00:00,0,1,,,18.00,1,8.44,Cafeteria,,,,-2.00,9,,0,2,ehxbbce7,,,,,,0
+16,vgrx5e93,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.709511+00:00,0,1,,,22.50,1,8.42,Cafeteria,,,,1.00,11,,0,2,ehxbbce7,,,,,,0
+17,rpwcb2b4,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.916935+00:00,0,1,,,6.50,2,8.44,Office,,,,-2.00,9,,0,2,ehxbbce7,,,,,,0
+18,xkeg6nkv,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.259884+00:00,0,1,,,8.00,1,8.53,Cafeteria,,,,1.00,10,,0,2,ehxbbce7,,,,,,0
+19,n6csdstt,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.731742+00:00,0,1,,,8.50,2,8.53,Cafeteria,,,,1.00,10,,0,2,ehxbbce7,,,,,,0
+20,1z76k9lp,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.396511+00:00,0,1,,,11.50,2,8.37,Cafeteria,,,,1.00,11,,0,2,ehxbbce7,,,,,,0
+21,vqmn020s,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.866459+00:00,0,1,,,21.00,1,8.47,Cafeteria,,,,-2.00,13,,0,2,ehxbbce7,,,,,,0
+22,k2manxwb,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.733201+00:00,0,1,,,21.00,1,8.52,Cafeteria,,,,-2.00,12,,0,2,ehxbbce7,,,,,,0
+23,cwdt9ccs,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:22.399343+00:00,0,1,,,10.50,2,8.52,Office,,,,-2.00,13,,0,2,ehxbbce7,,,,,,0
+24,lvfwyrpg,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.908480+00:00,0,1,,,10.50,2,8.52,Office,,,,-2.00,12,,0,2,ehxbbce7,,,,,,0
+1,d6ujywie,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.337510+00:00,0,1,,,7.00,2,8.37,Cafeteria,,,,1.00,2,,0,3,ehxbbce7,,,,,,0
+2,hu128lf4,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.369848+00:00,0,1,,,7.00,1,8.37,Cafeteria,,,,1.00,2,,0,3,ehxbbce7,,,,,,0
+3,7nhv7537,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.387877+00:00,0,1,,,3.00,1,8.59,Cafeteria,,,,-2.00,3,,0,3,ehxbbce7,,,,,,0
+4,61m98z3b,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.407475+00:00,0,1,,,3.00,2,8.59,Office,,,,-2.00,3,,0,3,ehxbbce7,,,,,,0
+5,qwy8cd6i,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.452467+00:00,0,1,,,16.00,2,8.56,Cafeteria,,,,1.00,4,,0,3,ehxbbce7,,,,,,0
+6,gf76e34p,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.444565+00:00,0,1,,,16.00,1,8.51,Cafeteria,,,,1.00,4,,0,3,ehxbbce7,,,,,,0
+7,1l62vonb,,0,270,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.512918+00:00,0,1,,,22.00,2,8.58,Office,,,,-2.00,5,,0,3,ehxbbce7,,,,,,0
+8,uvcw46t8,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.489988+00:00,0,1,,,22.00,1,8.58,Cafeteria,,,,-2.00,5,,0,3,ehxbbce7,,,,,,0
+9,tv3nj3qk,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.510125+00:00,0,1,,,23.50,1,8.58,Office,,,,0.50,8,,0,3,ehxbbce7,,,,,,0
+10,he97xswo,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.555228+00:00,0,1,,,24.00,1,8.58,Cafeteria,,,,1.00,6,,0,3,ehxbbce7,,,,,,0
+11,ax7f0hgg,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.572256+00:00,0,1,,,15.50,1,8.48,Cafeteria,,,,1.00,7,,0,3,ehxbbce7,,,,,,0
+12,12jy6dzh,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.642238+00:00,0,1,,,20.00,2,9.03,Office,,,,0.50,8,,0,3,ehxbbce7,,,,,,0
+13,g6h41we7,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.578647+00:00,0,1,,,16.00,2,8.53,Cafeteria,,,,1.00,6,,0,3,ehxbbce7,,,,,,0
+14,az3wum3f,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.592378+00:00,0,1,,,11.00,2,8.43,Cafeteria,,,,1.00,7,,0,3,ehxbbce7,,,,,,0
+15,mae5qjwo,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.814153+00:00,0,1,,,18.00,1,8.51,Cafeteria,,,,1.00,9,,0,3,ehxbbce7,,,,,,0
+16,vgrx5e93,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.709511+00:00,0,1,,,22.50,1,8.54,Cafeteria,,,,1.00,11,,0,3,ehxbbce7,,,,,,0
+17,rpwcb2b4,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.916935+00:00,0,1,,,6.50,2,8.51,Cafeteria,,,,1.00,9,,0,3,ehxbbce7,,,,,,0
+18,xkeg6nkv,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.259884+00:00,0,1,,,8.00,1,9.03,Office,,,,-2.00,10,,0,3,ehxbbce7,,,,,,0
+19,n6csdstt,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.731742+00:00,0,1,,,8.50,2,8.58,Cafeteria,,,,-2.00,10,,0,3,ehxbbce7,,,,,,0
+20,1z76k9lp,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.396511+00:00,0,1,,,11.50,2,8.49,Cafeteria,,,,1.00,11,,0,3,ehxbbce7,,,,,,0
+21,vqmn020s,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.866459+00:00,0,1,,,21.00,1,8.38,Cafeteria,,,,1.00,13,,0,3,ehxbbce7,,,,,,0
+22,k2manxwb,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.733201+00:00,0,1,,,21.00,1,8.38,Cafeteria,,,,1.00,12,,0,3,ehxbbce7,,,,,,0
+23,cwdt9ccs,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:22.399343+00:00,0,1,,,10.50,2,8.33,Cafeteria,,,,1.00,13,,0,3,ehxbbce7,,,,,,0
+24,lvfwyrpg,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.908480+00:00,0,1,,,10.50,2,8.33,Cafeteria,,,,1.00,12,,0,3,ehxbbce7,,,,,,0
+1,d6ujywie,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.337510+00:00,0,1,,,7.00,2,9.01,Office,,,100% certain,0.50,2,,0,4,ehxbbce7,,,,,,0
+2,hu128lf4,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.369848+00:00,0,1,,,7.00,1,8.56,Office,,,,0.50,2,,0,4,ehxbbce7,,,,,,0
+3,7nhv7537,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.387877+00:00,0,1,,,3.00,1,8.54,Cafeteria,,,,1.00,3,,0,4,ehxbbce7,,,,,,0
+4,61m98z3b,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.407475+00:00,0,1,,,3.00,2,8.49,Cafeteria,,,,1.00,3,,0,4,ehxbbce7,,,,,,0
+5,qwy8cd6i,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.452467+00:00,0,1,,,16.00,2,8.36,Cafeteria,,,,1.00,4,,0,4,ehxbbce7,,,,,,0
+6,gf76e34p,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.444565+00:00,0,1,,,16.00,1,8.36,Cafeteria,,,,1.00,4,,0,4,ehxbbce7,,,,,,0
+7,1l62vonb,,0,270,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.512918+00:00,0,1,,,22.00,2,8.54,Cafeteria,,,,1.00,5,,0,4,ehxbbce7,,,,,,0
+8,uvcw46t8,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.489988+00:00,0,1,,,22.00,1,8.59,Cafeteria,,,,1.00,5,,0,4,ehxbbce7,,,,,,0
+9,tv3nj3qk,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.510125+00:00,0,1,,,23.50,1,8.42,Cafeteria,,,,1.00,8,,0,4,ehxbbce7,,,,,,0
+10,he97xswo,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.555228+00:00,0,1,,,24.00,1,8.41,Cafeteria,,,,1.00,6,,0,4,ehxbbce7,,,,,,0
+11,ax7f0hgg,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.572256+00:00,0,1,,,15.50,1,8.47,Cafeteria,,,,1.00,7,,0,4,ehxbbce7,,,,,,0
+12,12jy6dzh,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.642238+00:00,0,1,,,20.00,2,8.37,Cafeteria,,,,1.00,8,,0,4,ehxbbce7,,,,,,0
+13,g6h41we7,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.578647+00:00,0,1,,,16.00,2,8.46,Cafeteria,,,,1.00,6,,0,4,ehxbbce7,,,,,,0
+14,az3wum3f,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.592378+00:00,0,1,,,11.00,2,8.42,Cafeteria,,,,1.00,7,,0,4,ehxbbce7,,,,,,0
+15,mae5qjwo,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.814153+00:00,0,1,,,18.00,1,8.54,Cafeteria,,,,1.00,9,,0,4,ehxbbce7,,,,,,0
+16,vgrx5e93,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.709511+00:00,0,1,,,22.50,1,9.02,Office,,,,0.50,11,,0,4,ehxbbce7,,,,,,0
+17,rpwcb2b4,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.916935+00:00,0,1,,,6.50,2,8.54,Cafeteria,,,,1.00,9,,0,4,ehxbbce7,,,,,,0
+18,xkeg6nkv,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.259884+00:00,0,1,,,8.00,1,8.35,Cafeteria,,,,1.00,10,,0,4,ehxbbce7,,,,,,0
+19,n6csdstt,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.731742+00:00,0,1,,,8.50,2,8.3,Cafeteria,,,,1.00,10,,0,4,ehxbbce7,,,,,,0
+20,1z76k9lp,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.396511+00:00,0,1,,,11.50,2,8.57,Office,,,,0.50,11,,0,4,ehxbbce7,,,,,,0
+21,vqmn020s,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.866459+00:00,0,1,,,21.00,1,9.05,Office,,,,0.50,13,,0,4,ehxbbce7,,,,,,0
+22,k2manxwb,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.733201+00:00,0,1,,,21.00,1,8.57,Office,,,I think so but I'm not sure,0.50,12,,0,4,ehxbbce7,,,,,,0
+23,cwdt9ccs,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:22.399343+00:00,0,1,,,10.50,2,9.05,Office,,,,0.50,13,,0,4,ehxbbce7,,,,,,0
+24,lvfwyrpg,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.908480+00:00,0,1,,,10.50,2,8.57,Office,,,,0.50,12,,0,4,ehxbbce7,,,,,,0
+1,d6ujywie,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.337510+00:00,0,1,,,7.00,2,8.46,Cafeteria,,,,1.00,2,,0,5,ehxbbce7,,,,,,0
+2,hu128lf4,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.369848+00:00,0,1,,,7.00,1,8.41,Cafeteria,,,,1.00,2,,0,5,ehxbbce7,,,,,,0
+3,7nhv7537,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.387877+00:00,0,1,,,3.00,1,9.04,Office,,,,0.50,3,,0,5,ehxbbce7,,,,,,0
+4,61m98z3b,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.407475+00:00,0,1,,,3.00,2,9.04,Office,,,,0.50,3,,0,5,ehxbbce7,,,,,,0
+5,qwy8cd6i,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.452467+00:00,0,1,,,16.00,2,8.42,Cafeteria,,,,1.00,4,,0,5,ehxbbce7,,,,,,0
+6,gf76e34p,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.444565+00:00,0,1,,,16.00,1,8.47,Cafeteria,,,,1.00,4,,0,5,ehxbbce7,,,,,,0
+7,1l62vonb,,0,270,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.512918+00:00,0,1,,,22.00,2,9.0,Office,,,,-2.00,5,,0,5,ehxbbce7,,,,,,0
+8,uvcw46t8,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.489988+00:00,0,1,,,22.00,1,8.55,Cafeteria,,,,-2.00,5,,0,5,ehxbbce7,,,,,,0
+9,tv3nj3qk,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.510125+00:00,0,1,,,23.50,1,8.5,Cafeteria,,,,1.00,8,,0,5,ehxbbce7,,,,,,0
+10,he97xswo,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.555228+00:00,0,1,,,24.00,1,8.43,Cafeteria,,,,1.00,6,,0,5,ehxbbce7,,,,,,0
+11,ax7f0hgg,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.572256+00:00,0,1,,,15.50,1,8.38,Cafeteria,,,,1.00,7,,0,5,ehxbbce7,,,,,,0
+12,12jy6dzh,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.642238+00:00,0,1,,,20.00,2,8.45,Cafeteria,,,,1.00,8,,0,5,ehxbbce7,,,,,,0
+13,g6h41we7,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.578647+00:00,0,1,,,16.00,2,8.38,Cafeteria,,,,1.00,6,,0,5,ehxbbce7,,,,,,0
+14,az3wum3f,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.592378+00:00,0,1,,,11.00,2,8.43,Cafeteria,,,,1.00,7,,0,5,ehxbbce7,,,,,,0
+15,mae5qjwo,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.814153+00:00,0,1,,,18.00,1,8.48,Cafeteria,,,,1.00,9,,0,5,ehxbbce7,,,,,,0
+16,vgrx5e93,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.709511+00:00,0,1,,,22.50,1,8.38,Cafeteria,,,,1.00,11,,0,5,ehxbbce7,,,,,,0
+17,rpwcb2b4,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.916935+00:00,0,1,,,6.50,2,8.43,Cafeteria,,,,1.00,9,,0,5,ehxbbce7,,,,,,0
+18,xkeg6nkv,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.259884+00:00,0,1,,,8.00,1,8.5,Cafeteria,,,,1.00,10,,0,5,ehxbbce7,,,,,,0
+19,n6csdstt,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.731742+00:00,0,1,,,8.50,2,8.45,Cafeteria,,,,1.00,10,,0,5,ehxbbce7,,,,,,0
+20,1z76k9lp,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.396511+00:00,0,1,,,11.50,2,8.43,Cafeteria,,,,1.00,11,,0,5,ehxbbce7,,,,,,0
+21,vqmn020s,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.866459+00:00,0,1,,,21.00,1,8.42,Cafeteria,,,,1.00,13,,0,5,ehxbbce7,,,,,,0
+22,k2manxwb,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.733201+00:00,0,1,,,21.00,1,9.01,Office,,,,0.50,12,,0,5,ehxbbce7,,,,,,0
+23,cwdt9ccs,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:22.399343+00:00,0,1,,,10.50,2,8.37,Cafeteria,,,,1.00,13,,0,5,ehxbbce7,,,,,,0
+24,lvfwyrpg,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.908480+00:00,0,1,,,10.50,2,9.01,Office,,,,0.50,12,,0,5,ehxbbce7,,,,,,0
+1,d6ujywie,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.337510+00:00,0,1,,,7.00,2,8.5,Cafeteria,,,,1.00,2,,0,6,ehxbbce7,,,,,,0
+2,hu128lf4,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.369848+00:00,0,1,,,7.00,1,8.45,Cafeteria,,,,1.00,2,,0,6,ehxbbce7,,,,,,0
+3,7nhv7537,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.387877+00:00,0,1,,,3.00,1,8.53,Cafeteria,,,,-2.00,3,,0,6,ehxbbce7,,,,,,0
+4,61m98z3b,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.407475+00:00,0,1,,,3.00,2,8.53,Office,,,,-2.00,3,,0,6,ehxbbce7,,,,,,0
+5,qwy8cd6i,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.452467+00:00,0,1,,,16.00,2,9.0,Office,,,,0.50,4,,0,6,ehxbbce7,,,,,,0
+6,gf76e34p,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.444565+00:00,0,1,,,16.00,1,9.0,Office,,,,0.50,4,,0,6,ehxbbce7,,,,,,0
+7,1l62vonb,,0,270,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.512918+00:00,0,1,,,22.00,2,8.57,Cafeteria,,,,1.00,5,,0,6,ehxbbce7,,,,,,0
+8,uvcw46t8,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.489988+00:00,0,1,,,22.00,1,8.52,Cafeteria,,,,1.00,5,,0,6,ehxbbce7,,,,,,0
+9,tv3nj3qk,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.510125+00:00,0,1,,,23.50,1,8.58,Office,,,,0.50,8,,0,6,ehxbbce7,,,,,,0
+10,he97xswo,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.555228+00:00,0,1,,,24.00,1,9.05,Office,,,,0.50,6,,0,6,ehxbbce7,,,,,,0
+11,ax7f0hgg,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.572256+00:00,0,1,,,15.50,1,9.03,Office,,,,0.50,7,,0,6,ehxbbce7,,,,,,0
+12,12jy6dzh,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.642238+00:00,0,1,,,20.00,2,9.03,Office,,,,0.50,8,,0,6,ehxbbce7,,,,,,0
+13,g6h41we7,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.578647+00:00,0,1,,,16.00,2,9.1,Office,,,,0.50,6,,0,6,ehxbbce7,,,,,,0
+14,az3wum3f,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.592378+00:00,0,1,,,11.00,2,8.58,Office,,,,0.50,7,,0,6,ehxbbce7,,,,,,0
+15,mae5qjwo,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.814153+00:00,0,1,,,18.00,1,8.37,Cafeteria,,,,1.00,9,,0,6,ehxbbce7,,,,,,0
+16,vgrx5e93,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.709511+00:00,0,1,,,22.50,1,8.38,Cafeteria,,,,1.00,11,,0,6,ehxbbce7,,,,,,0
+17,rpwcb2b4,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.916935+00:00,0,1,,,6.50,2,8.42,Cafeteria,,,,1.00,9,,0,6,ehxbbce7,,,,,,0
+18,xkeg6nkv,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.259884+00:00,0,1,,,8.00,1,8.47,Cafeteria,,,,1.00,10,,0,6,ehxbbce7,,,,,,0
+19,n6csdstt,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.731742+00:00,0,1,,,8.50,2,8.47,Cafeteria,,,,1.00,10,,0,6,ehxbbce7,,,,,,0
+20,1z76k9lp,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.396511+00:00,0,1,,,11.50,2,8.43,Cafeteria,,,,1.00,11,,0,6,ehxbbce7,,,,,,0
+21,vqmn020s,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.866459+00:00,0,1,,,21.00,1,8.35,Cafeteria,,,,1.00,13,,0,6,ehxbbce7,,,,,,0
+22,k2manxwb,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.733201+00:00,0,1,,,21.00,1,8.4,Cafeteria,,,,1.00,12,,0,6,ehxbbce7,,,,,,0
+23,cwdt9ccs,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:22.399343+00:00,0,1,,,10.50,2,8.35,Cafeteria,,,,1.00,13,,0,6,ehxbbce7,,,,,,0
+24,lvfwyrpg,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.908480+00:00,0,1,,,10.50,2,8.45,Cafeteria,,,,1.00,12,,0,6,ehxbbce7,,,,,,0
+1,d6ujywie,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.337510+00:00,0,1,,,7.00,2,8.52,Cafeteria,,,,1.00,2,,0,7,ehxbbce7,,,,,,0
+2,hu128lf4,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.369848+00:00,0,1,,,7.00,1,8.47,Cafeteria,,,,1.00,2,,0,7,ehxbbce7,,,,,,0
+3,7nhv7537,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.387877+00:00,0,1,,,3.00,1,8.43,Cafeteria,,,,1.00,3,,0,7,ehxbbce7,,,,,,0
+4,61m98z3b,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.407475+00:00,0,1,,,3.00,2,8.38,Cafeteria,,,,1.00,3,,0,7,ehxbbce7,,,,,,0
+5,qwy8cd6i,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.452467+00:00,0,1,,,16.00,2,8.56,Office,,,,-2.00,4,,0,7,ehxbbce7,,,,,,0
+6,gf76e34p,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.444565+00:00,0,1,,,16.00,1,8.56,Cafeteria,,,,-2.00,4,,0,7,ehxbbce7,,,,,,0
+7,1l62vonb,,0,270,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.512918+00:00,0,1,,,22.00,2,8.47,Cafeteria,,,,1.00,5,,0,7,ehxbbce7,,,,,,0
+8,uvcw46t8,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.489988+00:00,0,1,,,22.00,1,8.52,Cafeteria,,,,1.00,5,,0,7,ehxbbce7,,,,,,0
+9,tv3nj3qk,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.510125+00:00,0,1,,,23.50,1,8.47,Cafeteria,,,,1.00,8,,0,7,ehxbbce7,,,,,,0
+10,he97xswo,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.555228+00:00,0,1,,,24.00,1,8.43,Cafeteria,,,,1.00,6,,0,7,ehxbbce7,,,,,,0
+11,ax7f0hgg,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.572256+00:00,0,1,,,15.50,1,8.45,Cafeteria,,,,1.00,7,,0,7,ehxbbce7,,,,,,0
+12,12jy6dzh,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.642238+00:00,0,1,,,20.00,2,8.47,Cafeteria,,,,1.00,8,,0,7,ehxbbce7,,,,,,0
+13,g6h41we7,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.578647+00:00,0,1,,,16.00,2,8.43,Cafeteria,,,,1.00,6,,0,7,ehxbbce7,,,,,,0
+14,az3wum3f,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.592378+00:00,0,1,,,11.00,2,8.45,Cafeteria,,,,1.00,7,,0,7,ehxbbce7,,,,,,0
+15,mae5qjwo,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.814153+00:00,0,1,,,18.00,1,8.52,Cafeteria,,,,1.00,9,,0,7,ehxbbce7,,,,,,0
+16,vgrx5e93,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.709511+00:00,0,1,,,22.50,1,8.59,Office,,,,0.50,11,,0,7,ehxbbce7,,,,,,0
+17,rpwcb2b4,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.916935+00:00,0,1,,,6.50,2,8.57,Cafeteria,,,,1.00,9,,0,7,ehxbbce7,,,,,,0
+18,xkeg6nkv,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.259884+00:00,0,1,,,8.00,1,8.37,Cafeteria,,,,1.00,10,,0,7,ehxbbce7,,,,,,0
+19,n6csdstt,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.731742+00:00,0,1,,,8.50,2,8.32,Cafeteria,,,,1.00,10,,0,7,ehxbbce7,,,,,,0
+20,1z76k9lp,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.396511+00:00,0,1,,,11.50,2,8.59,Office,,,,0.50,11,,0,7,ehxbbce7,,,,,,0
+21,vqmn020s,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.866459+00:00,0,1,,,21.00,1,9.02,Office,,,,0.50,13,,0,7,ehxbbce7,,,,,,0
+22,k2manxwb,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.733201+00:00,0,1,,,21.00,1,8.42,Cafeteria,,,,1.00,12,,0,7,ehxbbce7,,,,,,0
+23,cwdt9ccs,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:22.399343+00:00,0,1,,,10.50,2,9.02,Office,,,,0.50,13,,0,7,ehxbbce7,,,,,,0
+24,lvfwyrpg,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.908480+00:00,0,1,,,10.50,2,8.37,Cafeteria,,,,1.00,12,,0,7,ehxbbce7,,,,,,0
+1,d6ujywie,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.337510+00:00,0,1,,,7.00,2,8.47,Cafeteria,,,,1.00,2,,0,8,ehxbbce7,,,,,,0
+2,hu128lf4,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.369848+00:00,0,1,,,7.00,1,8.47,Cafeteria,,,,1.00,2,,0,8,ehxbbce7,,,,,,0
+3,7nhv7537,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.387877+00:00,0,1,,,3.00,1,8.51,Cafeteria,,,,-2.00,3,,0,8,ehxbbce7,,,,,,0
+4,61m98z3b,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.407475+00:00,0,1,,,3.00,2,8.56,Office,,,,-2.00,3,,0,8,ehxbbce7,,,,,,0
+5,qwy8cd6i,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.452467+00:00,0,1,,,16.00,2,8.43,Cafeteria,,,,1.00,4,,0,8,ehxbbce7,,,,,,0
+6,gf76e34p,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.444565+00:00,0,1,,,16.00,1,8.48,Cafeteria,,,,1.00,4,,0,8,ehxbbce7,,,,,,0
+7,1l62vonb,,0,270,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.512918+00:00,0,1,,,22.00,2,8.48,Cafeteria,,,,1.00,5,,0,8,ehxbbce7,,,,,,0
+8,uvcw46t8,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.489988+00:00,0,1,,,22.00,1,8.48,Cafeteria,,,,1.00,5,,0,8,ehxbbce7,,,,,,0
+9,tv3nj3qk,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.510125+00:00,0,1,,,23.50,1,8.47,Cafeteria,,,,1.00,8,,0,8,ehxbbce7,,,,,,0
+10,he97xswo,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.555228+00:00,0,1,,,24.00,1,8.39,Cafeteria,,,,1.00,6,,0,8,ehxbbce7,,,,,,0
+11,ax7f0hgg,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.572256+00:00,0,1,,,15.50,1,8.59,Office,,,,0.50,7,,0,8,ehxbbce7,,,,,,0
+12,12jy6dzh,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.642238+00:00,0,1,,,20.00,2,8.47,Cafeteria,,,,1.00,8,,0,8,ehxbbce7,,,,,,0
+13,g6h41we7,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.578647+00:00,0,1,,,16.00,2,8.44,Cafeteria,,,Almost certain,1.00,6,,0,8,ehxbbce7,,,,,,0
+14,az3wum3f,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.592378+00:00,0,1,,,11.00,2,8.54,Office,,,,0.50,7,,0,8,ehxbbce7,,,,,,0
+15,mae5qjwo,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.814153+00:00,0,1,,,18.00,1,8.51,Cafeteria,,,,1.00,9,,0,8,ehxbbce7,,,,,,0
+16,vgrx5e93,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.709511+00:00,0,1,,,22.50,1,8.56,Office,,,,0.50,11,,0,8,ehxbbce7,,,,,,0
+17,rpwcb2b4,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.916935+00:00,0,1,,,6.50,2,8.51,Cafeteria,,,,1.00,9,,0,8,ehxbbce7,,,,,,0
+18,xkeg6nkv,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.259884+00:00,0,1,,,8.00,1,8.57,Office,,,,0.50,10,,0,8,ehxbbce7,,,,,,0
+19,n6csdstt,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.731742+00:00,0,1,,,8.50,2,8.57,Office,,,,0.50,10,,0,8,ehxbbce7,,,,,,0
+20,1z76k9lp,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.396511+00:00,0,1,,,11.50,2,8.56,Office,,,,0.50,11,,0,8,ehxbbce7,,,,,,0
+21,vqmn020s,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.866459+00:00,0,1,,,21.00,1,8.49,Cafeteria,,,,1.00,13,,0,8,ehxbbce7,,,,,,0
+22,k2manxwb,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.733201+00:00,0,1,,,21.00,1,8.48,Cafeteria,,,,1.00,12,,0,8,ehxbbce7,,,,,,0
+23,cwdt9ccs,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:22.399343+00:00,0,1,,,10.50,2,8.44,Cafeteria,,,,1.00,13,,0,8,ehxbbce7,,,,,,0
+24,lvfwyrpg,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.908480+00:00,0,1,,,10.50,2,8.43,Cafeteria,,,Almost certain,1.00,12,,0,8,ehxbbce7,,,,,,0
+1,d6ujywie,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.337510+00:00,0,1,,,7.00,2,8.46,Cafeteria,,,,1.00,2,,0,9,ehxbbce7,,,,,,0
+2,hu128lf4,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.369848+00:00,0,1,,,7.00,1,8.51,Cafeteria,,,,1.00,2,,0,9,ehxbbce7,,,,,,0
+3,7nhv7537,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.387877+00:00,0,1,,,3.00,1,8.41,Cafeteria,,,,1.00,3,,0,9,ehxbbce7,,,,,,0
+4,61m98z3b,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.407475+00:00,0,1,,,3.00,2,8.36,Cafeteria,,,,1.00,3,,0,9,ehxbbce7,,,,,,0
+5,qwy8cd6i,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.452467+00:00,0,1,,,16.00,2,8.49,Cafeteria,,,,1.00,4,,0,9,ehxbbce7,,,,,,0
+6,gf76e34p,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.444565+00:00,0,1,,,16.00,1,8.44,Cafeteria,,,,1.00,4,,0,9,ehxbbce7,,,,,,0
+7,1l62vonb,,0,270,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.512918+00:00,0,1,,,22.00,2,8.53,Cafeteria,,,,1.00,5,,0,9,ehxbbce7,,,,,,0
+8,uvcw46t8,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.489988+00:00,0,1,,,22.00,1,8.48,Cafeteria,,,,1.00,5,,0,9,ehxbbce7,,,,,,0
+9,tv3nj3qk,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.510125+00:00,0,1,,,23.50,1,8.46,Cafeteria,,,,1.00,8,,0,9,ehxbbce7,,,,,,0
+10,he97xswo,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.555228+00:00,0,1,,,24.00,1,8.45,Cafeteria,,,,1.00,6,,0,9,ehxbbce7,,,,,,0
+11,ax7f0hgg,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.572256+00:00,0,1,,,15.50,1,9.04,Office,,,,0.50,7,,0,9,ehxbbce7,,,,,,0
+12,12jy6dzh,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.642238+00:00,0,1,,,20.00,2,8.41,Cafeteria,,,,1.00,8,,0,9,ehxbbce7,,,,,,0
+13,g6h41we7,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.578647+00:00,0,1,,,16.00,2,8.4,Cafeteria,,,,1.00,6,,0,9,ehxbbce7,,,,,,0
+14,az3wum3f,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.592378+00:00,0,1,,,11.00,2,9.09,Office,,,,0.50,7,,0,9,ehxbbce7,,,,,,0
+15,mae5qjwo,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.814153+00:00,0,1,,,18.00,1,8.41,Cafeteria,,,,1.00,9,,0,9,ehxbbce7,,,,,,0
+16,vgrx5e93,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.709511+00:00,0,1,,,22.50,1,8.43,Cafeteria,,,,1.00,11,,0,9,ehxbbce7,,,,,,0
+17,rpwcb2b4,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.916935+00:00,0,1,,,6.50,2,8.46,Cafeteria,,,,1.00,9,,0,9,ehxbbce7,,,,,,0
+18,xkeg6nkv,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.259884+00:00,0,1,,,8.00,1,8.36,Cafeteria,,,,1.00,10,,0,9,ehxbbce7,,,,,,0
+19,n6csdstt,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.731742+00:00,0,1,,,8.50,2,8.31,Cafeteria,,,,1.00,10,,0,9,ehxbbce7,,,,,,0
+20,1z76k9lp,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.396511+00:00,0,1,,,11.50,2,8.48,Cafeteria,,,,1.00,11,,0,9,ehxbbce7,,,,,,0
+21,vqmn020s,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.866459+00:00,0,1,,,21.00,1,8.47,Cafeteria,,,,1.00,13,,0,9,ehxbbce7,,,,,,0
+22,k2manxwb,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.733201+00:00,0,1,,,21.00,1,8.51,Cafeteria,,,,1.00,12,,0,9,ehxbbce7,,,,,,0
+23,cwdt9ccs,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:22.399343+00:00,0,1,,,10.50,2,8.47,Cafeteria,,,,1.00,13,,0,9,ehxbbce7,,,,,,0
+24,lvfwyrpg,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.908480+00:00,0,1,,,10.50,2,8.51,Cafeteria,,,,1.00,12,,0,9,ehxbbce7,,,,,,0
+1,d6ujywie,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.337510+00:00,0,1,,,7.00,2,8.41,Cafeteria,"I chose to Pick the cafeteria When it was safe, but the Office when it was risky, because of the fact that we couldn't lose points for going to the office",,,1.00,2,,0,10,ehxbbce7,,,,,,0
+2,hu128lf4,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.369848+00:00,0,1,,,7.00,1,8.41,Cafeteria,Jeg udregnede tiden den anden person evt kunne komme på. Hvis jeg fx fik tiden 8.41 vidste jeg at den anden person senest ville komme 8.46. Derfor var det safe at vælge cafeteriet. Vi fik alle ens,,,1.00,2,,0,10,ehxbbce7,,,,,,0
+3,7nhv7537,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.387877+00:00,0,1,,,3.00,1,8.49,Cafeteria,"Chance i procent. Hvis chancen for at mødes i cafeteriet var over 50%, så valgte jeg den mulighed og omvendt.",,,1.00,3,,0,10,ehxbbce7,,,,,,0
+4,61m98z3b,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.407475+00:00,0,1,,,3.00,2,8.44,Cafeteria,Before 8.55 i'll go to the cafeteria. However a 5 min gap between 9 and 8.55 ain't enough for coffee so I'd rather go to the cafeteria. Furthermore since my friend might be 5 min late and therefor won't make it before after 9. ,,,1.00,3,,0,10,ehxbbce7,,,,,,0
+5,qwy8cd6i,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.452467+00:00,0,1,,,16.00,2,8.36,Cafeteria,If i arrived at work more than 5 minutes before 09 i would go to the cafeteria as there is no chance that either of us would be arriving at 09 and therefore none of us was forced to go to the office,,,1.00,4,,0,10,ehxbbce7,,,,,,0
+6,gf76e34p,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.444565+00:00,0,1,,,16.00,1,8.41,Cafeteria,Først kigger jeg på min egen tid. Er den 9 eller over 9 klikker jeg på Office lige meget hvad.   Hvis den er under 9 må ser jeg på hvor meget før 9 den er. Hvis det er meget før er det cafeteria men hvis den kun er fx 5 min i 9 må man overveje om hvad man tror den anden svarer,,,1.00,4,,0,10,ehxbbce7,,,,,,0
+7,1l62vonb,,0,270,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.512918+00:00,0,1,,,22.00,2,8.56,Office,"Jeg tænkte på om jeg ville kunne nå det, og så statsede jeg oftest på at min kollega kom før mig.",,,0.50,5,,0,10,ehxbbce7,,,,,,0
+8,uvcw46t8,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.489988+00:00,0,1,,,22.00,1,9.01,Office,In the beginning i always went to the cafeteria showing ny College that if at all possible we should go to the cafeteria.,,,0.50,5,,0,10,ehxbbce7,,,,,,0
+9,tv3nj3qk,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.510125+00:00,0,1,,,23.50,1,8.43,Cafeteria,Went to the cafeteria if I had more more than 2 minutes to spare and went to office if I had less than 2 minutes,,,1.00,8,,0,10,ehxbbce7,,,,,,0
+10,he97xswo,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.555228+00:00,0,1,,,24.00,1,8.42,Cafeteria,"Jeg besluttede mig for at gå til cafeteriet alle de gange jeg mødte ind på arbejdet før kl 9, og gå til kontoret de gange hvor jeg mødte efter 9. ",,,1.00,6,,0,10,ehxbbce7,,,,,,0
+11,ax7f0hgg,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.572256+00:00,0,1,,,15.50,1,9.02,Office,If it was close to 09:00am you couldn't make the cafeteria and be at the office in time at 09:00am,,,0.50,7,,0,10,ehxbbce7,,,,,,0
+12,12jy6dzh,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.642238+00:00,0,1,,,20.00,2,8.38,Cafeteria,"saw if the meeting time could pass 9. if it could, office, if not, cafeteria",,,1.00,8,,0,10,ehxbbce7,,,,,,0
+13,g6h41we7,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.578647+00:00,0,1,,,16.00,2,8.37,Cafeteria,"Hvis jeg ankom kl 9.00 eller efter ville jeg vælge ""Office"". Hvis jeg ankom før, ville jeg vælge ""cafeteria""",,,1.00,6,,0,10,ehxbbce7,,,,,,0
+14,az3wum3f,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.592378+00:00,0,1,,,11.00,2,9.02,Office,"Jeg overvejede, om jeg kunne nå i cafeteriet, og derefter, hvilket rum min kollega ankom indenfor, for at udregne hvad personen højst sandsynligt ville vælge",,,0.50,7,,0,10,ehxbbce7,,,,,,0
+15,mae5qjwo,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.814153+00:00,0,1,,,18.00,1,9.05,Office,"Så længe klokken ikke var 9, ville jeg tage i cafeteriet, da der var to tredjedele sandsynlighed for at min kollega også kunne nå det.",,,-2.00,9,,0,10,ehxbbce7,,,,,,0
+16,vgrx5e93,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.709511+00:00,0,1,,,22.50,1,8.44,Cafeteria,"If I arrive at work 8:49 am or earlier, I always go to the cafeteria, because there is no reason my colleague would not go there either. If I arrive later than that, there is more speculation involved and I have to keep in mind when my colleague might show up and calculate chance  ",,,1.00,11,,0,10,ehxbbce7,,,,,,0
+17,rpwcb2b4,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:19.916935+00:00,0,1,,,6.50,2,9.05,Cafeteria,A strategi of social interaktion - insisting on the cafeteria,,,-2.00,9,,0,10,ehxbbce7,,,,,,0
+18,xkeg6nkv,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.259884+00:00,0,1,,,8.00,1,9.05,Office,"I added 5 minutes to my time, and if that exeeded 9:00 i went to the office, else i went to the cafeteria",,,0.50,10,,0,10,ehxbbce7,,,,,,0
+19,n6csdstt,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:20.731742+00:00,0,1,,,8.50,2,9.0,Office,If it was within five minutes of 9 oclock i chose going to the office. ,,100% certain,0.50,10,,0,10,ehxbbce7,,,,,,0
+20,1z76k9lp,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.396511+00:00,0,1,,,11.50,2,8.39,Cafeteria,"Jeg tænkte at den anden kun kunne komme 5 min +/- mig, men at han også kunne tro at jeg ville kunne være 5 min efter ham hvis han var 5 efter mig. Derfor tog jeg ikke på cafeteriet hvis der var under 10 min til",,,1.00,11,,0,10,ehxbbce7,,,,,,0
+21,vqmn020s,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.866459+00:00,0,1,,,21.00,1,8.42,Cafeteria,Lagde 5 min til mit eget for at se om den anden kunne nå det og lægge 5 min til det for at se om de troede jeg kunne nå det,,,1.00,13,,0,10,ehxbbce7,,,,,,0
+22,k2manxwb,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.733201+00:00,0,1,,,21.00,1,8.35,Cafeteria,"I added 5 minutes to my own time of arrival. If the result was later than 8:55, I'd expect my colleague to go to the office (based on their previous results), and if it was before 8:55 I'd go o the cafeteria. ",,,1.00,12,,0,10,ehxbbce7,,,,,,0
+23,cwdt9ccs,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:22.399343+00:00,0,1,,,10.50,2,8.42,Cafeteria,"Jeg kiggede på, hvornår min kollega ville komme på arbejde og hvor stor sandsynlighed der var for at han/hun kunne nå det. ",,,1.00,13,,0,10,ehxbbce7,,,,,,0
+24,lvfwyrpg,,0,271,270,cafeteria_dilemma_3,10,Debrief,10.42.186.252,2017-09-12 08:29:21.908480+00:00,0,1,,,10.50,2,8.35,Cafeteria,Hvis der var tid til at drikke kaffe så tog jeg kantinen jo tættere på 9 jo større lyst til at gå på kontoret,,,1.00,12,,0,10,ehxbbce7,,,,,,0

@@ -1,0 +1,25 @@
+{% load otree staticfiles %}
+
+<div class="instructions well well-lg">
+
+    <p>
+       <font size="+2"> <strong>Instructions for the game:</strong></font>
+    </p>
+    <p>
+        This game is about trying to make the same choice as your colleague. Every morning you and your colleague arrive at work between 8:00 am and 9:00 am, and always 10 minutes apart. 
+        Example: You arrive at 8:40 am. Your colleague can arrive at 8:30 am or 8:50 am.
+    </p>
+    <p> <strong>Every morning you have to decide between going to the canteen or to the office.</strong> Both of you like to meet in the canteen for a coffee before work. You only have time to go to the canteen if you arrive before 9:00 am. If you arrive at 9:00 am, you have to go to the office. You prefer going to the canteen together twice as much as going to the office together, and you really don't like going to a different places!
+    </p>
+    <p>
+    	<strong>After making your choice you will also be asked how certain you are that your colleague made the same choice as you.</strong> The more certain you are, the more benefit you get from being right, and the more punished you are for being wrong.
+    </p>
+    <p>
+        You start the game with {{ Constants.endowment }} and will pay varying penalties each round depending on how well you do. The game ends after {{ Constants.num_rounds }} rounds or when you or your colleague runs out of money. The challenge is to lose as little as possible before the game is over, after which the remaining amount will be paid out to you as a bonus. 
+    </p>
+    <p>
+    	 <strong>As a general rule you will maximize your bonus by trying to make the same choice as your colleague, and being as honest as possible about how certain you are that you made the same choice.</strong>
+    </p>
+    
+    </p>
+</div>

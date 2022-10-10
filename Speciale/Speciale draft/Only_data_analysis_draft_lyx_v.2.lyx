@@ -1,0 +1,360 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing onehalf
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 4cm
+\rightmargin 4cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+The Canteen Dilemma - An Experiment on Higher Order Social Reasoning 
+\end_layout
+
+\begin_layout Author
+Thomas S.
+ Nicolet
+\end_layout
+
+\begin_layout Abstract
+Many complex social interactions require people to have mental model of
+ those around them.
+ Being able to reason about the beliefs, intentions and knowledge of others
+ allows people to better understand the actions and utterances of others,
+ as well as helping with possible predictions of others.
+ While this ability is generally developed in young children, numerous studies
+ show even adults failing to reason about the mental states of others, or
+ consult existing relevant knowledge.
+ The Canteen Dilemma tests participants ability to reason about the mental
+ states of others in order to predict their actions.
+ While participants generally do not exhibit any Theory of Mind when asked
+ for spontaneous decisions, their certainty estimate of success somewhat
+ reflects a ToM.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Introduction (social interaction often relies on perspective taking and
+ social cognition might be what makes us uniquely human)
+\end_layout
+
+\begin_layout Standard
+Successful social interaction often requires us to reason about the mental
+ states of others.
+ This type of reasoning, higher order social reasoning, also called having
+ a Theory of Mind, can help us understand and predict the behavior of others
+ by being able to think and reason about their mental states, including
+ their knowledge, beliefs or intentions.
+ Higher order Theory of Mind means the capacity to recursively model the
+ mental states of others, including the other's mental models of oneself,
+ and so on.
+ 
+\end_layout
+
+\begin_layout Standard
+Such higher order social reasoning can also described in various epistemic
+ logics and the interface between logic and cognitive science has recently
+ been gathering interest.
+ There lies a two-fold question in this field: To what extend does real
+ reasoning about the mental states of others differ from the prescriptions
+ from pure epistemic logic, what how does logic and cognitive science react
+ to possible divergence? In this article I first discuss the relation between
+ logic and empirical facts about human reasoning.
+ I then present some logical theory before I go into results about real
+ social cognition from cognitive science.
+ I use this as an introduction to the Canteen Dilemma experiment.
+ Since essential details of the experiment are fleshed out in the accompanying
+ article, I will keep to discussing results from the experiment which were
+ not included in the original article.
+ This will include supplementary discussion and possible improvements for
+ future experimental research.
+\end_layout
+
+\begin_layout Subsection
+Logic and the facts - From Frege to Benthem (logic havent been too interested
+ in facts about real reasoning.
+ maybe its not so relevant here, but it is changing)
+\end_layout
+
+\begin_layout Standard
+Logic has traditionally been thought of as only concerned with inference
+ in the form of logical consequence.
+ 
+\end_layout
+
+\begin_layout Standard
+There has recently been a recent increasing interest in the interface between
+ logic and cognitive science, most notably found in Johan van Benthem's
+ paper 
+\begin_inset Quotes eld
+\end_inset
+
+Logic and reasoning: Do the facts matter?
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Logic has two roots - the study of real arguments in everyday life and
+ the more pure study of axiom-based proof patterns.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Frege envisioned logic as separate from actual reasoning, Benthem argues
+ facts do matter for logic.
+\end_layout
+
+\begin_layout Subsection
+Epistemic logic - the normative aspect (common knowledge from a logical
+ point of view)
+\end_layout
+
+\begin_layout Standard
+Logical models.
+\end_layout
+
+\begin_layout Subsubsection
+Consecutive numbers example
+\end_layout
+
+\begin_layout Standard
+Description of consecutive numbers example from Ditmarsch.
+ The Canteen Dilemma is a game structured like the consecutive numbers example.
+ Logical model of Canteen Dilemma.
+\end_layout
+
+\begin_layout Subsubsection
+Attacking generals example
+\end_layout
+
+\begin_layout Standard
+Attacking generals example
+\end_layout
+
+\begin_layout Subsection
+Real higher order social reasoning (but how does it occur in real life?)
+\end_layout
+
+\begin_layout Standard
+Following and understanding the application of higher order social reasoning
+ can be significantly difficult even in examples from epistemic logic with
+ precise formalisation.
+ When it comes to application of such reasoning in ordinary language and
+ in cases where such reasoning might not be explicitly prompted and perhaps
+ even time constrained, it turns out to be near impossible.
+ 
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Studies show that children develop the ability to apply first order ToM
+ in relation to a false belief task by the age of 4, while the ability to
+ pass a similar task requiring second order ToM only develops a few years
+ later.
+ Studies with adults (Hedden and Zhang (2002)) suggest that they generally
+ apply first order Theory of Mind successfully while their second-order
+ Theory of Mind reasoning can also be seriously flawed.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Parameters for diversity in cognitive powers
+\end_layout
+
+\begin_layout Standard
+(a)inferential/computational power: making all possible proof steps,
+\end_layout
+
+\begin_layout Standard
+(b) introspection: being able to view yourself in “meta-mode”.
+\end_layout
+
+\begin_layout Standard
+(c) observation: variety of agents’ powers for observing current events,
+\end_layout
+
+\begin_layout Standard
+(d) memory: agents may have different memory capacities, e.g., storing only
+ the last k events observed, for some fixed k.
+\end_layout
+
+\begin_layout Standard
+(c) observation: variety of agents’ powers for observing current events,
+ (d) memory: agents may have different memory capacities, e.g., storing only
+ the last k events observed, for some fixed k.
+\end_layout
+
+\begin_layout Subsubsection
+Why Theory of Mind is important for social interaction (important for successful
+ interaction and important to understand to make plausible artificial agents.
+ if AI is intelligent like a human, maybe its ToM should be so too)
+\end_layout
+
+\begin_layout Standard
+Successful social interaction requires ToM.
+\end_layout
+
+\begin_layout Subsubsection
+The limits on higher order social reasoning (humans are very bad at it)
+\end_layout
+
+\begin_layout Subsubsection
+Spontaneous versus reflective use of social cognition (use of ToM is not
+ always triggered, requires effortful attention, and can often be ignored
+ due to common knowledge)
+\end_layout
+
+\begin_layout Standard
+However, there's evidence suggesting that this ability might not be effectively
+ be drawn upon in spontaneous use cases.
+\end_layout
+
+\begin_layout Subsubsection
+Task dependence (possibly context depended, consider deleting section)
+\end_layout
+
+\begin_layout Standard
+ToM might not be a uniform type of social cognition.
+ It's possibly task dependent, which could indicate that it's made up of
+ different reasoning patterns.
+ A possible explanation for this could be that theory of mind is more akin
+ to a craft than a theory.
+ A typical example is that we typically know how to ride a bike without
+ having an explicit theory of how to do it.
+ We can make a distinction between know-that and know-how.
+ We can also make the inverse argument, that someone knows the theory of
+ how to ride a bike, or play some sport, without being able to draw sufficiently
+ on this knowledge in practice.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Consider (Wason 1971) to see that a thematic story might aid in logical
+ reasoning much more than an abstract story.
+ This is supported by (Meijering 2010), but this might have been counter
+ productive in our case.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It's a possibility that employing ToM is a craft that's not sufficiently
+ practiced among most people.
+\end_layout
+
+\begin_layout Subsubsection
+Curse of Knowledge (we are biased towards ascribing our own beliefs onto
+ others, perhaps bc it is normally effective)
+\end_layout
+
+\end_body
+\end_document

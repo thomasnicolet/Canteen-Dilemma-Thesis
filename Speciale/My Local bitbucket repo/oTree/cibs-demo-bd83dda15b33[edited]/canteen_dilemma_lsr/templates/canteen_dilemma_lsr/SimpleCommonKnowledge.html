@@ -1,0 +1,22 @@
+{% extends "global/Base.html" %}
+{% load staticfiles otree %}
+
+{% block content %}
+    
+    <p>
+       <font size="+2"> <strong>Page is work in progress</strong></font>
+    </p>
+    <p>
+        You arrived at  {{ player.arrival_time }}, is it common knowledge between you and your colleague that it is safe to go to the canteen?
+        
+    </p>
+    <p>
+    	or
+    <p/>
+     <p>
+     	 Given your playstyle, are you always sure to meet your colleague when you go to the canteen? For example when you arrive at {{ player.arrival_time }}?
+    <p/>
+
+    {% formfield player.simple_common_knowledge_canteen_dilemma %}
+    {% next_button %}
+{% endblock %}
